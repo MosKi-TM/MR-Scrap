@@ -1,0 +1,194 @@
+[
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "final",
+    "winner": "barty gray",
+    "loser": "william caiger",
+    "match": "barty gray vs william caiger",
+    "race": 1
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "final",
+    "winner": "barty gray",
+    "loser": "william caiger",
+    "match": "barty gray vs william caiger",
+    "race": 2
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "final",
+    "winner": "william caiger",
+    "loser": "barty gray",
+    "match": "barty gray vs william caiger",
+    "race": 3
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "final",
+    "winner": "william caiger",
+    "loser": "barty gray",
+    "match": "barty gray vs william caiger",
+    "race": 4
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "final",
+    "winner": "william caiger",
+    "loser": "barty gray",
+    "match": "barty gray vs william caiger",
+    "race": 5
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "edward baker",
+    "loser": "eva miller",
+    "match": "eva miller vs edward baker",
+    "race": 1
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "eva miller",
+    "loser": "edward baker",
+    "match": "eva miller vs edward baker",
+    "race": 2
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "eva miller",
+    "loser": "edward baker",
+    "match": "eva miller vs edward baker",
+    "race": 3
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "william caiger",
+    "loser": "edward baker",
+    "match": "william caiger vs edward baker",
+    "race": 1
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "william caiger",
+    "loser": "edward baker",
+    "match": "william caiger vs edward baker",
+    "race": 2
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "barty gray",
+    "loser": "eva miller",
+    "match": "barty gray vs eva miller",
+    "race": 1
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "barty gray",
+    "loser": "eva miller",
+    "match": "barty gray vs eva miller",
+    "race": 2
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "5th-to-7th-rr",
+    "winner": "josh davies",
+    "loser": "dru townsend",
+    "match": "dru townsend vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "5th-to-7th-rr",
+    "winner": "george colquitt",
+    "loser": "dru townsend",
+    "match": "dru townsend vs george colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "5th-to-7th-rr",
+    "winner": "josh davies",
+    "loser": "george colquitt",
+    "match": "josh davies vs george colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "barty gray",
+    "loser": "edward baker",
+    "match": "barty gray vs edward baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "william caiger",
+    "loser": "barty gray",
+    "match": "barty gray vs william caiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "barty gray",
+    "loser": "eva miller",
+    "match": "barty gray vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "barty gray",
+    "loser": "dru townsend",
+    "match": "barty gray vs dru townsend",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "william caiger",
+    "loser": "edward baker",
+    "match": "edward baker vs william caiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "eva miller",
+    "loser": "edward baker",
+    "match": "edward baker vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "edward baker",
+    "loser": "dru townsend",
+    "match": "edward baker vs dru townsend",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "william caiger",
+    "loser": "eva miller",
+    "match": "william caiger vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA U19 Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "william caiger",
+    "loser": "dru townsend",
+    "match": "william caiger vs dru townsend",
+    "race": 0
+  }
+]

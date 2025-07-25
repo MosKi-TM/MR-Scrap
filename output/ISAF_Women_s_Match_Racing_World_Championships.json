@@ -1,0 +1,354 @@
+[
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "claire leroy vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "claire leroy vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "claire leroy vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "claire leroy vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "claire leroy vs lucy macgregor",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "ekaterina skudina",
+    "loser": "anna tunnicliffe",
+    "match": "ekaterina skudina vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "5th/6th",
+    "winner": "nicky souter",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs nicky souter",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "7th/8th",
+    "winner": "mandy mulder",
+    "loser": "olivia price",
+    "match": "mandy mulder vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "sail-off-1",
+    "winner": "anna kjellberg",
+    "loser": "mandy mulder",
+    "match": "anna kjellberg vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "sail-off-2",
+    "winner": "nicky souter",
+    "loser": "olivia price",
+    "match": "nicky souter vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "anna kjellberg",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "anna kjellberg",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "anna kjellberg",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "mandy mulder",
+    "loser": "lucy macgregor",
+    "match": "mandy mulder vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "anna tunnicliffe",
+    "loser": "nicky souter",
+    "match": "nicky souter vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "anna tunnicliffe",
+    "loser": "nicky souter",
+    "match": "nicky souter vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "anna tunnicliffe",
+    "loser": "nicky souter",
+    "match": "nicky souter vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg3",
+    "winner": "claire leroy",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg3",
+    "winner": "claire leroy",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg4",
+    "winner": "mandy mulder",
+    "loser": "ekaterina skudina",
+    "match": "mandy mulder vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg4",
+    "winner": "ekaterina skudina",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg4",
+    "winner": "ekaterina skudina",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg1",
+    "winner": "mandy mulder",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg1",
+    "winner": "anna tunnicliffe",
+    "loser": "mandy mulder",
+    "match": "anna tunnicliffe vs mandy mulder",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg1",
+    "winner": "anna tunnicliffe",
+    "loser": "mandy mulder",
+    "match": "anna tunnicliffe vs mandy mulder",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg2",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's Match Racing World Championships",
+    "phase": "gg2",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 2
+  }
+]

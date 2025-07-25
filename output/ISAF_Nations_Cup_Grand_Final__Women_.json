@@ -1,0 +1,122 @@
+[
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "final",
+    "winner": "lotte meldgaard",
+    "loser": "juliana senfft",
+    "match": "juliana senfft vs lotte meldgaard",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "final",
+    "winner": "lotte meldgaard",
+    "loser": "juliana senfft",
+    "match": "juliana senfft vs lotte meldgaard",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "final",
+    "winner": "juliana senfft",
+    "loser": "lotte meldgaard",
+    "match": "juliana senfft vs lotte meldgaard",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "final",
+    "winner": "juliana senfft",
+    "loser": "lotte meldgaard",
+    "match": "juliana senfft vs lotte meldgaard",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "final",
+    "winner": "juliana senfft",
+    "loser": "lotte meldgaard",
+    "match": "juliana senfft vs lotte meldgaard",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "petit-final",
+    "winner": "sandy hayes",
+    "loser": "anne marit hansen",
+    "match": "anne marit hansen vs sandy hayes",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "petit-final",
+    "winner": "anne marit hansen",
+    "loser": "sandy hayes",
+    "match": "anne marit hansen vs sandy hayes",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "petit-final",
+    "winner": "anne marit hansen",
+    "loser": "sandy hayes",
+    "match": "anne marit hansen vs sandy hayes",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-1",
+    "winner": "juliana senfft",
+    "loser": "sandy hayes",
+    "match": "juliana senfft vs sandy hayes",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-1",
+    "winner": "juliana senfft",
+    "loser": "sandy hayes",
+    "match": "juliana senfft vs sandy hayes",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-1",
+    "winner": "sandy hayes",
+    "loser": "juliana senfft",
+    "match": "juliana senfft vs sandy hayes",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-1",
+    "winner": "juliana senfft",
+    "loser": "sandy hayes",
+    "match": "juliana senfft vs sandy hayes",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "anne marit hansen",
+    "match": "lotte meldgaard vs anne marit hansen",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "anne marit hansen",
+    "match": "lotte meldgaard vs anne marit hansen",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Women)",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "anne marit hansen",
+    "match": "lotte meldgaard vs anne marit hansen",
+    "race": 3
+  }
+]

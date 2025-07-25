@@ -1,0 +1,1122 @@
+[
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "will boulden",
+    "match": "will boulden vs harry price",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "will boulden",
+    "match": "will boulden vs harry price",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "mark spearman",
+    "loser": "george anyon",
+    "match": "george anyon vs mark spearman",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "mark spearman",
+    "loser": "george anyon",
+    "match": "george anyon vs mark spearman",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "will boulden",
+    "loser": "mark spearman",
+    "match": "will boulden vs mark spearman",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "will boulden",
+    "loser": "mark spearman",
+    "match": "will boulden vs mark spearman",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "harry price",
+    "match": "harry price vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "jelmer van beek",
+    "match": "harry price vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "clare costanzo",
+    "match": "harry price vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "james wilson",
+    "match": "harry price vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "nick egnot-johnson",
+    "match": "harry price vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "ethan prieto-low",
+    "match": "harry price vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "mark spearman",
+    "match": "harry price vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "conor nicholas",
+    "match": "harry price vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "harry price",
+    "match": "harry price vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "will boulden",
+    "match": "will boulden vs george anyon",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "jelmer van beek",
+    "match": "will boulden vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "clare costanzo",
+    "match": "will boulden vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "will boulden",
+    "match": "will boulden vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "james wilson",
+    "match": "will boulden vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "nick egnot-johnson",
+    "match": "will boulden vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "ethan prieto-low",
+    "match": "will boulden vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "mark spearman",
+    "match": "will boulden vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "conor nicholas",
+    "match": "will boulden vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "marcello torre",
+    "match": "will boulden vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "jelmer van beek",
+    "match": "george anyon vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "clare costanzo",
+    "match": "george anyon vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "james hodgson",
+    "match": "george anyon vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "james wilson",
+    "match": "george anyon vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "nick egnot-johnson",
+    "match": "george anyon vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "ethan prieto-low",
+    "match": "george anyon vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "mark spearman",
+    "match": "george anyon vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "conor nicholas",
+    "match": "george anyon vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "george anyon",
+    "loser": "marcello torre",
+    "match": "george anyon vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "jelmer van beek",
+    "loser": "clare costanzo",
+    "match": "jelmer van beek vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "jelmer van beek",
+    "loser": "james hodgson",
+    "match": "jelmer van beek vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "jelmer van beek",
+    "loser": "james wilson",
+    "match": "jelmer van beek vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "jelmer van beek",
+    "loser": "nick egnot-johnson",
+    "match": "jelmer van beek vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "conor nicholas",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "jelmer van beek",
+    "loser": "marcello torre",
+    "match": "jelmer van beek vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "james hodgson",
+    "match": "clare costanzo vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "james wilson",
+    "match": "clare costanzo vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "conor nicholas",
+    "match": "clare costanzo vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "james wilson",
+    "match": "james hodgson vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "james hodgson",
+    "match": "james hodgson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "mark spearman",
+    "match": "james hodgson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "conor nicholas",
+    "match": "james hodgson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "marcello torre",
+    "match": "james hodgson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "james wilson",
+    "match": "james wilson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "james wilson",
+    "match": "james wilson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "conor nicholas",
+    "match": "james wilson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "marcello torre",
+    "match": "james wilson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "conor nicholas",
+    "match": "nick egnot-johnson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "marcello torre",
+    "match": "nick egnot-johnson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "conor nicholas",
+    "loser": "mark spearman",
+    "match": "mark spearman vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "mark spearman",
+    "loser": "marcello torre",
+    "match": "mark spearman vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "conor nicholas",
+    "loser": "marcello torre",
+    "match": "conor nicholas vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "harry price",
+    "match": "harry price vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "jelmer van beek",
+    "match": "harry price vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "clare costanzo",
+    "match": "harry price vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "james wilson",
+    "match": "harry price vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "nick egnot-johnson",
+    "match": "harry price vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan prieto-low",
+    "loser": "harry price",
+    "match": "harry price vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "mark spearman",
+    "match": "harry price vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "conor nicholas",
+    "match": "harry price vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "harry price",
+    "match": "harry price vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "george anyon",
+    "match": "will boulden vs george anyon",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "will boulden",
+    "match": "will boulden vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "clare costanzo",
+    "match": "will boulden vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "james hodgson",
+    "match": "will boulden vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "james wilson",
+    "match": "will boulden vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "nick egnot-johnson",
+    "match": "will boulden vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "ethan prieto-low",
+    "match": "will boulden vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "mark spearman",
+    "match": "will boulden vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "conor nicholas",
+    "match": "will boulden vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "marcello torre",
+    "match": "will boulden vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "george anyon",
+    "loser": "jelmer van beek",
+    "match": "george anyon vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "george anyon",
+    "loser": "clare costanzo",
+    "match": "george anyon vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "george anyon",
+    "match": "george anyon vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "george anyon",
+    "loser": "james wilson",
+    "match": "george anyon vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "george anyon",
+    "loser": "nick egnot-johnson",
+    "match": "george anyon vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "george anyon",
+    "loser": "ethan prieto-low",
+    "match": "george anyon vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "george anyon",
+    "match": "george anyon vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "conor nicholas",
+    "loser": "george anyon",
+    "match": "george anyon vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "george anyon",
+    "match": "george anyon vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "clare costanzo",
+    "match": "jelmer van beek vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "james hodgson",
+    "match": "jelmer van beek vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "james wilson",
+    "match": "jelmer van beek vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "nick egnot-johnson",
+    "match": "jelmer van beek vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "ethan prieto-low",
+    "match": "jelmer van beek vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "mark spearman",
+    "match": "jelmer van beek vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "jelmer van beek",
+    "loser": "conor nicholas",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "nick egnot-johnson",
+    "match": "clare costanzo vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "ethan prieto-low",
+    "match": "clare costanzo vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "conor nicholas",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "marcello torre",
+    "match": "clare costanzo vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan prieto-low",
+    "loser": "james hodgson",
+    "match": "james hodgson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "mark spearman",
+    "match": "james hodgson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "conor nicholas",
+    "match": "james hodgson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "marcello torre",
+    "match": "james hodgson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "ethan prieto-low",
+    "match": "james wilson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "james wilson",
+    "match": "james wilson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "conor nicholas",
+    "match": "james wilson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "marcello torre",
+    "match": "james wilson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "ethan prieto-low",
+    "match": "nick egnot-johnson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "conor nicholas",
+    "match": "nick egnot-johnson vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "marcello torre",
+    "match": "nick egnot-johnson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs mark spearman",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "conor nicholas",
+    "match": "mark spearman vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "mark spearman",
+    "loser": "marcello torre",
+    "match": "mark spearman vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "conor nicholas",
+    "loser": "marcello torre",
+    "match": "conor nicholas vs marcello torre",
+    "race": 0
+  }
+]

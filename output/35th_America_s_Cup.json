@@ -1,0 +1,250 @@
+[
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 1
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 2
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 3
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 4
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 5
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "oracle team usa",
+    "loser": "emirates team new zealand",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 6
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 7
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 8
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "35th-americas-cup-match",
+    "winner": "emirates team new zealand",
+    "loser": "oracle team usa",
+    "match": "oracle team usa vs emirates team new zealand",
+    "race": 9
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "emirates team new zealand",
+    "loser": "artemis racing",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 1
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "artemis racing",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 2
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "emirates team new zealand",
+    "loser": "artemis racing",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 3
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "artemis racing",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 4
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "emirates team new zealand",
+    "loser": "artemis racing",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 5
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "emirates team new zealand",
+    "loser": "artemis racing",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 6
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-challenger-final",
+    "winner": "emirates team new zealand",
+    "loser": "artemis racing",
+    "match": "emirates team new zealand vs artemis racing",
+    "race": 7
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "emirates team new zealand",
+    "loser": "land rover bar",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 1
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "emirates team new zealand",
+    "loser": "land rover bar",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 2
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "emirates team new zealand",
+    "loser": "land rover bar",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 3
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "land rover bar",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 4
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "emirates team new zealand",
+    "loser": "land rover bar",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 5
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "land rover bar",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 6
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-1",
+    "winner": "emirates team new zealand",
+    "loser": "land rover bar",
+    "match": "emirates team new zealand vs land rover bar",
+    "race": 7
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "softbank team japan",
+    "loser": "artemis racing",
+    "match": "artemis racing vs softbank team japan",
+    "race": 1
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "artemis racing",
+    "loser": "softbank team japan",
+    "match": "artemis racing vs softbank team japan",
+    "race": 2
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "softbank team japan",
+    "loser": "artemis racing",
+    "match": "artemis racing vs softbank team japan",
+    "race": 3
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "softbank team japan",
+    "loser": "artemis racing",
+    "match": "artemis racing vs softbank team japan",
+    "race": 4
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "artemis racing",
+    "loser": "softbank team japan",
+    "match": "artemis racing vs softbank team japan",
+    "race": 5
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "artemis racing",
+    "loser": "softbank team japan",
+    "match": "artemis racing vs softbank team japan",
+    "race": 6
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "artemis racing",
+    "loser": "softbank team japan",
+    "match": "artemis racing vs softbank team japan",
+    "race": 7
+  },
+  {
+    "regatta": "35th America's Cup",
+    "phase": "lv-semi-final-2",
+    "winner": "artemis racing",
+    "loser": "softbank team japan",
+    "match": "artemis racing vs softbank team japan",
+    "race": 8
+  }
+]

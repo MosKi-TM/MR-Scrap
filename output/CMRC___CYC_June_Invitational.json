@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "steven lowery",
+    "match": "steven lowery vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "nicole breault",
+    "match": "nicole breault vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-1",
+    "winner": "steven lowery",
+    "loser": "matthew hughes",
+    "match": "matthew hughes vs steven lowery",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-1",
+    "winner": "steven lowery",
+    "loser": "matthew hughes",
+    "match": "matthew hughes vs steven lowery",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-2",
+    "winner": "marc hollerbach",
+    "loser": "david storrs",
+    "match": "david storrs vs marc hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "marc hollerbach",
+    "match": "david storrs vs marc hollerbach",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-2",
+    "winner": "marc hollerbach",
+    "loser": "david storrs",
+    "match": "david storrs vs marc hollerbach",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-3",
+    "winner": "nicole breault",
+    "loser": "connor miller",
+    "match": "connor miller vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-3",
+    "winner": "nicole breault",
+    "loser": "connor miller",
+    "match": "connor miller vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-4",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-4",
+    "winner": "peter holz",
+    "loser": "don wilson",
+    "match": "don wilson vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC June Invitational",
+    "phase": "quarter-final-4",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 3
+  }
+]

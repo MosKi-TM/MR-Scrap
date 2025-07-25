@@ -1,0 +1,106 @@
+[
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "final",
+    "winner": "will boulden",
+    "loser": "will dargaville",
+    "match": "will dargaville vs will boulden",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "final",
+    "winner": "will dargaville",
+    "loser": "will boulden",
+    "match": "will dargaville vs will boulden",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "final",
+    "winner": "will dargaville",
+    "loser": "will boulden",
+    "match": "will dargaville vs will boulden",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "final",
+    "winner": "will dargaville",
+    "loser": "will boulden",
+    "match": "will dargaville vs will boulden",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "petit-final",
+    "winner": "george anyon",
+    "loser": "cyril fortin",
+    "match": "george anyon vs cyril fortin",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "petit-final",
+    "winner": "george anyon",
+    "loser": "cyril fortin",
+    "match": "george anyon vs cyril fortin",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-1",
+    "winner": "will boulden",
+    "loser": "george anyon",
+    "match": "will boulden vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-1",
+    "winner": "george anyon",
+    "loser": "will boulden",
+    "match": "will boulden vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-1",
+    "winner": "will boulden",
+    "loser": "george anyon",
+    "match": "will boulden vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-1",
+    "winner": "will boulden",
+    "loser": "george anyon",
+    "match": "will boulden vs george anyon",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-2",
+    "winner": "will dargaville",
+    "loser": "cyril fortin",
+    "match": "will dargaville vs cyril fortin",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-2",
+    "winner": "will dargaville",
+    "loser": "cyril fortin",
+    "match": "will dargaville vs cyril fortin",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Youth International",
+    "phase": "semi-final-2",
+    "winner": "will dargaville",
+    "loser": "cyril fortin",
+    "match": "will dargaville vs cyril fortin",
+    "race": 3
+  }
+]

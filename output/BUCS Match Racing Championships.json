@@ -1,0 +1,434 @@
+[
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "final",
+    "winner": "Alex Colquitt",
+    "loser": "Oliver Meadowcroft",
+    "match": "Oliver Meadowcroft vs Alex Colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Oliver Hale",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Oliver Hale",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Ben Tylecote",
+    "loser": "Oliver Meadowcroft",
+    "match": "Ben Tylecote vs Oliver Meadowcroft",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Oliver Meadowcroft",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Oliver Meadowcroft",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Alex Colquitt",
+    "loser": "Oliver Hale",
+    "match": "Oliver Hale vs Alex Colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Alex Colquitt",
+    "loser": "Oliver Hale",
+    "match": "Oliver Hale vs Alex Colquitt",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "William Pank",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs William Pank",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Heather Quinn",
+    "loser": "Alfie Cogger",
+    "match": "Heather Quinn vs Alfie Cogger",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "William Pank",
+    "loser": "Finn Robarts",
+    "match": "Finn Robarts vs William Pank",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Ben Tylecote",
+    "loser": "Heather Quinn",
+    "match": "Ben Tylecote vs Heather Quinn",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Ben Tylecote",
+    "loser": "Heather Quinn",
+    "match": "Ben Tylecote vs Heather Quinn",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Alfie Cogger",
+    "match": "Oliver Meadowcroft vs Alfie Cogger",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Alfie Cogger",
+    "match": "Oliver Meadowcroft vs Alfie Cogger",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Oliver Hale",
+    "loser": "William Pank",
+    "match": "Oliver Hale vs William Pank",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Oliver Hale",
+    "loser": "William Pank",
+    "match": "Oliver Hale vs William Pank",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Alex Colquitt",
+    "loser": "Finn Robarts",
+    "match": "Alex Colquitt vs Finn Robarts",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Alex Colquitt",
+    "loser": "Finn Robarts",
+    "match": "Alex Colquitt vs Finn Robarts",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Ben Tylecote",
+    "loser": "Oliver Meadowcroft",
+    "match": "Ben Tylecote vs Oliver Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Ben Tylecote",
+    "loser": "Matthew Taylor",
+    "match": "Ben Tylecote vs Matthew Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Ben Tylecote",
+    "loser": "Julian Fung",
+    "match": "Ben Tylecote vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Sámuel János Zolnai",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Sámuel János Zolnai",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Ben Tylecote",
+    "loser": "William Pank",
+    "match": "Ben Tylecote vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Matthew Taylor",
+    "match": "Oliver Meadowcroft vs Matthew Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Julian Fung",
+    "match": "Oliver Meadowcroft vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Sámuel János Zolnai",
+    "match": "Oliver Meadowcroft vs Sámuel János Zolnai",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Oliver Meadowcroft",
+    "loser": "William Pank",
+    "match": "Oliver Meadowcroft vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Julian Fung",
+    "loser": "Matthew Taylor",
+    "match": "Matthew Taylor vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Sámuel János Zolnai",
+    "loser": "Matthew Taylor",
+    "match": "Matthew Taylor vs Sámuel János Zolnai",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Matthew Taylor",
+    "loser": "William Pank",
+    "match": "Matthew Taylor vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Julian Fung",
+    "loser": "Sámuel János Zolnai",
+    "match": "Julian Fung vs Sámuel János Zolnai",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "William Pank",
+    "loser": "Julian Fung",
+    "match": "Julian Fung vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "William Pank",
+    "loser": "Sámuel János Zolnai",
+    "match": "Sámuel János Zolnai vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Ben Tylecote",
+    "loser": "Finn Robarts",
+    "match": "Finn Robarts vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Oliver Meadowcroft",
+    "loser": "Finn Robarts",
+    "match": "Finn Robarts vs Oliver Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Matthew Taylor",
+    "loser": "Finn Robarts",
+    "match": "Finn Robarts vs Matthew Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Finn Robarts",
+    "loser": "Julian Fung",
+    "match": "Finn Robarts vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Finn Robarts",
+    "loser": "Sámuel János Zolnai",
+    "match": "Finn Robarts vs Sámuel János Zolnai",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Finn Robarts",
+    "loser": "William Pank",
+    "match": "Finn Robarts vs William Pank",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Heather Quinn",
+    "loser": "Alex Colquitt",
+    "match": "Alex Colquitt vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alex Colquitt",
+    "loser": "Oliver Hale",
+    "match": "Alex Colquitt vs Oliver Hale",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alex Colquitt",
+    "loser": "Bartholomew Gray",
+    "match": "Alex Colquitt vs Bartholomew Gray",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alex Colquitt",
+    "loser": "Alfie Cogger",
+    "match": "Alex Colquitt vs Alfie Cogger",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Heather Quinn",
+    "loser": "Oliver Hale",
+    "match": "Heather Quinn vs Oliver Hale",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Bartholomew Gray",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Bartholomew Gray",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Heather Quinn",
+    "loser": "Alfie Cogger",
+    "match": "Heather Quinn vs Alfie Cogger",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Oliver Hale",
+    "loser": "Bartholomew Gray",
+    "match": "Oliver Hale vs Bartholomew Gray",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Oliver Hale",
+    "loser": "Alfie Cogger",
+    "match": "Oliver Hale vs Alfie Cogger",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alfie Cogger",
+    "loser": "Bartholomew Gray",
+    "match": "Bartholomew Gray vs Alfie Cogger",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alex Colquitt",
+    "loser": "Ellie Thomas",
+    "match": "Ellie Thomas vs Alex Colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Heather Quinn",
+    "loser": "Ellie Thomas",
+    "match": "Ellie Thomas vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Oliver Hale",
+    "loser": "Ellie Thomas",
+    "match": "Ellie Thomas vs Oliver Hale",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Ellie Thomas",
+    "loser": "Bartholomew Gray",
+    "match": "Ellie Thomas vs Bartholomew Gray",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Alfie Cogger",
+    "loser": "Ellie Thomas",
+    "match": "Ellie Thomas vs Alfie Cogger",
+    "race": 0
+  }
+]

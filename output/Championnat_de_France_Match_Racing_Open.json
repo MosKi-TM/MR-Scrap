@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "francois brenac",
+    "loser": "cedric chateau",
+    "match": "cedric chateau vs francois brenac",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "francois brenac",
+    "loser": "cedric chateau",
+    "match": "cedric chateau vs francois brenac",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "francois brenac",
+    "loser": "cedric chateau",
+    "match": "cedric chateau vs francois brenac",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "petit-final",
+    "winner": "robin follin",
+    "loser": "victor migraine",
+    "match": "robin follin vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "petit-final",
+    "winner": "victor migraine",
+    "loser": "robin follin",
+    "match": "robin follin vs victor migraine",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "petit-final",
+    "winner": "robin follin",
+    "loser": "victor migraine",
+    "match": "robin follin vs victor migraine",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "cedric chateau",
+    "loser": "victor migraine",
+    "match": "cedric chateau vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "cedric chateau",
+    "loser": "victor migraine",
+    "match": "cedric chateau vs victor migraine",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "cedric chateau",
+    "loser": "victor migraine",
+    "match": "cedric chateau vs victor migraine",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "francois brenac",
+    "loser": "robin follin",
+    "match": "francois brenac vs robin follin",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "robin follin",
+    "loser": "francois brenac",
+    "match": "francois brenac vs robin follin",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "francois brenac",
+    "loser": "robin follin",
+    "match": "francois brenac vs robin follin",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "francois brenac",
+    "loser": "robin follin",
+    "match": "francois brenac vs robin follin",
+    "race": 4
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "francois brenac",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs francois brenac",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "francois brenac",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs francois brenac",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "robin follin",
+    "loser": "arthur herreman",
+    "match": "arthur herreman vs robin follin",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "arthur herreman",
+    "loser": "robin follin",
+    "match": "arthur herreman vs robin follin",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "robin follin",
+    "loser": "arthur herreman",
+    "match": "arthur herreman vs robin follin",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-3",
+    "winner": "victor migraine",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-3",
+    "winner": "victor migraine",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs victor migraine",
+    "race": 2
+  }
+]

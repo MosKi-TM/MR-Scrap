@@ -1,0 +1,562 @@
+[
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 4
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "petit-final",
+    "winner": "Nelson Mettraux",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Nelson Mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "petit-final",
+    "winner": "Tom Picot",
+    "loser": "Nelson Mettraux",
+    "match": "Tom Picot vs Nelson Mettraux",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "petit-final",
+    "winner": "Tom Picot",
+    "loser": "Nelson Mettraux",
+    "match": "Tom Picot vs Nelson Mettraux",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Nelson Mettraux",
+    "match": "Pauline Courtois vs Nelson Mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Nelson Mettraux",
+    "match": "Pauline Courtois vs Nelson Mettraux",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Nelson Mettraux",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Nelson Mettraux",
+    "match": "Pauline Courtois vs Nelson Mettraux",
+    "race": 4
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Damian Michelier",
+    "loser": "Maxime Mesnil",
+    "match": "Damian Michelier vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Martin Allix",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Tom Picot",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Damian Michelier",
+    "loser": "Marin Micoulot",
+    "match": "Damian Michelier vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Sylvain Escurat",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Martin Allix",
+    "match": "Maxime Mesnil vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Marin Micoulot",
+    "match": "Maxime Mesnil vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Sylvain Escurat",
+    "match": "Maxime Mesnil vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Martin Allix",
+    "loser": "Tom Picot",
+    "match": "Martin Allix vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Martin Allix",
+    "loser": "Marin Micoulot",
+    "match": "Martin Allix vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Sylvain Escurat",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Tom Picot",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Marin Micoulot",
+    "match": "Pauline Courtois vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Sylvain Escurat",
+    "match": "Pauline Courtois vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Tom Picot",
+    "loser": "Marin Micoulot",
+    "match": "Tom Picot vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Sylvain Escurat",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Sylvain Escurat",
+    "loser": "Marin Micoulot",
+    "match": "Marin Micoulot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Damian Michelier",
+    "match": "Nelson Mettraux vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Martin Allix",
+    "match": "Nelson Mettraux vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Tom Picot",
+    "match": "Nelson Mettraux vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Marin Micoulot",
+    "match": "Nelson Mettraux vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-2",
+    "winner": "Nelson Mettraux",
+    "loser": "Sylvain Escurat",
+    "match": "Nelson Mettraux vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Damian Michelier",
+    "loser": "Maxime Mesnil",
+    "match": "Damian Michelier vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Martin Allix",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Damian Michelier",
+    "loser": "Marin Micoulot",
+    "match": "Damian Michelier vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Damian Michelier",
+    "loser": "Sylvain Escurat",
+    "match": "Damian Michelier vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Martin Allix",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Marin Micoulot",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Sylvain Escurat",
+    "match": "Maxime Mesnil vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Martin Allix",
+    "loser": "Tom Picot",
+    "match": "Martin Allix vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Marin Micoulot",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Martin Allix",
+    "loser": "Sylvain Escurat",
+    "match": "Martin Allix vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Marin Micoulot",
+    "match": "Pauline Courtois vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Sylvain Escurat",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Marin Micoulot",
+    "match": "Tom Picot vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Sylvain Escurat",
+    "match": "Tom Picot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Marin Micoulot",
+    "loser": "Sylvain Escurat",
+    "match": "Marin Micoulot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Damian Michelier",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Maxime Mesnil",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Martin Allix",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Nelson Mettraux",
+    "loser": "Pauline Courtois",
+    "match": "Nelson Mettraux vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Marin Micoulot",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin-1",
+    "winner": "Nelson Mettraux",
+    "loser": "Sylvain Escurat",
+    "match": "Nelson Mettraux vs Sylvain Escurat",
+    "race": 0
+  }
+]

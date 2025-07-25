@@ -1,0 +1,226 @@
+[
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "pierre-antoine morvan",
+    "match": "eric monnin vs pierre-antoine morvan",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "pierre-antoine morvan",
+    "match": "eric monnin vs pierre-antoine morvan",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "johnie berntsson",
+    "loser": "david storrs",
+    "match": "johnie berntsson vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "johnie berntsson",
+    "loser": "david storrs",
+    "match": "johnie berntsson vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david storrs",
+    "match": "eric monnin vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david storrs",
+    "match": "eric monnin vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david storrs",
+    "match": "eric monnin vs david storrs",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "johnie berntsson",
+    "match": "pierre-antoine morvan vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "johnie berntsson",
+    "match": "pierre-antoine morvan vs johnie berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "johnie berntsson",
+    "match": "pierre-antoine morvan vs johnie berntsson",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "david storrs",
+    "match": "chris steele vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "chris steele vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "david storrs",
+    "match": "chris steele vs david storrs",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "chris steele vs david storrs",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "chris steele vs david storrs",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "sam gilmour",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "pierre-antoine morvan",
+    "loser": "sam gilmour",
+    "match": "pierre-antoine morvan vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "sam gilmour",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "pierre-antoine morvan",
+    "loser": "sam gilmour",
+    "match": "pierre-antoine morvan vs sam gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "pierre-antoine morvan",
+    "loser": "sam gilmour",
+    "match": "pierre-antoine morvan vs sam gilmour",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "johnie berntsson",
+    "loser": "maximillian soh",
+    "match": "johnie berntsson vs maximillian soh",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "johnie berntsson",
+    "loser": "maximillian soh",
+    "match": "johnie berntsson vs maximillian soh",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – MBYC's Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "johnie berntsson",
+    "loser": "maximillian soh",
+    "match": "johnie berntsson vs maximillian soh",
+    "race": 3
+  }
+]

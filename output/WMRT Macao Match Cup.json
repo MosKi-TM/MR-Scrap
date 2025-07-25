@@ -1,0 +1,746 @@
+[
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Ian Williams vs Nick Egnot-Johnson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "final",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Ian Williams",
+    "match": "Ian Williams vs Nick Egnot-Johnson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Ian Williams vs Nick Egnot-Johnson",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Ian Williams vs Nick Egnot-Johnson",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "petit-final",
+    "winner": "Chris Poole",
+    "loser": "Gavin Brady",
+    "match": "Chris Poole vs Gavin Brady",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "petit-final",
+    "winner": "Chris Poole",
+    "loser": "Gavin Brady",
+    "match": "Chris Poole vs Gavin Brady",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Gavin Brady",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Gavin Brady",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Gavin Brady",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Nick Egnot-Johnson vs Rocco Attili",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Nick Egnot-Johnson vs Rocco Attili",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Nick Egnot-Johnson vs Rocco Attili",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Chris Poole",
+    "match": "Pauline Courtois vs Chris Poole",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Chris Poole",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Chris Poole",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Chris Poole",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Maxime Mesnil",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Gavin Brady",
+    "loser": "Maxime Mesnil",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Maxime Mesnil",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Gavin Brady",
+    "loser": "Maxime Mesnil",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Gavin Brady",
+    "loser": "Maxime Mesnil",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 5
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Ian Williams",
+    "loser": "Max Paul",
+    "match": "Ian Williams vs Max Paul",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Ian Williams",
+    "loser": "Max Paul",
+    "match": "Ian Williams vs Max Paul",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Ian Williams",
+    "loser": "Max Paul",
+    "match": "Ian Williams vs Max Paul",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Ian Williams",
+    "match": "Chris Poole vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Zac West",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Maxime Mesnil",
+    "match": "Chris Poole vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Martin Allix",
+    "match": "Chris Poole vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Max Paul",
+    "match": "Chris Poole vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Gavin Brady",
+    "match": "Rocco Attili vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Ian Williams",
+    "match": "Rocco Attili vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Zac West",
+    "match": "Rocco Attili vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Maxime Mesnil",
+    "match": "Rocco Attili vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Pauline Courtois",
+    "match": "Rocco Attili vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Max Paul",
+    "match": "Rocco Attili vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Gavin Brady",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Ian Williams",
+    "match": "Nick Egnot-Johnson vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Zac West",
+    "match": "Nick Egnot-Johnson vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Maxime Mesnil",
+    "match": "Nick Egnot-Johnson vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Martin Allix",
+    "match": "Nick Egnot-Johnson vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Pauline Courtois",
+    "match": "Nick Egnot-Johnson vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Max Paul",
+    "match": "Nick Egnot-Johnson vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Ian Williams",
+    "match": "Gavin Brady vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Zac West",
+    "match": "Gavin Brady vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Maxime Mesnil",
+    "match": "Gavin Brady vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Martin Allix",
+    "match": "Gavin Brady vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Pauline Courtois",
+    "match": "Gavin Brady vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Max Paul",
+    "match": "Gavin Brady vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Zac West",
+    "match": "Tom Foucher vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Max Paul",
+    "match": "Tom Foucher vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Zac West",
+    "match": "Ian Williams vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Maxime Mesnil",
+    "match": "Ian Williams vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Martin Allix",
+    "match": "Ian Williams vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Pauline Courtois",
+    "match": "Ian Williams vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Max Paul",
+    "match": "Ian Williams vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Zac West",
+    "match": "Zac West vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Zac West",
+    "match": "Zac West vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Zac West",
+    "match": "Zac West vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Max Paul",
+    "loser": "Zac West",
+    "match": "Zac West vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Pauline Courtois",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Max Paul",
+    "match": "Maxime Mesnil vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Max Paul",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Max Paul",
+    "match": "Pauline Courtois vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Oscar Engstrom",
+    "loser": "Zac West",
+    "match": "Oscar Engstrom vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Oscar Engstrom",
+    "loser": "Martin Allix",
+    "match": "Oscar Engstrom vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Oscar Engstrom",
+    "match": "Oscar Engstrom vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Macao Match Cup",
+    "phase": "round-robin",
+    "winner": "Oscar Engstrom",
+    "loser": "Max Paul",
+    "match": "Oscar Engstrom vs Max Paul",
+    "race": 0
+  }
+]

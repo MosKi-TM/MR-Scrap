@@ -1,0 +1,210 @@
+[
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "ian williams",
+    "match": "ian williams vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "petit-final",
+    "winner": "nicolai sehested",
+    "loser": "lucy macgregor",
+    "match": "nicolai sehested vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "petit-final",
+    "winner": "lucy macgregor",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "petit-final",
+    "winner": "nicolai sehested",
+    "loser": "lucy macgregor",
+    "match": "nicolai sehested vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "semi-final-1",
+    "winner": "nicolai sehested",
+    "loser": "eric monnin",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "lucy macgregor",
+    "match": "ian williams vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "lucy macgregor",
+    "match": "ian williams vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "torvar mirsky",
+    "match": "lucy macgregor vs torvar mirsky",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "torvar mirsky",
+    "match": "lucy macgregor vs torvar mirsky",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "torvar mirsky",
+    "match": "lucy macgregor vs torvar mirsky",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "johnie berntsson",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "johnie berntsson",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "johnie berntsson",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "maxime mesnil",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs maxime mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "nicolai sehested",
+    "loser": "maxime mesnil",
+    "match": "nicolai sehested vs maxime mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "nicolai sehested",
+    "loser": "maxime mesnil",
+    "match": "nicolai sehested vs maxime mesnil",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "nicolai sehested",
+    "loser": "maxime mesnil",
+    "match": "nicolai sehested vs maxime mesnil",
+    "race": 4
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "pauline courtois",
+    "match": "ian williams vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "pauline courtois",
+    "match": "ian williams vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "pauline courtois",
+    "loser": "ian williams",
+    "match": "ian williams vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "Midsummer Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "pauline courtois",
+    "match": "ian williams vs pauline courtois",
+    "race": 4
+  }
+]

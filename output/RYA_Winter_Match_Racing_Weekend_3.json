@@ -1,0 +1,402 @@
+[
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "final",
+    "winner": "george haynes",
+    "loser": "robby boyd",
+    "match": "robby boyd vs george haynes",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "final",
+    "winner": "george haynes",
+    "loser": "robby boyd",
+    "match": "robby boyd vs george haynes",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "final",
+    "winner": "george haynes",
+    "loser": "robby boyd",
+    "match": "robby boyd vs george haynes",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "petit-final",
+    "winner": "mike starkie",
+    "loser": "patrick croghan",
+    "match": "patrick croghan vs mike starkie",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "petit-final",
+    "winner": "mike starkie",
+    "loser": "patrick croghan",
+    "match": "patrick croghan vs mike starkie",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "semi-final-1",
+    "winner": "robby boyd",
+    "loser": "mike starkie",
+    "match": "robby boyd vs mike starkie",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "semi-final-1",
+    "winner": "robby boyd",
+    "loser": "mike starkie",
+    "match": "robby boyd vs mike starkie",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "semi-final-2",
+    "winner": "george haynes",
+    "loser": "patrick croghan",
+    "match": "george haynes vs patrick croghan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "semi-final-2",
+    "winner": "patrick croghan",
+    "loser": "george haynes",
+    "match": "george haynes vs patrick croghan",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "semi-final-2",
+    "winner": "george haynes",
+    "loser": "patrick croghan",
+    "match": "george haynes vs patrick croghan",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "5th-/-6th",
+    "winner": "ellie cumpsty",
+    "loser": "tom williams",
+    "match": "ellie cumpsty vs tom williams",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "6th-/-7th",
+    "winner": "tom williams",
+    "loser": "josh dawson",
+    "match": "tom williams vs josh dawson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "7th-/-8th",
+    "winner": "josh dawson",
+    "loser": "mathieu cadei",
+    "match": "josh dawson vs mathieu cadei",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "8th-/-9th",
+    "winner": "mathieu cadei",
+    "loser": "iain duncan",
+    "match": "mathieu cadei vs iain duncan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "george haynes",
+    "match": "george haynes vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "patrick croghan",
+    "match": "george haynes vs patrick croghan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "tom williams",
+    "match": "george haynes vs tom williams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "mathieu cadei",
+    "match": "george haynes vs mathieu cadei",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "mike starkie",
+    "match": "george haynes vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "george haynes",
+    "match": "george haynes vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "josh dawson",
+    "match": "george haynes vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "iain duncan",
+    "match": "george haynes vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs patrick croghan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "tom williams",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs tom williams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "mathieu cadei",
+    "match": "ellie cumpsty vs mathieu cadei",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "robby boyd",
+    "match": "ellie cumpsty vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "josh dawson",
+    "match": "ellie cumpsty vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "iain duncan",
+    "match": "ellie cumpsty vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "tom williams",
+    "match": "patrick croghan vs tom williams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "mathieu cadei",
+    "match": "patrick croghan vs mathieu cadei",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "mike starkie",
+    "match": "patrick croghan vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "patrick croghan",
+    "match": "patrick croghan vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "josh dawson",
+    "match": "patrick croghan vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "patrick croghan",
+    "loser": "iain duncan",
+    "match": "patrick croghan vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "tom williams",
+    "loser": "mathieu cadei",
+    "match": "tom williams vs mathieu cadei",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "tom williams",
+    "match": "tom williams vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "tom williams",
+    "match": "tom williams vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "tom williams",
+    "loser": "josh dawson",
+    "match": "tom williams vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "tom williams",
+    "loser": "iain duncan",
+    "match": "tom williams vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "mathieu cadei",
+    "match": "mathieu cadei vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "mathieu cadei",
+    "match": "mathieu cadei vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "josh dawson",
+    "loser": "mathieu cadei",
+    "match": "mathieu cadei vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mathieu cadei",
+    "loser": "iain duncan",
+    "match": "mathieu cadei vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "mike starkie",
+    "match": "mike starkie vs robby boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "josh dawson",
+    "match": "mike starkie vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "iain duncan",
+    "match": "mike starkie vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "josh dawson",
+    "match": "robby boyd vs josh dawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "robby boyd",
+    "loser": "iain duncan",
+    "match": "robby boyd vs iain duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 3",
+    "phase": "round-robin",
+    "winner": "josh dawson",
+    "loser": "iain duncan",
+    "match": "josh dawson vs iain duncan",
+    "race": 0
+  }
+]

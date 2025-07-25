@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "india howard",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs india howard",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "india howard",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs india howard",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "emma hyde",
+    "match": "megan thomson vs emma hyde",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "emma hyde",
+    "match": "megan thomson vs emma hyde",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-1",
+    "winner": "juliet costanzo",
+    "loser": "emma hyde",
+    "match": "juliet costanzo vs emma hyde",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-1",
+    "winner": "juliet costanzo",
+    "loser": "emma hyde",
+    "match": "juliet costanzo vs emma hyde",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "india howard",
+    "match": "india howard vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-2",
+    "winner": "india howard",
+    "loser": "megan thomson",
+    "match": "india howard vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-2",
+    "winner": "india howard",
+    "loser": "megan thomson",
+    "match": "india howard vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "5th-/-6th",
+    "winner": "charlotte griffin",
+    "loser": "chelsea williams",
+    "match": "charlotte griffin vs chelsea williams",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "5th-/-6th",
+    "winner": "chelsea williams",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs chelsea williams",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "5th-/-6th",
+    "winner": "charlotte griffin",
+    "loser": "chelsea williams",
+    "match": "charlotte griffin vs chelsea williams",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "7th-/-8th",
+    "winner": "brooke adamson",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs brooke adamson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "7th-/-8th",
+    "winner": "tanya kelly",
+    "loser": "brooke adamson",
+    "match": "tanya kelly vs brooke adamson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "7th-/-8th",
+    "winner": "brooke adamson",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs brooke adamson",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "megan thomson",
+    "match": "juliet costanzo vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "juliet costanzo vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "juliet costanzo vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "juliet costanzo vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "chelsea williams",
+    "match": "juliet costanzo vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "brooke adamson",
+    "match": "juliet costanzo vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "emma hyde",
+    "match": "juliet costanzo vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "charlotte griffin",
+    "match": "megan thomson vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "megan thomson",
+    "match": "megan thomson vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "tanya kelly",
+    "match": "megan thomson vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "chelsea williams",
+    "match": "megan thomson vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "brooke adamson",
+    "match": "megan thomson vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "emma hyde",
+    "match": "megan thomson vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "tanya kelly",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "charlotte griffin",
+    "loser": "chelsea williams",
+    "match": "charlotte griffin vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "charlotte griffin",
+    "loser": "brooke adamson",
+    "match": "charlotte griffin vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "emma hyde",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "tanya kelly",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "chelsea williams",
+    "match": "india howard vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "brooke adamson",
+    "match": "india howard vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "emma hyde",
+    "match": "india howard vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "chelsea williams",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "tanya kelly",
+    "loser": "brooke adamson",
+    "match": "tanya kelly vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "emma hyde",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "chelsea williams",
+    "loser": "brooke adamson",
+    "match": "chelsea williams vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "chelsea williams",
+    "loser": "emma hyde",
+    "match": "chelsea williams vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "emma hyde",
+    "loser": "brooke adamson",
+    "match": "brooke adamson vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "megan thomson",
+    "match": "juliet costanzo vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "juliet costanzo vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "juliet costanzo vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "chelsea williams",
+    "match": "juliet costanzo vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "brooke adamson",
+    "match": "juliet costanzo vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "emma hyde",
+    "match": "juliet costanzo vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "charlotte griffin",
+    "match": "megan thomson vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "india howard",
+    "match": "megan thomson vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "tanya kelly",
+    "match": "megan thomson vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "chelsea williams",
+    "match": "megan thomson vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "brooke adamson",
+    "match": "megan thomson vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "emma hyde",
+    "match": "megan thomson vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "tanya kelly",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "chelsea williams",
+    "match": "charlotte griffin vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "brooke adamson",
+    "match": "charlotte griffin vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "emma hyde",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "tanya kelly",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "chelsea williams",
+    "match": "india howard vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "brooke adamson",
+    "match": "india howard vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "emma hyde",
+    "match": "india howard vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "tanya kelly",
+    "loser": "chelsea williams",
+    "match": "tanya kelly vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "tanya kelly",
+    "loser": "brooke adamson",
+    "match": "tanya kelly vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "emma hyde",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "chelsea williams",
+    "loser": "brooke adamson",
+    "match": "chelsea williams vs brooke adamson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "chelsea williams",
+    "loser": "emma hyde",
+    "match": "chelsea williams vs emma hyde",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "emma hyde",
+    "loser": "brooke adamson",
+    "match": "brooke adamson vs emma hyde",
+    "race": 0
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "final",
+    "winner": "Jamie McMahon",
+    "loser": "Micheal O’Suilleabhain",
+    "match": "Jamie McMahon vs Micheal O’Suilleabhain",
+    "race": 1
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "final",
+    "winner": "Jamie McMahon",
+    "loser": "Micheal O’Suilleabhain",
+    "match": "Jamie McMahon vs Micheal O’Suilleabhain",
+    "race": 2
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "petit-final",
+    "winner": "Oisin Cullen",
+    "loser": "Noah McCarthy",
+    "match": "Noah McCarthy vs Oisin Cullen",
+    "race": 1
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "semi-final-1",
+    "winner": "Jamie McMahon",
+    "loser": "Oisin Cullen",
+    "match": "Jamie McMahon vs Oisin Cullen",
+    "race": 1
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "semi-final-1",
+    "winner": "Jamie McMahon",
+    "loser": "Oisin Cullen",
+    "match": "Jamie McMahon vs Oisin Cullen",
+    "race": 2
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "semi-final-2",
+    "winner": "Noah McCarthy",
+    "loser": "Micheal O’Suilleabhain",
+    "match": "Noah McCarthy vs Micheal O’Suilleabhain",
+    "race": 1
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "semi-final-2",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Noah McCarthy",
+    "match": "Noah McCarthy vs Micheal O’Suilleabhain",
+    "race": 2
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "semi-final-2",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Noah McCarthy",
+    "match": "Noah McCarthy vs Micheal O’Suilleabhain",
+    "race": 3
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Thomas Mulvenna",
+    "loser": "Micheal O’Suilleabhain",
+    "match": "Micheal O’Suilleabhain vs Thomas Mulvenna",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Noah McCarthy",
+    "match": "Micheal O’Suilleabhain vs Noah McCarthy",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jack McMahon",
+    "loser": "Micheal O’Suilleabhain",
+    "match": "Micheal O’Suilleabhain vs Jack McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Jamie McMahon",
+    "match": "Micheal O’Suilleabhain vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Jonathan Sargent",
+    "match": "Micheal O’Suilleabhain vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Oisin Cullen",
+    "match": "Micheal O’Suilleabhain vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Thomas Mulvenna",
+    "loser": "Noah McCarthy",
+    "match": "Thomas Mulvenna vs Noah McCarthy",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jack McMahon",
+    "loser": "Thomas Mulvenna",
+    "match": "Thomas Mulvenna vs Jack McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Thomas Mulvenna",
+    "match": "Thomas Mulvenna vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jonathan Sargent",
+    "loser": "Thomas Mulvenna",
+    "match": "Thomas Mulvenna vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Thomas Mulvenna",
+    "match": "Thomas Mulvenna vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jack McMahon",
+    "loser": "Noah McCarthy",
+    "match": "Noah McCarthy vs Jack McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Noah McCarthy",
+    "match": "Noah McCarthy vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Noah McCarthy",
+    "loser": "Jonathan Sargent",
+    "match": "Noah McCarthy vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Noah McCarthy",
+    "loser": "Oisin Cullen",
+    "match": "Noah McCarthy vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Jack McMahon",
+    "match": "Jack McMahon vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jonathan Sargent",
+    "loser": "Jack McMahon",
+    "match": "Jack McMahon vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Jack McMahon",
+    "match": "Jack McMahon vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Jonathan Sargent",
+    "match": "Jamie McMahon vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Oisin Cullen",
+    "match": "Jamie McMahon vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Jonathan Sargent",
+    "match": "Jonathan Sargent vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Micheal O’Suilleabhain",
+    "loser": "Henry Chandler",
+    "match": "Henry Chandler vs Micheal O’Suilleabhain",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Henry Chandler",
+    "loser": "Thomas Mulvenna",
+    "match": "Henry Chandler vs Thomas Mulvenna",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Noah McCarthy",
+    "loser": "Henry Chandler",
+    "match": "Henry Chandler vs Noah McCarthy",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Henry Chandler",
+    "loser": "Jack McMahon",
+    "match": "Henry Chandler vs Jack McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Henry Chandler",
+    "match": "Henry Chandler vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Henry Chandler",
+    "loser": "Jonathan Sargent",
+    "match": "Henry Chandler vs Jonathan Sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Irish University Match Racing Invitational",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Henry Chandler",
+    "match": "Henry Chandler vs Oisin Cullen",
+    "race": 0
+  }
+]

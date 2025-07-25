@@ -1,0 +1,595 @@
+[
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Dave Perry",
+    "match": "Chris Poole vs Dave Perry",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "final",
+    "winner": "Dave Perry",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Dave Perry",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Dave Perry",
+    "match": "Chris Poole vs Dave Perry",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Dave Perry",
+    "match": "Chris Poole vs Dave Perry",
+    "race": 4
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "petit-final",
+    "winner": "Alastair Gifford",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Alastair Gifford",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "petit-final",
+    "winner": "Alastair Gifford",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Alastair Gifford",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Alastair Gifford",
+    "match": "Chris Poole vs Alastair Gifford",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Alastair Gifford",
+    "match": "Chris Poole vs Alastair Gifford",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Alastair Gifford",
+    "match": "Chris Poole vs Alastair Gifford",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-2",
+    "winner": "Dave Perry",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Dave Perry",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-2",
+    "winner": "Dave Perry",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Dave Perry",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "semi-final-2",
+    "winner": "Dave Perry",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Dave Perry",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Dave Perry",
+    "loser": "Alastair Gifford",
+    "match": "Dave Perry vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Dave Perry",
+    "loser": "Rocco Attili",
+    "match": "Dave Perry vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Dave Perry",
+    "loser": "Peter Bailey",
+    "match": "Dave Perry vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Dave Perry",
+    "loser": "Ted Blowers",
+    "match": "Dave Perry vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Alastair Gifford",
+    "loser": "Rocco Attili",
+    "match": "Alastair Gifford vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Alastair Gifford",
+    "loser": "Peter Bailey",
+    "match": "Alastair Gifford vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Alastair Gifford",
+    "loser": "Ted Blowers",
+    "match": "Alastair Gifford vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Rocco Attili",
+    "loser": "Peter Bailey",
+    "match": "Rocco Attili vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Rocco Attili",
+    "loser": "Ted Blowers",
+    "match": "Rocco Attili vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Peter Bailey",
+    "match": "Peter Bailey vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Dave Perry",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Alastair Gifford",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Rocco Attili",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Ruairi Finnegan",
+    "loser": "Peter Bailey",
+    "match": "Ruairi Finnegan vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "repechage",
+    "winner": "Ruairi Finnegan",
+    "loser": "Ted Blowers",
+    "match": "Ruairi Finnegan vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Aurelien Pierroz",
+    "match": "Chris Poole vs Aurelien Pierroz"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Alastair Gifford",
+    "match": "Chris Poole vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Ted Blowers",
+    "match": "Chris Poole vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Dave Perry",
+    "match": "Chris Poole vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Peter Bailey",
+    "match": "Chris Poole vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Rocco Attili",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Aurelien Pierroz",
+    "loser": "Alastair Gifford",
+    "match": "Aurelien Pierroz vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ted Blowers",
+    "match": "Aurelien Pierroz vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Aurelien Pierroz",
+    "loser": "Dave Perry",
+    "match": "Aurelien Pierroz vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Aurelien Pierroz",
+    "loser": "Peter Bailey",
+    "match": "Aurelien Pierroz vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Alastair Gifford",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Rocco Attili",
+    "loser": "Dave Perry",
+    "match": "Rocco Attili vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Rocco Attili",
+    "loser": "Peter Bailey",
+    "match": "Rocco Attili vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Alastair Gifford",
+    "match": "Alastair Gifford vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Alastair Gifford",
+    "loser": "Dave Perry",
+    "match": "Alastair Gifford vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Alastair Gifford",
+    "loser": "Peter Bailey",
+    "match": "Alastair Gifford vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Dave Perry",
+    "match": "Ted Blowers vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Peter Bailey",
+    "match": "Ted Blowers vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Dave Perry",
+    "loser": "Peter Bailey",
+    "match": "Dave Perry vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Chris Poole"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Aurelien Pierroz"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Rocco Attili",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Alastair Gifford",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Dave Perry",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-2",
+    "winner": "Ruairi Finnegan",
+    "loser": "Peter Bailey",
+    "match": "Ruairi Finnegan vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Aurelien Pierroz",
+    "match": "Chris Poole vs Aurelien Pierroz"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Alastair Gifford",
+    "match": "Chris Poole vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ted Blowers",
+    "match": "Chris Poole vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Dave Perry",
+    "match": "Chris Poole vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Peter Bailey",
+    "match": "Chris Poole vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Rocco Attili",
+    "match": "Aurelien Pierroz vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Alastair Gifford",
+    "match": "Aurelien Pierroz vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ted Blowers",
+    "match": "Aurelien Pierroz vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Dave Perry",
+    "match": "Aurelien Pierroz vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Peter Bailey",
+    "match": "Aurelien Pierroz vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Alastair Gifford",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Ted Blowers",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Dave Perry",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Peter Bailey",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Ted Blowers",
+    "loser": "Alastair Gifford",
+    "match": "Alastair Gifford vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Alastair Gifford",
+    "loser": "Dave Perry",
+    "match": "Alastair Gifford vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Peter Bailey",
+    "loser": "Alastair Gifford",
+    "match": "Alastair Gifford vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Dave Perry",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Peter Bailey",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Dave Perry",
+    "loser": "Peter Bailey",
+    "match": "Dave Perry vs Peter Bailey"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Chris Poole"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Aurelien Pierroz"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Rocco Attili",
+    "match": "Ruairi Finnegan vs Rocco Attili"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Alastair Gifford",
+    "match": "Ruairi Finnegan vs Alastair Gifford"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Ted Blowers",
+    "match": "Ruairi Finnegan vs Ted Blowers"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Dave Perry",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Dave Perry"
+  },
+  {
+    "regatta": "CYCA John Piper Regatta 2025",
+    "phase": "round-robin-1",
+    "winner": "Peter Bailey",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Peter Bailey"
+  }
+]

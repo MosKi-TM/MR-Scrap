@@ -1,0 +1,394 @@
+[
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "final",
+    "winner": "brown university",
+    "loser": "coast guard",
+    "match": "coast guard vs brown university",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "final",
+    "winner": "coast guard",
+    "loser": "brown university",
+    "match": "coast guard vs brown university",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "final",
+    "winner": "brown university",
+    "loser": "coast guard",
+    "match": "coast guard vs brown university",
+    "race": 3
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "final",
+    "winner": "brown university",
+    "loser": "coast guard",
+    "match": "coast guard vs brown university",
+    "race": 4
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "petit-final",
+    "winner": "yale university",
+    "loser": "tufts university",
+    "match": "yale university vs tufts university",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "petit-final",
+    "winner": "tufts university",
+    "loser": "yale university",
+    "match": "yale university vs tufts university",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "petit-final",
+    "winner": "yale university",
+    "loser": "tufts university",
+    "match": "yale university vs tufts university",
+    "race": 3
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "brown university",
+    "loser": "yale university",
+    "match": "yale university vs brown university",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "brown university",
+    "loser": "yale university",
+    "match": "yale university vs brown university",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "coast guard",
+    "loser": "tufts university",
+    "match": "coast guard vs tufts university",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "tufts university",
+    "loser": "coast guard",
+    "match": "coast guard vs tufts university",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "coast guard",
+    "loser": "tufts university",
+    "match": "coast guard vs tufts university",
+    "race": 3
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-1",
+    "winner": "yale university",
+    "loser": "massachusetts maritime",
+    "match": "yale university vs massachusetts maritime",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-1",
+    "winner": "yale university",
+    "loser": "massachusetts maritime",
+    "match": "yale university vs massachusetts maritime",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-2",
+    "winner": "coast guard",
+    "loser": "bowdoin college",
+    "match": "coast guard vs bowdoin college",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-2",
+    "winner": "coast guard",
+    "loser": "bowdoin college",
+    "match": "coast guard vs bowdoin college",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-3",
+    "winner": "tufts university",
+    "loser": "maine maritime",
+    "match": "tufts university vs maine maritime",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-3",
+    "winner": "tufts university",
+    "loser": "maine maritime",
+    "match": "tufts university vs maine maritime",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-4",
+    "winner": "brown university",
+    "loser": "boston college",
+    "match": "brown university vs boston college",
+    "race": 1
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-4",
+    "winner": "boston college",
+    "loser": "brown university",
+    "match": "brown university vs boston college",
+    "race": 2
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "quarter-final-4",
+    "winner": "brown university",
+    "loser": "boston college",
+    "match": "brown university vs boston college",
+    "race": 3
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "boston college",
+    "loser": "bowdoin college",
+    "match": "boston college vs bowdoin college",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "brown university",
+    "loser": "boston college",
+    "match": "boston college vs brown university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "coast guard",
+    "loser": "boston college",
+    "match": "boston college vs coast guard",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "boston college",
+    "loser": "maine maritime",
+    "match": "boston college vs maine maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "boston college",
+    "loser": "massachusetts maritime",
+    "match": "boston college vs massachusetts maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "tufts university",
+    "loser": "boston college",
+    "match": "boston college vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "boston college",
+    "match": "boston college vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "brown university",
+    "loser": "bowdoin college",
+    "match": "bowdoin college vs brown university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin college",
+    "loser": "coast guard",
+    "match": "bowdoin college vs coast guard",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "maine maritime",
+    "loser": "bowdoin college",
+    "match": "bowdoin college vs maine maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin college",
+    "loser": "massachusetts maritime",
+    "match": "bowdoin college vs massachusetts maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "tufts university",
+    "loser": "bowdoin college",
+    "match": "bowdoin college vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "bowdoin college",
+    "match": "bowdoin college vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "coast guard",
+    "loser": "brown university",
+    "match": "brown university vs coast guard",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "brown university",
+    "loser": "maine maritime",
+    "match": "brown university vs maine maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "brown university",
+    "loser": "massachusetts maritime",
+    "match": "brown university vs massachusetts maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "tufts university",
+    "loser": "brown university",
+    "match": "brown university vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "brown university",
+    "match": "brown university vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "coast guard",
+    "loser": "maine maritime",
+    "match": "coast guard vs maine maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "coast guard",
+    "loser": "massachusetts maritime",
+    "match": "coast guard vs massachusetts maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "coast guard",
+    "loser": "tufts university",
+    "match": "coast guard vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "coast guard",
+    "match": "coast guard vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "maine maritime",
+    "loser": "massachusetts maritime",
+    "match": "maine maritime vs massachusetts maritime",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "tufts university",
+    "loser": "maine maritime",
+    "match": "maine maritime vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "maine maritime",
+    "match": "maine maritime vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "tufts university",
+    "loser": "massachusetts maritime",
+    "match": "massachusetts maritime vs tufts university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "massachusetts maritime",
+    "match": "massachusetts maritime vs yale university",
+    "race": 0
+  },
+  {
+    "regatta": "NEISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "yale university",
+    "loser": "tufts university",
+    "match": "tufts university vs yale university",
+    "race": 0
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "celia willison",
+    "loser": "samantha norman",
+    "match": "samantha norman vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "celia willison",
+    "match": "samantha norman vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "celia willison",
+    "loser": "samantha norman",
+    "match": "samantha norman vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "celia willison",
+    "match": "samantha norman vs celia willison",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "celia willison",
+    "match": "samantha norman vs celia willison",
+    "race": 5
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "claudia pierce",
+    "match": "megan thomson vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "claudia pierce",
+    "match": "megan thomson vs claudia pierce",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "samantha norman",
+    "loser": "claudia pierce",
+    "match": "samantha norman vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "claudia pierce",
+    "loser": "samantha norman",
+    "match": "samantha norman vs claudia pierce",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "samantha norman",
+    "loser": "claudia pierce",
+    "match": "samantha norman vs claudia pierce",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "samantha norman",
+    "loser": "claudia pierce",
+    "match": "samantha norman vs claudia pierce",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "holly mcneill",
+    "match": "celia willison vs holly mcneill",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "claudia pierce",
+    "loser": "celia willison",
+    "match": "celia willison vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "celia willison",
+    "match": "celia willison vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "ella wilcox",
+    "match": "celia willison vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "maeve white",
+    "match": "celia willison vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "holly mcneill",
+    "match": "megan thomson vs holly mcneill",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "claudia pierce",
+    "match": "megan thomson vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "megan thomson",
+    "match": "megan thomson vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "ella wilcox",
+    "match": "megan thomson vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "holly mcneill",
+    "loser": "claudia pierce",
+    "match": "holly mcneill vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "holly mcneill",
+    "match": "holly mcneill vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "holly mcneill",
+    "loser": "ella wilcox",
+    "match": "holly mcneill vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "holly mcneill",
+    "loser": "maeve white",
+    "match": "holly mcneill vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "claudia pierce",
+    "loser": "ella wilcox",
+    "match": "claudia pierce vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "claudia pierce",
+    "loser": "maeve white",
+    "match": "claudia pierce vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "ella wilcox",
+    "match": "samantha norman vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "samantha norman",
+    "loser": "maeve white",
+    "match": "samantha norman vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "maeve white",
+    "loser": "ella wilcox",
+    "match": "ella wilcox vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "holly mcneill",
+    "match": "celia willison vs holly mcneill",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "claudia pierce",
+    "match": "celia willison vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "ella wilcox",
+    "loser": "celia willison",
+    "match": "celia willison vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "celia willison",
+    "match": "celia willison vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "maeve white",
+    "loser": "celia willison",
+    "match": "celia willison vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "holly mcneill",
+    "match": "megan thomson vs holly mcneill",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "claudia pierce",
+    "match": "megan thomson vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "ella wilcox",
+    "match": "megan thomson vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "megan thomson",
+    "match": "megan thomson vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "claudia pierce",
+    "loser": "holly mcneill",
+    "match": "holly mcneill vs claudia pierce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "holly mcneill",
+    "loser": "ella wilcox",
+    "match": "holly mcneill vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "holly mcneill",
+    "match": "holly mcneill vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "maeve white",
+    "loser": "holly mcneill",
+    "match": "holly mcneill vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "claudia pierce",
+    "loser": "ella wilcox",
+    "match": "claudia pierce vs ella wilcox",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "claudia pierce",
+    "loser": "maeve white",
+    "match": "claudia pierce vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "ella wilcox",
+    "match": "ella wilcox vs samantha norman",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "ella wilcox",
+    "loser": "maeve white",
+    "match": "ella wilcox vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "samantha norman",
+    "loser": "maeve white",
+    "match": "samantha norman vs maeve white",
+    "race": 0
+  }
+]

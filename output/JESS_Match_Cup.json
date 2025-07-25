@@ -1,0 +1,314 @@
+[
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "final",
+    "winner": "ethan prieto-low",
+    "loser": "conor nicholas",
+    "match": "conor nicholas vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "final",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "conor nicholas vs ethan prieto-low",
+    "race": 2
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "petit-final",
+    "winner": "marcello torre",
+    "loser": "sandy anderson",
+    "match": "marcello torre vs sandy anderson",
+    "race": 1
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "petit-final",
+    "winner": "marcello torre",
+    "loser": "sandy anderson",
+    "match": "marcello torre vs sandy anderson",
+    "race": 2
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 1
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 2
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "semi-final-2",
+    "winner": "conor nicholas",
+    "loser": "sandy anderson",
+    "match": "conor nicholas vs sandy anderson",
+    "race": 1
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "semi-final-2",
+    "winner": "conor nicholas",
+    "loser": "sandy anderson",
+    "match": "conor nicholas vs sandy anderson",
+    "race": 2
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "murray buchan",
+    "loser": "kaiella taylor",
+    "match": "murray buchan vs kaiella taylor",
+    "race": 1
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "kaiella taylor",
+    "loser": "murray buchan",
+    "match": "murray buchan vs kaiella taylor",
+    "race": 2
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "kaiella taylor",
+    "loser": "murray buchan",
+    "match": "murray buchan vs kaiella taylor",
+    "race": 3
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "joe howe",
+    "match": "ethan prieto-low vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "murray buchan",
+    "match": "ethan prieto-low vs murray buchan",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "kaiella taylor",
+    "match": "ethan prieto-low vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "sandy anderson",
+    "match": "ethan prieto-low vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "james pitt",
+    "match": "ethan prieto-low vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "marcello torre",
+    "match": "conor nicholas vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "joe howe",
+    "match": "conor nicholas vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "murray buchan",
+    "match": "conor nicholas vs murray buchan",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "kaiella taylor",
+    "match": "conor nicholas vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "sandy anderson",
+    "match": "conor nicholas vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "james pitt",
+    "match": "conor nicholas vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "joe howe",
+    "match": "marcello torre vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "murray buchan",
+    "match": "marcello torre vs murray buchan",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "kaiella taylor",
+    "match": "marcello torre vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "sandy anderson",
+    "match": "marcello torre vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "james pitt",
+    "match": "marcello torre vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "murray buchan",
+    "loser": "joe howe",
+    "match": "joe howe vs murray buchan",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "kaiella taylor",
+    "loser": "joe howe",
+    "match": "joe howe vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "sandy anderson",
+    "loser": "joe howe",
+    "match": "joe howe vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "joe howe",
+    "loser": "james pitt",
+    "match": "joe howe vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "murray buchan",
+    "loser": "kaiella taylor",
+    "match": "murray buchan vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "sandy anderson",
+    "loser": "murray buchan",
+    "match": "murray buchan vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "murray buchan",
+    "loser": "james pitt",
+    "match": "murray buchan vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "sandy anderson",
+    "loser": "kaiella taylor",
+    "match": "kaiella taylor vs sandy anderson",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "kaiella taylor",
+    "loser": "james pitt",
+    "match": "kaiella taylor vs james pitt",
+    "race": 0
+  },
+  {
+    "regatta": "JESS Match Cup",
+    "phase": "round-robin",
+    "winner": "sandy anderson",
+    "loser": "james pitt",
+    "match": "sandy anderson vs james pitt",
+    "race": 0
+  }
+]

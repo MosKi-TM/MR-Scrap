@@ -1,0 +1,834 @@
+[
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 5
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "eric monnin",
+    "match": "taylor canfield vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "eric monnin",
+    "match": "taylor canfield vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "eric monnin",
+    "match": "taylor canfield vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "maxime mesnil",
+    "match": "eric monnin vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "eric monnin vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "eric monnin",
+    "match": "eric monnin vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "emil kjaer",
+    "match": "eric monnin vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "eric monnin",
+    "match": "eric monnin vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "jeffrey petersen",
+    "match": "eric monnin vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "sam gilmour",
+    "match": "eric monnin vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "dustin durant",
+    "match": "eric monnin vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjaer",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "maxime mesnil",
+    "loser": "jeffrey petersen",
+    "match": "maxime mesnil vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "sam gilmour",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "chris poole vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "taylor canfield",
+    "match": "chris poole vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "emil kjaer",
+    "match": "chris poole vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "david wood",
+    "match": "chris poole vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "chris poole",
+    "match": "chris poole vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "sam gilmour",
+    "loser": "chris poole",
+    "match": "chris poole vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "chris poole",
+    "match": "chris poole vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "emil kjaer",
+    "match": "johnie berntsson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "david wood",
+    "match": "johnie berntsson vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "jeffrey petersen",
+    "match": "johnie berntsson vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "sam gilmour",
+    "match": "johnie berntsson vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "emil kjaer",
+    "match": "taylor canfield vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "david wood",
+    "match": "taylor canfield vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "jeffrey petersen",
+    "match": "taylor canfield vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "sam gilmour",
+    "match": "taylor canfield vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "dustin durant",
+    "match": "taylor canfield vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjaer",
+    "loser": "sam gilmour",
+    "match": "emil kjaer vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjaer",
+    "loser": "dustin durant",
+    "match": "emil kjaer vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "david wood vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "sam gilmour",
+    "match": "david wood vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "david wood",
+    "match": "david wood vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "sam gilmour",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dustin durant",
+    "loser": "sam gilmour",
+    "match": "sam gilmour vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "maxime mesnil",
+    "match": "eric monnin vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "taylor canfield",
+    "match": "eric monnin vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "emil kjaer",
+    "match": "eric monnin vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "david wood",
+    "match": "eric monnin vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "eric monnin",
+    "match": "eric monnin vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "sam gilmour",
+    "loser": "eric monnin",
+    "match": "eric monnin vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "dustin durant",
+    "match": "eric monnin vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "emil kjaer",
+    "match": "maxime mesnil vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "jeffrey petersen",
+    "match": "maxime mesnil vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "sam gilmour",
+    "match": "maxime mesnil vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "dustin durant",
+    "match": "maxime mesnil vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "chris poole vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "chris poole vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjaer",
+    "loser": "chris poole",
+    "match": "chris poole vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "david wood",
+    "match": "chris poole vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "chris poole",
+    "match": "chris poole vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "sam gilmour",
+    "loser": "chris poole",
+    "match": "chris poole vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "dustin durant",
+    "match": "chris poole vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "emil kjaer",
+    "match": "johnie berntsson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "david wood",
+    "match": "johnie berntsson vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "jeffrey petersen",
+    "match": "johnie berntsson vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "sam gilmour",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "dustin durant",
+    "match": "johnie berntsson vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "emil kjaer",
+    "match": "taylor canfield vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "david wood",
+    "match": "taylor canfield vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "jeffrey petersen",
+    "match": "taylor canfield vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "sam gilmour",
+    "match": "taylor canfield vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "dustin durant",
+    "match": "taylor canfield vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjaer",
+    "loser": "david wood",
+    "match": "emil kjaer vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjaer",
+    "loser": "jeffrey petersen",
+    "match": "emil kjaer vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjaer",
+    "loser": "sam gilmour",
+    "match": "emil kjaer vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjaer",
+    "loser": "dustin durant",
+    "match": "emil kjaer vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "david wood vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "sam gilmour",
+    "loser": "david wood",
+    "match": "david wood vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "dustin durant",
+    "match": "david wood vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "sam gilmour",
+    "match": "jeffrey petersen vs sam gilmour",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "dustin durant",
+    "match": "jeffrey petersen vs dustin durant",
+    "race": 0
+  },
+  {
+    "regatta": "56th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "sam gilmour",
+    "loser": "dustin durant",
+    "match": "sam gilmour vs dustin durant",
+    "race": 0
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "final",
+    "winner": "ansgar jordan",
+    "loser": "james pinder",
+    "match": "ansgar jordan vs james pinder",
+    "race": 1
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "final",
+    "winner": "ansgar jordan",
+    "loser": "james pinder",
+    "match": "ansgar jordan vs james pinder",
+    "race": 2
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "josh dochoda",
+    "loser": "jack flores",
+    "match": "jack flores vs josh dochoda",
+    "race": 1
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "ansgar jordan",
+    "loser": "josh dochoda",
+    "match": "ansgar jordan vs josh dochoda",
+    "race": 1
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "ansgar jordan",
+    "loser": "josh dochoda",
+    "match": "ansgar jordan vs josh dochoda",
+    "race": 2
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jack flores",
+    "loser": "james pinder",
+    "match": "james pinder vs jack flores",
+    "race": 1
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "james pinder",
+    "loser": "jack flores",
+    "match": "james pinder vs jack flores",
+    "race": 2
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "james pinder",
+    "loser": "jack flores",
+    "match": "james pinder vs jack flores",
+    "race": 3
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jack flores",
+    "loser": "connor mraz",
+    "match": "connor mraz vs jack flores",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "connor mraz",
+    "match": "connor mraz vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "connor mraz",
+    "loser": "eric belda",
+    "match": "connor mraz vs eric belda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "connor mraz",
+    "loser": "justin oberbauer",
+    "match": "connor mraz vs justin oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "connor mraz",
+    "match": "connor mraz vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "connor mraz",
+    "match": "connor mraz vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "jack flores",
+    "match": "jack flores vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jack flores",
+    "loser": "eric belda",
+    "match": "jack flores vs eric belda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jack flores",
+    "loser": "justin oberbauer",
+    "match": "jack flores vs justin oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "jack flores",
+    "match": "jack flores vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jack flores",
+    "loser": "josh dochoda",
+    "match": "jack flores vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "eric belda",
+    "match": "ansgar jordan vs eric belda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "justin oberbauer",
+    "match": "ansgar jordan vs justin oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "james pinder",
+    "match": "ansgar jordan vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "josh dochoda",
+    "match": "ansgar jordan vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "eric belda",
+    "loser": "justin oberbauer",
+    "match": "eric belda vs justin oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "eric belda",
+    "match": "eric belda vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "eric belda",
+    "match": "eric belda vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "justin oberbauer",
+    "match": "justin oberbauer vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "justin oberbauer",
+    "match": "justin oberbauer vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastern YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "josh dochoda",
+    "match": "james pinder vs josh dochoda",
+    "race": 0
+  }
+]

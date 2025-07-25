@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "Detroit Cup",
+    "phase": "final",
+    "winner": "josh junior",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs josh junior",
+    "race": 1
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "final",
+    "winner": "josh junior",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs josh junior",
+    "race": 2
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "josh junior",
+    "match": "taylor canfield vs josh junior",
+    "race": 3
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "josh junior",
+    "match": "taylor canfield vs josh junior",
+    "race": 4
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "final",
+    "winner": "josh junior",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs josh junior",
+    "race": 5
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "taylor canfield vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "taylor canfield vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "josh junior",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs josh junior",
+    "race": 1
+  },
+  {
+    "regatta": "Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "josh junior",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs josh junior",
+    "race": 2
+  }
+]

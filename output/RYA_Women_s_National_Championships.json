@@ -1,0 +1,514 @@
+[
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "final",
+    "winner": "jenny cropley",
+    "loser": "octavia owen",
+    "match": "octavia owen vs jenny cropley",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "jenny cropley",
+    "match": "octavia owen vs jenny cropley",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "final",
+    "winner": "jenny cropley",
+    "loser": "octavia owen",
+    "match": "octavia owen vs jenny cropley",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "jemima lawson",
+    "match": "sophie otter vs jemima lawson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "semi-final-1",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "octavia owen vs jemima lawson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "semi-final-1",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "octavia owen vs jemima lawson",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "jenny cropley",
+    "loser": "sophie otter",
+    "match": "jenny cropley vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "jenny cropley",
+    "loser": "sophie otter",
+    "match": "jenny cropley vs sophie otter",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "5th-/-6th",
+    "winner": "ali morrish",
+    "loser": "rosie watkins",
+    "match": "ali morrish vs rosie watkins",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "6th-/-7th",
+    "winner": "rosie watkins",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs rosie watkins",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "7th-/-8th",
+    "winner": "rosie watkins",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs rosie watkins",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "sophie otter",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "octavia owen vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "rosie watkins",
+    "match": "octavia owen vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "sophie taylor",
+    "match": "octavia owen vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "jenny cropley",
+    "match": "octavia owen vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "rosie watkins",
+    "match": "ali morrish vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "sophie taylor",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jenny cropley",
+    "loser": "ali morrish",
+    "match": "ali morrish vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "jemima lawson",
+    "match": "sophie otter vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "rosie watkins",
+    "match": "sophie otter vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jenny cropley",
+    "loser": "sophie otter",
+    "match": "sophie otter vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jenny cropley",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "sophie taylor",
+    "match": "jemima lawson vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jenny cropley",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie taylor",
+    "loser": "rosie watkins",
+    "match": "rosie watkins vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-2",
+    "winner": "jenny cropley",
+    "loser": "rosie watkins",
+    "match": "rosie watkins vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "octavia owen vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "rosie watkins",
+    "match": "octavia owen vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "sophie taylor",
+    "match": "octavia owen vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jenny cropley",
+    "loser": "octavia owen",
+    "match": "octavia owen vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "rosie watkins",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie taylor",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "jenny cropley",
+    "match": "ali morrish vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "rosie watkins",
+    "match": "sophie otter vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "jenny cropley",
+    "match": "sophie otter vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "rosie watkins",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "jenny cropley",
+    "match": "ellie cumpsty vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "rosie watkins",
+    "match": "jemima lawson vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie taylor",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jenny cropley",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie taylor",
+    "loser": "rosie watkins",
+    "match": "rosie watkins vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jenny cropley",
+    "loser": "rosie watkins",
+    "match": "rosie watkins vs jenny cropley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championships",
+    "phase": "round-robin-1",
+    "winner": "jenny cropley",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs jenny cropley",
+    "race": 0
+  }
+]

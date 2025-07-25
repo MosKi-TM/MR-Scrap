@@ -1,0 +1,354 @@
+[
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "final",
+    "winner": "robbie mccutcheon",
+    "loser": "zak merton",
+    "match": "robbie mccutcheon vs zak merton",
+    "race": 1
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "final",
+    "winner": "robbie mccutcheon",
+    "loser": "zak merton",
+    "match": "robbie mccutcheon vs zak merton",
+    "race": 2
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "final",
+    "winner": "robbie mccutcheon",
+    "loser": "zak merton",
+    "match": "robbie mccutcheon vs zak merton",
+    "race": 3
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "josh hyde vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "josh hyde vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "zak merton",
+    "loser": "megan thomson",
+    "match": "megan thomson vs zak merton",
+    "race": 1
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "zak merton",
+    "loser": "megan thomson",
+    "match": "megan thomson vs zak merton",
+    "race": 2
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "zak merton",
+    "loser": "megan thomson",
+    "match": "megan thomson vs zak merton",
+    "race": 3
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "max mclachlan",
+    "loser": "maeve white",
+    "match": "max mclachlan vs maeve white",
+    "race": 1
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "maeve white",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs maeve white",
+    "race": 2
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "maeve white",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs maeve white",
+    "race": 3
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "max mclachlan",
+    "match": "megan thomson vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "zak merton",
+    "loser": "megan thomson",
+    "match": "megan thomson vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "maeve white vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "max mclachlan",
+    "loser": "maeve white",
+    "match": "maeve white vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "maeve white",
+    "match": "maeve white vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "zak merton",
+    "loser": "maeve white",
+    "match": "maeve white vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "max mclachlan",
+    "match": "robbie mccutcheon vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "zak merton",
+    "match": "robbie mccutcheon vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "zak merton",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "zak merton",
+    "match": "josh hyde vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "robbie mccutcheon",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "max mclachlan",
+    "match": "megan thomson vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "zak merton",
+    "match": "megan thomson vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "maeve white vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "maeve white",
+    "loser": "max mclachlan",
+    "match": "maeve white vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "maeve white",
+    "match": "maeve white vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "zak merton",
+    "loser": "maeve white",
+    "match": "maeve white vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "max mclachlan",
+    "match": "robbie mccutcheon vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "zak merton",
+    "match": "robbie mccutcheon vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "zak merton",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs zak merton",
+    "race": 0
+  },
+  {
+    "regatta": "Auckland Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "zak merton",
+    "loser": "josh hyde",
+    "match": "josh hyde vs zak merton",
+    "race": 0
+  }
+]

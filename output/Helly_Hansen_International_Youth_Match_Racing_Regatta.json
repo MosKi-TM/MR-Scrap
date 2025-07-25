@@ -1,0 +1,802 @@
+[
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "jeffrey petersen",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 2
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "jeffrey petersen",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 3
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "jeffrey petersen",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 4
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "zac west",
+    "loser": "josh hyde",
+    "match": "josh hyde vs zac west",
+    "race": 1
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "zac west",
+    "loser": "josh hyde",
+    "match": "josh hyde vs zac west",
+    "race": 2
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 1
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 2
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "jeffrey petersen vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "jeffrey petersen vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "cole tapper",
+    "match": "zac west vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "zac west",
+    "match": "zac west vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "marcello torre",
+    "match": "zac west vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "alec coleman",
+    "match": "zac west vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "zac west",
+    "match": "zac west vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "hugo butterworth",
+    "match": "zac west vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "daniel kemp",
+    "match": "zac west vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "ben crafoord",
+    "match": "zac west vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "zac west",
+    "loser": "ethan fong",
+    "match": "zac west vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "jeffrey petersen",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alec coleman",
+    "match": "cole tapper vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "cole tapper vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "hugo butterworth",
+    "match": "cole tapper vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "daniel kemp",
+    "match": "cole tapper vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "ben crafoord",
+    "match": "cole tapper vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "ethan fong",
+    "match": "cole tapper vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "alec coleman",
+    "match": "jeffrey petersen vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "jeffrey petersen vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "hugo butterworth",
+    "match": "jeffrey petersen vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "daniel kemp",
+    "match": "jeffrey petersen vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "ben crafoord",
+    "match": "jeffrey petersen vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "marcello torre",
+    "match": "marcello torre vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "marcello torre vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "hugo butterworth",
+    "match": "marcello torre vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "daniel kemp",
+    "match": "marcello torre vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "ben crafoord",
+    "match": "marcello torre vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "ethan fong",
+    "match": "marcello torre vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "josh hyde",
+    "match": "alec coleman vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "hugo butterworth",
+    "match": "alec coleman vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "daniel kemp",
+    "match": "alec coleman vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "alec coleman",
+    "match": "alec coleman vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "alec coleman",
+    "match": "alec coleman vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "hugo butterworth",
+    "match": "josh hyde vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ben crafoord",
+    "match": "josh hyde vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "hugo butterworth",
+    "match": "hugo butterworth vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "hugo butterworth",
+    "match": "hugo butterworth vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "hugo butterworth",
+    "loser": "ethan fong",
+    "match": "hugo butterworth vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "ben crafoord",
+    "match": "daniel kemp vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "zac west vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "zac west",
+    "loser": "jeffrey petersen",
+    "match": "zac west vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "zac west",
+    "match": "zac west vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "zac west",
+    "loser": "alec coleman",
+    "match": "zac west vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "zac west",
+    "match": "zac west vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "zac west",
+    "loser": "hugo butterworth",
+    "match": "zac west vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "zac west",
+    "loser": "daniel kemp",
+    "match": "zac west vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "zac west",
+    "match": "zac west vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "zac west",
+    "loser": "ethan fong",
+    "match": "zac west vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "alec coleman",
+    "match": "cole tapper vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "cole tapper",
+    "match": "cole tapper vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "hugo butterworth",
+    "match": "cole tapper vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "daniel kemp",
+    "match": "cole tapper vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "ben crafoord",
+    "match": "cole tapper vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "ethan fong",
+    "match": "cole tapper vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "alec coleman",
+    "match": "jeffrey petersen vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "jeffrey petersen vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "hugo butterworth",
+    "match": "jeffrey petersen vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "daniel kemp",
+    "match": "jeffrey petersen vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "ben crafoord",
+    "match": "jeffrey petersen vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "ethan fong",
+    "match": "jeffrey petersen vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "alec coleman",
+    "match": "marcello torre vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "marcello torre vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "hugo butterworth",
+    "match": "marcello torre vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "marcello torre",
+    "match": "marcello torre vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "alec coleman",
+    "match": "alec coleman vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "hugo butterworth",
+    "match": "alec coleman vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "alec coleman",
+    "match": "alec coleman vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "alec coleman",
+    "match": "alec coleman vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "alec coleman",
+    "match": "alec coleman vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "hugo butterworth",
+    "loser": "josh hyde",
+    "match": "josh hyde vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "ben crafoord",
+    "match": "josh hyde vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "hugo butterworth",
+    "loser": "daniel kemp",
+    "match": "hugo butterworth vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "hugo butterworth",
+    "match": "hugo butterworth vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "hugo butterworth",
+    "match": "hugo butterworth vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "ben crafoord",
+    "match": "daniel kemp vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Helly Hansen International Youth Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs ethan fong",
+    "race": 0
+  }
+]

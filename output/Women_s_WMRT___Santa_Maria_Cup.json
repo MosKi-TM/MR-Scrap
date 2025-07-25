@@ -1,0 +1,874 @@
+[
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "nicole breault",
+    "match": "nicole breault vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "nicole breault",
+    "match": "nicole breault vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "nicole breault",
+    "match": "nicole breault vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "celia willison",
+    "loser": "nicole breault",
+    "match": "nicole breault vs celia willison",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "5th-/-6th",
+    "winner": "bridget groble",
+    "loser": "brooke wilson",
+    "match": "bridget groble vs brooke wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "5th-/-6th",
+    "winner": "bridget groble",
+    "loser": "brooke wilson",
+    "match": "bridget groble vs brooke wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "7th-/-8th",
+    "winner": "janel zarkowsky",
+    "loser": "allie blecher",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "7th-/-8th",
+    "winner": "janel zarkowsky",
+    "loser": "allie blecher",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "janel zarkowsky",
+    "match": "anna ostling vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "allie blecher",
+    "match": "anna ostling vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "bridget groble",
+    "match": "anna ostling vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "sophie otter",
+    "match": "nicole breault vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "janel zarkowsky",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "kristine mauritzen",
+    "match": "nicole breault vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "allie blecher",
+    "match": "nicole breault vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "bridget groble",
+    "match": "nicole breault vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "brooke wilson",
+    "match": "nicole breault vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "janel zarkowsky",
+    "match": "celia willison vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "allie blecher",
+    "match": "celia willison vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "bridget groble",
+    "match": "celia willison vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "megan thomson",
+    "match": "sophie otter vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "sophie otter",
+    "match": "sophie otter vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "kristine mauritzen",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "sophie otter",
+    "match": "sophie otter vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "bridget groble",
+    "loser": "sophie otter",
+    "match": "sophie otter vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "janel zarkowsky",
+    "match": "megan thomson vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "allie blecher",
+    "match": "megan thomson vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "bridget groble",
+    "loser": "megan thomson",
+    "match": "megan thomson vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "brooke wilson",
+    "match": "megan thomson vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "kristine mauritzen",
+    "match": "janel zarkowsky vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "bridget groble",
+    "match": "janel zarkowsky vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "brooke wilson",
+    "match": "janel zarkowsky vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "bridget groble",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "bridget groble",
+    "loser": "allie blecher",
+    "match": "allie blecher vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "allie blecher",
+    "match": "allie blecher vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "bridget groble",
+    "loser": "brooke wilson",
+    "match": "bridget groble vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "janel zarkowsky",
+    "match": "anna ostling vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "anna ostling",
+    "match": "anna ostling vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "bridget groble",
+    "match": "anna ostling vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "sophie otter",
+    "match": "nicole breault vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "janel zarkowsky",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "kristine mauritzen",
+    "match": "nicole breault vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "nicole breault",
+    "match": "nicole breault vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "bridget groble",
+    "match": "nicole breault vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "brooke wilson",
+    "match": "nicole breault vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "janel zarkowsky",
+    "match": "celia willison vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "celia willison",
+    "match": "celia willison vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "bridget groble",
+    "loser": "celia willison",
+    "match": "celia willison vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "megan thomson",
+    "match": "sophie otter vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "janel zarkowsky",
+    "match": "sophie otter vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "kristine mauritzen",
+    "loser": "sophie otter",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "sophie otter",
+    "match": "sophie otter vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "bridget groble",
+    "loser": "sophie otter",
+    "match": "sophie otter vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "brooke wilson",
+    "match": "sophie otter vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "janel zarkowsky",
+    "match": "megan thomson vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "allie blecher",
+    "match": "megan thomson vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "bridget groble",
+    "match": "megan thomson vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "megan thomson",
+    "match": "megan thomson vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "kristine mauritzen",
+    "match": "janel zarkowsky vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "allie blecher",
+    "match": "janel zarkowsky vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "bridget groble",
+    "match": "janel zarkowsky vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "bridget groble",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "bridget groble",
+    "loser": "allie blecher",
+    "match": "allie blecher vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "allie blecher",
+    "match": "allie blecher vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "bridget groble",
+    "match": "bridget groble vs brooke wilson",
+    "race": 0
+  }
+]

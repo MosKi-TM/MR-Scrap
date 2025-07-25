@@ -1,0 +1,266 @@
+[
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "claire leroy",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "claire leroy",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "claire leroy",
+    "match": "anna tunnicliffe vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "petit-final",
+    "winner": "olivia price",
+    "loser": "tamara echegoyen",
+    "match": "olivia price vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "petit-final",
+    "winner": "tamara echegoyen",
+    "loser": "olivia price",
+    "match": "olivia price vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "petit-final",
+    "winner": "olivia price",
+    "loser": "tamara echegoyen",
+    "match": "olivia price vs tamara echegoyen",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-1",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-1",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 5
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "olivia price",
+    "match": "anna tunnicliffe vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "olivia price",
+    "match": "anna tunnicliffe vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "olivia price",
+    "match": "anna tunnicliffe vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "5th-/-6th",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "7th-/-8th",
+    "winner": "mandy mulder",
+    "loser": "sally barkow",
+    "match": "sally barkow vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "5th-to-8th-(a)",
+    "winner": "lucy macgregor",
+    "loser": "sally barkow",
+    "match": "lucy macgregor vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "5th-to-8th-(b)",
+    "winner": "ekaterina skudina",
+    "loser": "mandy mulder",
+    "match": "ekaterina skudina vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "anna tunnicliffe vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "anna tunnicliffe vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "anna tunnicliffe vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-3",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-3",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-3",
+    "winner": "mandy mulder",
+    "loser": "olivia price",
+    "match": "mandy mulder vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-3",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-4",
+    "winner": "tamara echegoyen",
+    "loser": "sally barkow",
+    "match": "tamara echegoyen vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-4",
+    "winner": "sally barkow",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-4",
+    "winner": "tamara echegoyen",
+    "loser": "sally barkow",
+    "match": "tamara echegoyen vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Trofeo Princesa Sofia",
+    "phase": "quarter-final-4",
+    "winner": "tamara echegoyen",
+    "loser": "sally barkow",
+    "match": "tamara echegoyen vs sally barkow",
+    "race": 4
+  }
+]

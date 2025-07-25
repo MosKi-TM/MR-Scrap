@@ -1,0 +1,1234 @@
+[
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "morgan pinckney",
+    "loser": "justin callahan",
+    "match": "morgan pinckney vs justin callahan",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "morgan pinckney",
+    "loser": "justin callahan",
+    "match": "morgan pinckney vs justin callahan",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "justin callahan",
+    "match": "jeffrey petersen vs justin callahan",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "justin callahan",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs justin callahan",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "justin callahan",
+    "match": "jeffrey petersen vs justin callahan",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "justin callahan",
+    "match": "jeffrey petersen vs justin callahan",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "morgan pinckney",
+    "loser": "cole tapper",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "morgan pinckney",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "morgan pinckney",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "morgan pinckney",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "alexander colquitt",
+    "loser": "nicolas yudji bernal",
+    "match": "alexander colquitt vs nicolas yudji bernal",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "nicolas yudji bernal",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs nicolas yudji bernal",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "alexander colquitt",
+    "loser": "nicolas yudji bernal",
+    "match": "alexander colquitt vs nicolas yudji bernal",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "marcello torre",
+    "loser": "max paul",
+    "match": "marcello torre vs max paul",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "max paul",
+    "loser": "marcello torre",
+    "match": "marcello torre vs max paul",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "max paul",
+    "loser": "marcello torre",
+    "match": "marcello torre vs max paul",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "josh hyde",
+    "loser": "alec coleman",
+    "match": "josh hyde vs alec coleman",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "alec coleman",
+    "loser": "josh hyde",
+    "match": "josh hyde vs alec coleman",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "josh hyde",
+    "loser": "alec coleman",
+    "match": "josh hyde vs alec coleman",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs justin callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "alec coleman",
+    "match": "nicolas yudji bernal vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "tom higgins",
+    "match": "nicolas yudji bernal vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "josh hyde",
+    "match": "nicolas yudji bernal vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "morgan pinckney",
+    "match": "nicolas yudji bernal vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "timothee rossi",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "cole tapper",
+    "match": "nicolas yudji bernal vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "nicolas yudji bernal",
+    "loser": "marcello torre",
+    "match": "nicolas yudji bernal vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "alec coleman",
+    "match": "justin callahan vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "alexander colquitt",
+    "match": "justin callahan vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "tom higgins",
+    "match": "justin callahan vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "justin callahan",
+    "match": "justin callahan vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "max paul",
+    "match": "justin callahan vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "justin callahan",
+    "match": "justin callahan vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "justin callahan",
+    "match": "justin callahan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "justin callahan",
+    "loser": "timothee rossi",
+    "match": "justin callahan vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "justin callahan",
+    "match": "justin callahan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "justin callahan",
+    "match": "justin callahan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "alec coleman",
+    "match": "alec coleman vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "tom higgins",
+    "match": "alec coleman vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "alec coleman",
+    "match": "alec coleman vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "alec coleman",
+    "match": "alec coleman vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "alec coleman",
+    "match": "alec coleman vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "alec coleman",
+    "match": "alec coleman vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alec coleman",
+    "loser": "timothee rossi",
+    "match": "alec coleman vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alec coleman",
+    "match": "alec coleman vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "alec coleman",
+    "match": "alec coleman vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "tom higgins",
+    "match": "alexander colquitt vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "max paul",
+    "match": "alexander colquitt vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "timothee rossi",
+    "match": "alexander colquitt vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "alexander colquitt",
+    "loser": "marcello torre",
+    "match": "alexander colquitt vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "tom higgins",
+    "match": "tom higgins vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "tom higgins",
+    "match": "tom higgins vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "tom higgins vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "tom higgins",
+    "match": "tom higgins vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "timothee rossi",
+    "loser": "tom higgins",
+    "match": "tom higgins vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "tom higgins",
+    "match": "tom higgins vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "tom higgins",
+    "match": "tom higgins vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "josh hyde",
+    "match": "josh hyde vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "josh hyde vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "josh hyde",
+    "match": "josh hyde vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "timothee rossi",
+    "loser": "josh hyde",
+    "match": "josh hyde vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "josh hyde vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "josh hyde vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "max paul",
+    "match": "max paul vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "morgan pinckney",
+    "match": "max paul vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "timothee rossi",
+    "match": "max paul vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "cole tapper",
+    "match": "max paul vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "max paul",
+    "match": "max paul vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "timothee rossi",
+    "match": "morgan pinckney vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "cole tapper",
+    "match": "morgan pinckney vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "justin callahan",
+    "match": "nicolas yudji bernal vs justin callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "alexander colquitt",
+    "match": "nicolas yudji bernal vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "tom higgins",
+    "match": "nicolas yudji bernal vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "max paul",
+    "match": "nicolas yudji bernal vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "timothee rossi",
+    "match": "nicolas yudji bernal vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "nicolas yudji bernal",
+    "loser": "cole tapper",
+    "match": "nicolas yudji bernal vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "nicolas yudji bernal",
+    "match": "nicolas yudji bernal vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "alec coleman",
+    "match": "justin callahan vs alec coleman",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "alexander colquitt",
+    "match": "justin callahan vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "tom higgins",
+    "match": "justin callahan vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "josh hyde",
+    "match": "justin callahan vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "max paul",
+    "match": "justin callahan vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "justin callahan",
+    "match": "justin callahan vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "morgan pinckney",
+    "match": "justin callahan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "justin callahan",
+    "loser": "timothee rossi",
+    "match": "justin callahan vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "justin callahan",
+    "match": "justin callahan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "justin callahan",
+    "match": "justin callahan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "alec coleman",
+    "match": "alec coleman vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "tom higgins",
+    "match": "alec coleman vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "alec coleman",
+    "match": "alec coleman vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "max paul",
+    "match": "alec coleman vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "alec coleman",
+    "match": "alec coleman vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "morgan pinckney",
+    "match": "alec coleman vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "timothee rossi",
+    "loser": "alec coleman",
+    "match": "alec coleman vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "cole tapper",
+    "match": "alec coleman vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alec coleman",
+    "loser": "marcello torre",
+    "match": "alec coleman vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "tom higgins",
+    "match": "alexander colquitt vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "josh hyde",
+    "match": "alexander colquitt vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "max paul",
+    "match": "alexander colquitt vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "timothee rossi",
+    "match": "alexander colquitt vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "alexander colquitt",
+    "match": "alexander colquitt vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "alexander colquitt",
+    "loser": "marcello torre",
+    "match": "alexander colquitt vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "tom higgins",
+    "match": "tom higgins vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "tom higgins",
+    "match": "tom higgins vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "tom higgins vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "tom higgins",
+    "match": "tom higgins vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "timothee rossi",
+    "loser": "tom higgins",
+    "match": "tom higgins vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "tom higgins",
+    "match": "tom higgins vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "tom higgins",
+    "match": "tom higgins vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "max paul",
+    "match": "josh hyde vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "josh hyde",
+    "match": "josh hyde vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "josh hyde",
+    "match": "josh hyde vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "timothee rossi",
+    "match": "josh hyde vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "josh hyde vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "josh hyde vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "max paul",
+    "match": "max paul vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "max paul",
+    "match": "max paul vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "timothee rossi",
+    "match": "max paul vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "cole tapper",
+    "match": "max paul vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "max paul",
+    "match": "max paul vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "morgan pinckney",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "timothee rossi",
+    "match": "morgan pinckney vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 56th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  }
+]

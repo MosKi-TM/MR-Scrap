@@ -1,0 +1,586 @@
+[
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "final",
+    "winner": "zac pullen",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "final",
+    "winner": "zac pullen",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "final",
+    "winner": "michah shuwalow",
+    "loser": "zac pullen",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "final",
+    "winner": "zac pullen",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 4
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "petit-final",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "petit-final",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "semi-final-1",
+    "winner": "michah shuwalow",
+    "loser": "hayden brown",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "semi-final-1",
+    "winner": "michah shuwalow",
+    "loser": "hayden brown",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "semi-final-2",
+    "winner": "zac pullen",
+    "loser": "james hodgson",
+    "match": "james hodgson vs zac pullen",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "zac pullen",
+    "match": "james hodgson vs zac pullen",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "semi-final-2",
+    "winner": "zac pullen",
+    "loser": "james hodgson",
+    "match": "james hodgson vs zac pullen",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "5th-/-6th",
+    "winner": "jordan sunkel-lozell",
+    "loser": "tom trotman",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "5th-/-6th",
+    "winner": "jordan sunkel-lozell",
+    "loser": "tom trotman",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "michah shuwalow",
+    "loser": "tom trotman",
+    "match": "tom trotman vs michah shuwalow",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "tom trotman",
+    "loser": "jordan sunkel-lozell",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "james hodgson",
+    "loser": "tom trotman",
+    "match": "tom trotman vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "zac pullen",
+    "loser": "tom trotman",
+    "match": "tom trotman vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "hayden brown",
+    "loser": "tom trotman",
+    "match": "tom trotman vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "michah shuwalow",
+    "loser": "jordan sunkel-lozell",
+    "match": "michah shuwalow vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "michah shuwalow",
+    "loser": "james hodgson",
+    "match": "michah shuwalow vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "michah shuwalow",
+    "loser": "zac pullen",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "michah shuwalow",
+    "loser": "hayden brown",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "james hodgson",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "zac pullen",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "hayden brown",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "james hodgson",
+    "loser": "zac pullen",
+    "match": "james hodgson vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-4",
+    "winner": "zac pullen",
+    "loser": "hayden brown",
+    "match": "zac pullen vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "michah shuwalow",
+    "loser": "tom trotman",
+    "match": "tom trotman vs michah shuwalow",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "tom trotman",
+    "loser": "jordan sunkel-lozell",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "james hodgson",
+    "loser": "tom trotman",
+    "match": "tom trotman vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "zac pullen",
+    "loser": "tom trotman",
+    "match": "tom trotman vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "hayden brown",
+    "loser": "tom trotman",
+    "match": "tom trotman vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "michah shuwalow",
+    "loser": "jordan sunkel-lozell",
+    "match": "michah shuwalow vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "james hodgson",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "michah shuwalow",
+    "loser": "zac pullen",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "michah shuwalow",
+    "loser": "hayden brown",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "james hodgson",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "zac pullen",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "hayden brown",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "james hodgson",
+    "loser": "zac pullen",
+    "match": "james hodgson vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-3",
+    "winner": "hayden brown",
+    "loser": "zac pullen",
+    "match": "zac pullen vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "michah shuwalow",
+    "loser": "tom trotman",
+    "match": "tom trotman vs michah shuwalow",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "jordan sunkel-lozell",
+    "loser": "tom trotman",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "tom trotman",
+    "loser": "james hodgson",
+    "match": "tom trotman vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "zac pullen",
+    "loser": "tom trotman",
+    "match": "tom trotman vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "hayden brown",
+    "loser": "tom trotman",
+    "match": "tom trotman vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "michah shuwalow",
+    "loser": "jordan sunkel-lozell",
+    "match": "michah shuwalow vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "michah shuwalow",
+    "loser": "james hodgson",
+    "match": "michah shuwalow vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "zac pullen",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "hayden brown",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "jordan sunkel-lozell",
+    "loser": "james hodgson",
+    "match": "jordan sunkel-lozell vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "zac pullen",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "hayden brown",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "zac pullen",
+    "loser": "james hodgson",
+    "match": "james hodgson vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-2",
+    "winner": "zac pullen",
+    "loser": "hayden brown",
+    "match": "zac pullen vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "michah shuwalow",
+    "loser": "tom trotman",
+    "match": "tom trotman vs michah shuwalow",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "tom trotman",
+    "loser": "jordan sunkel-lozell",
+    "match": "tom trotman vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "tom trotman",
+    "loser": "james hodgson",
+    "match": "tom trotman vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "zac pullen",
+    "loser": "tom trotman",
+    "match": "tom trotman vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "hayden brown",
+    "loser": "tom trotman",
+    "match": "tom trotman vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "michah shuwalow",
+    "loser": "jordan sunkel-lozell",
+    "match": "michah shuwalow vs jordan sunkel-lozell",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "michah shuwalow",
+    "match": "michah shuwalow vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "michah shuwalow",
+    "loser": "zac pullen",
+    "match": "michah shuwalow vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "michah shuwalow",
+    "loser": "hayden brown",
+    "match": "michah shuwalow vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "zac pullen",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "hayden brown",
+    "loser": "jordan sunkel-lozell",
+    "match": "jordan sunkel-lozell vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "zac pullen",
+    "loser": "james hodgson",
+    "match": "james hodgson vs zac pullen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Nationals",
+    "phase": "round-robin-1",
+    "winner": "hayden brown",
+    "loser": "zac pullen",
+    "match": "zac pullen vs hayden brown",
+    "race": 0
+  }
+]

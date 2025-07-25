@@ -1,0 +1,1266 @@
+[
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs rnzys - nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs rnzys - nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - leonard takahashi vs rnzys - nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - leonard takahashi vs rnzys - nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs rnzys - nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cyc - frank dair",
+    "match": "ryc/ss - jack parkin vs cyc - frank dair",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cyc - frank dair",
+    "match": "ryc/ss - jack parkin vs cyc - frank dair",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs rnzys - nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "ryc/ss - jack parkin vs rnzys - nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "ryc/ss - jack parkin vs rnzys - nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs rnzys - nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs rnzys - nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs cyc - frank dair",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs cyc - frank dair",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyc - frank dair",
+    "match": "rnzys - leonard takahashi vs cyc - frank dair",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyc - frank dair",
+    "match": "rnzys - leonard takahashi vs cyc - frank dair",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyc - frank dair",
+    "match": "rnzys - leonard takahashi vs cyc - frank dair",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "cyca - finn tapper",
+    "match": "cyca - finn tapper vs rnzys - jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "cyca - finn tapper",
+    "match": "cyca - finn tapper vs rnzys - jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "byc - david wood",
+    "loser": "pyc - matt whitfield",
+    "match": "byc - david wood vs pyc - matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "pyc - matt whitfield",
+    "loser": "byc - david wood",
+    "match": "byc - david wood vs pyc - matt whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "pyc - matt whitfield",
+    "loser": "byc - david wood",
+    "match": "byc - david wood vs pyc - matt whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "rpayc - clare costanzo",
+    "loser": "cbyc - cameron feves",
+    "match": "rpayc - clare costanzo vs cbyc - cameron feves",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "rpayc - clare costanzo",
+    "loser": "cbyc - cameron feves",
+    "match": "rpayc - clare costanzo vs cbyc - cameron feves",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rsyc - mans holmberg",
+    "match": "rdyc - jeppe borch vs rsyc - mans holmberg",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rsyc - mans holmberg",
+    "match": "rdyc - jeppe borch vs rsyc - mans holmberg",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rpayc - clare costanzo",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rpayc - clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs cyc - frank dair",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rdyc - jeppe borch vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rsyc - mans holmberg",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rdyc - jeppe borch vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rdyc - jeppe borch",
+    "loser": "cyca - finn tapper",
+    "match": "rdyc - jeppe borch vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "pyc - matt whitfield",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "byc - david wood",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs cyc - frank dair",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rpayc - clare costanzo",
+    "loser": "rsyc - mans holmberg",
+    "match": "rpayc - clare costanzo vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyca - finn tapper",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "pyc - matt whitfield",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "byc - david wood",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "cyc - frank dair vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "rsyc - mans holmberg",
+    "match": "cyc - frank dair vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "cyca - finn tapper",
+    "match": "cyc - frank dair vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyc - frank dair",
+    "loser": "pyc - matt whitfield",
+    "match": "cyc - frank dair vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "byc - david wood",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "cbyc - cameron feves",
+    "match": "rnzys - nick egnot-johnson vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rsyc - mans holmberg",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - nick egnot-johnson vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - nick egnot-johnson vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - nick egnot-johnson vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - nick egnot-johnson vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "cyca - finn tapper",
+    "match": "rnzys - nick egnot-johnson vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "pyc - matt whitfield",
+    "match": "rnzys - nick egnot-johnson vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "byc - david wood",
+    "match": "rnzys - nick egnot-johnson vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "rsyc - mans holmberg",
+    "match": "cbyc - cameron feves vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "rnzys - jordan stevenson",
+    "match": "cbyc - cameron feves vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyca - finn tapper",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "pyc - matt whitfield",
+    "match": "cbyc - cameron feves vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cbyc - cameron feves",
+    "loser": "byc - david wood",
+    "match": "cbyc - cameron feves vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyca - finn tapper",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rsyc - mans holmberg",
+    "loser": "pyc - matt whitfield",
+    "match": "rsyc - mans holmberg vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rsyc - mans holmberg",
+    "loser": "byc - david wood",
+    "match": "rsyc - mans holmberg vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - jordan stevenson",
+    "match": "ryc/ss - jack parkin vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyca - finn tapper",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "pyc - matt whitfield",
+    "match": "ryc/ss - jack parkin vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "byc - david wood",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - jordan stevenson vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cyca - finn tapper",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - jordan stevenson vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "pyc - matt whitfield",
+    "match": "rnzys - jordan stevenson vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "byc - david wood",
+    "match": "rnzys - jordan stevenson vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyca - finn tapper",
+    "match": "rnzys - leonard takahashi vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "pyc - matt whitfield",
+    "match": "rnzys - leonard takahashi vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "byc - david wood",
+    "match": "rnzys - leonard takahashi vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "pyc - matt whitfield",
+    "loser": "cyca - finn tapper",
+    "match": "cyca - finn tapper vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "byc - david wood",
+    "loser": "cyca - finn tapper",
+    "match": "cyca - finn tapper vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "pyc - matt whitfield",
+    "loser": "byc - david wood",
+    "match": "pyc - matt whitfield vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rpayc - clare costanzo",
+    "match": "rdyc - jeppe borch vs rpayc - clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rdyc - jeppe borch",
+    "loser": "cyc - frank dair",
+    "match": "rdyc - jeppe borch vs cyc - frank dair",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rdyc - jeppe borch",
+    "loser": "cbyc - cameron feves",
+    "match": "rdyc - jeppe borch vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rdyc - jeppe borch",
+    "loser": "rsyc - mans holmberg",
+    "match": "rdyc - jeppe borch vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "byc - david wood",
+    "loser": "rdyc - jeppe borch",
+    "match": "rdyc - jeppe borch vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "cyc - frank dair",
+    "match": "rpayc - clare costanzo vs cyc - frank dair",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "cbyc - cameron feves",
+    "match": "rpayc - clare costanzo vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "rsyc - mans holmberg",
+    "match": "rpayc - clare costanzo vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "ryc/ss - jack parkin",
+    "match": "rpayc - clare costanzo vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "cyca - finn tapper",
+    "match": "rpayc - clare costanzo vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rpayc - clare costanzo",
+    "loser": "pyc - matt whitfield",
+    "match": "rpayc - clare costanzo vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "byc - david wood",
+    "loser": "rpayc - clare costanzo",
+    "match": "rpayc - clare costanzo vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "cyc - frank dair vs rnzys - nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "cbyc - cameron feves",
+    "match": "cyc - frank dair vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "rsyc - mans holmberg",
+    "match": "cyc - frank dair vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - jordan stevenson",
+    "match": "cyc - frank dair vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "rnzys - leonard takahashi",
+    "match": "cyc - frank dair vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "cyca - finn tapper",
+    "match": "cyc - frank dair vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyc - frank dair",
+    "loser": "pyc - matt whitfield",
+    "match": "cyc - frank dair vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "byc - david wood",
+    "loser": "cyc - frank dair",
+    "match": "cyc - frank dair vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cbyc - cameron feves",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - nick egnot-johnson vs cbyc - cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rsyc - mans holmberg",
+    "match": "rnzys - nick egnot-johnson vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - nick egnot-johnson vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - nick egnot-johnson vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rnzys - nick egnot-johnson",
+    "match": "rnzys - nick egnot-johnson vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "cyca - finn tapper",
+    "match": "rnzys - nick egnot-johnson vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "pyc - matt whitfield",
+    "match": "rnzys - nick egnot-johnson vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - nick egnot-johnson",
+    "loser": "byc - david wood",
+    "match": "rnzys - nick egnot-johnson vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rsyc - mans holmberg",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs rsyc - mans holmberg",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "byc - david wood",
+    "loser": "cbyc - cameron feves",
+    "match": "cbyc - cameron feves vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs ryc/ss - jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "rsyc - mans holmberg",
+    "match": "rsyc - mans holmberg vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rsyc - mans holmberg",
+    "loser": "byc - david wood",
+    "match": "rsyc - mans holmberg vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs rnzys - jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "rnzys - leonard takahashi",
+    "match": "ryc/ss - jack parkin vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "ryc/ss - jack parkin",
+    "match": "ryc/ss - jack parkin vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ryc/ss - jack parkin",
+    "loser": "byc - david wood",
+    "match": "ryc/ss - jack parkin vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - jordan stevenson",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - jordan stevenson vs rnzys - leonard takahashi",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - jordan stevenson vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - jordan stevenson vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "byc - david wood",
+    "loser": "rnzys - jordan stevenson",
+    "match": "rnzys - jordan stevenson vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyca - finn tapper",
+    "match": "rnzys - leonard takahashi vs cyca - finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "pyc - matt whitfield",
+    "match": "rnzys - leonard takahashi vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "byc - david wood",
+    "match": "rnzys - leonard takahashi vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "pyc - matt whitfield",
+    "match": "cyca - finn tapper vs pyc - matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cyca - finn tapper",
+    "loser": "byc - david wood",
+    "match": "cyca - finn tapper vs byc - david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 53rd Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "pyc - matt whitfield",
+    "loser": "byc - david wood",
+    "match": "pyc - matt whitfield vs byc - david wood",
+    "race": 0
+  }
+]

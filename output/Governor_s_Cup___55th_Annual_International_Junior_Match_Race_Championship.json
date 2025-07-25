@@ -1,0 +1,1282 @@
+[
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jordan stevenson",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jordan stevenson",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "jordan stevenson",
+    "match": "jeffrey petersen vs jordan stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "jordan stevenson",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jordan stevenson",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "jack egan",
+    "loser": "marius westerlind",
+    "match": "jack egan vs marius westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "marius westerlind",
+    "loser": "jack egan",
+    "match": "jack egan vs marius westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "jack egan",
+    "loser": "marius westerlind",
+    "match": "jack egan vs marius westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "marius westerlind",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "jordan stevenson",
+    "loser": "jack egan",
+    "match": "jordan stevenson vs jack egan",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "jack egan",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack egan",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "jack egan",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack egan",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "jordan stevenson",
+    "loser": "jack egan",
+    "match": "jordan stevenson vs jack egan",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "jordan stevenson",
+    "loser": "jack egan",
+    "match": "jordan stevenson vs jack egan",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "cole tapper vs will sargent",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "will sargent",
+    "loser": "cole tapper",
+    "match": "cole tapper vs will sargent",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "will sargent",
+    "loser": "cole tapper",
+    "match": "cole tapper vs will sargent",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "cole tapper vs will sargent",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "morgan pinckney",
+    "loser": "robbie king",
+    "match": "morgan pinckney vs robbie king",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "morgan pinckney",
+    "loser": "robbie king",
+    "match": "morgan pinckney vs robbie king",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "marcello torre",
+    "loser": "ansgar jordan",
+    "match": "marcello torre vs ansgar jordan",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "ansgar jordan",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ansgar jordan",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "marcello torre",
+    "loser": "ansgar jordan",
+    "match": "marcello torre vs ansgar jordan",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "robbie mccutcheon",
+    "loser": "porter kavle",
+    "match": "porter kavle vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "porter kavle",
+    "loser": "robbie mccutcheon",
+    "match": "porter kavle vs robbie mccutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "robbie mccutcheon",
+    "loser": "porter kavle",
+    "match": "porter kavle vs robbie mccutcheon",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "will sargent",
+    "match": "jordan stevenson vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "robbie king",
+    "match": "jordan stevenson vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "robbie mccutcheon",
+    "match": "jordan stevenson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "marius westerlind",
+    "match": "jordan stevenson vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "ansgar jordan",
+    "match": "jordan stevenson vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "porter kavle",
+    "match": "jordan stevenson vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "jack egan",
+    "match": "jordan stevenson vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "cole tapper",
+    "match": "jordan stevenson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "marcello torre",
+    "match": "jordan stevenson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "morgan pinckney",
+    "match": "jordan stevenson vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "will sargent",
+    "match": "jeffrey petersen vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "robbie king",
+    "match": "jeffrey petersen vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "robbie mccutcheon",
+    "match": "jeffrey petersen vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ansgar jordan",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "porter kavle",
+    "match": "jeffrey petersen vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "morgan pinckney",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "robbie king",
+    "match": "will sargent vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "robbie mccutcheon",
+    "match": "will sargent vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "marius westerlind",
+    "match": "will sargent vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ansgar jordan",
+    "loser": "will sargent",
+    "match": "will sargent vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "porter kavle",
+    "match": "will sargent vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "jack egan",
+    "match": "will sargent vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "marcello torre",
+    "match": "will sargent vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "will sargent",
+    "match": "will sargent vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "robbie king",
+    "match": "robbie king vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "robbie king",
+    "match": "robbie king vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "ansgar jordan",
+    "match": "robbie king vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "porter kavle",
+    "match": "robbie king vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "robbie king",
+    "match": "robbie king vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "robbie king",
+    "match": "robbie king vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "marcello torre",
+    "match": "robbie king vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "morgan pinckney",
+    "match": "robbie king vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ansgar jordan",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "porter kavle",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "cole tapper",
+    "match": "robbie mccutcheon vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "marcello torre",
+    "match": "robbie mccutcheon vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "ansgar jordan",
+    "match": "marius westerlind vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "porter kavle",
+    "match": "marius westerlind vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "cole tapper",
+    "match": "marius westerlind vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marius westerlind",
+    "loser": "marcello torre",
+    "match": "marius westerlind vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ansgar jordan",
+    "loser": "porter kavle",
+    "match": "ansgar jordan vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "ansgar jordan",
+    "loser": "morgan pinckney",
+    "match": "ansgar jordan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "porter kavle",
+    "match": "porter kavle vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "porter kavle",
+    "match": "porter kavle vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "marcello torre",
+    "loser": "porter kavle",
+    "match": "porter kavle vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "porter kavle",
+    "loser": "morgan pinckney",
+    "match": "porter kavle vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "cole tapper",
+    "match": "jack egan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "marcello torre",
+    "match": "jack egan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "morgan pinckney",
+    "match": "jack egan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "morgan pinckney",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "marcello torre",
+    "match": "marcello torre vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "will sargent",
+    "match": "jordan stevenson vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "robbie king",
+    "match": "jordan stevenson vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "robbie mccutcheon",
+    "match": "jordan stevenson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ansgar jordan",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "porter kavle",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "jack egan",
+    "match": "jordan stevenson vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "cole tapper",
+    "match": "jordan stevenson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "morgan pinckney",
+    "match": "jordan stevenson vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "will sargent",
+    "match": "jeffrey petersen vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "robbie king",
+    "match": "jeffrey petersen vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "robbie mccutcheon",
+    "match": "jeffrey petersen vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "ansgar jordan",
+    "match": "jeffrey petersen vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "porter kavle",
+    "match": "jeffrey petersen vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "jack egan",
+    "match": "jeffrey petersen vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "marcello torre",
+    "match": "jeffrey petersen vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "morgan pinckney",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "robbie king",
+    "match": "will sargent vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "robbie mccutcheon",
+    "match": "will sargent vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "marius westerlind",
+    "match": "will sargent vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ansgar jordan",
+    "loser": "will sargent",
+    "match": "will sargent vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "porter kavle",
+    "match": "will sargent vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "will sargent",
+    "match": "will sargent vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "marcello torre",
+    "match": "will sargent vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "will sargent",
+    "match": "will sargent vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "robbie mccutcheon",
+    "match": "robbie king vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "robbie king",
+    "match": "robbie king vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "ansgar jordan",
+    "match": "robbie king vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "porter kavle",
+    "match": "robbie king vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "jack egan",
+    "match": "robbie king vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "cole tapper",
+    "match": "robbie king vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "robbie king",
+    "match": "robbie king vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "robbie king",
+    "match": "robbie king vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "ansgar jordan",
+    "match": "robbie mccutcheon vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "porter kavle",
+    "match": "robbie mccutcheon vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "ansgar jordan",
+    "match": "marius westerlind vs ansgar jordan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "porter kavle",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "jack egan",
+    "match": "marius westerlind vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "cole tapper",
+    "match": "marius westerlind vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "morgan pinckney",
+    "match": "marius westerlind vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "porter kavle",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs porter kavle",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "ansgar jordan",
+    "loser": "cole tapper",
+    "match": "ansgar jordan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "porter kavle",
+    "loser": "jack egan",
+    "match": "porter kavle vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "porter kavle",
+    "match": "porter kavle vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "marcello torre",
+    "loser": "porter kavle",
+    "match": "porter kavle vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "porter kavle",
+    "loser": "morgan pinckney",
+    "match": "porter kavle vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "cole tapper",
+    "match": "jack egan vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "marcello torre",
+    "match": "jack egan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "morgan pinckney",
+    "match": "jack egan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "cole tapper",
+    "match": "cole tapper vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Governor's Cup – 55th Annual International Junior Match Race Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "marcello torre",
+    "match": "marcello torre vs morgan pinckney",
+    "race": 0
+  }
+]

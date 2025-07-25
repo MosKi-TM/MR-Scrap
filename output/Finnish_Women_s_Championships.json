@@ -1,0 +1,66 @@
+[
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "final",
+    "winner": "susanna kukkonen",
+    "loser": "mikaela fors",
+    "match": "mikaela fors vs susanna kukkonen",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "final",
+    "winner": "mikaela fors",
+    "loser": "susanna kukkonen",
+    "match": "mikaela fors vs susanna kukkonen",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "final",
+    "winner": "mikaela fors",
+    "loser": "susanna kukkonen",
+    "match": "mikaela fors vs susanna kukkonen",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "petit-final",
+    "winner": "noora tams",
+    "loser": "peppi karlemo",
+    "match": "noora tams vs peppi karlemo",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "semi-final-1",
+    "winner": "mikaela fors",
+    "loser": "noora tams",
+    "match": "mikaela fors vs noora tams",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "semi-final-1",
+    "winner": "mikaela fors",
+    "loser": "noora tams",
+    "match": "mikaela fors vs noora tams",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "semi-final-2",
+    "winner": "susanna kukkonen",
+    "loser": "peppi karlemo",
+    "match": "peppi karlemo vs susanna kukkonen",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's Championships",
+    "phase": "semi-final-2",
+    "winner": "susanna kukkonen",
+    "loser": "peppi karlemo",
+    "match": "peppi karlemo vs susanna kukkonen",
+    "race": 2
+  }
+]

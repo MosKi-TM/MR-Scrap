@@ -1,0 +1,562 @@
+[
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "final",
+    "winner": "jemima lawson",
+    "loser": "octavia owen",
+    "match": "jemima lawson vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs octavia owen",
+    "race": 3
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs octavia owen",
+    "race": 4
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "petit-final",
+    "winner": "rosie watkins",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rosie watkins",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "petit-final",
+    "winner": "ali morrish",
+    "loser": "rosie watkins",
+    "match": "ali morrish vs rosie watkins",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "petit-final",
+    "winner": "rosie watkins",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rosie watkins",
+    "race": 3
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "semi-final-1",
+    "winner": "jemima lawson",
+    "loser": "rosie watkins",
+    "match": "jemima lawson vs rosie watkins",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "semi-final-1",
+    "winner": "jemima lawson",
+    "loser": "rosie watkins",
+    "match": "jemima lawson vs rosie watkins",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "5th-/-6th",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "6th-/-7th",
+    "winner": "sophie otter",
+    "loser": "abby west",
+    "match": "sophie otter vs abby west",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "7th-/-8th",
+    "winner": "abby west",
+    "loser": "anna prescott",
+    "match": "anna prescott vs abby west",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "abby west",
+    "match": "octavia owen vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "anna prescott",
+    "match": "octavia owen vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "sophie otter",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "octavia owen",
+    "match": "octavia owen vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "abby west",
+    "match": "ali morrish vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "anna prescott",
+    "match": "ali morrish vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "rosie watkins",
+    "match": "ali morrish vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "anna prescott",
+    "loser": "abby west",
+    "match": "abby west vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "abby west",
+    "match": "abby west vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "abby west",
+    "match": "abby west vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "abby west",
+    "match": "abby west vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ellie cumpsty",
+    "loser": "abby west",
+    "match": "abby west vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "anna prescott",
+    "match": "anna prescott vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "anna prescott",
+    "match": "anna prescott vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "anna prescott",
+    "loser": "rosie watkins",
+    "match": "anna prescott vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ellie cumpsty",
+    "loser": "anna prescott",
+    "match": "anna prescott vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "sophie otter",
+    "match": "sophie otter vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "jemima lawson",
+    "match": "jemima lawson vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "jemima lawson",
+    "loser": "ellie cumpsty",
+    "match": "jemima lawson vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-2",
+    "winner": "rosie watkins",
+    "loser": "ellie cumpsty",
+    "match": "rosie watkins vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "abby west",
+    "match": "octavia owen vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "anna prescott",
+    "match": "octavia owen vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "sophie otter",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "rosie watkins",
+    "match": "octavia owen vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "abby west",
+    "match": "ali morrish vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "anna prescott",
+    "match": "ali morrish vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "rosie watkins",
+    "match": "ali morrish vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "anna prescott",
+    "loser": "abby west",
+    "match": "abby west vs anna prescott",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "abby west",
+    "match": "abby west vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "abby west",
+    "match": "abby west vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "rosie watkins",
+    "loser": "abby west",
+    "match": "abby west vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "abby west",
+    "match": "abby west vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "anna prescott",
+    "match": "anna prescott vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "anna prescott",
+    "match": "anna prescott vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "anna prescott",
+    "loser": "rosie watkins",
+    "match": "anna prescott vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "anna prescott",
+    "match": "anna prescott vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "jemima lawson",
+    "match": "sophie otter vs jemima lawson",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "rosie watkins",
+    "loser": "sophie otter",
+    "match": "sophie otter vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "rosie watkins",
+    "match": "jemima lawson vs rosie watkins",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "jemima lawson",
+    "loser": "ellie cumpsty",
+    "match": "jemima lawson vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Women's National Championship",
+    "phase": "round-robin-1",
+    "winner": "rosie watkins",
+    "loser": "ellie cumpsty",
+    "match": "rosie watkins vs ellie cumpsty",
+    "race": 0
+  }
+]

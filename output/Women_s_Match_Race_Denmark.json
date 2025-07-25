@@ -1,0 +1,626 @@
+[
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "petit-final",
+    "winner": "juliet costanzo",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs juliet costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "petit-final",
+    "winner": "lea vogelius",
+    "loser": "juliet costanzo",
+    "match": "lea vogelius vs juliet costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "petit-final",
+    "winner": "juliet costanzo",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs juliet costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "juliet costanzo",
+    "match": "pauline courtois vs juliet costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "juliet costanzo",
+    "match": "pauline courtois vs juliet costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "juliet costanzo",
+    "match": "pauline courtois vs juliet costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "lea vogelius",
+    "match": "anna ostling vs lea vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea vogelius",
+    "loser": "anna ostling",
+    "match": "anna ostling vs lea vogelius",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "lea vogelius",
+    "match": "anna ostling vs lea vogelius",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "lea vogelius",
+    "match": "anna ostling vs lea vogelius",
+    "race": 4
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "octavia owen",
+    "match": "pauline courtois vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ali morrish",
+    "match": "pauline courtois vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "juliet costanzo",
+    "match": "pauline courtois vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lea vogelius",
+    "match": "pauline courtois vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sophie otter",
+    "match": "pauline courtois vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ellie cumpsty",
+    "match": "pauline courtois vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "louise olesen",
+    "match": "pauline courtois vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "kristine mauritzen",
+    "match": "pauline courtois vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "octavia owen",
+    "match": "anna ostling vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "ali morrish",
+    "match": "anna ostling vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "sanna mattsson",
+    "match": "anna ostling vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "juliet costanzo",
+    "match": "anna ostling vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "anna ostling",
+    "match": "anna ostling vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "ellie cumpsty",
+    "match": "anna ostling vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "louise olesen",
+    "match": "anna ostling vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "octavia owen",
+    "match": "margot riou vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "margot riou",
+    "match": "margot riou vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "margot riou",
+    "match": "margot riou vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "margot riou",
+    "match": "margot riou vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "margot riou",
+    "match": "margot riou vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "margot riou",
+    "match": "margot riou vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "louise olesen",
+    "match": "margot riou vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "kristine mauritzen",
+    "match": "margot riou vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "octavia owen",
+    "match": "octavia owen vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "octavia owen",
+    "match": "octavia owen vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "louise olesen",
+    "loser": "octavia owen",
+    "match": "octavia owen vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "octavia owen",
+    "match": "octavia owen vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sanna mattsson",
+    "match": "ali morrish vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "ali morrish",
+    "match": "ali morrish vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "ali morrish",
+    "match": "ali morrish vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "louise olesen",
+    "match": "ali morrish vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "ali morrish",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "ellie cumpsty",
+    "match": "sanna mattsson vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "louise olesen",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "kristine mauritzen",
+    "match": "sanna mattsson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs lea vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "sophie otter",
+    "match": "juliet costanzo vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "ellie cumpsty",
+    "match": "juliet costanzo vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "louise olesen",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "kristine mauritzen",
+    "match": "juliet costanzo vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "sophie otter",
+    "match": "lea vogelius vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "ellie cumpsty",
+    "match": "lea vogelius vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "louise olesen",
+    "match": "lea vogelius vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "kristine mauritzen",
+    "match": "lea vogelius vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "louise olesen",
+    "match": "sophie otter vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "kristine mauritzen",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "louise olesen",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs louise olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Race Denmark",
+    "phase": "round-robin",
+    "winner": "louise olesen",
+    "loser": "kristine mauritzen",
+    "match": "louise olesen vs kristine mauritzen",
+    "race": 0
+  }
+]

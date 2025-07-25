@@ -1,0 +1,394 @@
+[
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "ali morrish",
+    "match": "alex colquitt vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "ali morrish",
+    "match": "alex colquitt vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "ali morrish",
+    "match": "alex colquitt vs ali morrish",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "niall myant-best",
+    "match": "sophie otter vs niall myant-best",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "petit-final",
+    "winner": "niall myant-best",
+    "loser": "sophie otter",
+    "match": "sophie otter vs niall myant-best",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "niall myant-best",
+    "match": "sophie otter vs niall myant-best",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "semi-final-1",
+    "winner": "alex colquitt",
+    "loser": "niall myant-best",
+    "match": "niall myant-best vs alex colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "semi-final-1",
+    "winner": "niall myant-best",
+    "loser": "alex colquitt",
+    "match": "niall myant-best vs alex colquitt",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "semi-final-1",
+    "winner": "alex colquitt",
+    "loser": "niall myant-best",
+    "match": "niall myant-best vs alex colquitt",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "alex colquitt",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "ellie cumpsty",
+    "loser": "tiger tellwright cockell",
+    "match": "ellie cumpsty vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "ellie cumpsty",
+    "loser": "thomas goodman",
+    "match": "ellie cumpsty vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "ellie cumpsty",
+    "loser": "sasha tydeman",
+    "match": "ellie cumpsty vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "alex colquitt",
+    "loser": "tiger tellwright cockell",
+    "match": "alex colquitt vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "alex colquitt",
+    "loser": "thomas goodman",
+    "match": "alex colquitt vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "alex colquitt",
+    "loser": "sasha tydeman",
+    "match": "alex colquitt vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "thomas goodman",
+    "loser": "tiger tellwright cockell",
+    "match": "tiger tellwright cockell vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "tiger tellwright cockell",
+    "loser": "sasha tydeman",
+    "match": "tiger tellwright cockell vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "repechage",
+    "winner": "thomas goodman",
+    "loser": "sasha tydeman",
+    "match": "thomas goodman vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "thomas goodman",
+    "match": "ali morrish vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "alex colquitt",
+    "loser": "ali morrish",
+    "match": "ali morrish vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "niall myant-best",
+    "match": "ali morrish vs niall myant-best",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "tiger tellwright cockell",
+    "match": "ali morrish vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sasha tydeman",
+    "match": "ali morrish vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "thomas goodman",
+    "match": "sophie otter vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "alex colquitt",
+    "match": "sophie otter vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "sophie otter",
+    "match": "sophie otter vs niall myant-best",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "tiger tellwright cockell",
+    "match": "sophie otter vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sasha tydeman",
+    "match": "sophie otter vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "thomas goodman",
+    "match": "ellie cumpsty vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "alex colquitt",
+    "match": "ellie cumpsty vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs niall myant-best",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "tiger tellwright cockell",
+    "match": "ellie cumpsty vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sasha tydeman",
+    "match": "ellie cumpsty vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "alex colquitt",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs niall myant-best",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "tiger tellwright cockell",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "sasha tydeman",
+    "match": "thomas goodman vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs niall myant-best",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "alex colquitt",
+    "loser": "tiger tellwright cockell",
+    "match": "alex colquitt vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "alex colquitt",
+    "loser": "sasha tydeman",
+    "match": "alex colquitt vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "tiger tellwright cockell",
+    "match": "niall myant-best vs tiger tellwright cockell",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "niall myant-best",
+    "loser": "sasha tydeman",
+    "match": "niall myant-best vs sasha tydeman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Match Racing - Round 1",
+    "phase": "round-robin",
+    "winner": "tiger tellwright cockell",
+    "loser": "sasha tydeman",
+    "match": "tiger tellwright cockell vs sasha tydeman",
+    "race": 0
+  }
+]

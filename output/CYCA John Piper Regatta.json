@@ -1,0 +1,330 @@
+[
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "Ben Crafoord",
+    "loser": "Max Brennan",
+    "match": "Ben Crafoord vs Max Brennan",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "Max Brennan",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Max Brennan",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "Max Brennan",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Max Brennan",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "Ben Crafoord",
+    "loser": "Max Brennan",
+    "match": "Ben Crafoord vs Max Brennan",
+    "race": 4
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "Max Brennan",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Max Brennan",
+    "race": 5
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "petit-final",
+    "winner": "Xavier McLachlan",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Xavier McLachlan",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "petit-final",
+    "winner": "Xavier McLachlan",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Xavier McLachlan",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "petit-final",
+    "winner": "James Hayhoe",
+    "loser": "Xavier McLachlan",
+    "match": "James Hayhoe vs Xavier McLachlan",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-1",
+    "winner": "Ben Crafoord",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Ben Crafoord",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-1",
+    "winner": "Ben Crafoord",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Ben Crafoord",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-2",
+    "winner": "Max Brennan",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Max Brennan",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-2",
+    "winner": "Max Brennan",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Max Brennan",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Chelsea Williams",
+    "loser": "Massimo Henderson",
+    "match": "Chelsea Williams vs Massimo Henderson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Max Brennan",
+    "match": "Xavier McLachlan vs Max Brennan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Ben Crafoord",
+    "match": "Xavier McLachlan vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Chelsea Williams",
+    "match": "Xavier McLachlan vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "James Hayhoe",
+    "match": "Xavier McLachlan vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Max Brennan",
+    "match": "Max Brennan vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "Max Brennan",
+    "match": "Max Brennan vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Max Brennan",
+    "loser": "Chelsea Williams",
+    "match": "Max Brennan vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Max Brennan",
+    "loser": "Craig Wright",
+    "match": "Max Brennan vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Max Brennan",
+    "loser": "James Hayhoe",
+    "match": "Max Brennan vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Chelsea Williams",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "James Hayhoe",
+    "match": "Massimo Henderson vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Chelsea Williams",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "James Hayhoe",
+    "match": "Ben Crafoord vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "James Hayhoe",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "James Hayhoe",
+    "match": "Craig Wright vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Max Brennan",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs Max Brennan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Emma McKechnie",
+    "loser": "Chelsea Williams",
+    "match": "Emma McKechnie vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "Craig Wright",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "round-robin",
+    "winner": "James Hayhoe",
+    "loser": "Emma McKechnie",
+    "match": "Emma McKechnie vs James Hayhoe",
+    "race": 0
+  }
+]

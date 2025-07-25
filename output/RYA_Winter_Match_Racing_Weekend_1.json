@@ -1,0 +1,306 @@
+[
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs ted blowers",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "petit-final",
+    "winner": "tom hough",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs tom hough",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "semi-final-1",
+    "winner": "tom hough",
+    "loser": "sophie taylor",
+    "match": "tom hough vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "semi-final-1",
+    "winner": "sophie taylor",
+    "loser": "tom hough",
+    "match": "tom hough vs sophie taylor",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "semi-final-1",
+    "winner": "sophie taylor",
+    "loser": "tom hough",
+    "match": "tom hough vs sophie taylor",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "thomas goodman",
+    "match": "ted blowers vs thomas goodman",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "thomas goodman",
+    "match": "ted blowers vs thomas goodman",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "5th-/-6th",
+    "winner": "sophie otter",
+    "loser": "alex whitfield",
+    "match": "sophie otter vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "6th-/-7th",
+    "winner": "alex whitfield",
+    "loser": "james clapham",
+    "match": "alex whitfield vs james clapham",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie taylor",
+    "match": "ted blowers vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "james clapham",
+    "match": "ted blowers vs james clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "thomas goodman",
+    "match": "ted blowers vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "alex whitfield",
+    "match": "ted blowers vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "pierre de barbentane",
+    "match": "ted blowers vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "ted blowers",
+    "match": "ted blowers vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "james clapham",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs james clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "alex whitfield",
+    "match": "sophie taylor vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "pierre de barbentane",
+    "match": "sophie taylor vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "james clapham",
+    "match": "sophie otter vs james clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "thomas goodman",
+    "match": "sophie otter vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "sophie otter",
+    "match": "sophie otter vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "pierre de barbentane",
+    "match": "sophie otter vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "sophie otter",
+    "match": "sophie otter vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "james clapham",
+    "loser": "thomas goodman",
+    "match": "james clapham vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "james clapham",
+    "match": "james clapham vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "pierre de barbentane",
+    "loser": "james clapham",
+    "match": "james clapham vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "james clapham",
+    "match": "james clapham vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "alex whitfield",
+    "match": "thomas goodman vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "pierre de barbentane",
+    "match": "thomas goodman vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "tom hough",
+    "match": "thomas goodman vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "pierre de barbentane",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs pierre de barbentane",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs tom hough",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Match Racing Weekend 1",
+    "phase": "round-robin",
+    "winner": "tom hough",
+    "loser": "pierre de barbentane",
+    "match": "pierre de barbentane vs tom hough",
+    "race": 0
+  }
+]

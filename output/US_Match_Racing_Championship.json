@@ -1,0 +1,522 @@
+[
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "pearson potts",
+    "match": "pearson potts vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "pearson potts",
+    "match": "pearson potts vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "jeffrey petersen",
+    "match": "chris poole vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "pearson potts",
+    "loser": "jeffrey petersen",
+    "match": "pearson potts vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "pearson potts",
+    "loser": "jeffrey petersen",
+    "match": "pearson potts vs jeffrey petersen",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "pearson potts",
+    "loser": "jeffrey petersen",
+    "match": "pearson potts vs jeffrey petersen",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "chris poole",
+    "match": "chris poole vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "peter holz",
+    "match": "chris poole vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "peter holz",
+    "match": "chris poole vs peter holz",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "chris poole",
+    "match": "chris poole vs peter holz",
+    "race": 4
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "chris poole",
+    "match": "chris poole vs peter holz",
+    "race": 5
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "steven lowery",
+    "match": "jeffrey petersen vs steven lowery",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "steven lowery",
+    "match": "jeffrey petersen vs steven lowery",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "peter holz",
+    "loser": "janel zarkowsky",
+    "match": "peter holz vs janel zarkowsky",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "janel zarkowsky",
+    "loser": "peter holz",
+    "match": "peter holz vs janel zarkowsky",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "peter holz",
+    "loser": "janel zarkowsky",
+    "match": "peter holz vs janel zarkowsky",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "pearson potts",
+    "loser": "patrick shanahan",
+    "match": "pearson potts vs patrick shanahan",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "pearson potts",
+    "loser": "patrick shanahan",
+    "match": "pearson potts vs patrick shanahan",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "chris poole",
+    "loser": "nicole breault",
+    "match": "chris poole vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "chris poole",
+    "loser": "nicole breault",
+    "match": "chris poole vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "nicole breault",
+    "match": "chris poole vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "peter holz",
+    "match": "chris poole vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "jeffrey petersen",
+    "match": "chris poole vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "steven lowery",
+    "match": "chris poole vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "janel zarkowsky",
+    "match": "chris poole vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "samuel bartel",
+    "match": "chris poole vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "patrick shanahan",
+    "match": "chris poole vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "oliver toole",
+    "match": "chris poole vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "nicole breault",
+    "match": "pearson potts vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "peter holz",
+    "match": "pearson potts vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "jeffrey petersen",
+    "match": "pearson potts vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "steven lowery",
+    "match": "pearson potts vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "janel zarkowsky",
+    "match": "pearson potts vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "samuel bartel",
+    "match": "pearson potts vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "patrick shanahan",
+    "match": "pearson potts vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "pearson potts",
+    "loser": "oliver toole",
+    "match": "pearson potts vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "nicole breault",
+    "match": "nicole breault vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "jeffrey petersen",
+    "match": "nicole breault vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "nicole breault",
+    "match": "nicole breault vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "nicole breault",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "samuel bartel",
+    "match": "nicole breault vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "patrick shanahan",
+    "loser": "nicole breault",
+    "match": "nicole breault vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "oliver toole",
+    "match": "nicole breault vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "jeffrey petersen",
+    "match": "peter holz vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "steven lowery",
+    "match": "peter holz vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "janel zarkowsky",
+    "match": "peter holz vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "samuel bartel",
+    "match": "peter holz vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "patrick shanahan",
+    "match": "peter holz vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "oliver toole",
+    "match": "peter holz vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "steven lowery",
+    "match": "jeffrey petersen vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "janel zarkowsky",
+    "match": "jeffrey petersen vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "samuel bartel",
+    "match": "jeffrey petersen vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "patrick shanahan",
+    "match": "jeffrey petersen vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "oliver toole",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "janel zarkowsky",
+    "match": "steven lowery vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "samuel bartel",
+    "match": "steven lowery vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "patrick shanahan",
+    "loser": "steven lowery",
+    "match": "steven lowery vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "oliver toole",
+    "match": "steven lowery vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "samuel bartel",
+    "match": "janel zarkowsky vs samuel bartel",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "patrick shanahan",
+    "match": "janel zarkowsky vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "oliver toole",
+    "match": "janel zarkowsky vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "samuel bartel",
+    "loser": "patrick shanahan",
+    "match": "samuel bartel vs patrick shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "oliver toole",
+    "loser": "samuel bartel",
+    "match": "samuel bartel vs oliver toole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "patrick shanahan",
+    "loser": "oliver toole",
+    "match": "patrick shanahan vs oliver toole",
+    "race": 0
+  }
+]

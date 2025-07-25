@@ -1,0 +1,410 @@
+[
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "niall myant",
+    "match": "ted blowers vs niall myant",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "niall myant",
+    "match": "ted blowers vs niall myant",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "petit-final",
+    "winner": "george haynes",
+    "loser": "miles jones",
+    "match": "george haynes vs miles jones",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "semi-final-1",
+    "winner": "ted blowers",
+    "loser": "george haynes",
+    "match": "ted blowers vs george haynes",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "semi-final-2",
+    "winner": "niall myant",
+    "loser": "miles jones",
+    "match": "miles jones vs niall myant",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "5th-/-6th",
+    "winner": "josh adams",
+    "loser": "sophie taylor",
+    "match": "josh adams vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "6th-/-7th",
+    "winner": "sophie taylor",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "7th-/-8th",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "george haynes",
+    "loser": "ali morrish",
+    "match": "ali morrish vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "ali morrish",
+    "loser": "sophie taylor",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "niall myant",
+    "loser": "ali morrish",
+    "match": "ali morrish vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "josh adams",
+    "loser": "ali morrish",
+    "match": "ali morrish vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "george haynes",
+    "loser": "sophie taylor",
+    "match": "george haynes vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "george haynes",
+    "loser": "sophie otter",
+    "match": "george haynes vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "niall myant",
+    "loser": "george haynes",
+    "match": "george haynes vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "george haynes",
+    "loser": "josh adams",
+    "match": "george haynes vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "niall myant",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "josh adams",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "niall myant",
+    "loser": "sophie otter",
+    "match": "sophie otter vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "josh adams",
+    "match": "sophie otter vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "repechage",
+    "winner": "niall myant",
+    "loser": "josh adams",
+    "match": "niall myant vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "miles jones",
+    "match": "ted blowers vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "ali morrish",
+    "match": "ted blowers vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "ted blowers",
+    "match": "ted blowers vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie taylor",
+    "match": "ted blowers vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "niall myant",
+    "match": "ted blowers vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "josh adams",
+    "match": "ted blowers vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "miles jones",
+    "match": "miles jones vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "george haynes",
+    "match": "miles jones vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "sophie taylor",
+    "match": "miles jones vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "sophie otter",
+    "match": "miles jones vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "niall myant",
+    "loser": "miles jones",
+    "match": "miles jones vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "josh adams",
+    "match": "miles jones vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "george haynes",
+    "match": "ali morrish vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "niall myant",
+    "loser": "ali morrish",
+    "match": "ali morrish vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "josh adams",
+    "match": "ali morrish vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "sophie taylor",
+    "match": "george haynes vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "george haynes",
+    "match": "george haynes vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "niall myant",
+    "match": "george haynes vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "josh adams",
+    "loser": "george haynes",
+    "match": "george haynes vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "niall myant",
+    "match": "sophie taylor vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "josh adams",
+    "match": "sophie taylor vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "niall myant",
+    "match": "sophie otter vs niall myant",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "josh adams",
+    "loser": "sophie otter",
+    "match": "sophie otter vs josh adams",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Qualifier #2",
+    "phase": "round-robin",
+    "winner": "josh adams",
+    "loser": "niall myant",
+    "match": "niall myant vs josh adams",
+    "race": 0
+  }
+]

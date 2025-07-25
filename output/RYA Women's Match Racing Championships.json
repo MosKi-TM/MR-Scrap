@@ -1,0 +1,466 @@
+[
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Amber Hale",
+    "loser": "Ruby Sunderland",
+    "match": "Amber Hale vs Ruby Sunderland",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ruby Sunderland",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ruby Sunderland",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Ruby Sunderland",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Ruby Sunderland",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Ellen Morley",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Ellen Morley",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Lucy Gates",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Bridgitte Nee",
+    "loser": "Lucy Gates",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Bridgitte Nee",
+    "loser": "Lucy Gates",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Ruby Sunderland",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Juliette Kennedy",
+    "loser": "Amber Hale",
+    "match": "Juliette Kennedy vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Juliette Kennedy",
+    "loser": "Lucy Gates",
+    "match": "Juliette Kennedy vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Amber Hale",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Ruby Sunderland",
+    "loser": "Ellen Morley",
+    "match": "Ruby Sunderland vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Ruby Sunderland",
+    "loser": "Lucy Gates",
+    "match": "Ruby Sunderland vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Amber Hale",
+    "loser": "Ellen Morley",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Amber Hale",
+    "loser": "Lucy Gates",
+    "match": "Amber Hale vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Lucy Gates",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Juliette Kennedy",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Ruby Sunderland",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Amber Hale",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Bridgitte Nee",
+    "loser": "Ellen Morley",
+    "match": "Bridgitte Nee vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-3",
+    "winner": "Lucy Gates",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Juliette Kennedy",
+    "loser": "Amber Hale",
+    "match": "Juliette Kennedy vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Juliette Kennedy",
+    "loser": "Lucy Gates",
+    "match": "Juliette Kennedy vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Ellen Morley",
+    "match": "Ruby Sunderland vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Lucy Gates",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Ellen Morley",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Lucy Gates",
+    "match": "Amber Hale vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ellen Morley",
+    "loser": "Lucy Gates",
+    "match": "Ellen Morley vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Juliette Kennedy",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Bridgitte Nee",
+    "loser": "Ruby Sunderland",
+    "match": "Bridgitte Nee vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ellen Morley",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Bridgitte Nee",
+    "loser": "Lucy Gates",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Ruby Sunderland",
+    "match": "Juliette Kennedy vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Amber Hale",
+    "match": "Juliette Kennedy vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Lucy Gates",
+    "match": "Juliette Kennedy vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Ellen Morley",
+    "match": "Ruby Sunderland vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Lucy Gates",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Ellen Morley",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Lucy Gates",
+    "match": "Amber Hale vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ellen Morley",
+    "loser": "Lucy Gates",
+    "match": "Ellen Morley vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Juliette Kennedy",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Bridgitte Nee",
+    "loser": "Ruby Sunderland",
+    "match": "Bridgitte Nee vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ellen Morley",
+    "loser": "Bridgitte Nee",
+    "match": "Bridgitte Nee vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Bridgitte Nee",
+    "loser": "Lucy Gates",
+    "match": "Bridgitte Nee vs Lucy Gates",
+    "race": 0
+  }
+]

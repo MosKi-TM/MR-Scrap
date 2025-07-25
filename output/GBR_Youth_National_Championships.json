@@ -1,0 +1,426 @@
+[
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "final",
+    "winner": "robbie king",
+    "loser": "ted blowers",
+    "match": "robbie king vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "final",
+    "winner": "robbie king",
+    "loser": "ted blowers",
+    "match": "robbie king vs ted blowers",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "petit-final",
+    "winner": "george haynes",
+    "loser": "octavia owen",
+    "match": "octavia owen vs george haynes",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "petit-final",
+    "winner": "george haynes",
+    "loser": "octavia owen",
+    "match": "octavia owen vs george haynes",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "robbie king",
+    "loser": "octavia owen",
+    "match": "robbie king vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "robbie king",
+    "loser": "octavia owen",
+    "match": "robbie king vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "george haynes",
+    "match": "ted blowers vs george haynes",
+    "race": 1
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "george haynes",
+    "match": "ted blowers vs george haynes",
+    "race": 2
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "patrick crogran",
+    "loser": "sophie otter",
+    "match": "patrick crogran vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "patrick crogran",
+    "loser": "alex whitfield",
+    "match": "patrick crogran vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "sophie otter",
+    "loser": "alex whitfield",
+    "match": "sophie otter vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "ted blowers",
+    "loser": "octavia owen",
+    "match": "ted blowers vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "ted blowers",
+    "loser": "george haynes",
+    "match": "ted blowers vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "ted blowers",
+    "match": "ted blowers vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "ted blowers",
+    "loser": "patrick crogran",
+    "match": "ted blowers vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "ted blowers",
+    "loser": "alex whitfield",
+    "match": "ted blowers vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "george haynes",
+    "loser": "octavia owen",
+    "match": "octavia owen vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "sophie otter",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "octavia owen",
+    "match": "octavia owen vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "patrick crogran",
+    "match": "octavia owen vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "alex whitfield",
+    "match": "octavia owen vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "george haynes",
+    "loser": "sophie otter",
+    "match": "george haynes vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "george haynes",
+    "loser": "robbie king",
+    "match": "george haynes vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "patrick crogran",
+    "loser": "george haynes",
+    "match": "george haynes vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "george haynes",
+    "loser": "alex whitfield",
+    "match": "george haynes vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "sophie otter",
+    "match": "sophie otter vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "patrick crogran",
+    "loser": "sophie otter",
+    "match": "sophie otter vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "alex whitfield",
+    "match": "sophie otter vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "patrick crogran",
+    "match": "robbie king vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "alex whitfield",
+    "loser": "patrick crogran",
+    "match": "patrick crogran vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "ted blowers",
+    "loser": "octavia owen",
+    "match": "ted blowers vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "ted blowers",
+    "loser": "george haynes",
+    "match": "ted blowers vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "ted blowers",
+    "match": "ted blowers vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick crogran",
+    "loser": "ted blowers",
+    "match": "ted blowers vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "ted blowers",
+    "loser": "alex whitfield",
+    "match": "ted blowers vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "george haynes",
+    "match": "octavia owen vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "octavia owen",
+    "match": "octavia owen vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick crogran",
+    "loser": "octavia owen",
+    "match": "octavia owen vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "alex whitfield",
+    "match": "octavia owen vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "george haynes",
+    "loser": "sophie otter",
+    "match": "george haynes vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "george haynes",
+    "match": "george haynes vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "george haynes",
+    "loser": "patrick crogran",
+    "match": "george haynes vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "george haynes",
+    "loser": "alex whitfield",
+    "match": "george haynes vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "robbie king",
+    "match": "sophie otter vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick crogran",
+    "loser": "sophie otter",
+    "match": "sophie otter vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "alex whitfield",
+    "match": "sophie otter vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "patrick crogran",
+    "match": "robbie king vs patrick crogran",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "GBR Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick crogran",
+    "loser": "alex whitfield",
+    "match": "patrick crogran vs alex whitfield",
+    "race": 0
+  }
+]

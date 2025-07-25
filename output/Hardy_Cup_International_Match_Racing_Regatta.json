@@ -1,0 +1,858 @@
+[
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "final",
+    "winner": "clare costanzo",
+    "loser": "george anyon",
+    "match": "clare costanzo vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "final",
+    "winner": "clare costanzo",
+    "loser": "george anyon",
+    "match": "clare costanzo vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "final",
+    "winner": "clare costanzo",
+    "loser": "george anyon",
+    "match": "clare costanzo vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "tom grimes",
+    "loser": "patrick harris",
+    "match": "tom grimes vs patrick harris",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "tom grimes",
+    "loser": "patrick harris",
+    "match": "tom grimes vs patrick harris",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "patrick harris",
+    "match": "clare costanzo vs patrick harris",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "patrick harris",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs patrick harris",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "patrick harris",
+    "match": "clare costanzo vs patrick harris",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "patrick harris",
+    "match": "clare costanzo vs patrick harris",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "tom grimes",
+    "loser": "george anyon",
+    "match": "tom grimes vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "tom grimes",
+    "match": "tom grimes vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "tom grimes",
+    "match": "tom grimes vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "tom grimes",
+    "loser": "george anyon",
+    "match": "tom grimes vs george anyon",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "tom grimes",
+    "match": "tom grimes vs george anyon",
+    "race": 5
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "john lynch",
+    "loser": "james hodgson",
+    "match": "john lynch vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "james hodgson",
+    "loser": "john lynch",
+    "match": "john lynch vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "john lynch",
+    "loser": "james hodgson",
+    "match": "john lynch vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "juliet costanzo",
+    "loser": "callum radford",
+    "match": "callum radford vs juliet costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "callum radford",
+    "loser": "juliet costanzo",
+    "match": "callum radford vs juliet costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "callum radford",
+    "loser": "juliet costanzo",
+    "match": "callum radford vs juliet costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "11th-/-12th",
+    "winner": "ethan prieto-low",
+    "loser": "charlotte griffin",
+    "match": "ethan prieto-low vs charlotte griffin",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "11th-/-12th",
+    "winner": "charlotte griffin",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs charlotte griffin",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "11th-/-12th",
+    "winner": "ethan prieto-low",
+    "loser": "charlotte griffin",
+    "match": "ethan prieto-low vs charlotte griffin",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "hayden brown",
+    "match": "clare costanzo vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "hayden brown",
+    "match": "clare costanzo vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "hayden brown",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs hayden brown",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "hayden brown",
+    "match": "clare costanzo vs hayden brown",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "patrick harris",
+    "loser": "john lynch",
+    "match": "john lynch vs patrick harris",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "john lynch",
+    "loser": "patrick harris",
+    "match": "john lynch vs patrick harris",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "john lynch",
+    "loser": "patrick harris",
+    "match": "john lynch vs patrick harris",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "patrick harris",
+    "loser": "john lynch",
+    "match": "john lynch vs patrick harris",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "patrick harris",
+    "loser": "john lynch",
+    "match": "john lynch vs patrick harris",
+    "race": 5
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "tom grimes",
+    "loser": "nick rozenauers",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "nick rozenauers",
+    "loser": "tom grimes",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "tom grimes",
+    "loser": "nick rozenauers",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "tom grimes",
+    "loser": "nick rozenauers",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "george anyon",
+    "loser": "james hodgson",
+    "match": "george anyon vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "george anyon",
+    "loser": "james hodgson",
+    "match": "george anyon vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "george anyon",
+    "loser": "james hodgson",
+    "match": "george anyon vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "george anyon",
+    "match": "george anyon vs tom grimes",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "george anyon",
+    "match": "george anyon vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "james hodgson",
+    "match": "george anyon vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "charlotte griffin",
+    "loser": "george anyon",
+    "match": "george anyon vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "nick rozenauers",
+    "match": "george anyon vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "patrick harris",
+    "match": "george anyon vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "george anyon",
+    "match": "george anyon vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "hayden brown",
+    "match": "george anyon vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "callum radford",
+    "match": "george anyon vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "ethan prieto-low",
+    "match": "george anyon vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "juliet costanzo",
+    "match": "george anyon vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "clare costanzo",
+    "match": "tom grimes vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "tom grimes",
+    "match": "tom grimes vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "charlotte griffin",
+    "match": "tom grimes vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "nick rozenauers",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "tom grimes",
+    "match": "tom grimes vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "tom grimes",
+    "match": "tom grimes vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "hayden brown",
+    "match": "tom grimes vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "callum radford",
+    "match": "tom grimes vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "ethan prieto-low",
+    "match": "tom grimes vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "juliet costanzo",
+    "match": "tom grimes vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "james hodgson",
+    "match": "clare costanzo vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "charlotte griffin",
+    "match": "clare costanzo vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "nick rozenauers",
+    "match": "clare costanzo vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "patrick harris",
+    "match": "clare costanzo vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "john lynch",
+    "match": "clare costanzo vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "hayden brown",
+    "match": "clare costanzo vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "callum radford",
+    "match": "clare costanzo vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "ethan prieto-low",
+    "match": "clare costanzo vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "juliet costanzo",
+    "match": "clare costanzo vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "charlotte griffin",
+    "match": "james hodgson vs charlotte griffin",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "nick rozenauers",
+    "match": "james hodgson vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "patrick harris",
+    "match": "james hodgson vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "james hodgson",
+    "match": "james hodgson vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "james hodgson",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "callum radford",
+    "match": "james hodgson vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "ethan prieto-low",
+    "match": "james hodgson vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "james hodgson",
+    "match": "james hodgson vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "callum radford",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "nick rozenauers",
+    "match": "nick rozenauers vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "john lynch",
+    "match": "nick rozenauers vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "callum radford",
+    "match": "nick rozenauers vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "ethan prieto-low",
+    "match": "nick rozenauers vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "juliet costanzo",
+    "match": "nick rozenauers vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "patrick harris",
+    "match": "patrick harris vs john lynch",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "hayden brown",
+    "match": "patrick harris vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "callum radford",
+    "match": "patrick harris vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "ethan prieto-low",
+    "match": "patrick harris vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "juliet costanzo",
+    "match": "patrick harris vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "hayden brown",
+    "match": "john lynch vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "callum radford",
+    "loser": "john lynch",
+    "match": "john lynch vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "ethan prieto-low",
+    "match": "john lynch vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "john lynch",
+    "loser": "juliet costanzo",
+    "match": "john lynch vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "callum radford",
+    "match": "hayden brown vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "ethan prieto-low",
+    "match": "hayden brown vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "juliet costanzo",
+    "match": "hayden brown vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "callum radford",
+    "loser": "ethan prieto-low",
+    "match": "callum radford vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "callum radford",
+    "loser": "juliet costanzo",
+    "match": "callum radford vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs juliet costanzo",
+    "race": 0
+  }
+]

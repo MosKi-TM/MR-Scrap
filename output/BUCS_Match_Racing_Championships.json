@@ -1,0 +1,634 @@
+[
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "final",
+    "winner": "jake hardman",
+    "loser": "patrick croghan",
+    "match": "jake hardman vs patrick croghan",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "final",
+    "winner": "jake hardman",
+    "loser": "patrick croghan",
+    "match": "jake hardman vs patrick croghan",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "final",
+    "winner": "jake hardman",
+    "loser": "patrick croghan",
+    "match": "jake hardman vs patrick croghan",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "joe walters",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs joe walters",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "alex colquitt",
+    "loser": "joe walters",
+    "match": "alex colquitt vs joe walters",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "alex colquitt",
+    "loser": "joe walters",
+    "match": "alex colquitt vs joe walters",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "jake hardman",
+    "loser": "joe walters",
+    "match": "joe walters vs jake hardman",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "jake hardman",
+    "loser": "joe walters",
+    "match": "joe walters vs jake hardman",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "jake hardman",
+    "loser": "joe walters",
+    "match": "joe walters vs jake hardman",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "patrick croghan",
+    "loser": "alex colquitt",
+    "match": "patrick croghan vs alex colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "patrick croghan",
+    "loser": "alex colquitt",
+    "match": "patrick croghan vs alex colquitt",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "patrick croghan",
+    "loser": "alex colquitt",
+    "match": "patrick croghan vs alex colquitt",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "tiger tellwright",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs tiger tellwright",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "alex whitfield",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "thomas goodman",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs thomas goodman",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "tiger tellwright",
+    "loser": "alex whitfield",
+    "match": "tiger tellwright vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "joe walters",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs joe walters",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "joe walters",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs joe walters",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "joe walters",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs joe walters",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "patrick croghan",
+    "loser": "tiger tellwright",
+    "match": "patrick croghan vs tiger tellwright",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "patrick croghan",
+    "loser": "tiger tellwright",
+    "match": "patrick croghan vs tiger tellwright",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "patrick croghan",
+    "loser": "tiger tellwright",
+    "match": "patrick croghan vs tiger tellwright",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "jake hardman",
+    "loser": "thomas goodman",
+    "match": "jake hardman vs thomas goodman",
+    "race": 1
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "jake hardman",
+    "loser": "thomas goodman",
+    "match": "jake hardman vs thomas goodman",
+    "race": 2
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "jake hardman",
+    "loser": "thomas goodman",
+    "match": "jake hardman vs thomas goodman",
+    "race": 3
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "emily page",
+    "loser": "eabha strong-wright",
+    "match": "eabha strong-wright vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "charles cooper",
+    "loser": "eabha strong-wright",
+    "match": "eabha strong-wright vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "niamh davies",
+    "loser": "eabha strong-wright",
+    "match": "eabha strong-wright vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "charles cooper",
+    "loser": "emily page",
+    "match": "emily page vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "emily page",
+    "loser": "niamh davies",
+    "match": "emily page vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "9th-to-12th",
+    "winner": "charles cooper",
+    "loser": "niamh davies",
+    "match": "charles cooper vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "charles cooper",
+    "loser": "tiger tellwright",
+    "match": "tiger tellwright vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "tiger tellwright",
+    "loser": "emily page",
+    "match": "tiger tellwright vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "tiger tellwright",
+    "loser": "niamh davies",
+    "match": "tiger tellwright vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "tiger tellwright",
+    "loser": "joe walters",
+    "match": "tiger tellwright vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "tiger tellwright",
+    "loser": "eabha strong-wright",
+    "match": "tiger tellwright vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "emily page",
+    "loser": "charles cooper",
+    "match": "charles cooper vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "charles cooper",
+    "loser": "niamh davies",
+    "match": "charles cooper vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "joe walters",
+    "loser": "charles cooper",
+    "match": "charles cooper vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "eabha strong-wright",
+    "loser": "charles cooper",
+    "match": "charles cooper vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "emily page",
+    "loser": "niamh davies",
+    "match": "emily page vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "joe walters",
+    "loser": "emily page",
+    "match": "emily page vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "eabha strong-wright",
+    "loser": "emily page",
+    "match": "emily page vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "joe walters",
+    "loser": "niamh davies",
+    "match": "niamh davies vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "eabha strong-wright",
+    "loser": "niamh davies",
+    "match": "niamh davies vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "repechage",
+    "winner": "joe walters",
+    "loser": "eabha strong-wright",
+    "match": "joe walters vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "alex whitfield",
+    "loser": "thomas goodman",
+    "match": "alex whitfield vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "hector mckemey",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs hector mckemey",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "alex whitfield",
+    "loser": "emily page",
+    "match": "alex whitfield vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "tiger tellwright",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs tiger tellwright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "alex whitfield",
+    "loser": "joe walters",
+    "match": "alex whitfield vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "hector mckemey",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs hector mckemey",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "thomas goodman",
+    "loser": "emily page",
+    "match": "thomas goodman vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "thomas goodman",
+    "loser": "tiger tellwright",
+    "match": "thomas goodman vs tiger tellwright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "thomas goodman",
+    "loser": "joe walters",
+    "match": "thomas goodman vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "hector mckemey",
+    "loser": "emily page",
+    "match": "hector mckemey vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "hector mckemey",
+    "loser": "tiger tellwright",
+    "match": "hector mckemey vs tiger tellwright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "joe walters",
+    "loser": "hector mckemey",
+    "match": "hector mckemey vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "tiger tellwright",
+    "loser": "emily page",
+    "match": "emily page vs tiger tellwright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "emily page",
+    "loser": "joe walters",
+    "match": "emily page vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "red-group",
+    "winner": "tiger tellwright",
+    "loser": "joe walters",
+    "match": "tiger tellwright vs joe walters",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "patrick croghan",
+    "loser": "alex colquitt",
+    "match": "patrick croghan vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "patrick croghan",
+    "loser": "jake hardman",
+    "match": "patrick croghan vs jake hardman",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "patrick croghan",
+    "loser": "niamh davies",
+    "match": "patrick croghan vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "patrick croghan",
+    "loser": "charles cooper",
+    "match": "patrick croghan vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "patrick croghan",
+    "loser": "eabha strong-wright",
+    "match": "patrick croghan vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "jake hardman",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs jake hardman",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "alex colquitt",
+    "loser": "niamh davies",
+    "match": "alex colquitt vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "alex colquitt",
+    "loser": "charles cooper",
+    "match": "alex colquitt vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "alex colquitt",
+    "loser": "eabha strong-wright",
+    "match": "alex colquitt vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "jake hardman",
+    "loser": "niamh davies",
+    "match": "jake hardman vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "jake hardman",
+    "loser": "charles cooper",
+    "match": "jake hardman vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "jake hardman",
+    "loser": "eabha strong-wright",
+    "match": "jake hardman vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "charles cooper",
+    "loser": "niamh davies",
+    "match": "niamh davies vs charles cooper",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "niamh davies",
+    "loser": "eabha strong-wright",
+    "match": "niamh davies vs eabha strong-wright",
+    "race": 0
+  },
+  {
+    "regatta": "BUCS Match Racing Championships",
+    "phase": "green-group",
+    "winner": "charles cooper",
+    "loser": "eabha strong-wright",
+    "match": "charles cooper vs eabha strong-wright",
+    "race": 0
+  }
+]

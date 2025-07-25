@@ -1,0 +1,530 @@
+[
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "trine palludan",
+    "match": "claire leroy vs trine palludan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "trine palludan",
+    "match": "claire leroy vs trine palludan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "semi-final-2",
+    "winner": "laurane mettraux",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs laurane mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sanna hager",
+    "match": "pauline courtois vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "linnea floser",
+    "match": "pauline courtois vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "henriette koch",
+    "match": "pauline courtois vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "laurane mettraux",
+    "match": "pauline courtois vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "sanna hager",
+    "match": "marinella laaksonen vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "linnea floser",
+    "match": "marinella laaksonen vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "alexa bezel",
+    "match": "marinella laaksonen vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "sanna mattsson",
+    "match": "marinella laaksonen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "henriette koch",
+    "match": "marinella laaksonen vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "sanna hager",
+    "match": "trine palludan vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "trine palludan",
+    "match": "trine palludan vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "linnea floser",
+    "match": "trine palludan vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "alexa bezel",
+    "match": "trine palludan vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "margot riou",
+    "match": "trine palludan vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "sanna mattsson",
+    "match": "trine palludan vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "trine palludan",
+    "match": "trine palludan vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "henriette koch",
+    "match": "trine palludan vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "trine palludan",
+    "match": "trine palludan vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sanna hager",
+    "match": "sanna hager vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "linnea floser",
+    "loser": "sanna hager",
+    "match": "sanna hager vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "sanna hager",
+    "match": "sanna hager vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "margot riou",
+    "match": "sanna hager vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "sanna hager",
+    "match": "sanna hager vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "sanna hager",
+    "match": "sanna hager vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "henriette koch",
+    "loser": "sanna hager",
+    "match": "sanna hager vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "sanna hager",
+    "match": "sanna hager vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "linnea floser",
+    "loser": "margot vennin",
+    "match": "margot vennin vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "margot vennin",
+    "match": "margot vennin vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sanna mattsson",
+    "match": "margot vennin vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "claire leroy",
+    "match": "margot vennin vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "henriette koch",
+    "loser": "margot vennin",
+    "match": "margot vennin vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "margot vennin",
+    "match": "margot vennin vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "linnea floser",
+    "match": "linnea floser vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "linnea floser",
+    "loser": "margot riou",
+    "match": "linnea floser vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "linnea floser",
+    "loser": "sanna mattsson",
+    "match": "linnea floser vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "linnea floser",
+    "match": "linnea floser vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "henriette koch",
+    "loser": "linnea floser",
+    "match": "linnea floser vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "linnea floser",
+    "match": "linnea floser vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "margot riou",
+    "match": "alexa bezel vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "henriette koch",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "laurane mettraux",
+    "match": "alexa bezel vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "margot riou vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "margot riou",
+    "match": "margot riou vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "margot riou",
+    "match": "margot riou vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "henriette koch",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "henriette koch",
+    "match": "claire leroy vs henriette koch",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Swiss International Women’s Match",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "laurane mettraux",
+    "match": "claire leroy vs laurane mettraux",
+    "race": 0
+  }
+]

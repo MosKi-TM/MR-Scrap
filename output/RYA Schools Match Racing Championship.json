@@ -1,0 +1,482 @@
+[
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "Ruby Sunderland",
+    "loser": "Sophia Dias",
+    "match": "Ruby Sunderland vs Sophia Dias",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "Ruby Sunderland",
+    "loser": "Sophia Dias",
+    "match": "Ruby Sunderland vs Sophia Dias",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "James Zanenga",
+    "loser": "Christopher Marsh",
+    "match": "Christopher Marsh vs James Zanenga",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "James Zanenga",
+    "loser": "Christopher Marsh",
+    "match": "Christopher Marsh vs James Zanenga",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Kaz Burt",
+    "match": "Ruby Sunderland vs Kaz Burt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Sophia Dias",
+    "match": "Ruby Sunderland vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Finley Lomas-Clark",
+    "match": "Ruby Sunderland vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Christopher Marsh",
+    "match": "Ruby Sunderland vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Jamie Middleburgh",
+    "match": "Ruby Sunderland vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Tommy Wilkinson",
+    "match": "Ruby Sunderland vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Finley Lomas-Clark",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Christopher Marsh",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Kaz Burt",
+    "loser": "Jamie Middleburgh",
+    "match": "Kaz Burt vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Tommy Wilkinson",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "Finley Lomas-Clark",
+    "match": "Sophia Dias vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "Christopher Marsh",
+    "match": "Sophia Dias vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "Jamie Middleburgh",
+    "match": "Sophia Dias vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "Tommy Wilkinson",
+    "match": "Sophia Dias vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Finley Lomas-Clark",
+    "loser": "Christopher Marsh",
+    "match": "Finley Lomas-Clark vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Jamie Middleburgh",
+    "loser": "Finley Lomas-Clark",
+    "match": "Finley Lomas-Clark vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Tommy Wilkinson",
+    "loser": "Finley Lomas-Clark",
+    "match": "Finley Lomas-Clark vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Christopher Marsh",
+    "loser": "Jamie Middleburgh",
+    "match": "Christopher Marsh vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Tommy Wilkinson",
+    "loser": "Christopher Marsh",
+    "match": "Christopher Marsh vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Tommy Wilkinson",
+    "loser": "Jamie Middleburgh",
+    "match": "Jamie Middleburgh vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Zanenga",
+    "loser": "Kaz Burt",
+    "match": "James Zanenga vs Kaz Burt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Sophia Dias",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Zanenga",
+    "loser": "Finley Lomas-Clark",
+    "match": "James Zanenga vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Zanenga",
+    "loser": "Christopher Marsh",
+    "match": "James Zanenga vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Zanenga",
+    "loser": "Jamie Middleburgh",
+    "match": "James Zanenga vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Zanenga",
+    "loser": "Tommy Wilkinson",
+    "match": "James Zanenga vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Kaz Burt",
+    "match": "Ruby Sunderland vs Kaz Burt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Sophia Dias",
+    "match": "Ruby Sunderland vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Finley Lomas-Clark",
+    "match": "Ruby Sunderland vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Christopher Marsh",
+    "match": "Ruby Sunderland vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Jamie Middleburgh",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Tommy Wilkinson",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Finley Lomas-Clark",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Christopher Marsh",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Jamie Middleburgh",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Tommy Wilkinson",
+    "loser": "Kaz Burt",
+    "match": "Kaz Burt vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "Finley Lomas-Clark",
+    "match": "Sophia Dias vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "Christopher Marsh",
+    "match": "Sophia Dias vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "Jamie Middleburgh",
+    "match": "Sophia Dias vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "Tommy Wilkinson",
+    "match": "Sophia Dias vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Christopher Marsh",
+    "loser": "Finley Lomas-Clark",
+    "match": "Finley Lomas-Clark vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Finley Lomas-Clark",
+    "loser": "Jamie Middleburgh",
+    "match": "Finley Lomas-Clark vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Finley Lomas-Clark",
+    "loser": "Tommy Wilkinson",
+    "match": "Finley Lomas-Clark vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Christopher Marsh",
+    "loser": "Jamie Middleburgh",
+    "match": "Christopher Marsh vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Christopher Marsh",
+    "loser": "Tommy Wilkinson",
+    "match": "Christopher Marsh vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Tommy Wilkinson",
+    "loser": "Jamie Middleburgh",
+    "match": "Jamie Middleburgh vs Tommy Wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Zanenga",
+    "loser": "Ruby Sunderland",
+    "match": "James Zanenga vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Zanenga",
+    "loser": "Kaz Burt",
+    "match": "James Zanenga vs Kaz Burt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Sophia Dias",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Sophia Dias",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Finley Lomas-Clark",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Finley Lomas-Clark",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Christopher Marsh",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Christopher Marsh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Zanenga",
+    "loser": "Jamie Middleburgh",
+    "match": "James Zanenga vs Jamie Middleburgh",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Tommy Wilkinson",
+    "loser": "James Zanenga",
+    "match": "James Zanenga vs Tommy Wilkinson",
+    "race": 0
+  }
+]

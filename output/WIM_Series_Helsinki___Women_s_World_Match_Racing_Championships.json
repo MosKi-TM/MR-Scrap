@@ -1,0 +1,218 @@
+[
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "renee groeneveld",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "trine palludan",
+    "loser": "anna ostling",
+    "match": "trine palludan vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "trine palludan",
+    "loser": "anna ostling",
+    "match": "trine palludan vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "trine palludan",
+    "loser": "renee groeneveld",
+    "match": "trine palludan vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "trine palludan",
+    "match": "trine palludan vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "trine palludan",
+    "match": "trine palludan vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "trine palludan",
+    "match": "trine palludan vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonen",
+    "match": "renee groeneveld vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonen",
+    "match": "renee groeneveld vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonen",
+    "match": "renee groeneveld vs marinella laaksonen",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "mikaela fors",
+    "match": "anna ostling vs mikaela fors",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "mikaela fors",
+    "match": "anna ostling vs mikaela fors",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "mikaela fors",
+    "match": "anna ostling vs mikaela fors",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "trine palludan vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "caroline sylvan",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "caroline sylvan",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "caroline sylvan",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 3
+  }
+]

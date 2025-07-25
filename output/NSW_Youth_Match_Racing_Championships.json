@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "cole tapper",
+    "match": "finn tapper vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "cole tapper",
+    "match": "finn tapper vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "alistair read vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "alistair read vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "alistair read vs cole tapper",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "5th/6th",
+    "winner": "xavier mclachlan",
+    "loser": "d’arcy kemp",
+    "match": "xavier mclachlan vs d’arcy kemp",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "5th/6th",
+    "winner": "xavier mclachlan",
+    "loser": "d’arcy kemp",
+    "match": "xavier mclachlan vs d’arcy kemp",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "5th/6th",
+    "winner": "xavier mclachlan",
+    "loser": "d’arcy kemp",
+    "match": "xavier mclachlan vs d’arcy kemp",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "cole tapper",
+    "match": "finn tapper vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "xavier mclachlan",
+    "match": "finn tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "d’arcy kemp",
+    "match": "finn tapper vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "xavier mclachlan",
+    "match": "jed cruickshank vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "d’arcy kemp",
+    "match": "jed cruickshank vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "alistair read vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "xavier mclachlan",
+    "match": "alistair read vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "d’arcy kemp",
+    "match": "alistair read vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "xavier mclachlan",
+    "match": "cole tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "d’arcy kemp",
+    "match": "cole tapper vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "d’arcy kemp",
+    "match": "xavier mclachlan vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "finn tapper",
+    "match": "finn tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "finn tapper",
+    "match": "finn tapper vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "xavier mclachlan",
+    "match": "finn tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "d’arcy kemp",
+    "match": "finn tapper vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "xavier mclachlan",
+    "match": "jed cruickshank vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "d’arcy kemp",
+    "match": "jed cruickshank vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "alistair read vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "xavier mclachlan",
+    "match": "alistair read vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "d’arcy kemp",
+    "match": "alistair read vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "xavier mclachlan",
+    "match": "cole tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "d’arcy kemp",
+    "loser": "cole tapper",
+    "match": "cole tapper vs d’arcy kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "d’arcy kemp",
+    "match": "xavier mclachlan vs d’arcy kemp",
+    "race": 0
+  }
+]

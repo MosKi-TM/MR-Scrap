@@ -1,0 +1,554 @@
+[
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "final",
+    "winner": "Megan Thomson",
+    "loser": "Pauline Courtois",
+    "match": "Megan Thomson vs Pauline Courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "final",
+    "winner": "Megan Thomson",
+    "loser": "Pauline Courtois",
+    "match": "Megan Thomson vs Pauline Courtois",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "Kenza Coutard",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kenza Coutard",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Pauline Courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Julia Aartsen",
+    "loser": "Pauline Courtois",
+    "match": "Julia Aartsen vs Pauline Courtois",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Julia Aartsen",
+    "loser": "Pauline Courtois",
+    "match": "Julia Aartsen vs Pauline Courtois",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Pauline Courtois",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Pauline Courtois",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Kenza Coutard",
+    "loser": "Megan Thomson",
+    "match": "Kenza Coutard vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Kenza Coutard",
+    "loser": "Megan Thomson",
+    "match": "Kenza Coutard vs Megan Thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Megan Thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "Julia D’Amodio",
+    "loser": "Brooke Wilson",
+    "match": "Julia D’Amodio vs Brooke Wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "6th-/-7th",
+    "winner": "Julia D’Amodio",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Julia D’Amodio",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Julia D’Amodio",
+    "loser": "Kenza Coutard",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Julia Aartsen",
+    "loser": "Brooke Wilson",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Brooke Wilson",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Brooke Wilson",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Julia Aartsen",
+    "loser": "Brooke Wilson",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Julia Aartsen",
+    "loser": "Brooke Wilson",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Brooke Wilson",
+    "match": "Pauline Courtois vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Julia Aartsen",
+    "match": "Megan Thomson vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Kristine Mauritzen",
+    "match": "Megan Thomson vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Brooke Wilson",
+    "match": "Megan Thomson vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia Aartsen",
+    "match": "Kenza Coutard vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Kristine Mauritzen",
+    "match": "Kenza Coutard vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Brooke Wilson",
+    "match": "Kenza Coutard vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kristine Mauritzen",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Brooke Wilson",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kristine Mauritzen",
+    "loser": "Brooke Wilson",
+    "match": "Kristine Mauritzen vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Kristine Mauritzen",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia D’Amodio",
+    "loser": "Brooke Wilson",
+    "match": "Julia D’Amodio vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Megan Thomson vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Julia Aartsen",
+    "match": "Megan Thomson vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Kristine Mauritzen",
+    "match": "Megan Thomson vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Brooke Wilson",
+    "match": "Megan Thomson vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Julia Aartsen",
+    "match": "Kenza Coutard vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Kristine Mauritzen",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Brooke Wilson",
+    "match": "Kenza Coutard vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Kristine Mauritzen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia D’Amodio",
+    "loser": "Pauline Courtois",
+    "match": "Julia D’Amodio vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia D’Amodio",
+    "loser": "Julia Aartsen",
+    "match": "Julia D’Amodio vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia D’Amodio",
+    "loser": "Kristine Mauritzen",
+    "match": "Julia D’Amodio vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Brooke Wilson",
+    "race": 0
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ben tylecote",
+    "loser": "robert giardelli",
+    "match": "ben tylecote vs robert giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ben tylecote",
+    "loser": "jack hanslope",
+    "match": "ben tylecote vs jack hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ben tylecote",
+    "loser": "edward harvey-bates",
+    "match": "ben tylecote vs edward harvey-bates",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ben tylecote",
+    "loser": "james hall",
+    "match": "ben tylecote vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ben tylecote",
+    "loser": "oliver meadowcroft",
+    "match": "ben tylecote vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ellen morley",
+    "loser": "andrew cheetham",
+    "match": "ellen morley vs andrew cheetham",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ellen morley",
+    "loser": "robert giardelli",
+    "match": "ellen morley vs robert giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "ellen morley",
+    "loser": "edward harvey-bates",
+    "match": "ellen morley vs edward harvey-bates",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "james hall",
+    "loser": "ellen morley",
+    "match": "ellen morley vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "ellen morley",
+    "match": "ellen morley vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "tiger tellwright",
+    "loser": "andrew cheetham",
+    "match": "tiger tellwright vs andrew cheetham",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "robert giardelli",
+    "loser": "tiger tellwright",
+    "match": "tiger tellwright vs robert giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "jack hanslope",
+    "loser": "tiger tellwright",
+    "match": "tiger tellwright vs jack hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "edward harvey-bates",
+    "loser": "tiger tellwright",
+    "match": "tiger tellwright vs edward harvey-bates",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "tiger tellwright",
+    "loser": "james hall",
+    "match": "tiger tellwright vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "tiger tellwright",
+    "loser": "oliver meadowcroft",
+    "match": "tiger tellwright vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "annabelle body",
+    "loser": "andrew cheetham",
+    "match": "annabelle body vs andrew cheetham",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "robert giardelli",
+    "loser": "annabelle body",
+    "match": "annabelle body vs robert giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "jack hanslope",
+    "loser": "annabelle body",
+    "match": "annabelle body vs jack hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "edward harvey-bates",
+    "loser": "annabelle body",
+    "match": "annabelle body vs edward harvey-bates",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "james hall",
+    "loser": "annabelle body",
+    "match": "annabelle body vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "annabelle body",
+    "match": "annabelle body vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "jack hanslope",
+    "loser": "andrew cheetham",
+    "match": "andrew cheetham vs jack hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "james hall",
+    "loser": "andrew cheetham",
+    "match": "andrew cheetham vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "andrew cheetham",
+    "match": "andrew cheetham vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "edward harvey-bates",
+    "loser": "robert giardelli",
+    "match": "robert giardelli vs edward harvey-bates",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "james hall",
+    "loser": "robert giardelli",
+    "match": "robert giardelli vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "robert giardelli",
+    "match": "robert giardelli vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "jack hanslope",
+    "loser": "james hall",
+    "match": "jack hanslope vs james hall",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "jack hanslope",
+    "loser": "oliver meadowcroft",
+    "match": "jack hanslope vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "edward harvey-bates",
+    "match": "edward harvey-bates vs oliver meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup / RYA Winter Match Racing 2",
+    "phase": "round-robin",
+    "winner": "oliver meadowcroft",
+    "loser": "james hall",
+    "match": "james hall vs oliver meadowcroft",
+    "race": 0
+  }
+]

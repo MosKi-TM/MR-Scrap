@@ -1,0 +1,858 @@
+[
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "final",
+    "winner": "trine palludan",
+    "loser": "johanna bergqvist",
+    "match": "trine palludan vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "final",
+    "winner": "trine palludan",
+    "loser": "johanna bergqvist",
+    "match": "trine palludan vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "final",
+    "winner": "trine palludan",
+    "loser": "johanna bergqvist",
+    "match": "trine palludan vs johanna bergqvist",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "trine palludan vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "trine palludan vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "trine palludan",
+    "loser": "pauline courtois",
+    "match": "trine palludan vs pauline courtois",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "marinella laaksonen",
+    "loser": "johanna bergqvist",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "marinella laaksonen",
+    "loser": "johanna bergqvist",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "allie blecher",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs allie blecher",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "allie blecher",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs allie blecher",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "antonia degerlund",
+    "match": "johanna bergqvist vs antonia degerlund",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "antonia degerlund",
+    "match": "johanna bergqvist vs antonia degerlund",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "antonia degerlund",
+    "match": "johanna bergqvist vs antonia degerlund",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "celia willison",
+    "match": "trine palludan vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "celia willison",
+    "match": "trine palludan vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-3",
+    "winner": "trine palludan",
+    "loser": "celia willison",
+    "match": "trine palludan vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-4",
+    "winner": "marinella laaksonen",
+    "loser": "sanna hager",
+    "match": "marinella laaksonen vs sanna hager",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-4",
+    "winner": "marinella laaksonen",
+    "loser": "sanna hager",
+    "match": "marinella laaksonen vs sanna hager",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "quarter-final-4",
+    "winner": "marinella laaksonen",
+    "loser": "sanna hager",
+    "match": "marinella laaksonen vs sanna hager",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs antonia degerlund",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "jassi skogman",
+    "match": "pauline courtois vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "hanna ericksson",
+    "match": "pauline courtois vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "trine palludan",
+    "match": "marinella laaksonen vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "johanna bergqvist",
+    "match": "marinella laaksonen vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "antonia degerlund",
+    "match": "marinella laaksonen vs antonia degerlund",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "sanna hager",
+    "match": "marinella laaksonen vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "jassi skogman",
+    "match": "marinella laaksonen vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "margot vennin",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "sanna mattsson",
+    "match": "marinella laaksonen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "margot riou",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "allie blecher",
+    "match": "marinella laaksonen vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "celia willison",
+    "match": "marinella laaksonen vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "hanna ericksson",
+    "match": "marinella laaksonen vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "johanna bergqvist",
+    "match": "trine palludan vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "antonia degerlund",
+    "match": "trine palludan vs antonia degerlund",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "sanna hager",
+    "match": "trine palludan vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "jassi skogman",
+    "match": "trine palludan vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "margot vennin",
+    "match": "trine palludan vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "sanna mattsson",
+    "match": "trine palludan vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "margot riou",
+    "match": "trine palludan vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "allie blecher",
+    "match": "trine palludan vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "celia willison",
+    "match": "trine palludan vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "hanna ericksson",
+    "match": "trine palludan vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "antonia degerlund",
+    "match": "johanna bergqvist vs antonia degerlund",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "sanna hager",
+    "match": "johanna bergqvist vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "jassi skogman",
+    "match": "johanna bergqvist vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "sanna mattsson",
+    "match": "johanna bergqvist vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "allie blecher",
+    "match": "johanna bergqvist vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "celia willison",
+    "match": "johanna bergqvist vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "hanna ericksson",
+    "match": "johanna bergqvist vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "sanna hager",
+    "match": "antonia degerlund vs sanna hager",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "jassi skogman",
+    "loser": "antonia degerlund",
+    "match": "antonia degerlund vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "margot vennin",
+    "match": "antonia degerlund vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "sanna mattsson",
+    "match": "antonia degerlund vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "margot riou",
+    "match": "antonia degerlund vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "antonia degerlund",
+    "match": "antonia degerlund vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "celia willison",
+    "match": "antonia degerlund vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "antonia degerlund",
+    "loser": "hanna ericksson",
+    "match": "antonia degerlund vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "jassi skogman",
+    "match": "sanna hager vs jassi skogman",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sanna hager",
+    "match": "sanna hager vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "sanna mattsson",
+    "match": "sanna hager vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "margot riou",
+    "match": "sanna hager vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "sanna hager",
+    "match": "sanna hager vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sanna hager",
+    "match": "sanna hager vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "sanna hager",
+    "loser": "hanna ericksson",
+    "match": "sanna hager vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "jassi skogman",
+    "loser": "margot vennin",
+    "match": "jassi skogman vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "jassi skogman",
+    "loser": "sanna mattsson",
+    "match": "jassi skogman vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "jassi skogman",
+    "loser": "margot riou",
+    "match": "jassi skogman vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "jassi skogman",
+    "match": "jassi skogman vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "jassi skogman",
+    "loser": "celia willison",
+    "match": "jassi skogman vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "hanna ericksson",
+    "loser": "jassi skogman",
+    "match": "jassi skogman vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sanna mattsson",
+    "match": "margot vennin vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "margot vennin",
+    "match": "margot vennin vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "margot vennin",
+    "match": "margot vennin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "hanna ericksson",
+    "match": "margot vennin vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "hanna ericksson",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "margot riou",
+    "match": "margot riou vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "margot riou",
+    "match": "margot riou vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "hanna ericksson",
+    "match": "margot riou vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "celia willison",
+    "match": "allie blecher vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "hanna ericksson",
+    "match": "allie blecher vs hanna ericksson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series - Helsinki Women's Match",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "hanna ericksson",
+    "match": "celia willison vs hanna ericksson",
+    "race": 0
+  }
+]

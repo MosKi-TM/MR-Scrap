@@ -1,0 +1,898 @@
+[
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Nicole Breault",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "Nicole Breault",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Nicole Breault",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Nicole Breault",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Anna Östling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Anna Östling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "Julia Aartsen",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Anna Östling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Anna Östling",
+    "match": "Nicole Breault vs Anna Östling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Anna Östling",
+    "match": "Nicole Breault vs Anna Östling",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Anna Östling",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Anna Östling",
+    "match": "Nicole Breault vs Anna Östling",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "5th-/-6th",
+    "winner": "Lindsey Baab",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "5th-/-6th",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "5th-/-6th",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "7th-/-8th",
+    "winner": "Katie Cornetta",
+    "loser": "Kenza Coutard",
+    "match": "Katie Cornetta vs Kenza Coutard",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "7th-/-8th",
+    "winner": "Katie Cornetta",
+    "loser": "Kenza Coutard",
+    "match": "Katie Cornetta vs Kenza Coutard",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "9th-/-10th",
+    "winner": "Caroline Bayless",
+    "loser": "Liz Hjorth",
+    "match": "Liz Hjorth vs Caroline Bayless",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "9th-/-10th",
+    "winner": "Caroline Bayless",
+    "loser": "Liz Hjorth",
+    "match": "Liz Hjorth vs Caroline Bayless",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Allie Blecher",
+    "match": "Pauline Courtois vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Nicole Breault",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Lindsey Baab",
+    "match": "Pauline Courtois vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Caroline Bayless",
+    "match": "Pauline Courtois vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Liz Hjorth",
+    "match": "Pauline Courtois vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Julia Aartsen",
+    "match": "Anna Östling vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Anna Östling vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Lindsey Baab",
+    "match": "Anna Östling vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Caroline Bayless",
+    "match": "Anna Östling vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Liz Hjorth",
+    "match": "Anna Östling vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Nicole Breault",
+    "match": "Julia Aartsen vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Lindsey Baab",
+    "match": "Julia Aartsen vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Caroline Bayless",
+    "match": "Julia Aartsen vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Liz Hjorth",
+    "match": "Julia Aartsen vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Lindsey Baab",
+    "match": "Kenza Coutard vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Caroline Bayless",
+    "match": "Kenza Coutard vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Liz Hjorth",
+    "match": "Kenza Coutard vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Caroline Bayless",
+    "match": "Allie Blecher vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Liz Hjorth",
+    "match": "Allie Blecher vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Lindsey Baab",
+    "match": "Nicole Breault vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Caroline Bayless",
+    "match": "Nicole Breault vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Liz Hjorth",
+    "match": "Nicole Breault vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Caroline Bayless",
+    "match": "Lindsey Baab vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Liz Hjorth",
+    "match": "Lindsey Baab vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Liz Hjorth",
+    "loser": "Caroline Bayless",
+    "match": "Caroline Bayless vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Julia Aartsen",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Katie Cornetta",
+    "loser": "Caroline Bayless",
+    "match": "Katie Cornetta vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "Katie Cornetta",
+    "loser": "Liz Hjorth",
+    "match": "Katie Cornetta vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Allie Blecher",
+    "match": "Pauline Courtois vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Nicole Breault",
+    "match": "Pauline Courtois vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Lindsey Baab",
+    "match": "Pauline Courtois vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Caroline Bayless",
+    "match": "Pauline Courtois vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Liz Hjorth",
+    "match": "Pauline Courtois vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Julia Aartsen",
+    "match": "Anna Östling vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Kenza Coutard",
+    "match": "Anna Östling vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Anna Östling vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Lindsey Baab",
+    "match": "Anna Östling vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Caroline Bayless",
+    "match": "Anna Östling vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Liz Hjorth",
+    "match": "Anna Östling vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Kenza Coutard",
+    "match": "Julia Aartsen vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Allie Blecher",
+    "match": "Julia Aartsen vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Nicole Breault",
+    "match": "Julia Aartsen vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Lindsey Baab",
+    "match": "Julia Aartsen vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Caroline Bayless",
+    "match": "Julia Aartsen vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Liz Hjorth",
+    "match": "Julia Aartsen vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Nicole Breault",
+    "match": "Kenza Coutard vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Lindsey Baab",
+    "match": "Kenza Coutard vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Caroline Bayless",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Liz Hjorth",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Caroline Bayless",
+    "match": "Allie Blecher vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Liz Hjorth",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Lindsey Baab",
+    "match": "Nicole Breault vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Caroline Bayless",
+    "match": "Nicole Breault vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Liz Hjorth",
+    "match": "Nicole Breault vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Lindsey Baab",
+    "loser": "Caroline Bayless",
+    "match": "Lindsey Baab vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Lindsey Baab",
+    "loser": "Liz Hjorth",
+    "match": "Lindsey Baab vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Liz Hjorth",
+    "loser": "Caroline Bayless",
+    "match": "Caroline Bayless vs Liz Hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Julia Aartsen",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Katie Cornetta",
+    "loser": "Kenza Coutard",
+    "match": "Katie Cornetta vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Katie Cornetta",
+    "loser": "Allie Blecher",
+    "match": "Katie Cornetta vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Lindsey Baab",
+    "loser": "Katie Cornetta",
+    "match": "Katie Cornetta vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Katie Cornetta",
+    "loser": "Caroline Bayless",
+    "match": "Katie Cornetta vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "Katie Cornetta",
+    "loser": "Liz Hjorth",
+    "match": "Katie Cornetta vs Liz Hjorth",
+    "race": 0
+  }
+]

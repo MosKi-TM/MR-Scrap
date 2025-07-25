@@ -1,0 +1,266 @@
+[
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "finals",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "lucy macgregor vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "finals",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "lucy macgregor vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "finals",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "finals",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "lucy macgregor vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "petit-finals",
+    "winner": "sally barkow",
+    "loser": "silja lehtinen",
+    "match": "sally barkow vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "petit-finals",
+    "winner": "sally barkow",
+    "loser": "silja lehtinen",
+    "match": "sally barkow vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-1",
+    "winner": "sally barkow",
+    "loser": "olivia price",
+    "match": "sally barkow vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "sally barkow",
+    "match": "sally barkow vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "sally barkow",
+    "match": "sally barkow vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "sally barkow",
+    "match": "sally barkow vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "silja lehtinen",
+    "match": "lucy macgregor vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-2",
+    "winner": "silja lehtinen",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-2",
+    "winner": "silja lehtinen",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "silja lehtinen",
+    "match": "lucy macgregor vs silja lehtinen",
+    "race": 4
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "silja lehtinen",
+    "match": "lucy macgregor vs silja lehtinen",
+    "race": 5
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "5th/6th",
+    "winner": "anna tunnicliffe",
+    "loser": "tamara echegoyen",
+    "match": "anna tunnicliffe vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "7th/8th",
+    "winner": "ekaterina skudina",
+    "loser": "mandy mulder",
+    "match": "ekaterina skudina vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "sail-off-(a)",
+    "winner": "tamara echegoyen",
+    "loser": "ekaterina skudina",
+    "match": "tamara echegoyen vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "sail-off-(b)",
+    "winner": "anna tunnicliffe",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-1",
+    "winner": "sally barkow",
+    "loser": "tamara echegoyen",
+    "match": "sally barkow vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-1",
+    "winner": "sally barkow",
+    "loser": "tamara echegoyen",
+    "match": "sally barkow vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-1",
+    "winner": "sally barkow",
+    "loser": "tamara echegoyen",
+    "match": "sally barkow vs tamara echegoyen",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna tunnicliffe",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna tunnicliffe",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-2",
+    "winner": "lucy macgregor",
+    "loser": "anna tunnicliffe",
+    "match": "lucy macgregor vs anna tunnicliffe",
+    "race": 5
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-3",
+    "winner": "silja lehtinen",
+    "loser": "mandy mulder",
+    "match": "silja lehtinen vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-3",
+    "winner": "silja lehtinen",
+    "loser": "mandy mulder",
+    "match": "silja lehtinen vs mandy mulder",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-3",
+    "winner": "silja lehtinen",
+    "loser": "mandy mulder",
+    "match": "silja lehtinen vs mandy mulder",
+    "race": 3
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-4",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "olivia price vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-4",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "olivia price vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "Rolex Miami OCR",
+    "phase": "quarter-final-4",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "olivia price vs ekaterina skudina",
+    "race": 3
+  }
+]

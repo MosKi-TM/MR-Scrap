@@ -1,0 +1,266 @@
+[
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "final",
+    "winner": "nicholai sehested",
+    "loser": "eric monnin",
+    "match": "nicholai sehested vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "nicholai sehested",
+    "match": "nicholai sehested vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "final",
+    "winner": "nicholai sehested",
+    "loser": "eric monnin",
+    "match": "nicholai sehested vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "final",
+    "winner": "nicholai sehested",
+    "loser": "eric monnin",
+    "match": "nicholai sehested vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "chris poole",
+    "match": "chris poole vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "david gilmour",
+    "match": "chris poole vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "chris poole",
+    "match": "chris poole vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "chris poole",
+    "match": "chris poole vs david gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "nicholai sehested",
+    "loser": "chris poole",
+    "match": "nicholai sehested vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "nicholai sehested",
+    "loser": "chris poole",
+    "match": "nicholai sehested vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-1",
+    "winner": "nicholai sehested",
+    "loser": "chris poole",
+    "match": "nicholai sehested vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "eric monnin vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "eric monnin vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "david gilmour",
+    "loser": "eric monnin",
+    "match": "eric monnin vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "david gilmour",
+    "loser": "eric monnin",
+    "match": "eric monnin vs david gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "eric monnin vs david gilmour",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "nicholai sehested",
+    "loser": "stratis andreadis",
+    "match": "nicholai sehested vs stratis andreadis",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "nicholai sehested",
+    "loser": "stratis andreadis",
+    "match": "nicholai sehested vs stratis andreadis",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-1",
+    "winner": "nicholai sehested",
+    "loser": "stratis andreadis",
+    "match": "nicholai sehested vs stratis andreadis",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "dustin durant",
+    "loser": "chris poole",
+    "match": "chris poole vs dustin durant",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "dustin durant",
+    "loser": "chris poole",
+    "match": "chris poole vs dustin durant",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris poole",
+    "loser": "dustin durant",
+    "match": "chris poole vs dustin durant",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris poole",
+    "loser": "dustin durant",
+    "match": "chris poole vs dustin durant",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris poole",
+    "loser": "dustin durant",
+    "match": "chris poole vs dustin durant",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "dustin durant",
+    "loser": "chris poole",
+    "match": "chris poole vs dustin durant",
+    "race": 6
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris poole",
+    "loser": "dustin durant",
+    "match": "chris poole vs dustin durant",
+    "race": 7
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "stephanie roble",
+    "match": "eric monnin vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "stephanie roble",
+    "match": "eric monnin vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "stephanie roble",
+    "match": "eric monnin vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "david gilmour",
+    "loser": "taylor canfield",
+    "match": "david gilmour vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "david gilmour",
+    "loser": "taylor canfield",
+    "match": "david gilmour vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "david gilmour vs taylor canfield",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Knickerbocker Cup",
+    "phase": "quarter-final-4",
+    "winner": "david gilmour",
+    "loser": "taylor canfield",
+    "match": "david gilmour vs taylor canfield",
+    "race": 4
+  }
+]

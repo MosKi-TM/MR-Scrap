@@ -1,0 +1,306 @@
+[
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "petit-final",
+    "winner": "fiona tylecote",
+    "loser": "octavia owen",
+    "match": "fiona tylecote vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "petit-final",
+    "winner": "fiona tylecote",
+    "loser": "octavia owen",
+    "match": "fiona tylecote vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "semi-final-1",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "semi-final-1",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "ali morrish vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "ali morrish vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "octavia owen",
+    "loser": "matilda nicholls",
+    "match": "octavia owen vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "octavia owen",
+    "loser": "fiona tylecote",
+    "match": "octavia owen vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "ali morrish",
+    "loser": "matilda nicholls",
+    "match": "ali morrish vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "ali morrish",
+    "loser": "fiona tylecote",
+    "match": "ali morrish vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "sophie otter",
+    "loser": "matilda nicholls",
+    "match": "sophie otter vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-3",
+    "winner": "matilda nicholls",
+    "loser": "fiona tylecote",
+    "match": "matilda nicholls vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "matilda nicholls",
+    "match": "octavia owen vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "fiona tylecote",
+    "match": "octavia owen vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "matilda nicholls",
+    "match": "ali morrish vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "fiona tylecote",
+    "match": "ali morrish vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "matilda nicholls",
+    "match": "sophie otter vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-2",
+    "winner": "fiona tylecote",
+    "loser": "matilda nicholls",
+    "match": "matilda nicholls vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "matilda nicholls",
+    "match": "octavia owen vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "fiona tylecote",
+    "loser": "octavia owen",
+    "match": "octavia owen vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "matilda nicholls",
+    "match": "ali morrish vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "fiona tylecote",
+    "match": "ali morrish vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "matilda nicholls",
+    "match": "sophie otter vs matilda nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Women's Match Racing",
+    "phase": "round-robin-1",
+    "winner": "fiona tylecote",
+    "loser": "matilda nicholls",
+    "match": "matilda nicholls vs fiona tylecote",
+    "race": 0
+  }
+]

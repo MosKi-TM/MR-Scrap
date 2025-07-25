@@ -1,0 +1,34 @@
+[
+  {
+    "regatta": "GKSS Icebreaker",
+    "phase": "final",
+    "winner": "bjorn hansen",
+    "loser": "johnie berntsson",
+    "match": "bjorn hansen vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Icebreaker",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Icebreaker",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Icebreaker",
+    "phase": "petit-final",
+    "winner": "anna ostling",
+    "loser": "patrik sturesson",
+    "match": "patrik sturesson vs anna ostling",
+    "race": 1
+  }
+]

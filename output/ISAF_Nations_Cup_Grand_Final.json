@@ -1,0 +1,266 @@
+[
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-finals",
+    "winner": "claire leroy",
+    "loser": "rita goncalves",
+    "match": "claire leroy vs rita goncalves",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-finals",
+    "winner": "claire leroy",
+    "loser": "rita goncalves",
+    "match": "claire leroy vs rita goncalves",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-finals",
+    "winner": "claire leroy",
+    "loser": "rita goncalves",
+    "match": "claire leroy vs rita goncalves",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-petit",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "olivia price vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-petit",
+    "winner": "mandy mulder",
+    "loser": "olivia price",
+    "match": "olivia price vs mandy mulder",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "womens-petit",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "olivia price vs mandy mulder",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-finals",
+    "winner": "laurie jury",
+    "loser": "mads ebler",
+    "match": "laurie jury vs mads ebler",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-finals",
+    "winner": "mads ebler",
+    "loser": "laurie jury",
+    "match": "laurie jury vs mads ebler",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-finals",
+    "winner": "laurie jury",
+    "loser": "mads ebler",
+    "match": "laurie jury vs mads ebler",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-finals",
+    "winner": "laurie jury",
+    "loser": "mads ebler",
+    "match": "laurie jury vs mads ebler",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-petit",
+    "winner": "henrique haddad",
+    "loser": "lucy macgregor",
+    "match": "henrique haddad vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-petit",
+    "winner": "henrique haddad",
+    "loser": "lucy macgregor",
+    "match": "henrique haddad vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf1",
+    "winner": "olivia price",
+    "loser": "rita goncalves",
+    "match": "olivia price vs rita goncalves",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf1",
+    "winner": "olivia price",
+    "loser": "rita goncalves",
+    "match": "olivia price vs rita goncalves",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf1",
+    "winner": "rita goncalves",
+    "loser": "olivia price",
+    "match": "olivia price vs rita goncalves",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf1",
+    "winner": "rita goncalves",
+    "loser": "olivia price",
+    "match": "olivia price vs rita goncalves",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf1",
+    "winner": "rita goncalves",
+    "loser": "olivia price",
+    "match": "olivia price vs rita goncalves",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf2",
+    "winner": "claire leroy",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf2",
+    "winner": "claire leroy",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf2",
+    "winner": "mandy mulder",
+    "loser": "claire leroy",
+    "match": "mandy mulder vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-sf2",
+    "winner": "claire leroy",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf1",
+    "winner": "mads ebler",
+    "loser": "henrique haddad",
+    "match": "mads ebler vs henrique haddad",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf1",
+    "winner": "henrique haddad",
+    "loser": "mads ebler",
+    "match": "mads ebler vs henrique haddad",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf1",
+    "winner": "mads ebler",
+    "loser": "henrique haddad",
+    "match": "mads ebler vs henrique haddad",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf1",
+    "winner": "mads ebler",
+    "loser": "henrique haddad",
+    "match": "mads ebler vs henrique haddad",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf2",
+    "winner": "laurie jury",
+    "loser": "lucy macgregor",
+    "match": "laurie jury vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf2",
+    "winner": "laurie jury",
+    "loser": "lucy macgregor",
+    "match": "laurie jury vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-sf2",
+    "winner": "laurie jury",
+    "loser": "lucy macgregor",
+    "match": "laurie jury vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-9/10",
+    "winner": "katarzyna pic",
+    "loser": "dominique provoyeur",
+    "match": "dominique provoyeur vs katarzyna pic",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-7/8",
+    "winner": "ru wang",
+    "loser": "sharon ferris-choat",
+    "match": "sharon ferris-choat vs ru wang",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "women-5/6",
+    "winner": "genny tulloch",
+    "loser": "juliana senfft",
+    "match": "juliana senfft vs genny tulloch",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-7/8",
+    "winner": "stratis andreadis",
+    "loser": "peter wickwire",
+    "match": "stratis andreadis vs peter wickwire",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final",
+    "phase": "open-5/6",
+    "winner": "shawn bennett",
+    "loser": "przemek tarnacki",
+    "match": "przemek tarnacki vs shawn bennett",
+    "race": 1
+  }
+]

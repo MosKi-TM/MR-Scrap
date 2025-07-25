@@ -1,0 +1,698 @@
+[
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "final",
+    "winner": "rocco attili",
+    "loser": "lennard bal",
+    "match": "rocco attili vs lennard bal",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "final",
+    "winner": "lennard bal",
+    "loser": "rocco attili",
+    "match": "rocco attili vs lennard bal",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "final",
+    "winner": "rocco attili",
+    "loser": "lennard bal",
+    "match": "rocco attili vs lennard bal",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "final",
+    "winner": "rocco attili",
+    "loser": "lennard bal",
+    "match": "rocco attili vs lennard bal",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "petit-final",
+    "winner": "mati sepp",
+    "loser": "tom foucher",
+    "match": "mati sepp vs tom foucher",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "petit-final",
+    "winner": "mati sepp",
+    "loser": "tom foucher",
+    "match": "mati sepp vs tom foucher",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "lennard bal",
+    "loser": "mati sepp",
+    "match": "mati sepp vs lennard bal",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "lennard bal",
+    "loser": "mati sepp",
+    "match": "mati sepp vs lennard bal",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "lennard bal",
+    "loser": "mati sepp",
+    "match": "mati sepp vs lennard bal",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "tom foucher",
+    "loser": "rocco attili",
+    "match": "rocco attili vs tom foucher",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "tom foucher",
+    "loser": "rocco attili",
+    "match": "rocco attili vs tom foucher",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "tom foucher",
+    "match": "rocco attili vs tom foucher",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "tom foucher",
+    "match": "rocco attili vs tom foucher",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "tom foucher",
+    "match": "rocco attili vs tom foucher",
+    "race": 5
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "5th-/-6th",
+    "winner": "ange delerce",
+    "loser": "ruairi finnegan",
+    "match": "ange delerce vs ruairi finnegan",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "6th-/-7th",
+    "winner": "ruairi finnegan",
+    "loser": "bojan rajar",
+    "match": "ruairi finnegan vs bojan rajar",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "7th-/-8th",
+    "winner": "bojan rajar",
+    "loser": "martin allix",
+    "match": "bojan rajar vs martin allix",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "8th-/-9th",
+    "winner": "martin allix",
+    "loser": "marcello torre",
+    "match": "marcello torre vs martin allix",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "9th-/-10th",
+    "winner": "martin allix",
+    "loser": "patryk zbroja",
+    "match": "martin allix vs patryk zbroja",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "10th-/-11th",
+    "winner": "patryk zbroja",
+    "loser": "julia d'amodio",
+    "match": "patryk zbroja vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "11th-/-12th",
+    "winner": "julia d'amodio",
+    "loser": "michał gryglewski",
+    "match": "julia d'amodio vs michał gryglewski",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "ange delerce",
+    "match": "rocco attili vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "patryk zbroja",
+    "match": "rocco attili vs patryk zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "lennard bal",
+    "match": "rocco attili vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "tom foucher",
+    "match": "rocco attili vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "martin allix",
+    "match": "rocco attili vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "rocco attili",
+    "match": "rocco attili vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "michał gryglewski",
+    "match": "rocco attili vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "rocco attili",
+    "match": "rocco attili vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "marcello torre",
+    "match": "rocco attili vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "julia d'amodio",
+    "match": "rocco attili vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "bojan rajar",
+    "match": "rocco attili vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "patryk zbroja",
+    "match": "ange delerce vs patryk zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "ange delerce",
+    "match": "ange delerce vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "ange delerce",
+    "match": "ange delerce vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "martin allix",
+    "match": "ange delerce vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "ange delerce",
+    "match": "ange delerce vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "michał gryglewski",
+    "match": "ange delerce vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "ruairi finnegan",
+    "match": "ange delerce vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "marcello torre",
+    "match": "ange delerce vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "julia d'amodio",
+    "match": "ange delerce vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "bojan rajar",
+    "loser": "ange delerce",
+    "match": "ange delerce vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "patryk zbroja",
+    "loser": "michał gryglewski",
+    "match": "patryk zbroja vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "patryk zbroja",
+    "match": "patryk zbroja vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "patryk zbroja",
+    "loser": "julia d'amodio",
+    "match": "patryk zbroja vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "patryk zbroja",
+    "loser": "bojan rajar",
+    "match": "patryk zbroja vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "tom foucher",
+    "match": "lennard bal vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "martin allix",
+    "match": "lennard bal vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "mati sepp",
+    "match": "lennard bal vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "michał gryglewski",
+    "match": "lennard bal vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "lennard bal",
+    "match": "lennard bal vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "marcello torre",
+    "match": "lennard bal vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "julia d'amodio",
+    "match": "lennard bal vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "bojan rajar",
+    "loser": "lennard bal",
+    "match": "lennard bal vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "martin allix",
+    "match": "tom foucher vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "mati sepp",
+    "match": "tom foucher vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "michał gryglewski",
+    "match": "tom foucher vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "ruairi finnegan",
+    "match": "tom foucher vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "marcello torre",
+    "match": "tom foucher vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "tom foucher",
+    "loser": "julia d'amodio",
+    "match": "tom foucher vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "bojan rajar",
+    "loser": "tom foucher",
+    "match": "tom foucher vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "martin allix",
+    "match": "martin allix vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "michał gryglewski",
+    "match": "martin allix vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "martin allix",
+    "match": "martin allix vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "martin allix",
+    "match": "martin allix vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "martin allix",
+    "match": "martin allix vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "bojan rajar",
+    "match": "martin allix vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "michał gryglewski",
+    "match": "mati sepp vs michał gryglewski",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "ruairi finnegan",
+    "match": "mati sepp vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "marcello torre",
+    "match": "mati sepp vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "julia d'amodio",
+    "match": "mati sepp vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "bojan rajar",
+    "match": "mati sepp vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "michał gryglewski",
+    "match": "michał gryglewski vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "michał gryglewski",
+    "match": "michał gryglewski vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "michał gryglewski",
+    "match": "michał gryglewski vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "bojan rajar",
+    "loser": "michał gryglewski",
+    "match": "michał gryglewski vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "bojan rajar",
+    "match": "ruairi finnegan vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "marcello torre",
+    "match": "marcello torre vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "bojan rajar",
+    "match": "marcello torre vs bojan rajar",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – OM International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "bojan rajar",
+    "loser": "julia d'amodio",
+    "match": "julia d'amodio vs bojan rajar",
+    "race": 0
+  }
+]

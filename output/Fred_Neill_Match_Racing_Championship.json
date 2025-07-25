@@ -1,0 +1,362 @@
+[
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "lesley roberts",
+    "match": "carter baker vs lesley roberts",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "joe howe",
+    "match": "carter baker vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "carter baker",
+    "match": "carter baker vs sam king",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "brady lowe",
+    "match": "carter baker vs brady lowe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "finlay bunt",
+    "match": "carter baker vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "carter baker",
+    "match": "carter baker vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "george young",
+    "match": "carter baker vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "austin higgins",
+    "match": "carter baker vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "marc read",
+    "match": "carter baker vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "joe howe",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs sam king",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "brady lowe",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs brady lowe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "lesley roberts",
+    "loser": "george young",
+    "match": "lesley roberts vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "marc read",
+    "loser": "lesley roberts",
+    "match": "lesley roberts vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "joe howe",
+    "match": "joe howe vs sam king",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "brady lowe",
+    "loser": "joe howe",
+    "match": "joe howe vs brady lowe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "joe howe",
+    "match": "joe howe vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "joe howe",
+    "match": "joe howe vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "george young",
+    "loser": "joe howe",
+    "match": "joe howe vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "joe howe",
+    "match": "joe howe vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "joe howe",
+    "loser": "marc read",
+    "match": "joe howe vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "brady lowe",
+    "match": "sam king vs brady lowe",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "finlay bunt",
+    "match": "sam king vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "alex blacker",
+    "match": "sam king vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "george young",
+    "match": "sam king vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "austin higgins",
+    "match": "sam king vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "marc read",
+    "match": "sam king vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "brady lowe",
+    "match": "brady lowe vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "brady lowe",
+    "match": "brady lowe vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "brady lowe",
+    "loser": "george young",
+    "match": "brady lowe vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "brady lowe",
+    "loser": "austin higgins",
+    "match": "brady lowe vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "brady lowe",
+    "loser": "marc read",
+    "match": "brady lowe vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "finlay bunt",
+    "match": "finlay bunt vs alex blacker",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "george young",
+    "match": "finlay bunt vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "finlay bunt",
+    "match": "finlay bunt vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "marc read",
+    "match": "finlay bunt vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "george young",
+    "match": "alex blacker vs george young",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "alex blacker",
+    "match": "alex blacker vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alex blacker",
+    "loser": "marc read",
+    "match": "alex blacker vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "george young",
+    "match": "george young vs austin higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "marc read",
+    "loser": "george young",
+    "match": "george young vs marc read",
+    "race": 0
+  },
+  {
+    "regatta": "Fred Neill Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "austin higgins",
+    "loser": "marc read",
+    "match": "austin higgins vs marc read",
+    "race": 0
+  }
+]

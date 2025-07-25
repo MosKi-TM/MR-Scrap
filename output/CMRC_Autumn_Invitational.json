@@ -1,0 +1,130 @@
+[
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "david storrs",
+    "match": "david storrs vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "final",
+    "winner": "david storrs",
+    "loser": "peter holz",
+    "match": "david storrs vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "final",
+    "winner": "david storrs",
+    "loser": "peter holz",
+    "match": "david storrs vs peter holz",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "david storrs",
+    "match": "david storrs vs peter holz",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "david storrs",
+    "match": "david storrs vs peter holz",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "petit-final",
+    "winner": "don wilson",
+    "loser": "tod reynolds",
+    "match": "tod reynolds vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "petit-final",
+    "winner": "don wilson",
+    "loser": "tod reynolds",
+    "match": "tod reynolds vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "peter holz",
+    "loser": "tod reynolds",
+    "match": "peter holz vs tod reynolds",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "peter holz",
+    "loser": "tod reynolds",
+    "match": "peter holz vs tod reynolds",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "tod reynolds",
+    "loser": "peter holz",
+    "match": "peter holz vs tod reynolds",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "peter holz",
+    "loser": "tod reynolds",
+    "match": "peter holz vs tod reynolds",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "don wilson vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "don wilson vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "don wilson vs david storrs",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "5th-/-6th",
+    "winner": "william curtiss",
+    "loser": "david niemann",
+    "match": "william curtiss vs david niemann",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational",
+    "phase": "7th-/-8th",
+    "winner": "mark davies",
+    "loser": "james prendergast",
+    "match": "mark davies vs james prendergast",
+    "race": 1
+  }
+]

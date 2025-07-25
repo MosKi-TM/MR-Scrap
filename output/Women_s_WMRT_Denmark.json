@@ -1,0 +1,578 @@
+[
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs camilla ulrikkeholm klinkby",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs camilla ulrikkeholm klinkby",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs camilla ulrikkeholm klinkby",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "petit-final",
+    "winner": "brooke wilson",
+    "loser": "martina carlssson",
+    "match": "brooke wilson vs martina carlssson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "petit-final",
+    "winner": "martina carlssson",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs martina carlssson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "petit-final",
+    "winner": "brooke wilson",
+    "loser": "martina carlssson",
+    "match": "brooke wilson vs martina carlssson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "martina carlssson",
+    "match": "camilla ulrikkeholm klinkby vs martina carlssson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "martina carlssson",
+    "match": "camilla ulrikkeholm klinkby vs martina carlssson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "martina carlssson",
+    "match": "camilla ulrikkeholm klinkby vs martina carlssson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea vogelius",
+    "loser": "brooke wilson",
+    "match": "lea vogelius vs brooke wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea vogelius",
+    "loser": "brooke wilson",
+    "match": "lea vogelius vs brooke wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "semi-final-2",
+    "winner": "brooke wilson",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs brooke wilson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "5th-/-6th",
+    "winner": "julia aartsen",
+    "loser": "julia d'amodio",
+    "match": "julia aartsen vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "6th-/-7th",
+    "winner": "julia d'amodio",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "7th-/-8th",
+    "winner": "julia d'amodio",
+    "loser": "bridget groble",
+    "match": "bridget groble vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "8th-/-9th",
+    "winner": "julia d'amodio",
+    "loser": "nicole hemeryck",
+    "match": "nicole hemeryck vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "9th-/-10th",
+    "winner": "nicole hemeryck",
+    "loser": "louise k olesen",
+    "match": "nicole hemeryck vs louise k olesen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "kristine mauritzen",
+    "match": "camilla ulrikkeholm klinkby vs kristine mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "kristine mauritzen",
+    "match": "camilla ulrikkeholm klinkby vs kristine mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "kristine mauritzen",
+    "match": "camilla ulrikkeholm klinkby vs kristine mauritzen",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-2",
+    "winner": "bridget groble",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs bridget groble",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-2",
+    "winner": "brooke wilson",
+    "loser": "bridget groble",
+    "match": "brooke wilson vs bridget groble",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-2",
+    "winner": "brooke wilson",
+    "loser": "bridget groble",
+    "match": "brooke wilson vs bridget groble",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-2",
+    "winner": "brooke wilson",
+    "loser": "bridget groble",
+    "match": "brooke wilson vs bridget groble",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-3",
+    "winner": "martina carlssson",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs martina carlssson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-3",
+    "winner": "martina carlssson",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs martina carlssson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "quarter-final-3",
+    "winner": "martina carlssson",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs martina carlssson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "julia aartsen",
+    "match": "lea vogelius vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "lea vogelius",
+    "match": "lea vogelius vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "brooke wilson",
+    "match": "lea vogelius vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "bridget groble",
+    "match": "lea vogelius vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "lea vogelius vs camilla ulrikkeholm klinkby",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "louise k olesen",
+    "match": "lea vogelius vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "julia d'amodio",
+    "match": "lea vogelius vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "martina carlssson",
+    "match": "lea vogelius vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "lea vogelius",
+    "loser": "nicole hemeryck",
+    "match": "lea vogelius vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "kristine mauritzen",
+    "match": "julia aartsen vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "brooke wilson",
+    "match": "julia aartsen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "bridget groble",
+    "match": "julia aartsen vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "julia aartsen vs camilla ulrikkeholm klinkby",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "louise k olesen",
+    "match": "julia aartsen vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "martina carlssson",
+    "match": "julia aartsen vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "nicole hemeryck",
+    "match": "julia aartsen vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "bridget groble",
+    "match": "kristine mauritzen vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs camilla ulrikkeholm klinkby",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "louise k olesen",
+    "match": "kristine mauritzen vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "julia d'amodio",
+    "match": "kristine mauritzen vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "martina carlssson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "nicole hemeryck",
+    "match": "kristine mauritzen vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "bridget groble",
+    "match": "brooke wilson vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "brooke wilson vs camilla ulrikkeholm klinkby",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "louise k olesen",
+    "match": "brooke wilson vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "julia d'amodio",
+    "match": "brooke wilson vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "martina carlssson",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "brooke wilson",
+    "loser": "nicole hemeryck",
+    "match": "brooke wilson vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "bridget groble",
+    "match": "bridget groble vs camilla ulrikkeholm klinkby",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "louise k olesen",
+    "match": "bridget groble vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "julia d'amodio",
+    "match": "bridget groble vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "martina carlssson",
+    "match": "bridget groble vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "nicole hemeryck",
+    "match": "bridget groble vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "louise k olesen",
+    "match": "camilla ulrikkeholm klinkby vs louise k olesen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "julia d'amodio",
+    "match": "camilla ulrikkeholm klinkby vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "martina carlssson",
+    "match": "camilla ulrikkeholm klinkby vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "nicole hemeryck",
+    "match": "camilla ulrikkeholm klinkby vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "louise k olesen",
+    "match": "louise k olesen vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "martina carlssson",
+    "loser": "louise k olesen",
+    "match": "louise k olesen vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "nicole hemeryck",
+    "loser": "louise k olesen",
+    "match": "louise k olesen vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "martina carlssson",
+    "loser": "julia d'amodio",
+    "match": "julia d'amodio vs martina carlssson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "nicole hemeryck",
+    "match": "julia d'amodio vs nicole hemeryck",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT Denmark",
+    "phase": "round-robin",
+    "winner": "nicole hemeryck",
+    "loser": "martina carlssson",
+    "match": "martina carlssson vs nicole hemeryck",
+    "race": 0
+  }
+]

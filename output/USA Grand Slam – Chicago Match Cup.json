@@ -1,0 +1,490 @@
+[
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "Peter Holz",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Peter Holz",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "Peter Holz",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Peter Holz",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "Peter Holz",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Peter Holz",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "petit-final",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Zac West vs Timothée Rossi",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "petit-final",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Zac West vs Timothée Rossi",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Zac West",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Zac West",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Peter Holz",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Peter Holz",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Peter Holz",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Peter Holz",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "Peter Holz",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Peter Holz",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Christian Prendergast",
+    "loser": "Ian Garreta",
+    "match": "Christian Prendergast vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Ian Garreta",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Christian Prendergast",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Tom Picot",
+    "loser": "Ryan Seago",
+    "match": "Tom Picot vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "consolation-rr",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Tom Picot vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Zac West",
+    "loser": "Ian Garreta",
+    "match": "Zac West vs Ian Garreta",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Ian Garreta",
+    "loser": "Zac West",
+    "match": "Zac West vs Ian Garreta",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Ian Garreta",
+    "loser": "Zac West",
+    "match": "Zac West vs Ian Garreta",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Zac West",
+    "loser": "Ian Garreta",
+    "match": "Zac West vs Ian Garreta",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "Zac West",
+    "loser": "Ian Garreta",
+    "match": "Zac West vs Ian Garreta",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Timothée Rossi",
+    "loser": "Christian Prendergast",
+    "match": "Timothée Rossi vs Christian Prendergast",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Timothée Rossi",
+    "loser": "Christian Prendergast",
+    "match": "Timothée Rossi vs Christian Prendergast",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Christian Prendergast",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Christian Prendergast",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "Timothée Rossi",
+    "loser": "Christian Prendergast",
+    "match": "Timothée Rossi vs Christian Prendergast",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Peter Holz",
+    "loser": "Ryan Seago",
+    "match": "Peter Holz vs Ryan Seago",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Peter Holz",
+    "loser": "Ryan Seago",
+    "match": "Peter Holz vs Ryan Seago",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "Peter Holz",
+    "loser": "Ryan Seago",
+    "match": "Peter Holz vs Ryan Seago",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Timothée Rossi",
+    "match": "Chris Poole vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Peter Holz",
+    "match": "Chris Poole vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Peter Holz",
+    "match": "Ian Garreta vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Peter Holz",
+    "match": "Timothée Rossi vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Timothée Rossi vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Peter Holz",
+    "match": "Ryan Seago vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Holz",
+    "loser": "Tom Picot",
+    "match": "Peter Holz vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Zac West",
+    "match": "Tom Picot vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Christian Prendergast",
+    "loser": "Ian Garreta",
+    "match": "Christian Prendergast vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Holz",
+    "match": "Christian Prendergast vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Zac West",
+    "race": 0
+  }
+]

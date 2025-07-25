@@ -1,0 +1,122 @@
+[
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "A Dash",
+    "loser": "Team Crash Course",
+    "match": "A Dash vs Team Crash Course",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "A Dash",
+    "loser": "Swartz",
+    "match": "A Dash vs Swartz",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "SaveTheDocks",
+    "loser": "A Dash",
+    "match": "A Dash vs SaveTheDocks",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "A Dash",
+    "loser": "Team A",
+    "match": "A Dash vs Team A",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Swartz",
+    "loser": "Team Crash Course",
+    "match": "Team Crash Course vs Swartz",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "SaveTheDocks",
+    "loser": "Team Crash Course",
+    "match": "Team Crash Course vs SaveTheDocks",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Team A",
+    "loser": "Team Crash Course",
+    "match": "Team Crash Course vs Team A",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Swartz",
+    "loser": "SaveTheDocks",
+    "match": "Swartz vs SaveTheDocks",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Swartz",
+    "loser": "Team A",
+    "match": "Swartz vs Team A",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Team A",
+    "loser": "SaveTheDocks",
+    "match": "SaveTheDocks vs Team A",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "A Dash",
+    "loser": "Team B",
+    "match": "Team B vs A Dash",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Team B",
+    "loser": "Team Crash Course",
+    "match": "Team B vs Team Crash Course",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Swartz",
+    "loser": "Team B",
+    "match": "Team B vs Swartz",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Team B",
+    "loser": "SaveTheDocks",
+    "match": "Team B vs SaveTheDocks",
+    "race": 0
+  },
+  {
+    "regatta": "Star & Bar Match Race - Round 1",
+    "phase": "round-robin",
+    "winner": "Team A",
+    "loser": "Team B",
+    "match": "Team B vs Team A",
+    "race": 0
+  }
+]

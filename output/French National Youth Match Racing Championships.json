@@ -1,0 +1,546 @@
+[
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Ange Delerce",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Ange Delerce",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Ange Delerce",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Ange Delerce",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Ange Delerce",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Ange Delerce",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ian Garreta",
+    "loser": "Marin Micoulot",
+    "match": "Ian Garreta vs Marin Micoulot",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ian Garreta",
+    "loser": "Marin Micoulot",
+    "match": "Ian Garreta vs Marin Micoulot",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Marin Micoulot",
+    "loser": "Tom Foucher",
+    "match": "Marin Micoulot vs Tom Foucher",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Tom Foucher",
+    "loser": "Marin Micoulot",
+    "match": "Marin Micoulot vs Tom Foucher",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Tom Foucher",
+    "loser": "Marin Micoulot",
+    "match": "Marin Micoulot vs Tom Foucher",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Ange Delerce",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Ange Delerce",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Ange Delerce",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Ange Delerce",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Timothée Rossi",
+    "loser": "Martin Allix",
+    "match": "Timothée Rossi vs Martin Allix",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "6th-/-7th",
+    "winner": "Martin Allix",
+    "loser": "Victorien Eon",
+    "match": "Martin Allix vs Victorien Eon",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Victorien Eon",
+    "loser": "Jean Philippe Boudard",
+    "match": "Victorien Eon vs Jean Philippe Boudard",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "8th-/-9th",
+    "winner": "Jean Philippe Boudard",
+    "loser": "Robin Chantrelle",
+    "match": "Robin Chantrelle vs Jean Philippe Boudard",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "Jean Philippe Boudard",
+    "loser": "Anatole Thomas",
+    "match": "Jean Philippe Boudard vs Anatole Thomas",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Martin Allix",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Martin Allix",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Tom Foucher",
+    "loser": "Martin Allix",
+    "match": "Tom Foucher vs Martin Allix",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Tom Foucher",
+    "loser": "Martin Allix",
+    "match": "Tom Foucher vs Martin Allix",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Ian Garreta",
+    "loser": "Victorien Eon",
+    "match": "Victorien Eon vs Ian Garreta",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Ian Garreta",
+    "loser": "Victorien Eon",
+    "match": "Victorien Eon vs Ian Garreta",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Timothée Rossi",
+    "loser": "Ange Delerce",
+    "match": "Timothée Rossi vs Ange Delerce",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Ange Delerce",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ange Delerce",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Ange Delerce",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ange Delerce",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Tom Foucher",
+    "match": "Timothée Rossi vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Marin Micoulot",
+    "match": "Timothée Rossi vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Victorien Eon",
+    "match": "Timothée Rossi vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Robin Chantrelle",
+    "match": "Timothée Rossi vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Jean Philippe Boudard",
+    "match": "Timothée Rossi vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Tom Foucher",
+    "match": "Ian Garreta vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Ange Delerce",
+    "match": "Ian Garreta vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Marin Micoulot",
+    "match": "Ian Garreta vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Victorien Eon",
+    "match": "Ian Garreta vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Robin Chantrelle",
+    "match": "Ian Garreta vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Jean Philippe Boudard",
+    "match": "Ian Garreta vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Ange Delerce",
+    "match": "Tom Foucher vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Tom Foucher",
+    "match": "Tom Foucher vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Marin Micoulot",
+    "match": "Tom Foucher vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Victorien Eon",
+    "match": "Tom Foucher vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Robin Chantrelle",
+    "match": "Tom Foucher vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Jean Philippe Boudard",
+    "match": "Tom Foucher vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Victorien Eon",
+    "match": "Ange Delerce vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Robin Chantrelle",
+    "match": "Ange Delerce vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Jean Philippe Boudard",
+    "match": "Ange Delerce vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Marin Micoulot",
+    "match": "Martin Allix vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Victorien Eon",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Robin Chantrelle",
+    "match": "Martin Allix vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Jean Philippe Boudard",
+    "match": "Martin Allix vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Victorien Eon",
+    "match": "Marin Micoulot vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Robin Chantrelle",
+    "match": "Marin Micoulot vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Jean Philippe Boudard",
+    "match": "Marin Micoulot vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Victorien Eon",
+    "loser": "Robin Chantrelle",
+    "match": "Victorien Eon vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Victorien Eon",
+    "loser": "Jean Philippe Boudard",
+    "match": "Victorien Eon vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Jean Philippe Boudard",
+    "loser": "Robin Chantrelle",
+    "match": "Robin Chantrelle vs Jean Philippe Boudard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Foucher",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Tom Foucher",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Victorien Eon",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Victorien Eon",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Anatole Thomas",
+    "loser": "Robin Chantrelle",
+    "match": "Anatole Thomas vs Robin Chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Jean Philippe Boudard",
+    "loser": "Anatole Thomas",
+    "match": "Anatole Thomas vs Jean Philippe Boudard",
+    "race": 0
+  }
+]

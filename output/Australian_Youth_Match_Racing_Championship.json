@@ -1,0 +1,90 @@
+[
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "will dargaville",
+    "loser": "harry price",
+    "match": "harry price vs will dargaville",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "will dargaville",
+    "match": "harry price vs will dargaville",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "will dargaville",
+    "match": "harry price vs will dargaville",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "will dargaville",
+    "match": "harry price vs will dargaville",
+    "race": 4
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "james hodgson",
+    "loser": "tom grimes",
+    "match": "james hodgson vs tom grimes",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "tom grimes",
+    "loser": "james hodgson",
+    "match": "james hodgson vs tom grimes",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "james hodgson",
+    "loser": "tom grimes",
+    "match": "james hodgson vs tom grimes",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "will dargaville",
+    "loser": "tom grimes",
+    "match": "will dargaville vs tom grimes",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "will dargaville",
+    "loser": "tom grimes",
+    "match": "will dargaville vs tom grimes",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 2
+  }
+]

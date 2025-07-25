@@ -1,0 +1,378 @@
+[
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "final",
+    "winner": "Johnie Berntsson",
+    "loser": "Marius Westerlind",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "final",
+    "winner": "Marius Westerlind",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "final",
+    "winner": "Johnie Berntsson",
+    "loser": "Marius Westerlind",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Anna Östling",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "5th-/-6th",
+    "winner": "Patryk Zbroja",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Patryk Zbroja",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Ruairi Finnegan",
+    "match": "Johnie Berntsson vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Patryk Zbroja",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Anna Östling",
+    "match": "Johnie Berntsson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Marius Westerlind",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Theo Westerlind",
+    "match": "Johnie Berntsson vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Ruairi Finnegan",
+    "loser": "Patryk Zbroja",
+    "match": "Ruairi Finnegan vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Marius Westerlind",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Theo Westerlind",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Patryk Zbroja",
+    "loser": "Marius Westerlind",
+    "match": "Patryk Zbroja vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Patryk Zbroja",
+    "loser": "Theo Westerlind",
+    "match": "Patryk Zbroja vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Marius Westerlind",
+    "match": "Anna Östling vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Theo Westerlind",
+    "match": "Anna Östling vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Marius Westerlind",
+    "loser": "Theo Westerlind",
+    "match": "Marius Westerlind vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Martina Carlsson",
+    "loser": "Ruairi Finnegan",
+    "match": "Martina Carlsson vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Patryk Zbroja",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Marius Westerlind",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "Theo Westerlind",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Ruairi Finnegan",
+    "match": "Johnie Berntsson vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Patryk Zbroja",
+    "match": "Johnie Berntsson vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Marius Westerlind",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Theo Westerlind",
+    "match": "Johnie Berntsson vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Patryk Zbroja",
+    "match": "Ruairi Finnegan vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Marius Westerlind",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Theo Westerlind",
+    "match": "Ruairi Finnegan vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Marius Westerlind",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Theo Westerlind",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Marius Westerlind",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Theo Westerlind",
+    "match": "Anna Östling vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Marius Westerlind",
+    "loser": "Theo Westerlind",
+    "match": "Marius Westerlind vs Theo Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Martina Carlsson",
+    "loser": "Patryk Zbroja",
+    "match": "Martina Carlsson vs Patryk Zbroja",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Marius Westerlind",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "Theo Westerlind",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Theo Westerlind",
+    "race": 0
+  }
+]

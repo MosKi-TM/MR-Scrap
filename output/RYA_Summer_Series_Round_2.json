@@ -1,0 +1,442 @@
+[
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "ali morrish",
+    "match": "ali morrish vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "ali morrish",
+    "match": "ali morrish vs ted blowers",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "ali morrish",
+    "match": "ali morrish vs ted blowers",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "petit-final",
+    "winner": "matt whitfield",
+    "loser": "joe burns",
+    "match": "joe burns vs matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "petit-final",
+    "winner": "matt whitfield",
+    "loser": "joe burns",
+    "match": "joe burns vs matt whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "semi-final-1",
+    "winner": "ali morrish",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "semi-final-1",
+    "winner": "ali morrish",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "joe burns",
+    "match": "joe burns vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "semi-final-2",
+    "winner": "joe burns",
+    "loser": "ted blowers",
+    "match": "joe burns vs ted blowers",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "joe burns",
+    "match": "joe burns vs ted blowers",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "ted blowers",
+    "match": "matt whitfield vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "george haynes",
+    "match": "matt whitfield vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "ali morrish",
+    "match": "matt whitfield vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "sophie taylor",
+    "match": "matt whitfield vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "joe burns",
+    "match": "matt whitfield vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "sophie otter",
+    "match": "matt whitfield vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "quentin bes-green",
+    "match": "matt whitfield vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "mike starkie",
+    "match": "matt whitfield vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "ted blowers",
+    "match": "ted blowers vs george haynes",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "ali morrish",
+    "match": "ted blowers vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "ted blowers",
+    "match": "ted blowers vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "joe burns",
+    "match": "ted blowers vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "ellie cumpsty",
+    "match": "ted blowers vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "quentin bes-green",
+    "match": "ted blowers vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "mike starkie",
+    "match": "ted blowers vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "george haynes",
+    "match": "george haynes vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "sophie taylor",
+    "match": "george haynes vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "george haynes",
+    "match": "george haynes vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "sophie otter",
+    "match": "george haynes vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "george haynes",
+    "loser": "ellie cumpsty",
+    "match": "george haynes vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "quentin bes-green",
+    "loser": "george haynes",
+    "match": "george haynes vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "mike starkie",
+    "loser": "george haynes",
+    "match": "george haynes vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sophie taylor",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "joe burns",
+    "match": "ali morrish vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "quentin bes-green",
+    "loser": "ali morrish",
+    "match": "ali morrish vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "mike starkie",
+    "match": "ali morrish vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "quentin bes-green",
+    "match": "sophie taylor vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "mike starkie",
+    "match": "sophie taylor vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "sophie otter",
+    "match": "joe burns vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "ellie cumpsty",
+    "match": "joe burns vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "quentin bes-green",
+    "match": "joe burns vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "mike starkie",
+    "match": "joe burns vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "quentin bes-green",
+    "match": "sophie otter vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "mike starkie",
+    "match": "sophie otter vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "quentin bes-green",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs quentin bes-green",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "mike starkie",
+    "match": "ellie cumpsty vs mike starkie",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Summer Series Round 2",
+    "phase": "round-robin",
+    "winner": "quentin bes-green",
+    "loser": "mike starkie",
+    "match": "quentin bes-green vs mike starkie",
+    "race": 0
+  }
+]

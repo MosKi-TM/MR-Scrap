@@ -1,0 +1,130 @@
+[
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "final",
+    "winner": "emirates team new zealand",
+    "loser": "luna rossa prada pirelli team",
+    "match": "emirates team new zealand vs luna rossa prada pirelli team",
+    "race": 1
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "emirates team new zealand",
+    "loser": "ineos britania",
+    "match": "emirates team new zealand vs ineos britania",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "emirates team new zealand",
+    "loser": "alinghi red bull racing team",
+    "match": "emirates team new zealand vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "emirates team new zealand",
+    "loser": "luna rossa prada pirelli team",
+    "match": "emirates team new zealand vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "nyyc american magic",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "emirates team new zealand",
+    "loser": "orient express racing team",
+    "match": "emirates team new zealand vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "nyyc american magic",
+    "loser": "ineos britania",
+    "match": "ineos britania vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "ineos britania",
+    "loser": "orient express racing team",
+    "match": "ineos britania vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "alinghi red bull racing team",
+    "match": "alinghi red bull racing team vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "nyyc american magic",
+    "loser": "alinghi red bull racing team",
+    "match": "alinghi red bull racing team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "alinghi red bull racing team",
+    "loser": "orient express racing team",
+    "match": "alinghi red bull racing team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "orient express racing team",
+    "match": "luna rossa prada pirelli team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Barcelona Preliminary Regatta",
+    "phase": "round-robin",
+    "winner": "orient express racing team",
+    "loser": "nyyc american magic",
+    "match": "nyyc american magic vs orient express racing team",
+    "race": 0
+  }
+]

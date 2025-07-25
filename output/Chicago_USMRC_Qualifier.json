@@ -1,0 +1,290 @@
+[
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "peter holz",
+    "loser": "axel stordahl",
+    "match": "peter holz vs axel stordahl",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "peter holz",
+    "loser": "axel stordahl",
+    "match": "peter holz vs axel stordahl",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "roberto stevens",
+    "loser": "max brennan",
+    "match": "max brennan vs roberto stevens",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "roberto stevens",
+    "loser": "max brennan",
+    "match": "max brennan vs roberto stevens",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "bridget groble",
+    "loser": "steven lowery",
+    "match": "steven lowery vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "steven lowery",
+    "loser": "geoff pedrick",
+    "match": "steven lowery vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "bridget groble",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "ryder easterlin",
+    "loser": "geoff pedrick",
+    "match": "ryder easterlin vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "ryder easterlin",
+    "match": "peter holz vs ryder easterlin",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "steven lowery",
+    "match": "peter holz vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "bridget groble",
+    "match": "peter holz vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "axel stordahl",
+    "match": "peter holz vs axel stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "roberto stevens",
+    "match": "peter holz vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "geoff pedrick",
+    "match": "peter holz vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "peter holz",
+    "loser": "max brennan",
+    "match": "peter holz vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ryder easterlin",
+    "loser": "bridget groble",
+    "match": "ryder easterlin vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "axel stordahl",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs axel stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ryder easterlin",
+    "loser": "roberto stevens",
+    "match": "ryder easterlin vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "ryder easterlin",
+    "loser": "geoff pedrick",
+    "match": "ryder easterlin vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "bridget groble",
+    "match": "steven lowery vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "axel stordahl",
+    "loser": "steven lowery",
+    "match": "steven lowery vs axel stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "roberto stevens",
+    "loser": "steven lowery",
+    "match": "steven lowery vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "geoff pedrick",
+    "match": "steven lowery vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "steven lowery",
+    "match": "steven lowery vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "axel stordahl",
+    "match": "bridget groble vs axel stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "roberto stevens",
+    "loser": "bridget groble",
+    "match": "bridget groble vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "geoff pedrick",
+    "match": "bridget groble vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "bridget groble",
+    "match": "bridget groble vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "roberto stevens",
+    "loser": "axel stordahl",
+    "match": "axel stordahl vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "axel stordahl",
+    "loser": "geoff pedrick",
+    "match": "axel stordahl vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "axel stordahl",
+    "match": "axel stordahl vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "roberto stevens",
+    "loser": "geoff pedrick",
+    "match": "roberto stevens vs geoff pedrick",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "roberto stevens",
+    "match": "roberto stevens vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "geoff pedrick",
+    "match": "geoff pedrick vs max brennan",
+    "race": 0
+  }
+]

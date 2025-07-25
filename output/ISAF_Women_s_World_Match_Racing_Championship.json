@@ -1,0 +1,282 @@
+[
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anna kjellberg",
+    "match": "camilla ulrikkeholm vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "final",
+    "winner": "anna kjellberg",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "final",
+    "winner": "anna kjellberg",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "final",
+    "winner": "anna kjellberg",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs anna kjellberg",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "stephanie roble",
+    "loser": "caroline sylvan",
+    "match": "stephanie roble vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "stephanie roble",
+    "loser": "caroline sylvan",
+    "match": "stephanie roble vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "camilla ulrikkeholm vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "camilla ulrikkeholm vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "camilla ulrikkeholm vs caroline sylvan",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "anna kjellberg",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "stephanie roble",
+    "loser": "anna kjellberg",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "stephanie roble",
+    "loser": "anna kjellberg",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "anna kjellberg",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "anna kjellberg",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "anne-claire le berre",
+    "loser": "klaartje zuiderbaan",
+    "match": "anne-claire le berre vs klaartje zuiderbaan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "claudia pierce",
+    "match": "lotte meldgaard pedersen vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "5th-to-8th-(a)",
+    "winner": "klaartje zuiderbaan",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs klaartje zuiderbaan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "5th-to-8th-(b)",
+    "winner": "anne-claire le berre",
+    "loser": "claudia pierce",
+    "match": "anne-claire le berre vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "stephanie roble",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "stephanie roble",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "claudia pierce",
+    "loser": "stephanie roble",
+    "match": "claudia pierce vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "claudia pierce",
+    "loser": "stephanie roble",
+    "match": "claudia pierce vs stephanie roble",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "stephanie roble",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs stephanie roble",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "anne-claire le berre",
+    "loser": "anna kjellberg",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "anne-claire le berre",
+    "loser": "anna kjellberg",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "anna kjellberg",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "anna kjellberg",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "anna kjellberg",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 5
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "caroline sylvan",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "caroline sylvan",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "caroline sylvan",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "caroline sylvan",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "camilla ulrikkeholm vs klaartje zuiderbaan",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "camilla ulrikkeholm vs klaartje zuiderbaan",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Women's World Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "camilla ulrikkeholm vs klaartje zuiderbaan",
+    "race": 3
+  }
+]

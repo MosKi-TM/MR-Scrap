@@ -1,0 +1,626 @@
+[
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "final",
+    "winner": "Ted Blowers",
+    "loser": "Ben Tylecote",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "final",
+    "winner": "Ben Tylecote",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "final",
+    "winner": "Ted Blowers",
+    "loser": "Ben Tylecote",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "final",
+    "winner": "Ben Tylecote",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 4
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "final",
+    "winner": "Ted Blowers",
+    "loser": "Ben Tylecote",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 5
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "petit-final",
+    "winner": "Matt Greenfield",
+    "loser": "Patrick Croghan",
+    "match": "Matt Greenfield vs Patrick Croghan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "petit-final",
+    "winner": "Matt Greenfield",
+    "loser": "Patrick Croghan",
+    "match": "Matt Greenfield vs Patrick Croghan",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "semi-final-1",
+    "winner": "Ted Blowers",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Ted Blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "semi-final-1",
+    "winner": "Ted Blowers",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Ted Blowers",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "semi-final-2",
+    "winner": "Ben Tylecote",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Ben Tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "semi-final-2",
+    "winner": "Matt Greenfield",
+    "loser": "Ben Tylecote",
+    "match": "Matt Greenfield vs Ben Tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "semi-final-2",
+    "winner": "Ben Tylecote",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Ben Tylecote",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Oli Hale",
+    "match": "Ted Blowers vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Nick Devereux",
+    "match": "Ted Blowers vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Fred Salter",
+    "match": "Ted Blowers vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Patrick Whelan",
+    "match": "Ted Blowers vs Patrick Whelan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Ellen Morley",
+    "match": "Ted Blowers vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Nick Devereux",
+    "loser": "Oli Hale",
+    "match": "Oli Hale vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Oli Hale",
+    "loser": "Fred Salter",
+    "match": "Oli Hale vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Oli Hale",
+    "loser": "Patrick Whelan",
+    "match": "Oli Hale vs Patrick Whelan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Oli Hale",
+    "loser": "Ellen Morley",
+    "match": "Oli Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Nick Devereux",
+    "loser": "Fred Salter",
+    "match": "Nick Devereux vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Nick Devereux",
+    "loser": "Patrick Whelan",
+    "match": "Nick Devereux vs Patrick Whelan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ellen Morley",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Fred Salter",
+    "loser": "Patrick Whelan",
+    "match": "Fred Salter vs Patrick Whelan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ellen Morley",
+    "loser": "Fred Salter",
+    "match": "Fred Salter vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ellen Morley",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Ted Blowers",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Oli Hale",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Juliette Kennedy",
+    "loser": "Nick Devereux",
+    "match": "Juliette Kennedy vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Juliette Kennedy",
+    "loser": "Fred Salter",
+    "match": "Juliette Kennedy vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Juliette Kennedy",
+    "loser": "Patrick Whelan",
+    "match": "Juliette Kennedy vs Patrick Whelan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "repechage",
+    "winner": "Juliette Kennedy",
+    "loser": "Ellen Morley",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Patrick Croghan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Ben Tylecote",
+    "match": "Ted Blowers vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Matt Greenfield",
+    "match": "Ted Blowers vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Nick Devereux",
+    "match": "Ted Blowers vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Juliette Kennedy",
+    "match": "Ted Blowers vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Ellen Morley",
+    "match": "Ted Blowers vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Fred Salter",
+    "match": "Ted Blowers vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Ben Tylecote",
+    "match": "Patrick Croghan vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Matt Greenfield",
+    "match": "Patrick Croghan vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Nick Devereux",
+    "match": "Patrick Croghan vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Juliette Kennedy",
+    "match": "Patrick Croghan vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ellen Morley",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Fred Salter",
+    "match": "Patrick Croghan vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Oli Hale",
+    "match": "Ben Tylecote vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Nick Devereux",
+    "match": "Ben Tylecote vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Juliette Kennedy",
+    "match": "Ben Tylecote vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Ellen Morley",
+    "match": "Ben Tylecote vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Fred Salter",
+    "match": "Ben Tylecote vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Oli Hale",
+    "match": "Matt Greenfield vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Nick Devereux",
+    "match": "Matt Greenfield vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Juliette Kennedy",
+    "match": "Matt Greenfield vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Ellen Morley",
+    "match": "Matt Greenfield vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Fred Salter",
+    "match": "Matt Greenfield vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Nick Devereux",
+    "match": "Oli Hale vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Juliette Kennedy",
+    "match": "Oli Hale vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Ellen Morley",
+    "match": "Oli Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Oli Hale",
+    "match": "Oli Hale vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Juliette Kennedy",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Nick Devereux",
+    "loser": "Ellen Morley",
+    "match": "Nick Devereux vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ellen Morley",
+    "loser": "Juliette Kennedy",
+    "match": "Juliette Kennedy vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Juliette Kennedy",
+    "loser": "Fred Salter",
+    "match": "Juliette Kennedy vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Patrick Croghan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Oli Hale",
+    "match": "Patrick Whelan vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Nick Devereux",
+    "match": "Patrick Whelan vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Juliette Kennedy",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Juliette Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Ellen Morley",
+    "match": "Patrick Whelan vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Fred Salter",
+    "race": 0
+  }
+]

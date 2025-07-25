@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "Ficker Cup",
+    "phase": "final",
+    "winner": "Scotty Dickson",
+    "loser": "Megan Thomson",
+    "match": "Scotty Dickson vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "final",
+    "winner": "Scotty Dickson",
+    "loser": "Megan Thomson",
+    "match": "Scotty Dickson vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "final",
+    "winner": "Scotty Dickson",
+    "loser": "Megan Thomson",
+    "match": "Scotty Dickson vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Cole Tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "petit-final",
+    "winner": "Dave Hood",
+    "loser": "Cole Tapper",
+    "match": "Dave Hood vs Cole Tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Cole Tapper",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "Dave Hood",
+    "loser": "Megan Thomson",
+    "match": "Dave Hood vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "Dave Hood",
+    "loser": "Megan Thomson",
+    "match": "Dave Hood vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Megan Thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Megan Thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "Scotty Dickson",
+    "loser": "Cole Tapper",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Scotty Dickson",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "Scotty Dickson",
+    "loser": "Cole Tapper",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "Scotty Dickson",
+    "loser": "Cole Tapper",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 4
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Aurélien Pierroz",
+    "loser": "Cole Tapper",
+    "match": "Aurélien Pierroz vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Aurélien Pierroz",
+    "loser": "Dave Hood",
+    "match": "Aurélien Pierroz vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Celia Willison",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Cole Tapper",
+    "match": "Megan Thomson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Nicole Breault",
+    "match": "Megan Thomson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Dave Hood",
+    "match": "Megan Thomson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Celia Willison",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Celia Willison",
+    "match": "Cole Tapper vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Peter Wickwire",
+    "match": "Nicole Breault vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Dave Hood",
+    "match": "Nicole Breault vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Celia Willison",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Dave Hood",
+    "match": "Peter Wickwire vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Celia Willison",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Celia Willison",
+    "match": "Dave Hood vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Scotty Dickson",
+    "loser": "Aurélien Pierroz",
+    "match": "Scotty Dickson vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Scotty Dickson",
+    "loser": "Megan Thomson",
+    "match": "Scotty Dickson vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Scotty Dickson",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Scotty Dickson",
+    "loser": "Nicole Breault",
+    "match": "Scotty Dickson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Scotty Dickson",
+    "loser": "Peter Wickwire",
+    "match": "Scotty Dickson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Scotty Dickson",
+    "match": "Scotty Dickson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "Scotty Dickson",
+    "loser": "Celia Willison",
+    "match": "Scotty Dickson vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Aurélien Pierroz",
+    "loser": "Megan Thomson",
+    "match": "Aurélien Pierroz vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Aurélien Pierroz",
+    "loser": "Dave Hood",
+    "match": "Aurélien Pierroz vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Aurélien Pierroz",
+    "match": "Aurélien Pierroz vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Cole Tapper",
+    "match": "Megan Thomson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Nicole Breault",
+    "match": "Megan Thomson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Peter Wickwire",
+    "match": "Megan Thomson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Dave Hood",
+    "match": "Megan Thomson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Nicole Breault",
+    "match": "Cole Tapper vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Peter Wickwire",
+    "match": "Cole Tapper vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Dave Hood",
+    "match": "Dave Hood vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Aurélien Pierroz",
+    "match": "Scotty Dickson vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Megan Thomson",
+    "match": "Scotty Dickson vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Cole Tapper",
+    "match": "Scotty Dickson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Nicole Breault",
+    "match": "Scotty Dickson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Peter Wickwire",
+    "match": "Scotty Dickson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Dave Hood",
+    "match": "Scotty Dickson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "Scotty Dickson",
+    "loser": "Celia Willison",
+    "match": "Scotty Dickson vs Celia Willison",
+    "race": 0
+  }
+]

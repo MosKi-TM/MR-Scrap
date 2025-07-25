@@ -1,0 +1,802 @@
+[
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "scotty dickson",
+    "match": "ian williams vs scotty dickson",
+    "race": 1
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "scotty dickson",
+    "match": "ian williams vs scotty dickson",
+    "race": 2
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "scotty dickson",
+    "match": "ian williams vs scotty dickson",
+    "race": 3
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "scotty dickson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 1
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "scotty dickson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 2
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "scotty dickson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 3
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "harry price",
+    "match": "ian williams vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "maxime mesnil",
+    "match": "ian williams vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "nicklas dackhammar",
+    "match": "ian williams vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "will boulden",
+    "match": "ian williams vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "ian williams vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "scotty dickson",
+    "loser": "ian williams",
+    "match": "ian williams vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "maxime mesnil",
+    "match": "harry price vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "nicklas dackhammar",
+    "match": "harry price vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "will boulden",
+    "match": "harry price vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "harry price",
+    "match": "harry price vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "harry price",
+    "match": "harry price vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "harry price",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "harry price vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "scotty dickson",
+    "match": "harry price vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nicklas dackhammar",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "maxime mesnil",
+    "loser": "will boulden",
+    "match": "maxime mesnil vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "maxime mesnil",
+    "loser": "scotty dickson",
+    "match": "maxime mesnil vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "scotty dickson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "will boulden",
+    "match": "will boulden vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "will boulden",
+    "match": "will boulden vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "will boulden",
+    "loser": "chris poole",
+    "match": "will boulden vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "will boulden",
+    "match": "will boulden vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "scotty dickson",
+    "loser": "will boulden",
+    "match": "will boulden vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "taylor canfield vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "nick egnot-johnson",
+    "match": "taylor canfield vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "scotty dickson",
+    "match": "taylor canfield vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "scotty dickson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "scotty dickson",
+    "loser": "chris poole",
+    "match": "chris poole vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "scotty dickson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "harry price",
+    "match": "ian williams vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "maxime mesnil",
+    "match": "ian williams vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "nicklas dackhammar",
+    "match": "ian williams vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "will boulden",
+    "match": "ian williams vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "ian williams vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "ian williams vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "ian williams",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "scotty dickson",
+    "match": "ian williams vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "maxime mesnil",
+    "match": "harry price vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "nicklas dackhammar",
+    "match": "harry price vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "harry price",
+    "match": "harry price vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "harry price",
+    "match": "harry price vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "harry price",
+    "match": "harry price vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "chris poole",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "harry price vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "harry price",
+    "match": "harry price vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "nicklas dackhammar",
+    "match": "maxime mesnil vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "maxime mesnil",
+    "loser": "will boulden",
+    "match": "maxime mesnil vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "will boulden",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs will boulden",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nicklas dackhammar",
+    "loser": "chris poole",
+    "match": "nicklas dackhammar vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "will boulden",
+    "match": "will boulden vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "will boulden",
+    "match": "will boulden vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "will boulden",
+    "match": "will boulden vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "will boulden",
+    "match": "will boulden vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "will boulden",
+    "match": "will boulden vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "nick egnot-johnson",
+    "match": "taylor canfield vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "scotty dickson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "scotty dickson",
+    "match": "chris poole vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "55th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "scotty dickson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs scotty dickson",
+    "race": 0
+  }
+]

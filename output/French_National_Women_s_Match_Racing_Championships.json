@@ -1,0 +1,370 @@
+[
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 3
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "elodie bonafous",
+    "loser": "paola amar",
+    "match": "elodie bonafous vs paola amar",
+    "race": 1
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "elodie bonafous",
+    "loser": "paola amar",
+    "match": "elodie bonafous vs paola amar",
+    "race": 2
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "anne-claire le berre",
+    "loser": "marine pailloux",
+    "match": "anne-claire le berre vs marine pailloux",
+    "race": 1
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "margot vennin",
+    "loser": "mathilde de kerangat",
+    "match": "margot vennin vs mathilde de kerangat",
+    "race": 1
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "helene urruti",
+    "loser": "charlotte yven",
+    "match": "helene urruti vs charlotte yven",
+    "race": 1
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "elodie bonafous",
+    "match": "pauline courtois vs elodie bonafous",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "charlotte yven",
+    "match": "pauline courtois vs charlotte yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "marine pailloux",
+    "match": "pauline courtois vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "paola amar",
+    "match": "pauline courtois vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "mathilde de kerangat",
+    "match": "pauline courtois vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "anne-claire le berre",
+    "loser": "helene urruti",
+    "match": "helene urruti vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "elodie bonafous",
+    "loser": "helene urruti",
+    "match": "helene urruti vs elodie bonafous",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "helene urruti",
+    "match": "helene urruti vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "helene urruti",
+    "match": "helene urruti vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "helene urruti",
+    "loser": "charlotte yven",
+    "match": "helene urruti vs charlotte yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "helene urruti",
+    "loser": "marine pailloux",
+    "match": "helene urruti vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "mathilde de kerangat",
+    "loser": "helene urruti",
+    "match": "helene urruti vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "anne-claire le berre",
+    "loser": "charlotte yven",
+    "match": "anne-claire le berre vs charlotte yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "anne-claire le berre",
+    "loser": "marine pailloux",
+    "match": "anne-claire le berre vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "paola amar",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "anne-claire le berre",
+    "loser": "mathilde de kerangat",
+    "match": "anne-claire le berre vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "elodie bonafous",
+    "loser": "margot vennin",
+    "match": "elodie bonafous vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "marine pailloux",
+    "loser": "elodie bonafous",
+    "match": "elodie bonafous vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "elodie bonafous",
+    "loser": "paola amar",
+    "match": "elodie bonafous vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "elodie bonafous",
+    "loser": "mathilde de kerangat",
+    "match": "elodie bonafous vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "charlotte yven",
+    "loser": "margot vennin",
+    "match": "margot vennin vs charlotte yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "marine pailloux",
+    "loser": "margot vennin",
+    "match": "margot vennin vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "paola amar",
+    "loser": "margot vennin",
+    "match": "margot vennin vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "mathilde de kerangat",
+    "match": "margot vennin vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "charlotte yven",
+    "match": "margot riou vs charlotte yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "paola amar",
+    "match": "margot riou vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "mathilde de kerangat",
+    "match": "margot riou vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "marine pailloux",
+    "loser": "charlotte yven",
+    "match": "charlotte yven vs marine pailloux",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "paola amar",
+    "loser": "charlotte yven",
+    "match": "charlotte yven vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "mathilde de kerangat",
+    "loser": "charlotte yven",
+    "match": "charlotte yven vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "paola amar",
+    "loser": "marine pailloux",
+    "match": "marine pailloux vs paola amar",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "mathilde de kerangat",
+    "loser": "marine pailloux",
+    "match": "marine pailloux vs mathilde de kerangat",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "paola amar",
+    "loser": "mathilde de kerangat",
+    "match": "paola amar vs mathilde de kerangat",
+    "race": 0
+  }
+]

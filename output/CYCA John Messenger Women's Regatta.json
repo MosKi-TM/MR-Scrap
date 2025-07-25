@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "Jade Gavin",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "Jade Gavin",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "Juliet Costanzo",
+    "loser": "Jade Gavin",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "Juliet Costanzo",
+    "loser": "Jade Gavin",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 4
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "final",
+    "winner": "Juliet Costanzo",
+    "loser": "Jade Gavin",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 5
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "petit-final",
+    "winner": "Ella Arnold",
+    "loser": "Isabella Holdsworth",
+    "match": "Ella Arnold vs Isabella Holdsworth",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "petit-final",
+    "winner": "Ella Arnold",
+    "loser": "Isabella Holdsworth",
+    "match": "Ella Arnold vs Isabella Holdsworth",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Isabella Holdsworth",
+    "match": "Juliet Costanzo vs Isabella Holdsworth",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Isabella Holdsworth",
+    "match": "Juliet Costanzo vs Isabella Holdsworth",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-2",
+    "winner": "Jade Gavin",
+    "loser": "Ella Arnold",
+    "match": "Jade Gavin vs Ella Arnold",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "semi-final-2",
+    "winner": "Jade Gavin",
+    "loser": "Ella Arnold",
+    "match": "Jade Gavin vs Ella Arnold",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Chelsea Williams",
+    "loser": "Harriet McLachlan",
+    "match": "Chelsea Williams vs Harriet McLachlan",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Chelsea Williams",
+    "loser": "Harriet McLachlan",
+    "match": "Chelsea Williams vs Harriet McLachlan",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Annika Pennifold",
+    "loser": "Heidi Ferguson",
+    "match": "Annika Pennifold vs Heidi Ferguson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Annika Pennifold",
+    "loser": "Heidi Ferguson",
+    "match": "Annika Pennifold vs Heidi Ferguson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Chelsea Williams",
+    "match": "Juliet Costanzo vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Ella Arnold",
+    "match": "Juliet Costanzo vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Harriet McLachlan",
+    "match": "Juliet Costanzo vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Heidi Ferguson",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Jade Gavin",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Isabella Holdsworth",
+    "match": "Juliet Costanzo vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Chelsea Williams",
+    "loser": "Ella Arnold",
+    "match": "Chelsea Williams vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Chelsea Williams",
+    "loser": "Harriet McLachlan",
+    "match": "Chelsea Williams vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Heidi Ferguson",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Jade Gavin",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Chelsea Williams",
+    "loser": "Isabella Holdsworth",
+    "match": "Chelsea Williams vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ella Arnold",
+    "loser": "Harriet McLachlan",
+    "match": "Ella Arnold vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Heidi Ferguson",
+    "loser": "Ella Arnold",
+    "match": "Ella Arnold vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ella Arnold",
+    "loser": "Jade Gavin",
+    "match": "Ella Arnold vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ella Arnold",
+    "loser": "Isabella Holdsworth",
+    "match": "Ella Arnold vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Harriet McLachlan",
+    "loser": "Heidi Ferguson",
+    "match": "Harriet McLachlan vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Harriet McLachlan",
+    "loser": "Jade Gavin",
+    "match": "Harriet McLachlan vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Harriet McLachlan",
+    "loser": "Isabella Holdsworth",
+    "match": "Harriet McLachlan vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Jade Gavin",
+    "loser": "Heidi Ferguson",
+    "match": "Heidi Ferguson vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Isabella Holdsworth",
+    "loser": "Heidi Ferguson",
+    "match": "Heidi Ferguson vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Jade Gavin",
+    "loser": "Isabella Holdsworth",
+    "match": "Jade Gavin vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Chelsea Williams",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ella Arnold",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Harriet McLachlan",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Annika Pennifold",
+    "loser": "Heidi Ferguson",
+    "match": "Annika Pennifold vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Jade Gavin",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-2",
+    "winner": "Isabella Holdsworth",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Chelsea Williams",
+    "match": "Juliet Costanzo vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Ella Arnold",
+    "match": "Juliet Costanzo vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Harriet McLachlan",
+    "match": "Juliet Costanzo vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Heidi Ferguson",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Jade Gavin",
+    "match": "Juliet Costanzo vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Isabella Holdsworth",
+    "match": "Juliet Costanzo vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Ella Arnold",
+    "match": "Chelsea Williams vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Harriet McLachlan",
+    "match": "Chelsea Williams vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Heidi Ferguson",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jade Gavin",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Isabella Holdsworth",
+    "match": "Chelsea Williams vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ella Arnold",
+    "loser": "Harriet McLachlan",
+    "match": "Ella Arnold vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ella Arnold",
+    "loser": "Heidi Ferguson",
+    "match": "Ella Arnold vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ella Arnold",
+    "loser": "Jade Gavin",
+    "match": "Ella Arnold vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ella Arnold",
+    "loser": "Isabella Holdsworth",
+    "match": "Ella Arnold vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Harriet McLachlan",
+    "loser": "Heidi Ferguson",
+    "match": "Harriet McLachlan vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jade Gavin",
+    "loser": "Harriet McLachlan",
+    "match": "Harriet McLachlan vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Isabella Holdsworth",
+    "loser": "Harriet McLachlan",
+    "match": "Harriet McLachlan vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jade Gavin",
+    "loser": "Heidi Ferguson",
+    "match": "Heidi Ferguson vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Isabella Holdsworth",
+    "loser": "Heidi Ferguson",
+    "match": "Heidi Ferguson vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jade Gavin",
+    "loser": "Isabella Holdsworth",
+    "match": "Jade Gavin vs Isabella Holdsworth",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ella Arnold",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Ella Arnold",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Annika Pennifold",
+    "loser": "Harriet McLachlan",
+    "match": "Annika Pennifold vs Harriet McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Annika Pennifold",
+    "loser": "Heidi Ferguson",
+    "match": "Annika Pennifold vs Heidi Ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jade Gavin",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Jade Gavin",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA John Messenger Women's Regatta",
+    "phase": "round-robin-1",
+    "winner": "Isabella Holdsworth",
+    "loser": "Annika Pennifold",
+    "match": "Annika Pennifold vs Isabella Holdsworth",
+    "race": 0
+  }
+]

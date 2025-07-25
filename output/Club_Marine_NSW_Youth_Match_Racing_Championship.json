@@ -1,0 +1,34 @@
+[
+  {
+    "regatta": "Club Marine NSW Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "harry hall",
+    "loser": "harry price",
+    "match": "harry price vs harry hall",
+    "race": 1
+  },
+  {
+    "regatta": "Club Marine NSW Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "harry hall",
+    "match": "harry price vs harry hall",
+    "race": 2
+  },
+  {
+    "regatta": "Club Marine NSW Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "malcolm parker",
+    "loser": "tom grimes",
+    "match": "malcolm parker vs tom grimes",
+    "race": 1
+  },
+  {
+    "regatta": "Club Marine NSW Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "malcolm parker",
+    "loser": "tom grimes",
+    "match": "malcolm parker vs tom grimes",
+    "race": 2
+  }
+]

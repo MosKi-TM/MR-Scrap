@@ -1,0 +1,90 @@
+[
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "final",
+    "winner": "icam paris-senart",
+    "loser": "isep",
+    "match": "icam paris-senart vs isep",
+    "race": 1
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "final",
+    "winner": "isep",
+    "loser": "icam paris-senart",
+    "match": "icam paris-senart vs isep",
+    "race": 2
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "final",
+    "winner": "icam paris-senart",
+    "loser": "isep",
+    "match": "icam paris-senart vs isep",
+    "race": 3
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "petit-final",
+    "winner": "expertime",
+    "loser": "paris dauphine",
+    "match": "expertime vs paris dauphine",
+    "race": 1
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "petit-final",
+    "winner": "expertime",
+    "loser": "paris dauphine",
+    "match": "expertime vs paris dauphine",
+    "race": 2
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "semi-final-1",
+    "winner": "isep",
+    "loser": "paris dauphine",
+    "match": "isep vs paris dauphine",
+    "race": 1
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "semi-final-1",
+    "winner": "isep",
+    "loser": "paris dauphine",
+    "match": "isep vs paris dauphine",
+    "race": 2
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "semi-final-2",
+    "winner": "icam paris-senart",
+    "loser": "expertime",
+    "match": "icam paris-senart vs expertime",
+    "race": 1
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "semi-final-2",
+    "winner": "icam paris-senart",
+    "loser": "expertime",
+    "match": "icam paris-senart vs expertime",
+    "race": 2
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "5th-/-6th",
+    "winner": "pantheon paris 1 - les gabiers",
+    "loser": "essec",
+    "match": "pantheon paris 1 - les gabiers vs essec",
+    "race": 1
+  },
+  {
+    "regatta": "Voiles en Seine Regatta",
+    "phase": "6th-/-7th",
+    "winner": "pantheon paris 1 - les gabiers",
+    "loser": "edhec",
+    "match": "edhec vs pantheon paris 1 - les gabiers",
+    "race": 1
+  }
+]

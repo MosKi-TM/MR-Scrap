@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnz-cs",
+    "loser": "rfbyc",
+    "match": "rnz-cs vs rfbyc",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc",
+    "loser": "rnz-cs",
+    "match": "rnz-cs vs rfbyc",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc",
+    "loser": "rnz-cs",
+    "match": "rnz-cs vs rfbyc",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc",
+    "loser": "rnz-cs",
+    "match": "rnz-cs vs rfbyc",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc",
+    "loser": "sdyc",
+    "match": "byc vs sdyc",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "sdyc",
+    "loser": "byc",
+    "match": "byc vs sdyc",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc",
+    "loser": "sdyc",
+    "match": "byc vs sdyc",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "sdyc",
+    "loser": "rnz-cs",
+    "match": "rnz-cs vs sdyc",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnz-cs",
+    "loser": "sdyc",
+    "match": "rnz-cs vs sdyc",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnz-cs",
+    "loser": "sdyc",
+    "match": "rnz-cs vs sdyc",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "sdyc",
+    "loser": "rnz-cs",
+    "match": "rnz-cs vs sdyc",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnz-cs",
+    "loser": "sdyc",
+    "match": "rnz-cs vs sdyc",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rfbyc",
+    "loser": "byc",
+    "match": "rfbyc vs byc",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rfbyc",
+    "loser": "byc",
+    "match": "rfbyc vs byc",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "rfbyc",
+    "loser": "byc",
+    "match": "rfbyc vs byc",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "cyc",
+    "loser": "sfyc",
+    "match": "cyc vs sfyc",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "cyc",
+    "loser": "sfyc",
+    "match": "cyc vs sfyc",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "cyc",
+    "loser": "sfyc",
+    "match": "cyc vs sfyc",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpnyc",
+    "loser": "cyca",
+    "match": "rpnyc vs cyca",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "cyca",
+    "loser": "rpnyc",
+    "match": "rpnyc vs cyca",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "cyca",
+    "loser": "rpnyc",
+    "match": "rpnyc vs cyca",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpnyc",
+    "loser": "cyca",
+    "match": "rpnyc vs cyca",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 47th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "cyca",
+    "loser": "rpnyc",
+    "match": "rpnyc vs cyca",
+    "race": 5
+  }
+]

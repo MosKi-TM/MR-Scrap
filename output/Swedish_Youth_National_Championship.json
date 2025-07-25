@@ -1,0 +1,354 @@
+[
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "final",
+    "winner": "marius westerlind",
+    "loser": "theo westerlind",
+    "match": "marius westerlind vs theo westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "final",
+    "winner": "marius westerlind",
+    "loser": "theo westerlind",
+    "match": "marius westerlind vs theo westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "petit-final",
+    "winner": "carl horfelt",
+    "loser": "jonathan llado krensler",
+    "match": "carl horfelt vs jonathan llado krensler",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "theo westerlind",
+    "loser": "carl horfelt",
+    "match": "carl horfelt vs theo westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "carl horfelt",
+    "loser": "theo westerlind",
+    "match": "carl horfelt vs theo westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "theo westerlind",
+    "loser": "carl horfelt",
+    "match": "carl horfelt vs theo westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "marius westerlind",
+    "loser": "jonathan llado krensler",
+    "match": "jonathan llado krensler vs marius westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "marius westerlind",
+    "loser": "jonathan llado krensler",
+    "match": "jonathan llado krensler vs marius westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "otto berg",
+    "match": "marius westerlind vs otto berg",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "wilhelm enjin",
+    "match": "marius westerlind vs wilhelm enjin",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "victor bjork",
+    "match": "marius westerlind vs victor bjork",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs carl horfelt",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "jonathan llado krensler",
+    "match": "marius westerlind vs jonathan llado krensler",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "magnus tryselius",
+    "match": "marius westerlind vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "philip wallin remmer",
+    "match": "marius westerlind vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "theo westerlind",
+    "match": "marius westerlind vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "otto berg",
+    "loser": "wilhelm enjin",
+    "match": "otto berg vs wilhelm enjin",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "otto berg",
+    "loser": "victor bjork",
+    "match": "otto berg vs victor bjork",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "otto berg",
+    "match": "otto berg vs carl horfelt",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "otto berg",
+    "match": "otto berg vs jonathan llado krensler",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "otto berg",
+    "loser": "magnus tryselius",
+    "match": "otto berg vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "philip wallin remmer",
+    "loser": "otto berg",
+    "match": "otto berg vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "otto berg",
+    "match": "otto berg vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "wilhelm enjin",
+    "loser": "victor bjork",
+    "match": "wilhelm enjin vs victor bjork",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "wilhelm enjin",
+    "match": "wilhelm enjin vs carl horfelt",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "wilhelm enjin",
+    "match": "wilhelm enjin vs jonathan llado krensler",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "wilhelm enjin",
+    "loser": "magnus tryselius",
+    "match": "wilhelm enjin vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "philip wallin remmer",
+    "loser": "wilhelm enjin",
+    "match": "wilhelm enjin vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "wilhelm enjin",
+    "match": "wilhelm enjin vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "victor bjork",
+    "match": "victor bjork vs carl horfelt",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "victor bjork",
+    "match": "victor bjork vs jonathan llado krensler",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "magnus tryselius",
+    "loser": "victor bjork",
+    "match": "victor bjork vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "philip wallin remmer",
+    "loser": "victor bjork",
+    "match": "victor bjork vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "victor bjork",
+    "match": "victor bjork vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "carl horfelt",
+    "match": "carl horfelt vs jonathan llado krensler",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "magnus tryselius",
+    "match": "carl horfelt vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "philip wallin remmer",
+    "match": "carl horfelt vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "carl horfelt",
+    "loser": "theo westerlind",
+    "match": "carl horfelt vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "magnus tryselius",
+    "loser": "jonathan llado krensler",
+    "match": "jonathan llado krensler vs magnus tryselius",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "philip wallin remmer",
+    "match": "jonathan llado krensler vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "jonathan llado krensler",
+    "loser": "theo westerlind",
+    "match": "jonathan llado krensler vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "magnus tryselius",
+    "loser": "philip wallin remmer",
+    "match": "magnus tryselius vs philip wallin remmer",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "magnus tryselius",
+    "match": "magnus tryselius vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Swedish Youth National Championship",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "philip wallin remmer",
+    "match": "philip wallin remmer vs theo westerlind",
+    "race": 0
+  }
+]

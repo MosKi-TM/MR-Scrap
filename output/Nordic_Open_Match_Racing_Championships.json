@@ -1,0 +1,122 @@
+[
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "final",
+    "winner": "staffan lindberg",
+    "loser": "bjorn hansen",
+    "match": "staffan lindberg vs bjorn hansen",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "final",
+    "winner": "staffan lindberg",
+    "loser": "bjorn hansen",
+    "match": "staffan lindberg vs bjorn hansen",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "joachim aschenbrenner",
+    "loser": "antti luhta",
+    "match": "joachim aschenbrenner vs antti luhta",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "joachim aschenbrenner",
+    "loser": "antti luhta",
+    "match": "joachim aschenbrenner vs antti luhta",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "staffan lindberg",
+    "loser": "antti luhta",
+    "match": "staffan lindberg vs antti luhta",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "staffan lindberg",
+    "loser": "antti luhta",
+    "match": "staffan lindberg vs antti luhta",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "bjorn hansen",
+    "loser": "joachim aschenbrenner",
+    "match": "joachim aschenbrenner vs bjorn hansen",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "bjorn hansen",
+    "loser": "joachim aschenbrenner",
+    "match": "joachim aschenbrenner vs bjorn hansen",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "bjorn hansen",
+    "loser": "lucas lier",
+    "match": "bjorn hansen vs lucas lier",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "bjorn hansen",
+    "loser": "lucas lier",
+    "match": "bjorn hansen vs lucas lier",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "antti luhta",
+    "loser": "olli-pekka lumijarvi",
+    "match": "antti luhta vs olli-pekka lumijarvi",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "antti luhta",
+    "loser": "olli-pekka lumijarvi",
+    "match": "antti luhta vs olli-pekka lumijarvi",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "robert nyberg",
+    "loser": "joachim aschenbrenner",
+    "match": "joachim aschenbrenner vs robert nyberg",
+    "race": 1
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "joachim aschenbrenner",
+    "loser": "robert nyberg",
+    "match": "joachim aschenbrenner vs robert nyberg",
+    "race": 2
+  },
+  {
+    "regatta": "Nordic Open Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "joachim aschenbrenner",
+    "loser": "robert nyberg",
+    "match": "joachim aschenbrenner vs robert nyberg",
+    "race": 3
+  }
+]

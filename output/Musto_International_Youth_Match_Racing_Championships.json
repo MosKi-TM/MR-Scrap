@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "william boulden",
+    "match": "harry price vs william boulden",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "william boulden",
+    "match": "harry price vs william boulden",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "william boulden",
+    "match": "harry price vs william boulden",
+    "race": 3
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "leonard fry",
+    "loser": "malcolm parker",
+    "match": "leonard fry vs malcolm parker",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "leonard fry",
+    "loser": "malcolm parker",
+    "match": "leonard fry vs malcolm parker",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "william boulden",
+    "loser": "leonard fry",
+    "match": "leonard fry vs william boulden",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "leonard fry",
+    "loser": "william boulden",
+    "match": "leonard fry vs william boulden",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "william boulden",
+    "loser": "leonard fry",
+    "match": "leonard fry vs william boulden",
+    "race": 3
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "malcolm parker",
+    "match": "harry price vs malcolm parker",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "malcolm parker",
+    "match": "harry price vs malcolm parker",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "lachlan gilmour",
+    "loser": "lucas chatonnier",
+    "match": "lucas chatonnier vs lachlan gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "lachlan gilmour",
+    "loser": "lucas chatonnier",
+    "match": "lucas chatonnier vs lachlan gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "zac pullen",
+    "loser": "william eastman",
+    "match": "zac pullen vs william eastman",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "william eastman",
+    "loser": "zac pullen",
+    "match": "zac pullen vs william eastman",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "zac pullen",
+    "loser": "william eastman",
+    "match": "zac pullen vs william eastman",
+    "race": 3
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "james hodgson",
+    "loser": "tom picot",
+    "match": "tom picot vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "james hodgson",
+    "loser": "tom picot",
+    "match": "tom picot vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "11th-/-12th",
+    "winner": "oakley marsh",
+    "loser": "emma may",
+    "match": "oakley marsh vs emma may",
+    "race": 1
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "11th-/-12th",
+    "winner": "emma may",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs emma may",
+    "race": 2
+  },
+  {
+    "regatta": "Musto International Youth Match Racing Championships",
+    "phase": "11th-/-12th",
+    "winner": "emma may",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs emma may",
+    "race": 3
+  }
+]

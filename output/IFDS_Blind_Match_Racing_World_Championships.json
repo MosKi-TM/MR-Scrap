@@ -1,0 +1,90 @@
+[
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-2-final",
+    "winner": "vicki sheen",
+    "loser": "danilo malerba",
+    "match": "vicki sheen vs danilo malerba",
+    "race": 1
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-2-final",
+    "winner": "vicki sheen",
+    "loser": "danilo malerba",
+    "match": "vicki sheen vs danilo malerba",
+    "race": 2
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-2-final",
+    "winner": "vicki sheen",
+    "loser": "danilo malerba",
+    "match": "vicki sheen vs danilo malerba",
+    "race": 3
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-final",
+    "winner": "luigi bertanza",
+    "loser": "kylie forth",
+    "match": "kylie forth vs luigi bertanza",
+    "race": 1
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-final",
+    "winner": "kylie forth",
+    "loser": "luigi bertanza",
+    "match": "kylie forth vs luigi bertanza",
+    "race": 2
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-final",
+    "winner": "kylie forth",
+    "loser": "luigi bertanza",
+    "match": "kylie forth vs luigi bertanza",
+    "race": 3
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-final",
+    "winner": "kylie forth",
+    "loser": "luigi bertanza",
+    "match": "kylie forth vs luigi bertanza",
+    "race": 4
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-2-semi-final",
+    "winner": "danilo malerba",
+    "loser": "kris scheppe",
+    "match": "danilo malerba vs kris scheppe",
+    "race": 1
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-2-semi-final",
+    "winner": "danilo malerba",
+    "loser": "kris scheppe",
+    "match": "danilo malerba vs kris scheppe",
+    "race": 2
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-semi-final",
+    "winner": "luigi bertanza",
+    "loser": "david brown",
+    "match": "luigi bertanza vs david brown",
+    "race": 1
+  },
+  {
+    "regatta": "IFDS Blind Match Racing World Championships",
+    "phase": "cat-1-semi-final",
+    "winner": "luigi bertanza",
+    "loser": "david brown",
+    "match": "luigi bertanza vs david brown",
+    "race": 2
+  }
+]

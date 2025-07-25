@@ -1,0 +1,178 @@
+[
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "chris steele",
+    "match": "taylor canfield vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "final",
+    "winner": "chris steele",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "chris steele",
+    "match": "taylor canfield vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "chris steele",
+    "match": "taylor canfield vs chris steele",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "petit-final",
+    "winner": "nicolai sehested",
+    "loser": "timothy coltman",
+    "match": "timothy coltman vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "petit-final",
+    "winner": "timothy coltman",
+    "loser": "nicolai sehested",
+    "match": "timothy coltman vs nicolai sehested",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "petit-final",
+    "winner": "timothy coltman",
+    "loser": "nicolai sehested",
+    "match": "timothy coltman vs nicolai sehested",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "timothy coltman",
+    "match": "taylor canfield vs timothy coltman",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "timothy coltman",
+    "match": "taylor canfield vs timothy coltman",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "timothy coltman",
+    "match": "taylor canfield vs timothy coltman",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "nicolai sehested",
+    "match": "chris steele vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "chris steele",
+    "match": "chris steele vs nicolai sehested",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "nicolai sehested",
+    "match": "chris steele vs nicolai sehested",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "nicolai sehested",
+    "match": "chris steele vs nicolai sehested",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-1",
+    "winner": "nicolai sehested",
+    "loser": "dustin durant",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-1",
+    "winner": "nicolai sehested",
+    "loser": "dustin durant",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-2",
+    "winner": "timothy coltman",
+    "loser": "chris poole",
+    "match": "timothy coltman vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-2",
+    "winner": "timothy coltman",
+    "loser": "chris poole",
+    "match": "timothy coltman vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "ashlen rooklyn",
+    "match": "chris steele vs ashlen rooklyn",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "ashlen rooklyn",
+    "match": "chris steele vs ashlen rooklyn",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "david storrs",
+    "match": "taylor canfield vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – CMRC Autumn Grade 2",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "david storrs",
+    "match": "taylor canfield vs david storrs",
+    "race": 2
+  }
+]

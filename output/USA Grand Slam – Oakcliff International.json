@@ -1,0 +1,650 @@
+[
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Peter Wickwire",
+    "match": "Chris Poole vs Peter Wickwire",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "petit-final",
+    "winner": "Celia Willison",
+    "loser": "Cormac Murphy",
+    "match": "Celia Willison vs Cormac Murphy",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "petit-final",
+    "winner": "Celia Willison",
+    "loser": "Cormac Murphy",
+    "match": "Celia Willison vs Cormac Murphy",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "Peter Wickwire",
+    "loser": "Celia Willison",
+    "match": "Peter Wickwire vs Celia Willison",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "Peter Wickwire",
+    "loser": "Celia Willison",
+    "match": "Peter Wickwire vs Celia Willison",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Cormac Murphy",
+    "match": "Chris Poole vs Cormac Murphy",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Cormac Murphy",
+    "match": "Chris Poole vs Cormac Murphy",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Zac West",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Zac West",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Ian Garreta",
+    "loser": "Ryan Seago",
+    "match": "Ian Garreta vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Ian Garreta",
+    "loser": "Timothée Rossi",
+    "match": "Ian Garreta vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "5th-to-8th-rr",
+    "winner": "Ian Garreta",
+    "loser": "Zac West",
+    "match": "Ian Garreta vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "Celia Willison",
+    "loser": "Timothée Rossi",
+    "match": "Celia Willison vs Timothée Rossi",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "Timothée Rossi",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Timothée Rossi",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "Celia Willison",
+    "loser": "Timothée Rossi",
+    "match": "Celia Willison vs Timothée Rossi",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "Zac West",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "Peter Wickwire",
+    "loser": "Zac West",
+    "match": "Peter Wickwire vs Zac West",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "Peter Wickwire",
+    "loser": "Zac West",
+    "match": "Peter Wickwire vs Zac West",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "Cormac Murphy",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Cormac Murphy",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "Ryan Seago",
+    "loser": "Cormac Murphy",
+    "match": "Ryan Seago vs Cormac Murphy",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "Cormac Murphy",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Cormac Murphy",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-4",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-4",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "9th-/-10th",
+    "winner": "Tom Picot",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "9th-/-10th",
+    "winner": "Christian Prendergast",
+    "loser": "Tom Picot",
+    "match": "Christian Prendergast vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Timothée Rossi",
+    "match": "Chris Poole vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Celia Willison",
+    "match": "Chris Poole vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Cormac Murphy",
+    "match": "Chris Poole vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Peter Wickwire",
+    "match": "Chris Poole vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Ryan Seago",
+    "match": "Chris Poole vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Ruairi Finnegan",
+    "match": "Chris Poole vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Celia Willison",
+    "match": "Timothée Rossi vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Ian Garreta",
+    "match": "Timothée Rossi vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Ruairi Finnegan",
+    "match": "Timothée Rossi vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Tom Picot",
+    "match": "Timothée Rossi vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Timothée Rossi vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Peter Wickwire",
+    "match": "Celia Willison vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Ryan Seago",
+    "match": "Celia Willison vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Ruairi Finnegan",
+    "match": "Celia Willison vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Tom Picot",
+    "match": "Celia Willison vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Zac West",
+    "match": "Celia Willison vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Ryan Seago",
+    "match": "Ian Garreta vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Ruairi Finnegan",
+    "match": "Ian Garreta vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Zac West",
+    "match": "Ian Garreta vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Ruairi Finnegan",
+    "match": "Cormac Murphy vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Zac West",
+    "match": "Cormac Murphy vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Ryan Seago",
+    "match": "Peter Wickwire vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Ruairi Finnegan",
+    "match": "Peter Wickwire vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Tom Picot",
+    "match": "Peter Wickwire vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Zac West",
+    "match": "Peter Wickwire vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Ruairi Finnegan",
+    "match": "Ryan Seago vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Tom Picot",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Zac West",
+    "match": "Ryan Seago vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Zac West",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Zac West",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Zac West",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Celia Willison",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Cormac Murphy",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Peter Wickwire",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Ruairi Finnegan",
+    "match": "Christian Prendergast vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Tom Picot",
+    "match": "Christian Prendergast vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Zac West",
+    "match": "Christian Prendergast vs Zac West",
+    "race": 0
+  }
+]

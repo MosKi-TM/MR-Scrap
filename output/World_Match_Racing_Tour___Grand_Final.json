@@ -1,0 +1,818 @@
+[
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "petit-final",
+    "winner": "jeppe borch",
+    "loser": "harry price",
+    "match": "jeppe borch vs harry price",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "petit-final",
+    "winner": "harry price",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs harry price",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "petit-final",
+    "winner": "harry price",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs harry price",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-1",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "jeppe borch",
+    "loser": "megan thomson",
+    "match": "jeppe borch vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "megan thomson",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "jeppe borch",
+    "loser": "megan thomson",
+    "match": "jeppe borch vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "jeppe borch",
+    "loser": "megan thomson",
+    "match": "jeppe borch vs megan thomson",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "mati sepp",
+    "match": "nick egnot-johnson vs mati sepp",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "mati sepp",
+    "match": "nick egnot-johnson vs mati sepp",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "mati sepp",
+    "match": "nick egnot-johnson vs mati sepp",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-4",
+    "winner": "harry price",
+    "loser": "jean-baptiste bernaz",
+    "match": "harry price vs jean-baptiste bernaz",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-4",
+    "winner": "harry price",
+    "loser": "jean-baptiste bernaz",
+    "match": "harry price vs jean-baptiste bernaz",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "quarter-final-4",
+    "winner": "harry price",
+    "loser": "jean-baptiste bernaz",
+    "match": "harry price vs jean-baptiste bernaz",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "mati sepp",
+    "match": "nick egnot-johnson vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "rocco attili",
+    "match": "nick egnot-johnson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "jean-baptiste bernaz",
+    "match": "nick egnot-johnson vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "nick egnot-johnson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "cole tapper",
+    "match": "nick egnot-johnson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "mati sepp",
+    "match": "harry price vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "rocco attili",
+    "match": "harry price vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "jean-baptiste bernaz",
+    "match": "harry price vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "dave hood",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "megan thomson",
+    "match": "harry price vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "harry price",
+    "loser": "cole tapper",
+    "match": "harry price vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "rocco attili",
+    "match": "mati sepp vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "jean-baptiste bernaz",
+    "match": "mati sepp vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "dave hood",
+    "match": "mati sepp vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "mati sepp",
+    "match": "mati sepp vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "cole tapper",
+    "match": "mati sepp vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "jean-baptiste bernaz",
+    "loser": "rocco attili",
+    "match": "rocco attili vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "dave hood",
+    "match": "rocco attili vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "cole tapper",
+    "match": "rocco attili vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "jean-baptiste bernaz",
+    "loser": "dave hood",
+    "match": "jean-baptiste bernaz vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "jean-baptiste bernaz",
+    "loser": "megan thomson",
+    "match": "jean-baptiste bernaz vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "jean-baptiste bernaz",
+    "loser": "cole tapper",
+    "match": "jean-baptiste bernaz vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "dave hood",
+    "match": "dave hood vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "dave hood",
+    "loser": "cole tapper",
+    "match": "dave hood vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "cole tapper",
+    "match": "megan thomson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "mati sepp",
+    "match": "nick egnot-johnson vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "rocco attili",
+    "match": "nick egnot-johnson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "jean-baptiste bernaz",
+    "match": "nick egnot-johnson vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "nick egnot-johnson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "cole tapper",
+    "match": "nick egnot-johnson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "harry price",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "mati sepp",
+    "match": "harry price vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "harry price",
+    "match": "harry price vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "rocco attili",
+    "match": "harry price vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "jean-baptiste bernaz",
+    "match": "harry price vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "dave hood",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "megan thomson",
+    "match": "harry price vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "harry price",
+    "loser": "cole tapper",
+    "match": "harry price vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "mati sepp",
+    "match": "chris poole vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "jean-baptiste bernaz",
+    "match": "chris poole vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "megan thomson",
+    "match": "chris poole vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "cole tapper",
+    "match": "chris poole vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "mati sepp",
+    "match": "mati sepp vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "rocco attili",
+    "match": "mati sepp vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jean-baptiste bernaz",
+    "loser": "mati sepp",
+    "match": "mati sepp vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "mati sepp",
+    "match": "mati sepp vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "mati sepp",
+    "match": "mati sepp vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "mati sepp",
+    "match": "mati sepp vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "rocco attili",
+    "match": "jeppe borch vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "jean-baptiste bernaz",
+    "match": "jeppe borch vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "dave hood",
+    "match": "jeppe borch vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "megan thomson",
+    "match": "jeppe borch vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "cole tapper",
+    "match": "jeppe borch vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jean-baptiste bernaz",
+    "loser": "rocco attili",
+    "match": "rocco attili vs jean-baptiste bernaz",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "dave hood",
+    "match": "rocco attili vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "rocco attili",
+    "match": "rocco attili vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jean-baptiste bernaz",
+    "loser": "dave hood",
+    "match": "jean-baptiste bernaz vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "jean-baptiste bernaz",
+    "loser": "megan thomson",
+    "match": "jean-baptiste bernaz vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "jean-baptiste bernaz",
+    "match": "jean-baptiste bernaz vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "dave hood",
+    "match": "dave hood vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "dave hood",
+    "match": "dave hood vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "World Match Racing Tour – Grand Final",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "megan thomson",
+    "match": "megan thomson vs cole tapper",
+    "race": 0
+  }
+]

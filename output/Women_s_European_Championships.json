@@ -1,0 +1,554 @@
+[
+  {
+    "regatta": "Women's European Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "petit-final",
+    "winner": "margot vennin",
+    "loser": "celia willison",
+    "match": "celia willison vs margot vennin",
+    "race": 1
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ali morrish",
+    "match": "pauline courtois vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "juliet costanzo",
+    "match": "pauline courtois vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lea richter vogelius",
+    "match": "pauline courtois vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sophie otter",
+    "match": "pauline courtois vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sara edholm",
+    "match": "pauline courtois vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "laurane mettraux",
+    "match": "pauline courtois vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sofia matsikidou",
+    "match": "pauline courtois vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "margot riou",
+    "match": "renee groeneveld vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "margot vennin",
+    "match": "renee groeneveld vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "ali morrish",
+    "match": "renee groeneveld vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "juliet costanzo",
+    "match": "renee groeneveld vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "lea richter vogelius",
+    "match": "renee groeneveld vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "sara edholm",
+    "match": "renee groeneveld vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "laurane mettraux",
+    "match": "renee groeneveld vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "sofia matsikidou",
+    "match": "renee groeneveld vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "celia willison",
+    "match": "celia willison vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "margot vennin",
+    "match": "celia willison vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "ali morrish",
+    "match": "celia willison vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "celia willison",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sara edholm",
+    "match": "celia willison vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "laurane mettraux",
+    "match": "celia willison vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sofia matsikidou",
+    "match": "celia willison vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot riou vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "margot riou",
+    "match": "margot riou vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "margot riou",
+    "match": "margot riou vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "margot riou",
+    "match": "margot riou vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "sara edholm",
+    "match": "margot riou vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "laurane mettraux",
+    "match": "margot riou vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "sofia matsikidou",
+    "match": "margot riou vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "ali morrish",
+    "match": "margot vennin vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "juliet costanzo",
+    "match": "margot vennin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "lea richter vogelius",
+    "match": "margot vennin vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sophie otter",
+    "match": "margot vennin vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sara edholm",
+    "match": "margot vennin vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "margot vennin",
+    "match": "margot vennin vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "sofia matsikidou",
+    "match": "margot vennin vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "ali morrish",
+    "match": "ali morrish vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "ali morrish",
+    "match": "ali morrish vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sara edholm",
+    "match": "ali morrish vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "laurane mettraux",
+    "match": "ali morrish vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sofia matsikidou",
+    "match": "ali morrish vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "sara edholm",
+    "match": "juliet costanzo vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "laurane mettraux",
+    "match": "juliet costanzo vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "sofia matsikidou",
+    "match": "juliet costanzo vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "sophie otter",
+    "match": "lea richter vogelius vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "sara edholm",
+    "match": "lea richter vogelius vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "sofia matsikidou",
+    "match": "lea richter vogelius vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sara edholm",
+    "match": "sophie otter vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "laurane mettraux",
+    "match": "sophie otter vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sofia matsikidou",
+    "match": "sophie otter vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "sara edholm",
+    "match": "sara edholm vs laurane mettraux",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "sofia matsikidou",
+    "loser": "sara edholm",
+    "match": "sara edholm vs sofia matsikidou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's European Championships",
+    "phase": "round-robin",
+    "winner": "laurane mettraux",
+    "loser": "sofia matsikidou",
+    "match": "laurane mettraux vs sofia matsikidou",
+    "race": 0
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "matt greenfield",
+    "match": "ted blowers vs matt greenfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "final",
+    "winner": "matt greenfield",
+    "loser": "ted blowers",
+    "match": "ted blowers vs matt greenfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "final",
+    "winner": "matt greenfield",
+    "loser": "ted blowers",
+    "match": "ted blowers vs matt greenfield",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "matt greenfield",
+    "match": "ted blowers vs matt greenfield",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "final",
+    "winner": "ted blowers",
+    "loser": "matt greenfield",
+    "match": "ted blowers vs matt greenfield",
+    "race": 5
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "semi-final-1",
+    "winner": "matt greenfield",
+    "loser": "sophie otter",
+    "match": "sophie otter vs matt greenfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "semi-final-1",
+    "winner": "matt greenfield",
+    "loser": "sophie otter",
+    "match": "sophie otter vs matt greenfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "ellie cumpsty",
+    "match": "ted blowers vs ellie cumpsty",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "semi-final-2",
+    "winner": "ted blowers",
+    "loser": "ellie cumpsty",
+    "match": "ted blowers vs ellie cumpsty",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "thomas goodman",
+    "loser": "molly brown",
+    "match": "thomas goodman vs molly brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "niamh davies",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "thomas goodman",
+    "loser": "gabriella symons",
+    "match": "thomas goodman vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "niamh davies",
+    "loser": "molly brown",
+    "match": "molly brown vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "molly brown",
+    "loser": "gabriella symons",
+    "match": "molly brown vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "5th-to-8th-rr",
+    "winner": "niamh davies",
+    "loser": "gabriella symons",
+    "match": "niamh davies vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "ellie cumpsty",
+    "match": "ted blowers vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "thomas goodman",
+    "match": "ted blowers vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "molly brown",
+    "match": "ted blowers vs molly brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "niamh davies",
+    "match": "ted blowers vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "matt greenfield",
+    "match": "ted blowers vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "gabriella symons",
+    "match": "ted blowers vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ellie cumpsty",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "thomas goodman",
+    "match": "sophie otter vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "molly brown",
+    "match": "sophie otter vs molly brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "niamh davies",
+    "match": "sophie otter vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "matt greenfield",
+    "match": "sophie otter vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "gabriella symons",
+    "match": "sophie otter vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "thomas goodman",
+    "match": "ellie cumpsty vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "molly brown",
+    "match": "ellie cumpsty vs molly brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "niamh davies",
+    "match": "ellie cumpsty vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "matt greenfield",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "gabriella symons",
+    "match": "ellie cumpsty vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "molly brown",
+    "match": "thomas goodman vs molly brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "niamh davies",
+    "match": "thomas goodman vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "matt greenfield",
+    "loser": "thomas goodman",
+    "match": "thomas goodman vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "gabriella symons",
+    "match": "thomas goodman vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "molly brown",
+    "loser": "niamh davies",
+    "match": "molly brown vs niamh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "matt greenfield",
+    "loser": "molly brown",
+    "match": "molly brown vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "molly brown",
+    "loser": "gabriella symons",
+    "match": "molly brown vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "matt greenfield",
+    "loser": "niamh davies",
+    "match": "niamh davies vs matt greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "niamh davies",
+    "loser": "gabriella symons",
+    "match": "niamh davies vs gabriella symons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 2",
+    "phase": "round-robin",
+    "winner": "matt greenfield",
+    "loser": "gabriella symons",
+    "match": "matt greenfield vs gabriella symons",
+    "race": 0
+  }
+]

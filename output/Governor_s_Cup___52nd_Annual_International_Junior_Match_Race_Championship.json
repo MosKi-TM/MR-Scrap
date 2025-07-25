@@ -1,0 +1,202 @@
+[
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs rnzys - leonard takahashi",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rnzys - leonard takahashi",
+    "match": "cyca - harry price vs rnzys - leonard takahashi",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs rnzys - leonard takahashi",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rnzys - leonard takahashi",
+    "match": "cyca - harry price vs rnzys - leonard takahashi",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rnzys - leonard takahashi",
+    "match": "cyca - harry price vs rnzys - leonard takahashi",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "dryc - chris weis",
+    "loser": "cocyc - christophe killian",
+    "match": "cocyc - christophe killian vs dryc - chris weis",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "cocyc - christophe killian",
+    "loser": "dryc - chris weis",
+    "match": "cocyc - christophe killian vs dryc - chris weis",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "cocyc - christophe killian",
+    "loser": "dryc - chris weis",
+    "match": "cocyc - christophe killian vs dryc - chris weis",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "dryc - chris weis",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs dryc - chris weis",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "dryc - chris weis",
+    "match": "rnzys - leonard takahashi vs dryc - chris weis",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "dryc - chris weis",
+    "match": "rnzys - leonard takahashi vs dryc - chris weis",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "dryc - chris weis",
+    "loser": "rnzys - leonard takahashi",
+    "match": "rnzys - leonard takahashi vs dryc - chris weis",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rnzys - leonard takahashi",
+    "loser": "dryc - chris weis",
+    "match": "rnzys - leonard takahashi vs dryc - chris weis",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "cocyc - christophe killian",
+    "match": "cyca - harry price vs cocyc - christophe killian",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "cocyc - christophe killian",
+    "match": "cyca - harry price vs cocyc - christophe killian",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "cocyc - christophe killian",
+    "match": "cyca - harry price vs cocyc - christophe killian",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "ryc - jack parkin",
+    "loser": "rfbyc - will boulden",
+    "match": "ryc - jack parkin vs rfbyc - will boulden",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "ryc - jack parkin",
+    "loser": "rfbyc - will boulden",
+    "match": "ryc - jack parkin vs rfbyc - will boulden",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpayc - clare costanzo",
+    "loser": "pyc - matt whitfield",
+    "match": "rpayc - clare costanzo vs pyc - matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpayc - clare costanzo",
+    "loser": "pyc - matt whitfield",
+    "match": "rpayc - clare costanzo vs pyc - matt whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "sdyc - scott sinks",
+    "loser": "rdyc - felix jacobson",
+    "match": "sdyc - scott sinks vs rdyc - felix jacobson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "sdyc - scott sinks",
+    "loser": "rdyc - felix jacobson",
+    "match": "sdyc - scott sinks vs rdyc - felix jacobson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "byc - david wood",
+    "loser": "rnzys - james wilson",
+    "match": "byc - david wood vs rnzys - james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "rnzys - james wilson",
+    "loser": "byc - david wood",
+    "match": "byc - david wood vs rnzys - james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 52nd Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "rnzys - james wilson",
+    "loser": "byc - david wood",
+    "match": "byc - david wood vs rnzys - james wilson",
+    "race": 3
+  }
+]

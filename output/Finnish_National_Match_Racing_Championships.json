@@ -1,0 +1,82 @@
+[
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "final",
+    "winner": "olli-pekka lumijarvi",
+    "loser": "markus ronnberg",
+    "match": "markus ronnberg vs olli-pekka lumijarvi",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "final",
+    "winner": "olli-pekka lumijarvi",
+    "loser": "markus ronnberg",
+    "match": "markus ronnberg vs olli-pekka lumijarvi",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "jon eriksson",
+    "loser": "antti luhta",
+    "match": "jon eriksson vs antti luhta",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "antti luhta",
+    "loser": "jon eriksson",
+    "match": "jon eriksson vs antti luhta",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "jon eriksson",
+    "loser": "antti luhta",
+    "match": "jon eriksson vs antti luhta",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "markus ronnberg",
+    "loser": "antti luhta",
+    "match": "antti luhta vs markus ronnberg",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "antti luhta",
+    "loser": "markus ronnberg",
+    "match": "antti luhta vs markus ronnberg",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "markus ronnberg",
+    "loser": "antti luhta",
+    "match": "antti luhta vs markus ronnberg",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "olli-pekka lumijarvi",
+    "loser": "jon eriksson",
+    "match": "olli-pekka lumijarvi vs jon eriksson",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish National Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "olli-pekka lumijarvi",
+    "loser": "jon eriksson",
+    "match": "olli-pekka lumijarvi vs jon eriksson",
+    "race": 2
+  }
+]

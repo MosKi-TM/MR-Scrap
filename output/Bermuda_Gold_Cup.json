@@ -1,0 +1,578 @@
+[
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "harrison price",
+    "match": "eric monnin vs harrison price",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "harrison price",
+    "match": "eric monnin vs harrison price",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "harrison price",
+    "loser": "eric monnin",
+    "match": "eric monnin vs harrison price",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "harrison price",
+    "loser": "eric monnin",
+    "match": "eric monnin vs harrison price",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "harrison price",
+    "loser": "eric monnin",
+    "match": "eric monnin vs harrison price",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "taylor canfield",
+    "loser": "gavin brady",
+    "match": "taylor canfield vs gavin brady",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "gavin brady",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs gavin brady",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "taylor canfield",
+    "loser": "gavin brady",
+    "match": "taylor canfield vs gavin brady",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "taylor canfield",
+    "loser": "gavin brady",
+    "match": "taylor canfield vs gavin brady",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "jeffrey petersen",
+    "match": "jeppe borch vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "peter holz",
+    "match": "jeppe borch vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "anna ostling",
+    "match": "jeppe borch vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "gavin brady",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "ian williams",
+    "match": "jeppe borch vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "joshua greenslade",
+    "match": "jeppe borch vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "jeffrey petersen",
+    "match": "johnie berntsson vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "peter holz",
+    "match": "johnie berntsson vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "anna ostling",
+    "match": "johnie berntsson vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "gavin brady",
+    "match": "johnie berntsson vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "johnie berntsson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "johnie berntsson",
+    "loser": "joshua greenslade",
+    "match": "johnie berntsson vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeffrey petersen",
+    "loser": "peter holz",
+    "match": "jeffrey petersen vs peter holz",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "anna ostling",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "gavin brady",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "jeffrey petersen",
+    "loser": "joshua greenslade",
+    "match": "jeffrey petersen vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "anna ostling",
+    "loser": "peter holz",
+    "match": "peter holz vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "gavin brady",
+    "loser": "peter holz",
+    "match": "peter holz vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "peter holz",
+    "match": "peter holz vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "peter holz",
+    "loser": "joshua greenslade",
+    "match": "peter holz vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "gavin brady",
+    "loser": "anna ostling",
+    "match": "anna ostling vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "anna ostling",
+    "match": "anna ostling vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "anna ostling",
+    "loser": "joshua greenslade",
+    "match": "anna ostling vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "gavin brady",
+    "match": "gavin brady vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "gavin brady",
+    "loser": "joshua greenslade",
+    "match": "gavin brady vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "joshua greenslade",
+    "match": "ian williams vs joshua greenslade",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "chris poole vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "pauline courtois",
+    "match": "chris poole vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "david hood",
+    "loser": "chris poole",
+    "match": "chris poole vs david hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "harrison price",
+    "loser": "chris poole",
+    "match": "chris poole vs harrison price",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "chris poole vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "celia willison",
+    "loser": "chris poole",
+    "match": "chris poole vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "eric monnin vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "pauline courtois",
+    "match": "eric monnin vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "david hood",
+    "match": "eric monnin vs david hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "harrison price",
+    "loser": "eric monnin",
+    "match": "eric monnin vs harrison price",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "taylor canfield",
+    "match": "eric monnin vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "celia willison",
+    "match": "eric monnin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pauline courtois",
+    "match": "nick egnot-johnson vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "nick egnot-johnson",
+    "loser": "david hood",
+    "match": "nick egnot-johnson vs david hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "nick egnot-johnson",
+    "loser": "harrison price",
+    "match": "nick egnot-johnson vs harrison price",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "nick egnot-johnson",
+    "loser": "celia willison",
+    "match": "nick egnot-johnson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "pauline courtois",
+    "loser": "david hood",
+    "match": "pauline courtois vs david hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "harrison price",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs harrison price",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "harrison price",
+    "loser": "david hood",
+    "match": "david hood vs harrison price",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "david hood",
+    "match": "david hood vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "david hood",
+    "loser": "celia willison",
+    "match": "david hood vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "harrison price",
+    "match": "harrison price vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "harrison price",
+    "loser": "celia willison",
+    "match": "harrison price vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "group-1",
+    "winner": "taylor canfield",
+    "loser": "celia willison",
+    "match": "taylor canfield vs celia willison",
+    "race": 0
+  }
+]

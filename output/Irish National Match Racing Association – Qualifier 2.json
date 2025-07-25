@@ -1,0 +1,290 @@
+[
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "final",
+    "winner": "Ryan Scott",
+    "loser": "Simon Rattigan",
+    "match": "Ryan Scott vs Simon Rattigan",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "final",
+    "winner": "Ryan Scott",
+    "loser": "Simon Rattigan",
+    "match": "Ryan Scott vs Simon Rattigan",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "petit-final",
+    "winner": "Scott Flanigan",
+    "loser": "Adam Leddy",
+    "match": "Scott Flanigan vs Adam Leddy",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "semi-final-1",
+    "winner": "Ryan Scott",
+    "loser": "Scott Flanigan",
+    "match": "Ryan Scott vs Scott Flanigan",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "semi-final-1",
+    "winner": "Ryan Scott",
+    "loser": "Scott Flanigan",
+    "match": "Ryan Scott vs Scott Flanigan",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Adam Leddy",
+    "loser": "Simon Rattigan",
+    "match": "Adam Leddy vs Simon Rattigan",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Simon Rattigan",
+    "loser": "Adam Leddy",
+    "match": "Adam Leddy vs Simon Rattigan",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Simon Rattigan",
+    "loser": "Adam Leddy",
+    "match": "Adam Leddy vs Simon Rattigan",
+    "race": 3
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Adam Leddy",
+    "loser": "Dan Little",
+    "match": "Dan Little vs Adam Leddy",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Emily Riordan",
+    "loser": "Dan Little",
+    "match": "Dan Little vs Emily Riordan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Scott Flanigan",
+    "match": "Dan Little vs Scott Flanigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Simon Rattigan",
+    "loser": "Dan Little",
+    "match": "Dan Little vs Simon Rattigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Daniel Copithorne",
+    "loser": "Dan Little",
+    "match": "Dan Little vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Séafra Guilfoyle",
+    "match": "Dan Little vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Emily Riordan",
+    "loser": "Adam Leddy",
+    "match": "Adam Leddy vs Emily Riordan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Adam Leddy",
+    "loser": "Scott Flanigan",
+    "match": "Adam Leddy vs Scott Flanigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Simon Rattigan",
+    "loser": "Adam Leddy",
+    "match": "Adam Leddy vs Simon Rattigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Adam Leddy",
+    "loser": "Daniel Copithorne",
+    "match": "Adam Leddy vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Séafra Guilfoyle",
+    "loser": "Adam Leddy",
+    "match": "Adam Leddy vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Scott Flanigan",
+    "loser": "Emily Riordan",
+    "match": "Emily Riordan vs Scott Flanigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Emily Riordan",
+    "loser": "Simon Rattigan",
+    "match": "Emily Riordan vs Simon Rattigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Emily Riordan",
+    "loser": "Daniel Copithorne",
+    "match": "Emily Riordan vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Séafra Guilfoyle",
+    "loser": "Emily Riordan",
+    "match": "Emily Riordan vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Scott Flanigan",
+    "loser": "Simon Rattigan",
+    "match": "Scott Flanigan vs Simon Rattigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Scott Flanigan",
+    "loser": "Daniel Copithorne",
+    "match": "Scott Flanigan vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Séafra Guilfoyle",
+    "loser": "Scott Flanigan",
+    "match": "Scott Flanigan vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Simon Rattigan",
+    "loser": "Daniel Copithorne",
+    "match": "Simon Rattigan vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Séafra Guilfoyle",
+    "loser": "Simon Rattigan",
+    "match": "Simon Rattigan vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Séafra Guilfoyle",
+    "loser": "Daniel Copithorne",
+    "match": "Daniel Copithorne vs Séafra Guilfoyle",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Ryan Scott",
+    "match": "Ryan Scott vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Adam Leddy",
+    "match": "Ryan Scott vs Adam Leddy",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Emily Riordan",
+    "match": "Ryan Scott vs Emily Riordan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Scott Flanigan",
+    "match": "Ryan Scott vs Scott Flanigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Simon Rattigan",
+    "match": "Ryan Scott vs Simon Rattigan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Daniel Copithorne",
+    "match": "Ryan Scott vs Daniel Copithorne",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Association – Qualifier 2",
+    "phase": "round-robin",
+    "winner": "Ryan Scott",
+    "loser": "Séafra Guilfoyle",
+    "match": "Ryan Scott vs Séafra Guilfoyle",
+    "race": 0
+  }
+]

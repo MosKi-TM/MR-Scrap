@@ -1,0 +1,370 @@
+[
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "rebecca coles",
+    "match": "ali morrish vs rebecca coles",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "rebecca coles",
+    "match": "ali morrish vs rebecca coles",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs sophie otter",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "semi-final-1",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "semi-final-1",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "semi-final-2",
+    "winner": "rebecca coles",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs rebecca coles",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "semi-final-2",
+    "winner": "rebecca coles",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs rebecca coles",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "fiona tylecote",
+    "loser": "ali morrish",
+    "match": "ali morrish vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "ali morrish vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "ali morrish",
+    "loser": "emily page",
+    "match": "ali morrish vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "ali morrish",
+    "loser": "ellen morley",
+    "match": "ali morrish vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "fiona tylecote",
+    "match": "fiona tylecote vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "fiona tylecote",
+    "loser": "emily page",
+    "match": "fiona tylecote vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "fiona tylecote",
+    "loser": "ellen morley",
+    "match": "fiona tylecote vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "emily page",
+    "match": "octavia owen vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "ellen morley",
+    "match": "octavia owen vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "repechage",
+    "winner": "emily page",
+    "loser": "ellen morley",
+    "match": "emily page vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "rebecca coles",
+    "loser": "octavia owen",
+    "match": "octavia owen vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "juliette kennedy",
+    "match": "octavia owen vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "ellen morley",
+    "match": "octavia owen vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "emily page",
+    "match": "octavia owen vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "fiona tylecote",
+    "loser": "octavia owen",
+    "match": "octavia owen vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "rebecca coles",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "ali morrish",
+    "match": "ali morrish vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "ellen morley",
+    "match": "ali morrish vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "emily page",
+    "match": "ali morrish vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "fiona tylecote",
+    "match": "ali morrish vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "rebecca coles",
+    "match": "sophie otter vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "juliette kennedy",
+    "match": "sophie otter vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ellen morley",
+    "match": "sophie otter vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "emily page",
+    "match": "sophie otter vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "fiona tylecote",
+    "match": "sophie otter vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "rebecca coles",
+    "match": "rebecca coles vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "rebecca coles",
+    "loser": "ellen morley",
+    "match": "rebecca coles vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "rebecca coles",
+    "loser": "emily page",
+    "match": "rebecca coles vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "rebecca coles",
+    "loser": "fiona tylecote",
+    "match": "rebecca coles vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "ellen morley",
+    "match": "juliette kennedy vs ellen morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "emily page",
+    "match": "juliette kennedy vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "fiona tylecote",
+    "match": "juliette kennedy vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "emily page",
+    "loser": "ellen morley",
+    "match": "ellen morley vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "fiona tylecote",
+    "loser": "ellen morley",
+    "match": "ellen morley vs fiona tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Match Racing Championships 2022",
+    "phase": "round-robin",
+    "winner": "fiona tylecote",
+    "loser": "emily page",
+    "match": "emily page vs fiona tylecote",
+    "race": 0
+  }
+]

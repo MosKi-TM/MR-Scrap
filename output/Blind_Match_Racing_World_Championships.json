@@ -1,0 +1,42 @@
+[
+  {
+    "regatta": "Blind Match Racing World Championships",
+    "phase": "final",
+    "winner": "vicki sheen",
+    "loser": "david brown",
+    "match": "vicki sheen vs david brown",
+    "race": 1
+  },
+  {
+    "regatta": "Blind Match Racing World Championships",
+    "phase": "final",
+    "winner": "david brown",
+    "loser": "vicki sheen",
+    "match": "vicki sheen vs david brown",
+    "race": 2
+  },
+  {
+    "regatta": "Blind Match Racing World Championships",
+    "phase": "final",
+    "winner": "vicki sheen",
+    "loser": "david brown",
+    "match": "vicki sheen vs david brown",
+    "race": 3
+  },
+  {
+    "regatta": "Blind Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "walter raineri",
+    "loser": "elad rosenzvieg",
+    "match": "walter raineri vs elad rosenzvieg",
+    "race": 1
+  },
+  {
+    "regatta": "Blind Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "walter raineri",
+    "loser": "elad rosenzvieg",
+    "match": "walter raineri vs elad rosenzvieg",
+    "race": 2
+  }
+]

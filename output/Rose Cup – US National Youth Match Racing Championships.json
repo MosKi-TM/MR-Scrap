@@ -1,0 +1,674 @@
+[
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Morgan Pinckney",
+    "loser": "Hamilton Barclay",
+    "match": "Morgan Pinckney vs Hamilton Barclay",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Hamilton Barclay",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Hamilton Barclay",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Morgan Pinckney",
+    "loser": "Hamilton Barclay",
+    "match": "Morgan Pinckney vs Hamilton Barclay",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Morgan Pinckney",
+    "loser": "Hamilton Barclay",
+    "match": "Morgan Pinckney vs Hamilton Barclay",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Thomas Sitzmann",
+    "loser": "Dylan Sih",
+    "match": "Thomas Sitzmann vs Dylan Sih",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Thomas Sitzmann",
+    "loser": "Dylan Sih",
+    "match": "Thomas Sitzmann vs Dylan Sih",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Dylan Sih",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Dylan Sih",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Dylan Sih",
+    "match": "Morgan Pinckney vs Dylan Sih",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Dylan Sih",
+    "match": "Morgan Pinckney vs Dylan Sih",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Dylan Sih",
+    "match": "Morgan Pinckney vs Dylan Sih",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Thomas Sitzmann",
+    "match": "Hamilton Barclay vs Thomas Sitzmann",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Thomas Sitzmann",
+    "match": "Hamilton Barclay vs Thomas Sitzmann",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Thomas Sitzmann",
+    "match": "Hamilton Barclay vs Thomas Sitzmann",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Siena Nichols",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Siena Nichols",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Siena Nichols",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Siena Nichols",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Pearse Dowd",
+    "loser": "James Pine",
+    "match": "James Pine vs Pearse Dowd",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Pearse Dowd",
+    "loser": "James Pine",
+    "match": "James Pine vs Pearse Dowd",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Peter Busch",
+    "loser": "Pearse Dowd",
+    "match": "Peter Busch vs Pearse Dowd",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Pearse Dowd",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Pearse Dowd",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Peter Busch",
+    "loser": "Pearse Dowd",
+    "match": "Peter Busch vs Pearse Dowd",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "Siena Nichols",
+    "loser": "James Pine",
+    "match": "James Pine vs Siena Nichols",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "Siena Nichols",
+    "loser": "James Pine",
+    "match": "James Pine vs Siena Nichols",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Pearse Dowd",
+    "match": "Morgan Pinckney vs Pearse Dowd",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Pearse Dowd",
+    "match": "Morgan Pinckney vs Pearse Dowd",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Pearse Dowd",
+    "match": "Morgan Pinckney vs Pearse Dowd",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Siena Nichols",
+    "match": "Hamilton Barclay vs Siena Nichols",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Siena Nichols",
+    "match": "Hamilton Barclay vs Siena Nichols",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "Hamilton Barclay",
+    "loser": "Siena Nichols",
+    "match": "Hamilton Barclay vs Siena Nichols",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Thomas Sitzmann",
+    "loser": "James Pine",
+    "match": "Thomas Sitzmann vs James Pine",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Thomas Sitzmann",
+    "loser": "James Pine",
+    "match": "Thomas Sitzmann vs James Pine",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "James Pine",
+    "loser": "Thomas Sitzmann",
+    "match": "Thomas Sitzmann vs James Pine",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "Thomas Sitzmann",
+    "loser": "James Pine",
+    "match": "Thomas Sitzmann vs James Pine",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Dylan Sih",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Dylan Sih",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Peter Busch",
+    "loser": "Dylan Sih",
+    "match": "Peter Busch vs Dylan Sih",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Dylan Sih",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Dylan Sih",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "Dylan Sih",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Dylan Sih",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "Connor Bennett",
+    "loser": "Tor Svendsen",
+    "match": "Connor Bennett vs Tor Svendsen",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "Connor Bennett",
+    "loser": "Tor Svendsen",
+    "match": "Connor Bennett vs Tor Svendsen",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "Connor Bennett",
+    "loser": "Tor Svendsen",
+    "match": "Connor Bennett vs Tor Svendsen",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Thomas Sitzmann",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamilton Barclay",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Hamilton Barclay",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tor Svendsen",
+    "loser": "Peter Busch",
+    "match": "Tor Svendsen vs Peter Busch",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Pearse Dowd",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Pearse Dowd",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Connor Bennett",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dylan Sih",
+    "loser": "Tor Svendsen",
+    "match": "Tor Svendsen vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tor Svendsen",
+    "loser": "James Pine",
+    "match": "Tor Svendsen vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Hamilton Barclay",
+    "match": "Thomas Sitzmann vs Hamilton Barclay",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Peter Busch",
+    "match": "Thomas Sitzmann vs Peter Busch",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Pearse Dowd",
+    "loser": "Thomas Sitzmann",
+    "match": "Thomas Sitzmann vs Pearse Dowd",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Morgan Pinckney",
+    "match": "Thomas Sitzmann vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Connor Bennett",
+    "match": "Thomas Sitzmann vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Thomas Sitzmann",
+    "loser": "Dylan Sih",
+    "match": "Thomas Sitzmann vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Pine",
+    "loser": "Thomas Sitzmann",
+    "match": "Thomas Sitzmann vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamilton Barclay",
+    "loser": "Peter Busch",
+    "match": "Hamilton Barclay vs Peter Busch",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Pearse Dowd",
+    "loser": "Hamilton Barclay",
+    "match": "Hamilton Barclay vs Pearse Dowd",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamilton Barclay",
+    "loser": "Morgan Pinckney",
+    "match": "Hamilton Barclay vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamilton Barclay",
+    "loser": "Connor Bennett",
+    "match": "Hamilton Barclay vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dylan Sih",
+    "loser": "Hamilton Barclay",
+    "match": "Hamilton Barclay vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Pine",
+    "loser": "Hamilton Barclay",
+    "match": "Hamilton Barclay vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Pearse Dowd",
+    "loser": "Peter Busch",
+    "match": "Peter Busch vs Pearse Dowd",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Peter Busch",
+    "loser": "Morgan Pinckney",
+    "match": "Peter Busch vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Peter Busch",
+    "loser": "Connor Bennett",
+    "match": "Peter Busch vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Peter Busch",
+    "loser": "Dylan Sih",
+    "match": "Peter Busch vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Peter Busch",
+    "loser": "James Pine",
+    "match": "Peter Busch vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Pearse Dowd",
+    "match": "Pearse Dowd vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Connor Bennett",
+    "loser": "Pearse Dowd",
+    "match": "Pearse Dowd vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Pearse Dowd",
+    "loser": "Dylan Sih",
+    "match": "Pearse Dowd vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Pine",
+    "loser": "Pearse Dowd",
+    "match": "Pearse Dowd vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Connor Bennett",
+    "match": "Morgan Pinckney vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Dylan Sih",
+    "match": "Morgan Pinckney vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "James Pine",
+    "match": "Morgan Pinckney vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dylan Sih",
+    "loser": "Connor Bennett",
+    "match": "Connor Bennett vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Pine",
+    "loser": "Connor Bennett",
+    "match": "Connor Bennett vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dylan Sih",
+    "loser": "James Pine",
+    "match": "Dylan Sih vs James Pine",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tor Svendsen",
+    "loser": "Siena Nichols",
+    "match": "Siena Nichols vs Tor Svendsen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Siena Nichols",
+    "loser": "Thomas Sitzmann",
+    "match": "Siena Nichols vs Thomas Sitzmann",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Siena Nichols",
+    "loser": "Hamilton Barclay",
+    "match": "Siena Nichols vs Hamilton Barclay",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Peter Busch",
+    "loser": "Siena Nichols",
+    "match": "Siena Nichols vs Peter Busch",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Siena Nichols",
+    "loser": "Pearse Dowd",
+    "match": "Siena Nichols vs Pearse Dowd",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Siena Nichols",
+    "match": "Siena Nichols vs Morgan Pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Siena Nichols",
+    "loser": "Connor Bennett",
+    "match": "Siena Nichols vs Connor Bennett",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dylan Sih",
+    "loser": "Siena Nichols",
+    "match": "Siena Nichols vs Dylan Sih",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Pine",
+    "loser": "Siena Nichols",
+    "match": "Siena Nichols vs James Pine",
+    "race": 0
+  }
+]

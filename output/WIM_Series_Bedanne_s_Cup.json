@@ -1,0 +1,810 @@
+[
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "final",
+    "winner": "anne-claire le berre",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "margot vennin",
+    "loser": "allie blecher",
+    "match": "margot vennin vs allie blecher",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "allie blecher",
+    "loser": "margot vennin",
+    "match": "margot vennin vs allie blecher",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "margot vennin",
+    "loser": "allie blecher",
+    "match": "margot vennin vs allie blecher",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "anne-claire le berre",
+    "loser": "margot vennin",
+    "match": "anne-claire le berre vs margot vennin",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "anne-claire le berre",
+    "loser": "margot vennin",
+    "match": "anne-claire le berre vs margot vennin",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "margot vennin",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs margot vennin",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "anne-claire le berre",
+    "loser": "margot vennin",
+    "match": "anne-claire le berre vs margot vennin",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "5th-/-6th",
+    "winner": "margot riou",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "6th-/-7th",
+    "winner": "margot riou",
+    "loser": "linnea floser",
+    "match": "margot riou vs linnea floser",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "7th-/-8th",
+    "winner": "linnea floser",
+    "loser": "ekaterina kochkina",
+    "match": "linnea floser vs ekaterina kochkina",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "sanna mattsson",
+    "loser": "ekaterina kochkina",
+    "match": "sanna mattsson vs ekaterina kochkina",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "ekaterina kochkina",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs ekaterina kochkina",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "ekaterina kochkina",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs ekaterina kochkina",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "allie blecher",
+    "loser": "margot riou",
+    "match": "allie blecher vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "allie blecher",
+    "loser": "margot riou",
+    "match": "allie blecher vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "allie blecher",
+    "loser": "margot riou",
+    "match": "allie blecher vs margot riou",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "margot vennin vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "margot vennin vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "margot vennin vs marinella laaksonen",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "anne-claire le berre",
+    "loser": "linnea floser",
+    "match": "anne-claire le berre vs linnea floser",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "anne-claire le berre",
+    "loser": "linnea floser",
+    "match": "anne-claire le berre vs linnea floser",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "anne-claire le berre",
+    "loser": "linnea floser",
+    "match": "anne-claire le berre vs linnea floser",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "linnea floser",
+    "match": "pauline courtois vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "ekaterina kochkina",
+    "match": "pauline courtois vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "linnea floser",
+    "match": "marinella laaksonen vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "sanna mattsson",
+    "match": "marinella laaksonen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "ekaterina kochkina",
+    "match": "marinella laaksonen vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "margot riou",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "linnea floser",
+    "loser": "sanna mattsson",
+    "match": "linnea floser vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "ekaterina kochkina",
+    "loser": "linnea floser",
+    "match": "linnea floser vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "linnea floser",
+    "match": "linnea floser vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "linnea floser",
+    "match": "linnea floser vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "linnea floser",
+    "loser": "margot riou",
+    "match": "linnea floser vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "linnea floser",
+    "match": "linnea floser vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "sanna mattsson",
+    "loser": "ekaterina kochkina",
+    "match": "sanna mattsson vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "ekaterina kochkina",
+    "loser": "margot vennin",
+    "match": "ekaterina kochkina vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "margot vennin",
+    "match": "margot vennin vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "allie blecher",
+    "match": "margot vennin vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "anne-claire le berre",
+    "loser": "margot riou",
+    "match": "anne-claire le berre vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "allie blecher",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "allie blecher",
+    "match": "margot riou vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "linnea floser",
+    "match": "pauline courtois vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "ekaterina kochkina",
+    "match": "pauline courtois vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "anne-claire le berre",
+    "match": "pauline courtois vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "allie blecher",
+    "match": "pauline courtois vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "linnea floser",
+    "match": "marinella laaksonen vs linnea floser",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "sanna mattsson",
+    "match": "marinella laaksonen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "ekaterina kochkina",
+    "match": "marinella laaksonen vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "margot riou",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "sanna mattsson",
+    "loser": "linnea floser",
+    "match": "linnea floser vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "linnea floser",
+    "loser": "ekaterina kochkina",
+    "match": "linnea floser vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "linnea floser",
+    "match": "linnea floser vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "linnea floser",
+    "match": "linnea floser vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "linnea floser",
+    "loser": "margot riou",
+    "match": "linnea floser vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "linnea floser",
+    "match": "linnea floser vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "sanna mattsson",
+    "loser": "ekaterina kochkina",
+    "match": "sanna mattsson vs ekaterina kochkina",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "anne-claire le berre",
+    "match": "margot vennin vs anne-claire le berre",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "margot vennin",
+    "match": "margot vennin vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "margot riou",
+    "match": "anne-claire le berre vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "anne-claire le berre",
+    "loser": "allie blecher",
+    "match": "anne-claire le berre vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Bedanne's Cup",
+    "phase": "round-robin-1",
+    "winner": "allie blecher",
+    "loser": "margot riou",
+    "match": "margot riou vs allie blecher",
+    "race": 0
+  }
+]

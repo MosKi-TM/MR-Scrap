@@ -1,0 +1,170 @@
+[
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rfbyc - lachy gilmour",
+    "match": "rfbyc - lachy gilmour vs cyca - harry price",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "cyca - harry price",
+    "match": "rfbyc - lachy gilmour vs cyca - harry price",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rfbyc - lachy gilmour",
+    "match": "rfbyc - lachy gilmour vs cyca - harry price",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "cyca - harry price",
+    "loser": "rfbyc - lachy gilmour",
+    "match": "rfbyc - lachy gilmour vs cyca - harry price",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "dryc - chris weis",
+    "match": "byc - christophe killian vs dryc - chris weis",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "dryc - chris weis",
+    "match": "byc - christophe killian vs dryc - chris weis",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "dryc - chris weis",
+    "match": "rfbyc - lachy gilmour vs dryc - chris weis",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "dryc - chris weis",
+    "loser": "rfbyc - lachy gilmour",
+    "match": "rfbyc - lachy gilmour vs dryc - chris weis",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "dryc - chris weis",
+    "match": "rfbyc - lachy gilmour vs dryc - chris weis",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "dryc - chris weis",
+    "match": "rfbyc - lachy gilmour vs dryc - chris weis",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "byc - christophe killian",
+    "match": "byc - christophe killian vs cyca - harry price",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "byc - christophe killian",
+    "loser": "cyca - harry price",
+    "match": "byc - christophe killian vs cyca - harry price",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "byc - christophe killian",
+    "loser": "cyca - harry price",
+    "match": "byc - christophe killian vs cyca - harry price",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "byc - christophe killian",
+    "match": "byc - christophe killian vs cyca - harry price",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "cyca - harry price",
+    "loser": "byc - christophe killian",
+    "match": "byc - christophe killian vs cyca - harry price",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "rnzys - leonard fry",
+    "loser": "rsrnyc - annabel vose",
+    "match": "rnzys - leonard fry vs rsrnyc - annabel vose",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "rnzys - leonard fry",
+    "loser": "rsrnyc - annabel vose",
+    "match": "rnzys - leonard fry vs rsrnyc - annabel vose",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "rnzys - leonard fry",
+    "loser": "rsrnyc - annabel vose",
+    "match": "rnzys - leonard fry vs rsrnyc - annabel vose",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "sdyc - scott sinks",
+    "loser": "nhyc - jack thompson",
+    "match": "nhyc - jack thompson vs sdyc - scott sinks",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "sdyc - scott sinks",
+    "loser": "nhyc - jack thompson",
+    "match": "nhyc - jack thompson vs sdyc - scott sinks",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 49th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "sdyc - scott sinks",
+    "loser": "nhyc - jack thompson",
+    "match": "nhyc - jack thompson vs sdyc - scott sinks",
+    "race": 3
+  }
+]

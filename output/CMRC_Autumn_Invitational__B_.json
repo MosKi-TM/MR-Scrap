@@ -1,0 +1,202 @@
+[
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "maximillian soh",
+    "match": "maximillian soh vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "final",
+    "winner": "maximillian soh",
+    "loser": "don wilson",
+    "match": "maximillian soh vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "final",
+    "winner": "maximillian soh",
+    "loser": "don wilson",
+    "match": "maximillian soh vs don wilson",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "petit-final",
+    "winner": "nathan hollerbach",
+    "loser": "david storrs",
+    "match": "david storrs vs nathan hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "semi-final-1",
+    "winner": "maximillian soh",
+    "loser": "david storrs",
+    "match": "maximillian soh vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "semi-final-1",
+    "winner": "maximillian soh",
+    "loser": "david storrs",
+    "match": "maximillian soh vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "semi-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "don wilson",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-1",
+    "winner": "maximillian soh",
+    "loser": "jonathan hammond",
+    "match": "maximillian soh vs jonathan hammond",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-1",
+    "winner": "maximillian soh",
+    "loser": "jonathan hammond",
+    "match": "maximillian soh vs jonathan hammond",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-1",
+    "winner": "maximillian soh",
+    "loser": "jonathan hammond",
+    "match": "maximillian soh vs jonathan hammond",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-2",
+    "winner": "don wilson",
+    "loser": "matthew graham",
+    "match": "don wilson vs matthew graham",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-2",
+    "winner": "don wilson",
+    "loser": "matthew graham",
+    "match": "don wilson vs matthew graham",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-2",
+    "winner": "don wilson",
+    "loser": "matthew graham",
+    "match": "don wilson vs matthew graham",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "tyler rice",
+    "loser": "david storrs",
+    "match": "david storrs vs tyler rice",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "tyler rice",
+    "loser": "david storrs",
+    "match": "david storrs vs tyler rice",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "david storrs",
+    "loser": "tyler rice",
+    "match": "david storrs vs tyler rice",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "david storrs",
+    "loser": "tyler rice",
+    "match": "david storrs vs tyler rice",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "david storrs",
+    "loser": "tyler rice",
+    "match": "david storrs vs tyler rice",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "brendan kopp",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs brendan kopp",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "brendan kopp",
+    "match": "nathan hollerbach vs brendan kopp",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "brendan kopp",
+    "match": "nathan hollerbach vs brendan kopp",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "brendan kopp",
+    "match": "nathan hollerbach vs brendan kopp",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "brendan kopp",
+    "match": "nathan hollerbach vs brendan kopp",
+    "race": 5
+  }
+]

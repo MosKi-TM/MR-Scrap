@@ -1,0 +1,258 @@
+[
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "david storrs vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "david storrs vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "final",
+    "winner": "david storrs",
+    "loser": "chris steele",
+    "match": "david storrs vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "don wilson",
+    "match": "don wilson vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "don wilson",
+    "match": "don wilson vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "david storrs vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "david storrs vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "david storrs vs don wilson",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "sam gilmour",
+    "loser": "chris steele",
+    "match": "chris steele vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "sam gilmour",
+    "match": "chris steele vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "sam gilmour",
+    "match": "chris steele vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "sam gilmour",
+    "match": "chris steele vs sam gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "patrik sturesson",
+    "loser": "steven lowery",
+    "match": "patrik sturesson vs steven lowery",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "7th-/-8th",
+    "winner": "matthew jerwood",
+    "loser": "chris poole",
+    "match": "matthew jerwood vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "5th-to-8th-(a)",
+    "winner": "steven lowery",
+    "loser": "matthew jerwood",
+    "match": "matthew jerwood vs steven lowery",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "5th-to-8th-(b)",
+    "winner": "patrik sturesson",
+    "loser": "chris poole",
+    "match": "chris poole vs patrik sturesson",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "david storrs",
+    "loser": "steven lowery",
+    "match": "david storrs vs steven lowery",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "david storrs",
+    "loser": "steven lowery",
+    "match": "david storrs vs steven lowery",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "david storrs",
+    "loser": "steven lowery",
+    "match": "david storrs vs steven lowery",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "patrik sturesson",
+    "match": "chris steele vs patrik sturesson",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "patrik sturesson",
+    "match": "chris steele vs patrik sturesson",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "patrik sturesson",
+    "match": "chris steele vs patrik sturesson",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "chris poole",
+    "loser": "don wilson",
+    "match": "don wilson vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "chris poole",
+    "loser": "don wilson",
+    "match": "don wilson vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "chris poole",
+    "match": "don wilson vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "chris poole",
+    "match": "don wilson vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "chris poole",
+    "match": "don wilson vs chris poole",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "matthew jerwood",
+    "loser": "sam gilmour",
+    "match": "matthew jerwood vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "matthew jerwood",
+    "match": "matthew jerwood vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "matthew jerwood",
+    "loser": "sam gilmour",
+    "match": "matthew jerwood vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "matthew jerwood",
+    "match": "matthew jerwood vs sam gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "matthew jerwood",
+    "match": "matthew jerwood vs sam gilmour",
+    "race": 5
+  }
+]

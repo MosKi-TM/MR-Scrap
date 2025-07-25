@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Stanford University",
+    "loser": "University of Southern California",
+    "match": "Stanford University vs University of Southern California",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Stanford University",
+    "loser": "University of Hawaii",
+    "match": "Stanford University vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Stanford University",
+    "loser": "California State Maritime Academy",
+    "match": "Stanford University vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "University of Hawaii",
+    "loser": "University of Southern California",
+    "match": "University of Southern California vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "University of Southern California",
+    "loser": "California State Maritime Academy",
+    "match": "University of Southern California vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "University of Hawaii",
+    "loser": "California State Maritime Academy",
+    "match": "University of Hawaii vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Stanford University",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs Stanford University",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "University of Southern California",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs University of Southern California",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "University of Hawaii",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "California State Maritime Academy",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Stanford University",
+    "loser": "University of Southern California",
+    "match": "Stanford University vs University of Southern California",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Stanford University",
+    "loser": "University of Hawaii",
+    "match": "Stanford University vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Stanford University",
+    "loser": "California State Maritime Academy",
+    "match": "Stanford University vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "University of Hawaii",
+    "loser": "University of Southern California",
+    "match": "University of Southern California vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "University of Southern California",
+    "loser": "California State Maritime Academy",
+    "match": "University of Southern California vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "California State Maritime Academy",
+    "loser": "University of Hawaii",
+    "match": "University of Hawaii vs California State Maritime Academy",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Stanford University",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs Stanford University",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "University of Southern California",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs University of Southern California",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "University of California Berkeley",
+    "loser": "University of Hawaii",
+    "match": "University of California Berkeley vs University of Hawaii",
+    "race": 0
+  },
+  {
+    "regatta": "PCCSC Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "California State Maritime Academy",
+    "loser": "University of California Berkeley",
+    "match": "University of California Berkeley vs California State Maritime Academy",
+    "race": 0
+  }
+]

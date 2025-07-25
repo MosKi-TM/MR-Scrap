@@ -1,0 +1,378 @@
+[
+  {
+    "regatta": "Arafura Games",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "megan thomson",
+    "match": "james hodgson vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "megan thomson",
+    "match": "james hodgson vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "megan thomson",
+    "match": "james hodgson vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "petit-final",
+    "winner": "taramati mariwade",
+    "loser": "bryson carew",
+    "match": "bryson carew vs taramati mariwade",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "petit-final",
+    "winner": "taramati mariwade",
+    "loser": "bryson carew",
+    "match": "bryson carew vs taramati mariwade",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-1",
+    "winner": "megan thomson",
+    "loser": "taramati mariwade",
+    "match": "megan thomson vs taramati mariwade",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-1",
+    "winner": "megan thomson",
+    "loser": "taramati mariwade",
+    "match": "megan thomson vs taramati mariwade",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-1",
+    "winner": "megan thomson",
+    "loser": "taramati mariwade",
+    "match": "megan thomson vs taramati mariwade",
+    "race": 3
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "bryson carew",
+    "match": "bryson carew vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "bryson carew",
+    "match": "bryson carew vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "bryson carew",
+    "match": "bryson carew vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "5th-/-6th",
+    "winner": "graeme sergeant",
+    "loser": "finn niemeier",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "5th-/-6th",
+    "winner": "finn niemeier",
+    "loser": "graeme sergeant",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "5th-/-6th",
+    "winner": "finn niemeier",
+    "loser": "graeme sergeant",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 3
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "5th-/-6th",
+    "winner": "graeme sergeant",
+    "loser": "finn niemeier",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 4
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "5th-/-6th",
+    "winner": "finn niemeier",
+    "loser": "graeme sergeant",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 5
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "7th-/-8th",
+    "winner": "joe howe",
+    "loser": "tom vincent",
+    "match": "joe howe vs tom vincent",
+    "race": 1
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "7th-/-8th",
+    "winner": "joe howe",
+    "loser": "tom vincent",
+    "match": "joe howe vs tom vincent",
+    "race": 2
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "7th-/-8th",
+    "winner": "joe howe",
+    "loser": "tom vincent",
+    "match": "joe howe vs tom vincent",
+    "race": 3
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "megan thomson",
+    "match": "james hodgson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "joe howe",
+    "match": "james hodgson vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "tom vincent",
+    "match": "james hodgson vs tom vincent",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "taramati mariwade",
+    "match": "james hodgson vs taramati mariwade",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "finn niemeier",
+    "match": "james hodgson vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "graeme sergeant",
+    "match": "james hodgson vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "bryson carew",
+    "match": "james hodgson vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "joe howe",
+    "match": "megan thomson vs joe howe",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "tom vincent",
+    "match": "megan thomson vs tom vincent",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "taramati mariwade",
+    "match": "megan thomson vs taramati mariwade",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "finn niemeier",
+    "match": "megan thomson vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "graeme sergeant",
+    "match": "megan thomson vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "bryson carew",
+    "match": "megan thomson vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "joe howe",
+    "loser": "tom vincent",
+    "match": "joe howe vs tom vincent",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "taramati mariwade",
+    "loser": "joe howe",
+    "match": "joe howe vs taramati mariwade",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "finn niemeier",
+    "loser": "joe howe",
+    "match": "joe howe vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "graeme sergeant",
+    "loser": "joe howe",
+    "match": "joe howe vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "bryson carew",
+    "loser": "joe howe",
+    "match": "joe howe vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "taramati mariwade",
+    "loser": "tom vincent",
+    "match": "tom vincent vs taramati mariwade",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "finn niemeier",
+    "loser": "tom vincent",
+    "match": "tom vincent vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "tom vincent",
+    "loser": "graeme sergeant",
+    "match": "tom vincent vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "bryson carew",
+    "loser": "tom vincent",
+    "match": "tom vincent vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "taramati mariwade",
+    "loser": "finn niemeier",
+    "match": "taramati mariwade vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "taramati mariwade",
+    "loser": "graeme sergeant",
+    "match": "taramati mariwade vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "bryson carew",
+    "loser": "taramati mariwade",
+    "match": "taramati mariwade vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "finn niemeier",
+    "loser": "graeme sergeant",
+    "match": "finn niemeier vs graeme sergeant",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "bryson carew",
+    "loser": "finn niemeier",
+    "match": "finn niemeier vs bryson carew",
+    "race": 0
+  },
+  {
+    "regatta": "Arafura Games",
+    "phase": "round-robin",
+    "winner": "bryson carew",
+    "loser": "graeme sergeant",
+    "match": "graeme sergeant vs bryson carew",
+    "race": 0
+  }
+]

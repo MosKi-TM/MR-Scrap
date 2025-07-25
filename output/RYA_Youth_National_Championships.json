@@ -1,0 +1,370 @@
+[
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "final",
+    "winner": "robbie king",
+    "loser": "alex smallwood",
+    "match": "alex smallwood vs robbie king",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "final",
+    "winner": "alex smallwood",
+    "loser": "robbie king",
+    "match": "alex smallwood vs robbie king",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "final",
+    "winner": "robbie king",
+    "loser": "alex smallwood",
+    "match": "alex smallwood vs robbie king",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "final",
+    "winner": "robbie king",
+    "loser": "alex smallwood",
+    "match": "alex smallwood vs robbie king",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "petit-final",
+    "winner": "alaric bates",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alaric bates",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "petit-final",
+    "winner": "alaric bates",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alaric bates",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "alex smallwood",
+    "loser": "alaric bates",
+    "match": "alaric bates vs alex smallwood",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "alex smallwood",
+    "loser": "alaric bates",
+    "match": "alaric bates vs alex smallwood",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "alex smallwood",
+    "loser": "alaric bates",
+    "match": "alaric bates vs alex smallwood",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "dom lewis",
+    "loser": "rhys lewis",
+    "match": "dom lewis vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "dom lewis",
+    "loser": "emma robertson",
+    "match": "dom lewis vs emma robertson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "dom lewis",
+    "loser": "charlie whitaker",
+    "match": "dom lewis vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "rhys lewis",
+    "loser": "emma robertson",
+    "match": "rhys lewis vs emma robertson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "rhys lewis",
+    "loser": "charlie whitaker",
+    "match": "rhys lewis vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "5th-to-8th",
+    "winner": "emma robertson",
+    "loser": "charlie whitaker",
+    "match": "emma robertson vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "robbie king",
+    "match": "robbie king vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "robbie king",
+    "loser": "alex whitfield",
+    "match": "robbie king vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "emma robertson",
+    "loser": "robbie king",
+    "match": "robbie king vs emma robertson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "robbie king",
+    "loser": "dom lewis",
+    "match": "robbie king vs dom lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "robbie king",
+    "loser": "rhys lewis",
+    "match": "robbie king vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "robbie king",
+    "loser": "alex smallwood",
+    "match": "robbie king vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "robbie king",
+    "loser": "charlie whitaker",
+    "match": "robbie king vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "alex whitfield",
+    "match": "alaric bates vs alex whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "emma robertson",
+    "match": "alaric bates vs emma robertson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "dom lewis",
+    "match": "alaric bates vs dom lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "rhys lewis",
+    "loser": "alaric bates",
+    "match": "alaric bates vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "alex smallwood",
+    "match": "alaric bates vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alaric bates",
+    "loser": "charlie whitaker",
+    "match": "alaric bates vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "emma robertson",
+    "match": "alex whitfield vs emma robertson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "dom lewis",
+    "match": "alex whitfield vs dom lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "rhys lewis",
+    "match": "alex whitfield vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "alex smallwood",
+    "match": "alex whitfield vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex whitfield",
+    "loser": "charlie whitaker",
+    "match": "alex whitfield vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "dom lewis",
+    "loser": "emma robertson",
+    "match": "emma robertson vs dom lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "rhys lewis",
+    "loser": "emma robertson",
+    "match": "emma robertson vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex smallwood",
+    "loser": "emma robertson",
+    "match": "emma robertson vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "emma robertson",
+    "loser": "charlie whitaker",
+    "match": "emma robertson vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "dom lewis",
+    "loser": "rhys lewis",
+    "match": "dom lewis vs rhys lewis",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex smallwood",
+    "loser": "dom lewis",
+    "match": "dom lewis vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "dom lewis",
+    "loser": "charlie whitaker",
+    "match": "dom lewis vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex smallwood",
+    "loser": "rhys lewis",
+    "match": "rhys lewis vs alex smallwood",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "charlie whitaker",
+    "loser": "rhys lewis",
+    "match": "rhys lewis vs charlie whitaker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championships",
+    "phase": "round-robin",
+    "winner": "alex smallwood",
+    "loser": "charlie whitaker",
+    "match": "alex smallwood vs charlie whitaker",
+    "race": 0
+  }
+]

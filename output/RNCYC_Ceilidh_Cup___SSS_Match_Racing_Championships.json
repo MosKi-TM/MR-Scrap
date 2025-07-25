@@ -1,0 +1,290 @@
+[
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "final",
+    "winner": "balazs gecse",
+    "loser": "miles jones",
+    "match": "miles jones vs balazs gecse",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "final",
+    "winner": "miles jones",
+    "loser": "balazs gecse",
+    "match": "miles jones vs balazs gecse",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "final",
+    "winner": "balazs gecse",
+    "loser": "miles jones",
+    "match": "miles jones vs balazs gecse",
+    "race": 3
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "ali morrish",
+    "loser": "craig macdonald",
+    "match": "ali morrish vs craig macdonald",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "ali morrish",
+    "loser": "craig macdonald",
+    "match": "ali morrish vs craig macdonald",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "miles jones",
+    "loser": "craig macdonald",
+    "match": "miles jones vs craig macdonald",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "miles jones",
+    "loser": "craig macdonald",
+    "match": "miles jones vs craig macdonald",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "balazs gecse",
+    "loser": "ali morrish",
+    "match": "ali morrish vs balazs gecse",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "balazs gecse",
+    "loser": "ali morrish",
+    "match": "ali morrish vs balazs gecse",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "ellie cumpsty",
+    "match": "miles jones vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "balazs gecse",
+    "match": "miles jones vs balazs gecse",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "craig macdonald",
+    "match": "miles jones vs craig macdonald",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "hamish taylor",
+    "match": "miles jones vs hamish taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "iain walsingham",
+    "match": "miles jones vs iain walsingham",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "ali morrish",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "balazs gecse",
+    "match": "ali morrish vs balazs gecse",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "craig macdonald",
+    "match": "ali morrish vs craig macdonald",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "thomas goodman",
+    "match": "ali morrish vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "iain walsingham",
+    "match": "ali morrish vs iain walsingham",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "balazs gecse",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs balazs gecse",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "craig macdonald",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs craig macdonald",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "jake miller",
+    "match": "ellie cumpsty vs jake miller",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "hamish taylor",
+    "match": "ellie cumpsty vs hamish taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "iain walsingham",
+    "match": "ellie cumpsty vs iain walsingham",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "balazs gecse",
+    "loser": "craig macdonald",
+    "match": "balazs gecse vs craig macdonald",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "balazs gecse",
+    "loser": "thomas goodman",
+    "match": "balazs gecse vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "balazs gecse",
+    "loser": "jake miller",
+    "match": "balazs gecse vs jake miller",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "balazs gecse",
+    "loser": "hamish taylor",
+    "match": "balazs gecse vs hamish taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "craig macdonald",
+    "loser": "thomas goodman",
+    "match": "craig macdonald vs thomas goodman",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "craig macdonald",
+    "loser": "jake miller",
+    "match": "craig macdonald vs jake miller",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "craig macdonald",
+    "loser": "hamish taylor",
+    "match": "craig macdonald vs hamish taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "craig macdonald",
+    "loser": "iain walsingham",
+    "match": "craig macdonald vs iain walsingham",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas goodman",
+    "loser": "jake miller",
+    "match": "thomas goodman vs jake miller",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jake miller",
+    "loser": "hamish taylor",
+    "match": "jake miller vs hamish taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jake miller",
+    "loser": "iain walsingham",
+    "match": "jake miller vs iain walsingham",
+    "race": 0
+  }
+]

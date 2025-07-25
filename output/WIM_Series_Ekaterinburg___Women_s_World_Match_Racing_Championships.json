@@ -1,0 +1,210 @@
+[
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "pauline courtois",
+    "match": "lucy macgregor vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "pauline courtois",
+    "match": "lucy macgregor vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "pauline courtois",
+    "match": "lucy macgregor vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "trine palludan",
+    "loser": "alexa bezel",
+    "match": "trine palludan vs alexa bezel",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "trine palludan",
+    "loser": "alexa bezel",
+    "match": "trine palludan vs alexa bezel",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "alexa bezel",
+    "match": "lucy macgregor vs alexa bezel",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "alexa bezel",
+    "match": "lucy macgregor vs alexa bezel",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "alexa bezel",
+    "match": "lucy macgregor vs alexa bezel",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "alexa bezel",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs alexa bezel",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "alexa bezel",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs alexa bezel",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina kochkina",
+    "loser": "alexa bezel",
+    "match": "ekaterina kochkina vs alexa bezel",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "alexa bezel",
+    "loser": "ekaterina kochkina",
+    "match": "ekaterina kochkina vs alexa bezel",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "alexandra martynova",
+    "loser": "trine palludan",
+    "match": "trine palludan vs alexandra martynova",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "alexandra martynova",
+    "loser": "trine palludan",
+    "match": "trine palludan vs alexandra martynova",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "trine palludan",
+    "loser": "alexandra martynova",
+    "match": "trine palludan vs alexandra martynova",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "trine palludan",
+    "loser": "alexandra martynova",
+    "match": "trine palludan vs alexandra martynova",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "trine palludan",
+    "loser": "alexandra martynova",
+    "match": "trine palludan vs alexandra martynova",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "milena laverycheva",
+    "match": "pauline courtois vs milena laverycheva",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "milena laverycheva",
+    "match": "pauline courtois vs milena laverycheva",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "milena laverycheva",
+    "match": "pauline courtois vs milena laverycheva",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "marinella laaksonen",
+    "match": "lucy macgregor vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "marinella laaksonen",
+    "match": "lucy macgregor vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Ekaterinburg / Women's World Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "marinella laaksonen",
+    "match": "lucy macgregor vs marinella laaksonen",
+    "race": 3
+  }
+]

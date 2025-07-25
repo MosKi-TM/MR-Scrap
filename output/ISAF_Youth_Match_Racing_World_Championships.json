@@ -1,0 +1,234 @@
+[
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "joachim aschenbrenner",
+    "loser": "sam gilmour",
+    "match": "joachim aschenbrenner vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "joachim aschenbrenner",
+    "loser": "sam gilmour",
+    "match": "joachim aschenbrenner vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "joachim aschenbrenner",
+    "loser": "sam gilmour",
+    "match": "joachim aschenbrenner vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "nevin snow",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs nevin snow",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "nevin snow",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs nevin snow",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "pierre quiroga",
+    "match": "joachim aschenbrenner vs pierre quiroga",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "pierre quiroga",
+    "match": "joachim aschenbrenner vs pierre quiroga",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "pierre quiroga",
+    "match": "joachim aschenbrenner vs pierre quiroga",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "sam gilmour",
+    "loser": "nevin snow",
+    "match": "sam gilmour vs nevin snow",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "sam gilmour",
+    "loser": "nevin snow",
+    "match": "sam gilmour vs nevin snow",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "sam gilmour",
+    "loser": "nevin snow",
+    "match": "sam gilmour vs nevin snow",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "5th-/-6th",
+    "winner": "mark lees",
+    "loser": "valerio galati",
+    "match": "mark lees vs valerio galati",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "7th-/-8th",
+    "winner": "chris steele",
+    "loser": "tyler rice",
+    "match": "chris steele vs tyler rice",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "mark lees",
+    "loser": "chris steele",
+    "match": "chris steele vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "valerio galati",
+    "loser": "tyler rice",
+    "match": "valerio galati vs tyler rice",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "tyler rice",
+    "match": "joachim aschenbrenner vs tyler rice",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "tyler rice",
+    "match": "joachim aschenbrenner vs tyler rice",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "tyler rice",
+    "match": "joachim aschenbrenner vs tyler rice",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "sam gilmour",
+    "loser": "valerio galati",
+    "match": "sam gilmour vs valerio galati",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "sam gilmour",
+    "loser": "valerio galati",
+    "match": "sam gilmour vs valerio galati",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "valerio galati",
+    "loser": "sam gilmour",
+    "match": "sam gilmour vs valerio galati",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "sam gilmour",
+    "loser": "valerio galati",
+    "match": "sam gilmour vs valerio galati",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "nevin snow",
+    "loser": "chris steele",
+    "match": "chris steele vs nevin snow",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "nevin snow",
+    "loser": "chris steele",
+    "match": "chris steele vs nevin snow",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "nevin snow",
+    "match": "chris steele vs nevin snow",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "nevin snow",
+    "loser": "chris steele",
+    "match": "chris steele vs nevin snow",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "pierre quiroga",
+    "loser": "mark lees",
+    "match": "mark lees vs pierre quiroga",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "pierre quiroga",
+    "loser": "mark lees",
+    "match": "mark lees vs pierre quiroga",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "pierre quiroga",
+    "loser": "mark lees",
+    "match": "mark lees vs pierre quiroga",
+    "race": 3
+  }
+]

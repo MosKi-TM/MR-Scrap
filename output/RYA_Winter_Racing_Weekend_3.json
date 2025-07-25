@@ -1,0 +1,482 @@
+[
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "final",
+    "winner": "patrick crogan",
+    "loser": "ali morrish",
+    "match": "ali morrish vs patrick crogan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "final",
+    "winner": "patrick crogan",
+    "loser": "ali morrish",
+    "match": "ali morrish vs patrick crogan",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "petit-final",
+    "winner": "tom neilson",
+    "loser": "ian nicholls",
+    "match": "tom neilson vs ian nicholls",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "5th/6th",
+    "winner": "octavia owen",
+    "loser": "jude solomons",
+    "match": "octavia owen vs jude solomons",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "ali morrish vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "ali morrish",
+    "match": "ali morrish vs patrick crogan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "amelia fox",
+    "match": "ali morrish vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "tom neilson",
+    "match": "ali morrish vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "ian nicholls",
+    "match": "ali morrish vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "emily page",
+    "match": "ali morrish vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "jude solomons",
+    "match": "ali morrish vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "octavia owen",
+    "match": "octavia owen vs patrick crogan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "amelia fox",
+    "match": "octavia owen vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "tom neilson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ian nicholls",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "emily page",
+    "match": "octavia owen vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "jude solomons",
+    "match": "octavia owen vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "amelia fox",
+    "match": "patrick crogan vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "tom neilson",
+    "match": "patrick crogan vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "ian nicholls",
+    "match": "patrick crogan vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "emily page",
+    "match": "patrick crogan vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "patrick crogan",
+    "loser": "jude solomons",
+    "match": "patrick crogan vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "tom neilson",
+    "loser": "amelia fox",
+    "match": "amelia fox vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ian nicholls",
+    "loser": "amelia fox",
+    "match": "amelia fox vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "emily page",
+    "loser": "amelia fox",
+    "match": "amelia fox vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "amelia fox",
+    "loser": "jude solomons",
+    "match": "amelia fox vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "ian nicholls",
+    "loser": "tom neilson",
+    "match": "tom neilson vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "tom neilson",
+    "loser": "emily page",
+    "match": "tom neilson vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "tom neilson",
+    "loser": "jude solomons",
+    "match": "tom neilson vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "emily page",
+    "loser": "ian nicholls",
+    "match": "ian nicholls vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "jude solomons",
+    "loser": "ian nicholls",
+    "match": "ian nicholls vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-2",
+    "winner": "jude solomons",
+    "loser": "emily page",
+    "match": "emily page vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "ali morrish vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "patrick crogan",
+    "match": "ali morrish vs patrick crogan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "amelia fox",
+    "match": "ali morrish vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "tom neilson",
+    "match": "ali morrish vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "ian nicholls",
+    "match": "ali morrish vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "emily page",
+    "match": "ali morrish vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "jude solomons",
+    "match": "ali morrish vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "patrick crogan",
+    "loser": "octavia owen",
+    "match": "octavia owen vs patrick crogan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "amelia fox",
+    "match": "octavia owen vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "tom neilson",
+    "match": "octavia owen vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ian nicholls",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "emily page",
+    "match": "octavia owen vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "jude solomons",
+    "match": "octavia owen vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "patrick crogan",
+    "loser": "amelia fox",
+    "match": "patrick crogan vs amelia fox",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "tom neilson",
+    "loser": "patrick crogan",
+    "match": "patrick crogan vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "patrick crogan",
+    "loser": "ian nicholls",
+    "match": "patrick crogan vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "patrick crogan",
+    "loser": "emily page",
+    "match": "patrick crogan vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "patrick crogan",
+    "loser": "jude solomons",
+    "match": "patrick crogan vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "tom neilson",
+    "loser": "amelia fox",
+    "match": "amelia fox vs tom neilson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ian nicholls",
+    "loser": "amelia fox",
+    "match": "amelia fox vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "emily page",
+    "loser": "amelia fox",
+    "match": "amelia fox vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "amelia fox",
+    "loser": "jude solomons",
+    "match": "amelia fox vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "tom neilson",
+    "loser": "ian nicholls",
+    "match": "tom neilson vs ian nicholls",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "tom neilson",
+    "loser": "emily page",
+    "match": "tom neilson vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "tom neilson",
+    "loser": "jude solomons",
+    "match": "tom neilson vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ian nicholls",
+    "loser": "emily page",
+    "match": "ian nicholls vs emily page",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "ian nicholls",
+    "loser": "jude solomons",
+    "match": "ian nicholls vs jude solomons",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Winter Racing Weekend 3",
+    "phase": "round-robin-1",
+    "winner": "jude solomons",
+    "loser": "emily page",
+    "match": "emily page vs jude solomons",
+    "race": 0
+  }
+]

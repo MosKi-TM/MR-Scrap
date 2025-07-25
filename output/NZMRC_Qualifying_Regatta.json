@@ -1,0 +1,434 @@
+[
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "matt kelly",
+    "loser": "sam barnett",
+    "match": "sam barnett vs matt kelly",
+    "race": 1
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "matt kelly",
+    "loser": "sam barnett",
+    "match": "sam barnett vs matt kelly",
+    "race": 2
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "sam barnett vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "sam barnett vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "james wilson",
+    "loser": "matt kelly",
+    "match": "james wilson vs matt kelly",
+    "race": 1
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "matt kelly",
+    "loser": "james wilson",
+    "match": "james wilson vs matt kelly",
+    "race": 2
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "james wilson",
+    "loser": "matt kelly",
+    "match": "james wilson vs matt kelly",
+    "race": 3
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "patrick harris",
+    "match": "james wilson vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "james jennings",
+    "match": "james wilson vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "colman o'riordan",
+    "match": "james wilson vs colman o'riordan",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "matt kelly",
+    "match": "james wilson vs matt kelly",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "brad hooker",
+    "match": "james wilson vs brad hooker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "nick egnot-johnson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "james wilson",
+    "match": "james wilson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "alex mitchell-barker",
+    "match": "james wilson vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "alistair gifford",
+    "match": "james wilson vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "patrick harris",
+    "match": "patrick harris vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "colman o'riordan",
+    "match": "patrick harris vs colman o'riordan",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "patrick harris",
+    "match": "patrick harris vs matt kelly",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "brad hooker",
+    "match": "patrick harris vs brad hooker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "patrick harris",
+    "match": "patrick harris vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "sam barnett",
+    "match": "patrick harris vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "patrick harris",
+    "match": "patrick harris vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "alistair gifford",
+    "match": "patrick harris vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "colman o'riordan",
+    "match": "james jennings vs colman o'riordan",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "james jennings",
+    "match": "james jennings vs matt kelly",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "brad hooker",
+    "loser": "james jennings",
+    "match": "james jennings vs brad hooker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "nick egnot-johnson",
+    "match": "james jennings vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "james jennings",
+    "match": "james jennings vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "alex mitchell-barker",
+    "match": "james jennings vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "alistair gifford",
+    "match": "james jennings vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "colman o'riordan",
+    "match": "colman o'riordan vs matt kelly",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "colman o'riordan",
+    "loser": "brad hooker",
+    "match": "colman o'riordan vs brad hooker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "colman o'riordan",
+    "loser": "nick egnot-johnson",
+    "match": "colman o'riordan vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "colman o'riordan",
+    "match": "colman o'riordan vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "colman o'riordan",
+    "match": "colman o'riordan vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "colman o'riordan",
+    "loser": "alistair gifford",
+    "match": "colman o'riordan vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "brad hooker",
+    "match": "matt kelly vs brad hooker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "matt kelly",
+    "match": "matt kelly vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "matt kelly",
+    "match": "matt kelly vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "alex mitchell-barker",
+    "match": "matt kelly vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "matt kelly",
+    "loser": "alistair gifford",
+    "match": "matt kelly vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "brad hooker",
+    "match": "brad hooker vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "brad hooker",
+    "match": "brad hooker vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "brad hooker",
+    "match": "brad hooker vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "brad hooker",
+    "loser": "alistair gifford",
+    "match": "brad hooker vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "nick egnot-johnson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "alex mitchell-barker",
+    "match": "nick egnot-johnson vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "alistair gifford",
+    "match": "nick egnot-johnson vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "alex mitchell-barker",
+    "match": "sam barnett vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "sam barnett",
+    "loser": "alistair gifford",
+    "match": "sam barnett vs alistair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "NZMRC Qualifying Regatta",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "alistair gifford",
+    "match": "alex mitchell-barker vs alistair gifford",
+    "race": 0
+  }
+]

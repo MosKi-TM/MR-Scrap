@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "nicolai sehested",
+    "match": "taylor canfield vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "final",
+    "winner": "nicolai sehested",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs nicolai sehested",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "nicolai sehested",
+    "match": "taylor canfield vs nicolai sehested",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "petit-final",
+    "winner": "josh junior",
+    "loser": "jordan reece",
+    "match": "josh junior vs jordan reece",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "petit-final",
+    "winner": "josh junior",
+    "loser": "jordan reece",
+    "match": "josh junior vs jordan reece",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "josh junior",
+    "match": "taylor canfield vs josh junior",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "josh junior",
+    "match": "taylor canfield vs josh junior",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "josh junior",
+    "match": "taylor canfield vs josh junior",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "jordan reece",
+    "match": "nicolai sehested vs jordan reece",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-2",
+    "winner": "jordan reece",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs jordan reece",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "jordan reece",
+    "match": "nicolai sehested vs jordan reece",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC August Grade 2",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "jordan reece",
+    "match": "nicolai sehested vs jordan reece",
+    "race": 4
+  }
+]

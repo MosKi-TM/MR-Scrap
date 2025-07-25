@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "david dellenbaugh",
+    "match": "chris poole vs david dellenbaugh",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "david dellenbaugh",
+    "loser": "chris poole",
+    "match": "chris poole vs david dellenbaugh",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "david dellenbaugh",
+    "match": "chris poole vs david dellenbaugh",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "david dellenbaugh",
+    "match": "chris poole vs david dellenbaugh",
+    "race": 4
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "petit-final",
+    "winner": "clinton hayes",
+    "loser": "jack egan",
+    "match": "jack egan vs clinton hayes",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "petit-final",
+    "winner": "clinton hayes",
+    "loser": "jack egan",
+    "match": "jack egan vs clinton hayes",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "david dellenbaugh",
+    "loser": "jack egan",
+    "match": "david dellenbaugh vs jack egan",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "david dellenbaugh",
+    "loser": "jack egan",
+    "match": "david dellenbaugh vs jack egan",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "clinton hayes",
+    "match": "chris poole vs clinton hayes",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "clinton hayes",
+    "match": "chris poole vs clinton hayes",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "5th-/-6th",
+    "winner": "pearson potts",
+    "loser": "christopher weis",
+    "match": "christopher weis vs pearson potts",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "7th-/-8th",
+    "winner": "ryan seago",
+    "loser": "roberto stevens",
+    "match": "ryan seago vs roberto stevens",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "5th-to-8th-(a)",
+    "winner": "christopher weis",
+    "loser": "roberto stevens",
+    "match": "christopher weis vs roberto stevens",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "5th-to-8th-(b)",
+    "winner": "pearson potts",
+    "loser": "ryan seago",
+    "match": "pearson potts vs ryan seago",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "roberto stevens",
+    "match": "chris poole vs roberto stevens",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "roberto stevens",
+    "match": "chris poole vs roberto stevens",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "roberto stevens",
+    "match": "chris poole vs roberto stevens",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-2",
+    "winner": "david dellenbaugh",
+    "loser": "ryan seago",
+    "match": "david dellenbaugh vs ryan seago",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-2",
+    "winner": "ryan seago",
+    "loser": "david dellenbaugh",
+    "match": "david dellenbaugh vs ryan seago",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-2",
+    "winner": "david dellenbaugh",
+    "loser": "ryan seago",
+    "match": "david dellenbaugh vs ryan seago",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-3",
+    "winner": "clinton hayes",
+    "loser": "christopher weis",
+    "match": "christopher weis vs clinton hayes",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-3",
+    "winner": "christopher weis",
+    "loser": "clinton hayes",
+    "match": "christopher weis vs clinton hayes",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-3",
+    "winner": "clinton hayes",
+    "loser": "christopher weis",
+    "match": "christopher weis vs clinton hayes",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-4",
+    "winner": "pearson potts",
+    "loser": "jack egan",
+    "match": "jack egan vs pearson potts",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-4",
+    "winner": "jack egan",
+    "loser": "pearson potts",
+    "match": "jack egan vs pearson potts",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-4",
+    "winner": "jack egan",
+    "loser": "pearson potts",
+    "match": "jack egan vs pearson potts",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "nicole breault",
+    "match": "chris poole vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "christopher weis",
+    "match": "chris poole vs christopher weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "jack egan",
+    "match": "chris poole vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "peter wickwire",
+    "match": "chris poole vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "ryan seago",
+    "loser": "chris poole",
+    "match": "chris poole vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "roberto stevens",
+    "match": "chris poole vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "david dellenbaugh",
+    "match": "chris poole vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "clinton hayes",
+    "match": "chris poole vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "nicole breault",
+    "match": "nicole breault vs christopher weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "nicole breault",
+    "match": "nicole breault vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "peter wickwire",
+    "match": "nicole breault vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "pearson potts",
+    "match": "nicole breault vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "ryan seago",
+    "loser": "nicole breault",
+    "match": "nicole breault vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "roberto stevens",
+    "loser": "nicole breault",
+    "match": "nicole breault vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "nicole breault",
+    "match": "nicole breault vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "clinton hayes",
+    "loser": "nicole breault",
+    "match": "nicole breault vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "jack egan",
+    "match": "christopher weis vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "peter wickwire",
+    "match": "christopher weis vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "christopher weis",
+    "match": "christopher weis vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "ryan seago",
+    "match": "christopher weis vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "roberto stevens",
+    "match": "christopher weis vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "christopher weis",
+    "match": "christopher weis vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "christopher weis",
+    "loser": "clinton hayes",
+    "match": "christopher weis vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "peter wickwire",
+    "match": "jack egan vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "pearson potts",
+    "match": "jack egan vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "ryan seago",
+    "match": "jack egan vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "roberto stevens",
+    "loser": "jack egan",
+    "match": "jack egan vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "jack egan",
+    "match": "jack egan vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "clinton hayes",
+    "match": "jack egan vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "peter wickwire",
+    "match": "peter wickwire vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "ryan seago",
+    "loser": "peter wickwire",
+    "match": "peter wickwire vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "roberto stevens",
+    "loser": "peter wickwire",
+    "match": "peter wickwire vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "peter wickwire",
+    "match": "peter wickwire vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "peter wickwire",
+    "loser": "clinton hayes",
+    "match": "peter wickwire vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "ryan seago",
+    "match": "pearson potts vs ryan seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "roberto stevens",
+    "match": "pearson potts vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "david dellenbaugh",
+    "match": "pearson potts vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "clinton hayes",
+    "loser": "pearson potts",
+    "match": "pearson potts vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "ryan seago",
+    "loser": "roberto stevens",
+    "match": "ryan seago vs roberto stevens",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "ryan seago",
+    "match": "ryan seago vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "clinton hayes",
+    "loser": "ryan seago",
+    "match": "ryan seago vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "roberto stevens",
+    "match": "roberto stevens vs david dellenbaugh",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "clinton hayes",
+    "loser": "roberto stevens",
+    "match": "roberto stevens vs clinton hayes",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin-1",
+    "winner": "david dellenbaugh",
+    "loser": "clinton hayes",
+    "match": "david dellenbaugh vs clinton hayes",
+    "race": 0
+  }
+]

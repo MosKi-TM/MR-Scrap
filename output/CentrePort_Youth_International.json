@@ -1,0 +1,42 @@
+[
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "sarah parker",
+    "match": "george anyon vs sarah parker",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "sarah parker",
+    "match": "george anyon vs sarah parker",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "sarah parker",
+    "match": "george anyon vs sarah parker",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "petit-final",
+    "winner": "oakley marsh",
+    "loser": "eliza wilkinson",
+    "match": "eliza wilkinson vs oakley marsh",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "petit-final",
+    "winner": "oakley marsh",
+    "loser": "eliza wilkinson",
+    "match": "eliza wilkinson vs oakley marsh",
+    "race": 2
+  }
+]

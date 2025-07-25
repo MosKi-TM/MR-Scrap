@@ -1,0 +1,194 @@
+[
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "finals",
+    "winner": "camilla ulrikkeholm",
+    "loser": "stephanie hazard",
+    "match": "camilla ulrikkeholm vs stephanie hazard",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "finals",
+    "winner": "camilla ulrikkeholm",
+    "loser": "stephanie hazard",
+    "match": "camilla ulrikkeholm vs stephanie hazard",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "petit-final",
+    "winner": "renee groeneveld",
+    "loser": "sharon ferris",
+    "match": "renee groeneveld vs sharon ferris",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "sharon ferris",
+    "match": "camilla ulrikkeholm vs sharon ferris",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "sharon ferris",
+    "match": "camilla ulrikkeholm vs sharon ferris",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "sharon ferris",
+    "match": "camilla ulrikkeholm vs sharon ferris",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-2",
+    "winner": "stephanie hazard",
+    "loser": "renee groeneveld",
+    "match": "stephanie hazard vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-2",
+    "winner": "stephanie hazard",
+    "loser": "renee groeneveld",
+    "match": "stephanie hazard vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "stephanie hazard",
+    "match": "stephanie hazard vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "semi-final-2",
+    "winner": "stephanie hazard",
+    "loser": "renee groeneveld",
+    "match": "stephanie hazard vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "sharon ferris",
+    "loser": "ekaterina kutovaya",
+    "match": "sharon ferris vs ekaterina kutovaya",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "sharon ferris",
+    "loser": "ekaterina kutovaya",
+    "match": "sharon ferris vs ekaterina kutovaya",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina kutovaya",
+    "loser": "sharon ferris",
+    "match": "sharon ferris vs ekaterina kutovaya",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina kutovaya",
+    "loser": "sharon ferris",
+    "match": "sharon ferris vs ekaterina kutovaya",
+    "race": 4
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "sharon ferris",
+    "loser": "ekaterina kutovaya",
+    "match": "sharon ferris vs ekaterina kutovaya",
+    "race": 5
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "maiko sato",
+    "match": "renee groeneveld vs maiko sato",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "maiko sato",
+    "match": "renee groeneveld vs maiko sato",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "maiko sato",
+    "match": "renee groeneveld vs maiko sato",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "stephanie hazard",
+    "loser": "katarzyna pic",
+    "match": "stephanie hazard vs katarzyna pic",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "stephanie hazard",
+    "loser": "katarzyna pic",
+    "match": "stephanie hazard vs katarzyna pic",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "stephanie hazard",
+    "loser": "katarzyna pic",
+    "match": "stephanie hazard vs katarzyna pic",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "clara scheiwiller",
+    "match": "camilla ulrikkeholm vs clara scheiwiller",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "clara scheiwiller",
+    "match": "camilla ulrikkeholm vs clara scheiwiller",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Cup Women's International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "camilla ulrikkeholm",
+    "loser": "clara scheiwiller",
+    "match": "camilla ulrikkeholm vs clara scheiwiller",
+    "race": 3
+  }
+]

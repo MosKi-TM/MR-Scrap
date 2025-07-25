@@ -1,0 +1,130 @@
+[
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "camilla ulrikkeholm",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "petit-final",
+    "winner": "anna kjellberg",
+    "loser": "claire leroy",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "anna kjellberg",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "petit-final",
+    "winner": "anna kjellberg",
+    "loser": "claire leroy",
+    "match": "claire leroy vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lucy macgregor",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "claire leroy",
+    "match": "claire leroy vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "camilla ulrikkeholm",
+    "match": "claire leroy vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "claire leroy",
+    "match": "claire leroy vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "claire leroy",
+    "match": "claire leroy vs camilla ulrikkeholm",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Final - Lysekil Women's Match",
+    "phase": "9th/10th",
+    "winner": "alexa bezel",
+    "loser": "claudia pierce",
+    "match": "claudia pierce vs alexa bezel",
+    "race": 1
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "lea richter vogelius",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "lea richter vogelius",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "lea richter vogelius",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "petit-final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "petit-final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm",
+    "match": "anna ostling vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm",
+    "match": "anna ostling vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm",
+    "match": "anna ostling vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs lea richter vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "kristine mauritzen",
+    "loser": "lea richter vogelius",
+    "match": "kristine mauritzen vs lea richter vogelius",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs lea richter vogelius",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "semi-final-2",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs lea richter vogelius",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "5th-/-6th",
+    "winner": "julia aartsen",
+    "loser": "celia willison",
+    "match": "julia aartsen vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "6th-/-7th",
+    "winner": "julia aartsen",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs julia aartsen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "7th-/-8th",
+    "winner": "juliet costanzo",
+    "loser": "brooke wilson",
+    "match": "juliet costanzo vs brooke wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "lea richter vogelius",
+    "loser": "anna ostling",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "juliet costanzo",
+    "match": "anna ostling vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "kristine mauritzen",
+    "loser": "anna ostling",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm",
+    "match": "anna ostling vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "lea richter vogelius",
+    "loser": "celia willison",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "juliet costanzo",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "julia aartsen",
+    "match": "celia willison vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "camilla ulrikkeholm",
+    "match": "celia willison vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "lea richter vogelius",
+    "loser": "juliet costanzo",
+    "match": "lea richter vogelius vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "julia aartsen",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "lea richter vogelius",
+    "loser": "brooke wilson",
+    "match": "lea richter vogelius vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "lea richter vogelius vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "julia aartsen",
+    "match": "juliet costanzo vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "kristine mauritzen",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "julia aartsen",
+    "loser": "brooke wilson",
+    "match": "julia aartsen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "kristine mauritzen",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "julia aartsen",
+    "loser": "camilla ulrikkeholm",
+    "match": "julia aartsen vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "kristine mauritzen",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "lea richter vogelius",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "juliet costanzo",
+    "match": "anna ostling vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anna ostling",
+    "match": "anna ostling vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "celia willison",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "julia aartsen",
+    "loser": "celia willison",
+    "match": "celia willison vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "kristine mauritzen",
+    "loser": "celia willison",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "celia willison",
+    "match": "celia willison vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "juliet costanzo",
+    "match": "lea richter vogelius vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "julia aartsen",
+    "match": "lea richter vogelius vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "brooke wilson",
+    "match": "lea richter vogelius vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "lea richter vogelius vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "lea richter vogelius",
+    "loser": "camilla ulrikkeholm",
+    "match": "lea richter vogelius vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "julia aartsen",
+    "match": "juliet costanzo vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "kristine mauritzen",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "julia aartsen",
+    "loser": "kristine mauritzen",
+    "match": "julia aartsen vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "kristine mauritzen",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs camilla ulrikkeholm",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – KDY Women's Match Race Denmark",
+    "phase": "round-robin-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs camilla ulrikkeholm",
+    "race": 0
+  }
+]

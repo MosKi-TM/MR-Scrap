@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "finals",
+    "winner": "don wilson",
+    "loser": "tyler rice",
+    "match": "don wilson vs tyler rice",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "finals",
+    "winner": "don wilson",
+    "loser": "tyler rice",
+    "match": "don wilson vs tyler rice",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "finals",
+    "winner": "tyler rice",
+    "loser": "don wilson",
+    "match": "don wilson vs tyler rice",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "finals",
+    "winner": "don wilson",
+    "loser": "tyler rice",
+    "match": "don wilson vs tyler rice",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "petit-finals",
+    "winner": "val smith",
+    "loser": "wataru sakamoto",
+    "match": "wataru sakamoto vs val smith",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "petit-finals",
+    "winner": "val smith",
+    "loser": "wataru sakamoto",
+    "match": "wataru sakamoto vs val smith",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "petit-finals",
+    "winner": "wataru sakamoto",
+    "loser": "val smith",
+    "match": "wataru sakamoto vs val smith",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "petit-finals",
+    "winner": "val smith",
+    "loser": "wataru sakamoto",
+    "match": "wataru sakamoto vs val smith",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-1",
+    "winner": "tyler rice",
+    "loser": "wataru sakamoto",
+    "match": "tyler rice vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-1",
+    "winner": "tyler rice",
+    "loser": "wataru sakamoto",
+    "match": "tyler rice vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-1",
+    "winner": "tyler rice",
+    "loser": "wataru sakamoto",
+    "match": "tyler rice vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "val smith",
+    "match": "don wilson vs val smith",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "val smith",
+    "match": "don wilson vs val smith",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "val smith",
+    "match": "don wilson vs val smith",
+    "race": 3
+  }
+]

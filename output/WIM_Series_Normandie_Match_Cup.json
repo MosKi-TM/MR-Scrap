@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "margot vennin vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "margot vennin vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "marie bjorling",
+    "loser": "lea richer vogelius",
+    "match": "marie bjorling vs lea richer vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "6th-/-7th",
+    "winner": "lea richer vogelius",
+    "loser": "margot riou",
+    "match": "lea richer vogelius vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "7th-/-8th",
+    "winner": "margot riou",
+    "loser": "chloe le bars",
+    "match": "margot riou vs chloe le bars",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling",
+    "match": "pauline courtois vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "chloe le bars",
+    "match": "pauline courtois vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "lea richer vogelius",
+    "match": "pauline courtois vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonen",
+    "match": "anna ostling vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "marie bjorling",
+    "match": "anna ostling vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "chloe le bars",
+    "match": "anna ostling vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "lea richer vogelius",
+    "match": "anna ostling vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "margot riou",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "marie bjorling",
+    "match": "marinella laaksonen vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonen",
+    "loser": "chloe le bars",
+    "match": "marinella laaksonen vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "lea richer vogelius",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "margot vennin",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "marie bjorling",
+    "match": "margot vennin vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "chloe le bars",
+    "match": "margot vennin vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot vennin",
+    "loser": "lea richer vogelius",
+    "match": "margot vennin vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "marie bjorling",
+    "loser": "margot riou",
+    "match": "margot riou vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "chloe le bars",
+    "match": "margot riou vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "lea richer vogelius",
+    "loser": "margot riou",
+    "match": "margot riou vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "chloe le bars",
+    "loser": "marie bjorling",
+    "match": "marie bjorling vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "marie bjorling",
+    "loser": "lea richer vogelius",
+    "match": "marie bjorling vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-2",
+    "winner": "chloe le bars",
+    "loser": "lea richer vogelius",
+    "match": "chloe le bars vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling",
+    "match": "pauline courtois vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "chloe le bars",
+    "match": "pauline courtois vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "lea richer vogelius",
+    "match": "pauline courtois vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonen",
+    "match": "anna ostling vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marie bjorling",
+    "loser": "anna ostling",
+    "match": "anna ostling vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "chloe le bars",
+    "match": "anna ostling vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "lea richer vogelius",
+    "loser": "anna ostling",
+    "match": "anna ostling vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "marie bjorling",
+    "match": "marinella laaksonen vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "chloe le bars",
+    "match": "marinella laaksonen vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonen",
+    "loser": "lea richer vogelius",
+    "match": "marinella laaksonen vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "margot riou",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marie bjorling",
+    "loser": "margot vennin",
+    "match": "margot vennin vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "chloe le bars",
+    "match": "margot vennin vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot vennin",
+    "loser": "lea richer vogelius",
+    "match": "margot vennin vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "marie bjorling",
+    "loser": "margot riou",
+    "match": "margot riou vs marie bjorling",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "chloe le bars",
+    "match": "margot riou vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "lea richer vogelius",
+    "match": "margot riou vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "chloe le bars",
+    "loser": "marie bjorling",
+    "match": "marie bjorling vs chloe le bars",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "lea richer vogelius",
+    "loser": "marie bjorling",
+    "match": "marie bjorling vs lea richer vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIM Series Normandie Match Cup",
+    "phase": "round-robin-1",
+    "winner": "lea richer vogelius",
+    "loser": "chloe le bars",
+    "match": "chloe le bars vs lea richer vogelius",
+    "race": 0
+  }
+]

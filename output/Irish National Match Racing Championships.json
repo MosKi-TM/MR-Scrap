@@ -1,0 +1,314 @@
+[
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "final",
+    "winner": "Tom Higgins",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Tom Higgins",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "final",
+    "winner": "Tom Higgins",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Tom Higgins",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Sam Hunt",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Mícheál Ó'Súilleabháin vs Sam Hunt",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Sam Hunt",
+    "match": "Mícheál Ó'Súilleabháin vs Sam Hunt",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Sam Hunt",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Mícheál Ó'Súilleabháin vs Sam Hunt",
+    "race": 3
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Ruairi Finnegan vs Mícheál Ó'Súilleabháin",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Mícheál Ó'Súilleabháin",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Ruairi Finnegan",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Ruairi Finnegan vs Mícheál Ó'Súilleabháin",
+    "race": 3
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Tom Higgins",
+    "loser": "Sam Hunt",
+    "match": "Tom Higgins vs Sam Hunt",
+    "race": 1
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Sam Hunt",
+    "loser": "Tom Higgins",
+    "match": "Tom Higgins vs Sam Hunt",
+    "race": 2
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Tom Higgins",
+    "loser": "Sam Hunt",
+    "match": "Tom Higgins vs Sam Hunt",
+    "race": 3
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Diana Kissane",
+    "match": "Jamie McMahon vs Diana Kissane",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Sam Hunt",
+    "loser": "Jamie McMahon",
+    "match": "Jamie McMahon vs Sam Hunt",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Ruairi Finnegan",
+    "match": "Jamie McMahon vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Jamie McMahon",
+    "loser": "Oisin Cullen",
+    "match": "Jamie McMahon vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Jamie McMahon",
+    "match": "Jamie McMahon vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Jamie McMahon",
+    "match": "Jamie McMahon vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Sam Hunt",
+    "loser": "Diana Kissane",
+    "match": "Diana Kissane vs Sam Hunt",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Diana Kissane",
+    "match": "Diana Kissane vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Diana Kissane",
+    "match": "Diana Kissane vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Diana Kissane",
+    "match": "Diana Kissane vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Diana Kissane",
+    "match": "Diana Kissane vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Sam Hunt",
+    "match": "Sam Hunt vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Oisin Cullen",
+    "loser": "Sam Hunt",
+    "match": "Sam Hunt vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Sam Hunt",
+    "loser": "Dan Little",
+    "match": "Sam Hunt vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Sam Hunt",
+    "loser": "Tom Higgins",
+    "match": "Sam Hunt vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Oisin Cullen",
+    "match": "Ruairi Finnegan vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Tom Higgins",
+    "match": "Ruairi Finnegan vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Dan Little",
+    "loser": "Oisin Cullen",
+    "match": "Oisin Cullen vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Oisin Cullen",
+    "match": "Oisin Cullen vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Dan Little",
+    "match": "Dan Little vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Jamie McMahon",
+    "match": "Mícheál Ó'Súilleabháin vs Jamie McMahon",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Diana Kissane",
+    "match": "Mícheál Ó'Súilleabháin vs Diana Kissane",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Sam Hunt",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Mícheál Ó'Súilleabháin vs Sam Hunt",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Mícheál Ó'Súilleabháin",
+    "match": "Mícheál Ó'Súilleabháin vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Oisin Cullen",
+    "match": "Mícheál Ó'Súilleabháin vs Oisin Cullen",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Dan Little",
+    "match": "Mícheál Ó'Súilleabháin vs Dan Little",
+    "race": 0
+  },
+  {
+    "regatta": "Irish National Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Mícheál Ó'Súilleabháin",
+    "loser": "Tom Higgins",
+    "match": "Mícheál Ó'Súilleabháin vs Tom Higgins",
+    "race": 0
+  }
+]

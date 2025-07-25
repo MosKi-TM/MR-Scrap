@@ -1,0 +1,74 @@
+[
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "petit-final",
+    "winner": "terry mclaughlin",
+    "loser": "sam rogers",
+    "match": "terry mclaughlin vs sam rogers",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "petit-final",
+    "winner": "terry mclaughlin",
+    "loser": "sam rogers",
+    "match": "terry mclaughlin vs sam rogers",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "terry mclaughlin",
+    "match": "don wilson vs terry mclaughlin",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "terry mclaughlin",
+    "match": "don wilson vs terry mclaughlin",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "semi-final-2",
+    "winner": "sam rogers",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs sam rogers",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "semi-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "sam rogers",
+    "match": "nathan hollerbach vs sam rogers",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC 100th Richardson Trophy",
+    "phase": "semi-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "sam rogers",
+    "match": "nathan hollerbach vs sam rogers",
+    "race": 3
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "milly bennett",
+    "loser": "clare costanzo",
+    "match": "milly bennett vs clare costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "clare costanzo",
+    "loser": "milly bennett",
+    "match": "milly bennett vs clare costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "milly bennett",
+    "loser": "clare costanzo",
+    "match": "milly bennett vs clare costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "clare costanzo",
+    "loser": "milly bennett",
+    "match": "milly bennett vs clare costanzo",
+    "race": 4
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "milly bennett",
+    "loser": "clare costanzo",
+    "match": "milly bennett vs clare costanzo",
+    "race": 5
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "sarah parker",
+    "loser": "lauren gallaway",
+    "match": "sarah parker vs lauren gallaway",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "lauren gallaway",
+    "loser": "sarah parker",
+    "match": "sarah parker vs lauren gallaway",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "sarah parker",
+    "loser": "lauren gallaway",
+    "match": "sarah parker vs lauren gallaway",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "sarah parker",
+    "match": "clare costanzo vs sarah parker",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "sarah parker",
+    "match": "clare costanzo vs sarah parker",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "clare costanzo",
+    "loser": "sarah parker",
+    "match": "clare costanzo vs sarah parker",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "milly bennett",
+    "loser": "lauren gallaway",
+    "match": "milly bennett vs lauren gallaway",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "milly bennett",
+    "loser": "lauren gallaway",
+    "match": "milly bennett vs lauren gallaway",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "milly bennett",
+    "loser": "lauren gallaway",
+    "match": "milly bennett vs lauren gallaway",
+    "race": 3
+  }
+]

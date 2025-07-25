@@ -1,0 +1,322 @@
+[
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "final",
+    "winner": "oli hale",
+    "loser": "juliette kennedy",
+    "match": "oli hale vs juliette kennedy",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "final",
+    "winner": "juliette kennedy",
+    "loser": "oli hale",
+    "match": "oli hale vs juliette kennedy",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "final",
+    "winner": "juliette kennedy",
+    "loser": "oli hale",
+    "match": "oli hale vs juliette kennedy",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "petit-final",
+    "winner": "cryus ledru",
+    "loser": "ollie leeson",
+    "match": "cryus ledru vs ollie leeson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "petit-final",
+    "winner": "cryus ledru",
+    "loser": "ollie leeson",
+    "match": "cryus ledru vs ollie leeson",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "semi-final-1",
+    "winner": "oli hale",
+    "loser": "ollie leeson",
+    "match": "oli hale vs ollie leeson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "semi-final-1",
+    "winner": "oli hale",
+    "loser": "ollie leeson",
+    "match": "oli hale vs ollie leeson",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "semi-final-2",
+    "winner": "juliette kennedy",
+    "loser": "cryus ledru",
+    "match": "cryus ledru vs juliette kennedy",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "semi-final-2",
+    "winner": "juliette kennedy",
+    "loser": "cryus ledru",
+    "match": "cryus ledru vs juliette kennedy",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "semi-final-2",
+    "winner": "juliette kennedy",
+    "loser": "cryus ledru",
+    "match": "cryus ledru vs juliette kennedy",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "oli hale",
+    "loser": "juliette kennedy",
+    "match": "oli hale vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "oli hale",
+    "loser": "ollie leeson",
+    "match": "oli hale vs ollie leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "oli hale",
+    "loser": "toby bush",
+    "match": "oli hale vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "oli hale",
+    "loser": "cryus ledru",
+    "match": "oli hale vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "oli hale",
+    "loser": "leo yates",
+    "match": "oli hale vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "juliette kennedy",
+    "loser": "ollie leeson",
+    "match": "juliette kennedy vs ollie leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "juliette kennedy",
+    "loser": "toby bush",
+    "match": "juliette kennedy vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "cryus ledru",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "juliette kennedy",
+    "loser": "leo yates",
+    "match": "juliette kennedy vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "ollie leeson",
+    "loser": "toby bush",
+    "match": "ollie leeson vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "ollie leeson",
+    "loser": "cryus ledru",
+    "match": "ollie leeson vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "ollie leeson",
+    "loser": "leo yates",
+    "match": "ollie leeson vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "cryus ledru",
+    "loser": "toby bush",
+    "match": "toby bush vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "leo yates",
+    "loser": "toby bush",
+    "match": "toby bush vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-2",
+    "winner": "cryus ledru",
+    "loser": "leo yates",
+    "match": "cryus ledru vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "oli hale",
+    "loser": "juliette kennedy",
+    "match": "oli hale vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "oli hale",
+    "loser": "ollie leeson",
+    "match": "oli hale vs ollie leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "oli hale",
+    "loser": "toby bush",
+    "match": "oli hale vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "oli hale",
+    "loser": "cryus ledru",
+    "match": "oli hale vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "oli hale",
+    "loser": "leo yates",
+    "match": "oli hale vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "juliette kennedy",
+    "loser": "ollie leeson",
+    "match": "juliette kennedy vs ollie leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "toby bush",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "juliette kennedy",
+    "loser": "cryus ledru",
+    "match": "juliette kennedy vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "juliette kennedy",
+    "loser": "leo yates",
+    "match": "juliette kennedy vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "toby bush",
+    "loser": "ollie leeson",
+    "match": "ollie leeson vs toby bush",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "cryus ledru",
+    "loser": "ollie leeson",
+    "match": "ollie leeson vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "ollie leeson",
+    "loser": "leo yates",
+    "match": "ollie leeson vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "cryus ledru",
+    "loser": "toby bush",
+    "match": "toby bush vs cryus ledru",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "leo yates",
+    "loser": "toby bush",
+    "match": "toby bush vs leo yates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 5",
+    "phase": "round-robin-1",
+    "winner": "cryus ledru",
+    "loser": "leo yates",
+    "match": "cryus ledru vs leo yates",
+    "race": 0
+  }
+]

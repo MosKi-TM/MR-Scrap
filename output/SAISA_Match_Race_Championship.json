@@ -1,0 +1,370 @@
+[
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "final",
+    "winner": "charleston cougars",
+    "loser": "south florida bulls",
+    "match": "charleston cougars vs south florida bulls",
+    "race": 1
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "final",
+    "winner": "charleston cougars",
+    "loser": "south florida bulls",
+    "match": "charleston cougars vs south florida bulls",
+    "race": 2
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "final",
+    "winner": "charleston cougars",
+    "loser": "south florida bulls",
+    "match": "charleston cougars vs south florida bulls",
+    "race": 3
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "petit-final",
+    "winner": "jacksonville fins",
+    "loser": "miami hurricanes",
+    "match": "miami hurricanes vs jacksonville fins",
+    "race": 1
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "petit-final",
+    "winner": "jacksonville fins",
+    "loser": "miami hurricanes",
+    "match": "miami hurricanes vs jacksonville fins",
+    "race": 2
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "south florida bulls",
+    "loser": "miami hurricanes",
+    "match": "miami hurricanes vs south florida bulls",
+    "race": 1
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "miami hurricanes",
+    "loser": "south florida bulls",
+    "match": "miami hurricanes vs south florida bulls",
+    "race": 2
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "south florida bulls",
+    "loser": "miami hurricanes",
+    "match": "miami hurricanes vs south florida bulls",
+    "race": 3
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "charleston cougars",
+    "loser": "jacksonville fins",
+    "match": "jacksonville fins vs charleston cougars",
+    "race": 1
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "charleston cougars",
+    "loser": "jacksonville fins",
+    "match": "jacksonville fins vs charleston cougars",
+    "race": 2
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "charleston cougars",
+    "match": "charleston cougars vs jacksonville fins",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "miami hurricanes",
+    "match": "charleston cougars vs miami hurricanes",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "nc state wolfpack",
+    "match": "charleston cougars vs nc state wolfpack",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "florida tech panthers",
+    "match": "charleston cougars vs florida tech panthers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "charleston cougars",
+    "match": "charleston cougars vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "citadel bulldogs",
+    "match": "charleston cougars vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "georgia tech yellow jackets",
+    "match": "charleston cougars vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "clemson tigers",
+    "match": "charleston cougars vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "jacksonville fins",
+    "match": "jacksonville fins vs miami hurricanes",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "nc state wolfpack",
+    "match": "jacksonville fins vs nc state wolfpack",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "florida tech panthers",
+    "match": "jacksonville fins vs florida tech panthers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "south florida bulls",
+    "match": "jacksonville fins vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "citadel bulldogs",
+    "match": "jacksonville fins vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "georgia tech yellow jackets",
+    "match": "jacksonville fins vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "jacksonville fins",
+    "loser": "clemson tigers",
+    "match": "jacksonville fins vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "nc state wolfpack",
+    "match": "miami hurricanes vs nc state wolfpack",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "florida tech panthers",
+    "match": "miami hurricanes vs florida tech panthers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "south florida bulls",
+    "match": "miami hurricanes vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "citadel bulldogs",
+    "match": "miami hurricanes vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "georgia tech yellow jackets",
+    "match": "miami hurricanes vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "miami hurricanes",
+    "loser": "clemson tigers",
+    "match": "miami hurricanes vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "nc state wolfpack",
+    "loser": "florida tech panthers",
+    "match": "nc state wolfpack vs florida tech panthers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "nc state wolfpack",
+    "loser": "south florida bulls",
+    "match": "nc state wolfpack vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "nc state wolfpack",
+    "loser": "citadel bulldogs",
+    "match": "nc state wolfpack vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "nc state wolfpack",
+    "loser": "georgia tech yellow jackets",
+    "match": "nc state wolfpack vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "clemson tigers",
+    "loser": "nc state wolfpack",
+    "match": "nc state wolfpack vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "florida tech panthers",
+    "match": "florida tech panthers vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "citadel bulldogs",
+    "loser": "florida tech panthers",
+    "match": "florida tech panthers vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "georgia tech yellow jackets",
+    "loser": "florida tech panthers",
+    "match": "florida tech panthers vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "clemson tigers",
+    "loser": "florida tech panthers",
+    "match": "florida tech panthers vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "citadel bulldogs",
+    "match": "south florida bulls vs citadel bulldogs",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "georgia tech yellow jackets",
+    "match": "south florida bulls vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "clemson tigers",
+    "match": "south florida bulls vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "citadel bulldogs",
+    "loser": "georgia tech yellow jackets",
+    "match": "citadel bulldogs vs georgia tech yellow jackets",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "clemson tigers",
+    "loser": "citadel bulldogs",
+    "match": "citadel bulldogs vs clemson tigers",
+    "race": 0
+  },
+  {
+    "regatta": "SAISA Match Race Championship",
+    "phase": "round-robin",
+    "winner": "clemson tigers",
+    "loser": "georgia tech yellow jackets",
+    "match": "georgia tech yellow jackets vs clemson tigers",
+    "race": 0
+  }
+]

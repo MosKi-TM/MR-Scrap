@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "final",
+    "winner": "lolly vasilion",
+    "loser": "nicole campbell",
+    "match": "nicole campbell vs lolly vasilion",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "final",
+    "winner": "lolly vasilion",
+    "loser": "nicole campbell",
+    "match": "nicole campbell vs lolly vasilion",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "petit-final",
+    "winner": "katia dasilva",
+    "loser": "gloria kevliciute",
+    "match": "gloria kevliciute vs katia dasilva",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "petit-final",
+    "winner": "gloria kevliciute",
+    "loser": "katia dasilva",
+    "match": "gloria kevliciute vs katia dasilva",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "petit-final",
+    "winner": "katia dasilva",
+    "loser": "gloria kevliciute",
+    "match": "gloria kevliciute vs katia dasilva",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "semi-final-1",
+    "winner": "nicole campbell",
+    "loser": "gloria kevliciute",
+    "match": "nicole campbell vs gloria kevliciute",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "semi-final-1",
+    "winner": "nicole campbell",
+    "loser": "gloria kevliciute",
+    "match": "nicole campbell vs gloria kevliciute",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "semi-final-2",
+    "winner": "lolly vasilion",
+    "loser": "katia dasilva",
+    "match": "lolly vasilion vs katia dasilva",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "semi-final-2",
+    "winner": "lolly vasilion",
+    "loser": "katia dasilva",
+    "match": "lolly vasilion vs katia dasilva",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "5th-/-6th",
+    "winner": "bridget groble",
+    "loser": "marilyn cassedy",
+    "match": "marilyn cassedy vs bridget groble",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "7th-/-8th",
+    "winner": "cara vavolotis",
+    "loser": "amy baxter",
+    "match": "cara vavolotis vs amy baxter",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "5th-to-8th-(a)",
+    "winner": "marilyn cassedy",
+    "loser": "cara vavolotis",
+    "match": "cara vavolotis vs marilyn cassedy",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "5th-to-8th-(a)",
+    "winner": "marilyn cassedy",
+    "loser": "cara vavolotis",
+    "match": "cara vavolotis vs marilyn cassedy",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "5th-to-8th-(b)",
+    "winner": "bridget groble",
+    "loser": "amy baxter",
+    "match": "bridget groble vs amy baxter",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "5th-to-8th-(b)",
+    "winner": "bridget groble",
+    "loser": "amy baxter",
+    "match": "bridget groble vs amy baxter",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "katia dasilva",
+    "loser": "amy baxter",
+    "match": "katia dasilva vs amy baxter",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "katia dasilva",
+    "match": "katia dasilva vs nicole campbell",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "katia dasilva",
+    "loser": "marilyn cassedy",
+    "match": "katia dasilva vs marilyn cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "katia dasilva",
+    "match": "katia dasilva vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "katia dasilva",
+    "loser": "gloria kevliciute",
+    "match": "katia dasilva vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "lolly vasilion",
+    "loser": "katia dasilva",
+    "match": "katia dasilva vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "katia dasilva",
+    "loser": "cara vavolotis",
+    "match": "katia dasilva vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "amy baxter",
+    "match": "amy baxter vs nicole campbell",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "amy baxter",
+    "loser": "marilyn cassedy",
+    "match": "amy baxter vs marilyn cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "amy baxter",
+    "match": "amy baxter vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "amy baxter",
+    "match": "amy baxter vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "amy baxter",
+    "loser": "lolly vasilion",
+    "match": "amy baxter vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "cara vavolotis",
+    "loser": "amy baxter",
+    "match": "amy baxter vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "marilyn cassedy",
+    "match": "nicole campbell vs marilyn cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "nicole campbell",
+    "match": "nicole campbell vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "gloria kevliciute",
+    "match": "nicole campbell vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "lolly vasilion",
+    "match": "nicole campbell vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "nicole campbell",
+    "loser": "cara vavolotis",
+    "match": "nicole campbell vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "marilyn cassedy",
+    "loser": "bridget groble",
+    "match": "marilyn cassedy vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "marilyn cassedy",
+    "match": "marilyn cassedy vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "lolly vasilion",
+    "loser": "marilyn cassedy",
+    "match": "marilyn cassedy vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "cara vavolotis",
+    "loser": "marilyn cassedy",
+    "match": "marilyn cassedy vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "bridget groble",
+    "match": "bridget groble vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "lolly vasilion",
+    "loser": "bridget groble",
+    "match": "bridget groble vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "cara vavolotis",
+    "loser": "bridget groble",
+    "match": "bridget groble vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "lolly vasilion",
+    "match": "gloria kevliciute vs lolly vasilion",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "cara vavolotis",
+    "match": "gloria kevliciute vs cara vavolotis",
+    "race": 0
+  },
+  {
+    "regatta": "CMRC Spring Invitational (Female Skipper)",
+    "phase": "round-robin",
+    "winner": "lolly vasilion",
+    "loser": "cara vavolotis",
+    "match": "lolly vasilion vs cara vavolotis",
+    "race": 0
+  }
+]

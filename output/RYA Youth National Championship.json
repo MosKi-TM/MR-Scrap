@@ -1,0 +1,674 @@
+[
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "Jamie Tylecote",
+    "loser": "Fred Salter",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "Fred Salter",
+    "loser": "Jamie Tylecote",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "Jamie Tylecote",
+    "loser": "Fred Salter",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "Fred Salter",
+    "loser": "Jamie Tylecote",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "Fred Salter",
+    "loser": "Jamie Tylecote",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 5
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "petit-final",
+    "winner": "Oli Hale",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Oli Hale",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "petit-final",
+    "winner": "Oli Hale",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Oli Hale",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "Jamie Tylecote",
+    "loser": "Oli Hale",
+    "match": "Jamie Tylecote vs Oli Hale",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "Jamie Tylecote",
+    "loser": "Oli Hale",
+    "match": "Jamie Tylecote vs Oli Hale",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "Fred Salter",
+    "loser": "Heather Quinn",
+    "match": "Fred Salter vs Heather Quinn",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "Heather Quinn",
+    "loser": "Fred Salter",
+    "match": "Fred Salter vs Heather Quinn",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "Fred Salter",
+    "loser": "Heather Quinn",
+    "match": "Fred Salter vs Heather Quinn",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "5th-/-6th",
+    "winner": "Harry Rowlands",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Harry Rowlands",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "6th-/-7th",
+    "winner": "Harry Rowlands",
+    "loser": "Eve Kennedy",
+    "match": "Harry Rowlands vs Eve Kennedy",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "7th-/-8th",
+    "winner": "Eve Kennedy",
+    "loser": "Harry Sims",
+    "match": "Eve Kennedy vs Harry Sims",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "9th-/-10th",
+    "winner": "Merryn Attridge",
+    "loser": "Ollie Leeson",
+    "match": "Merryn Attridge vs Ollie Leeson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "10th-/-11th",
+    "winner": "Ollie Leeson",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Ollie Leeson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "11th-/-12th",
+    "winner": "Ollie Leeson",
+    "loser": "Natasha Baker",
+    "match": "Ollie Leeson vs Natasha Baker",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Oli Hale",
+    "match": "Heather Quinn vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Harry Sims",
+    "match": "Heather Quinn vs Harry Sims",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Ollie Leeson",
+    "match": "Heather Quinn vs Ollie Leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Amber Hale",
+    "match": "Heather Quinn vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Ellen Morley",
+    "match": "Heather Quinn vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Eve Kennedy",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Harry Rowlands",
+    "match": "Heather Quinn vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "Fred Salter",
+    "match": "Heather Quinn vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Harry Sims",
+    "match": "Oli Hale vs Harry Sims",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Ollie Leeson",
+    "match": "Oli Hale vs Ollie Leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Amber Hale",
+    "match": "Oli Hale vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Ellen Morley",
+    "match": "Oli Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Natasha Baker",
+    "match": "Oli Hale vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Eve Kennedy",
+    "match": "Oli Hale vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Oli Hale",
+    "match": "Oli Hale vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Fred Salter",
+    "match": "Oli Hale vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Oli Hale",
+    "match": "Oli Hale vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Ollie Leeson",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Ollie Leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Sims",
+    "loser": "Amber Hale",
+    "match": "Harry Sims vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Ellen Morley",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Eve Kennedy",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Sims",
+    "loser": "Fred Salter",
+    "match": "Harry Sims vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Harry Sims",
+    "match": "Harry Sims vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Amber Hale",
+    "loser": "Ollie Leeson",
+    "match": "Ollie Leeson vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Ollie Leeson",
+    "loser": "Ellen Morley",
+    "match": "Ollie Leeson vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Ollie Leeson",
+    "loser": "Natasha Baker",
+    "match": "Ollie Leeson vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Eve Kennedy",
+    "loser": "Ollie Leeson",
+    "match": "Ollie Leeson vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Ollie Leeson",
+    "match": "Ollie Leeson vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Ollie Leeson",
+    "match": "Ollie Leeson vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Ollie Leeson",
+    "match": "Ollie Leeson vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Amber Hale",
+    "loser": "Ellen Morley",
+    "match": "Amber Hale vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Amber Hale",
+    "loser": "Natasha Baker",
+    "match": "Amber Hale vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Amber Hale",
+    "loser": "Eve Kennedy",
+    "match": "Amber Hale vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Ellen Morley",
+    "loser": "Eve Kennedy",
+    "match": "Ellen Morley vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Fred Salter",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Ellen Morley",
+    "match": "Ellen Morley vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Eve Kennedy",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Fred Salter",
+    "match": "Natasha Baker vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Eve Kennedy",
+    "match": "Eve Kennedy vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Eve Kennedy",
+    "loser": "Fred Salter",
+    "match": "Eve Kennedy vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Eve Kennedy",
+    "match": "Eve Kennedy vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Harry Rowlands",
+    "loser": "Fred Salter",
+    "match": "Harry Rowlands vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Harry Rowlands",
+    "match": "Harry Rowlands vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Merryn Attridge",
+    "loser": "Fred Salter",
+    "match": "Fred Salter vs Merryn Attridge",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Heather Quinn",
+    "match": "Jamie Tylecote vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Oli Hale",
+    "match": "Jamie Tylecote vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Harry Sims",
+    "match": "Jamie Tylecote vs Harry Sims",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Ollie Leeson",
+    "match": "Jamie Tylecote vs Ollie Leeson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Amber Hale",
+    "match": "Jamie Tylecote vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Ellen Morley",
+    "match": "Jamie Tylecote vs Ellen Morley",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Natasha Baker",
+    "match": "Jamie Tylecote vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Eve Kennedy",
+    "match": "Jamie Tylecote vs Eve Kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Harry Rowlands",
+    "match": "Jamie Tylecote vs Harry Rowlands",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Fred Salter",
+    "match": "Jamie Tylecote vs Fred Salter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin",
+    "winner": "Jamie Tylecote",
+    "loser": "Merryn Attridge",
+    "match": "Jamie Tylecote vs Merryn Attridge",
+    "race": 0
+  }
+]

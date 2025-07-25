@@ -1,0 +1,586 @@
+[
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "oakley marsh",
+    "loser": "nick egnot-johnson",
+    "match": "oakley marsh vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "oakley marsh",
+    "loser": "nick egnot-johnson",
+    "match": "oakley marsh vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "oakley marsh",
+    "loser": "nick egnot-johnson",
+    "match": "oakley marsh vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "sam barnett",
+    "loser": "callum radford",
+    "match": "sam barnett vs callum radford",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "callum radford",
+    "loser": "sam barnett",
+    "match": "sam barnett vs callum radford",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "sam barnett",
+    "loser": "callum radford",
+    "match": "sam barnett vs callum radford",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "oakley marsh",
+    "loser": "callum radford",
+    "match": "oakley marsh vs callum radford",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "callum radford",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs callum radford",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "oakley marsh",
+    "loser": "callum radford",
+    "match": "oakley marsh vs callum radford",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "nick egnot-johnson vs sam barnett",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "nick egnot-johnson vs sam barnett",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "lachlan grimwade",
+    "loser": "patrick harris",
+    "match": "patrick harris vs lachlan grimwade",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "lachlan grimwade",
+    "loser": "patrick harris",
+    "match": "patrick harris vs lachlan grimwade",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "jack bunce",
+    "loser": "xanthe copeland",
+    "match": "xanthe copeland vs jack bunce",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "xanthe copeland",
+    "loser": "jack bunce",
+    "match": "xanthe copeland vs jack bunce",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "xanthe copeland",
+    "loser": "jack bunce",
+    "match": "xanthe copeland vs jack bunce",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "patrick harris",
+    "match": "nick egnot-johnson vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "nick egnot-johnson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "callum radford",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "lachlan grimwade",
+    "match": "nick egnot-johnson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "jack bunce",
+    "match": "nick egnot-johnson vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "xanthe copeland",
+    "match": "nick egnot-johnson vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "patrick harris",
+    "match": "patrick harris vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "patrick harris",
+    "match": "patrick harris vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "callum radford",
+    "loser": "patrick harris",
+    "match": "patrick harris vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "patrick harris",
+    "loser": "lachlan grimwade",
+    "match": "patrick harris vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "patrick harris",
+    "loser": "jack bunce",
+    "match": "patrick harris vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "patrick harris",
+    "loser": "xanthe copeland",
+    "match": "patrick harris vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "callum radford",
+    "match": "oakley marsh vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "lachlan grimwade",
+    "match": "oakley marsh vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "jack bunce",
+    "match": "oakley marsh vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "xanthe copeland",
+    "match": "oakley marsh vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "callum radford",
+    "match": "sam barnett vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "lachlan grimwade",
+    "match": "sam barnett vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "jack bunce",
+    "match": "sam barnett vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "xanthe copeland",
+    "match": "sam barnett vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "callum radford",
+    "loser": "lachlan grimwade",
+    "match": "callum radford vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "callum radford",
+    "loser": "jack bunce",
+    "match": "callum radford vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "callum radford",
+    "loser": "xanthe copeland",
+    "match": "callum radford vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "jack bunce",
+    "match": "lachlan grimwade vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "xanthe copeland",
+    "match": "lachlan grimwade vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xanthe copeland",
+    "loser": "jack bunce",
+    "match": "jack bunce vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick harris",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "sam barnett",
+    "match": "nick egnot-johnson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "callum radford",
+    "match": "nick egnot-johnson vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "lachlan grimwade",
+    "match": "nick egnot-johnson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "jack bunce",
+    "match": "nick egnot-johnson vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "xanthe copeland",
+    "match": "nick egnot-johnson vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "patrick harris",
+    "match": "patrick harris vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "patrick harris",
+    "match": "patrick harris vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "callum radford",
+    "loser": "patrick harris",
+    "match": "patrick harris vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick harris",
+    "loser": "lachlan grimwade",
+    "match": "patrick harris vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick harris",
+    "loser": "jack bunce",
+    "match": "patrick harris vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "patrick harris",
+    "loser": "xanthe copeland",
+    "match": "patrick harris vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "sam barnett",
+    "match": "oakley marsh vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "callum radford",
+    "match": "oakley marsh vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "lachlan grimwade",
+    "match": "oakley marsh vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "jack bunce",
+    "match": "oakley marsh vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "xanthe copeland",
+    "match": "oakley marsh vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "callum radford",
+    "loser": "sam barnett",
+    "match": "sam barnett vs callum radford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "lachlan grimwade",
+    "loser": "sam barnett",
+    "match": "sam barnett vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "jack bunce",
+    "match": "sam barnett vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "xanthe copeland",
+    "match": "sam barnett vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "lachlan grimwade",
+    "loser": "callum radford",
+    "match": "callum radford vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jack bunce",
+    "loser": "callum radford",
+    "match": "callum radford vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "callum radford",
+    "loser": "xanthe copeland",
+    "match": "callum radford vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "lachlan grimwade",
+    "loser": "jack bunce",
+    "match": "lachlan grimwade vs jack bunce",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "lachlan grimwade",
+    "loser": "xanthe copeland",
+    "match": "lachlan grimwade vs xanthe copeland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xanthe copeland",
+    "loser": "jack bunce",
+    "match": "jack bunce vs xanthe copeland",
+    "race": 0
+  }
+]

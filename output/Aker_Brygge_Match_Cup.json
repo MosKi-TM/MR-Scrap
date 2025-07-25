@@ -1,0 +1,66 @@
+[
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "final",
+    "winner": "victor ogeman",
+    "loser": "mark lees",
+    "match": "victor ogeman vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "final",
+    "winner": "victor ogeman",
+    "loser": "mark lees",
+    "match": "victor ogeman vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "petit-final",
+    "winner": "halvor friisk",
+    "loser": "julien granier",
+    "match": "halvor friisk vs julien granier",
+    "race": 1
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "petit-final",
+    "winner": "halvor friisk",
+    "loser": "julien granier",
+    "match": "halvor friisk vs julien granier",
+    "race": 2
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "semi-final-1",
+    "winner": "victor ogeman",
+    "loser": "julien granier",
+    "match": "victor ogeman vs julien granier",
+    "race": 1
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "semi-final-1",
+    "winner": "victor ogeman",
+    "loser": "julien granier",
+    "match": "victor ogeman vs julien granier",
+    "race": 2
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "semi-final-2",
+    "winner": "mark lees",
+    "loser": "halvor friisk",
+    "match": "halvor friisk vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "Aker Brygge Match Cup",
+    "phase": "semi-final-2",
+    "winner": "mark lees",
+    "loser": "halvor friisk",
+    "match": "halvor friisk vs mark lees",
+    "race": 2
+  }
+]

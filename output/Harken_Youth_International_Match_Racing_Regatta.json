@@ -1,0 +1,490 @@
+[
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "jordan stevenson",
+    "match": "nick egnot-johnson vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "robbie mccutcheon",
+    "loser": "albert stanley",
+    "match": "robbie mccutcheon vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "albert stanley",
+    "match": "nick egnot-johnson vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "jordan stevenson",
+    "loser": "robbie mccutcheon",
+    "match": "jordan stevenson vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "megan thomson",
+    "loser": "albert stanley",
+    "match": "albert stanley vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "albert stanley",
+    "loser": "megan thomson",
+    "match": "albert stanley vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "albert stanley",
+    "loser": "megan thomson",
+    "match": "albert stanley vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "robbie mccutcheon",
+    "loser": "will wright",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "robbie mccutcheon",
+    "loser": "will wright",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "robbie mccutcheon",
+    "loser": "will wright",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "jordan stevenson",
+    "loser": "celia willison",
+    "match": "jordan stevenson vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "celia willison",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "jordan stevenson",
+    "loser": "celia willison",
+    "match": "jordan stevenson vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "jordan stevenson",
+    "match": "nick egnot-johnson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "celia willison",
+    "match": "nick egnot-johnson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "albert stanley",
+    "match": "nick egnot-johnson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "will wright",
+    "match": "nick egnot-johnson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "ella willcox",
+    "match": "nick egnot-johnson vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "megan thomson",
+    "match": "jordan stevenson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "robbie mccutcheon",
+    "match": "jordan stevenson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "celia willison",
+    "match": "jordan stevenson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "albert stanley",
+    "match": "jordan stevenson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "max mclachlan",
+    "match": "jordan stevenson vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "will wright",
+    "match": "jordan stevenson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "josh hyde",
+    "match": "jordan stevenson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "ella willcox",
+    "match": "jordan stevenson vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "megan thomson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "albert stanley",
+    "match": "megan thomson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max mclachlan",
+    "loser": "megan thomson",
+    "match": "megan thomson vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will wright",
+    "loser": "megan thomson",
+    "match": "megan thomson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "ella willcox",
+    "match": "megan thomson vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "celia willison",
+    "match": "robbie mccutcheon vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "max mclachlan",
+    "match": "robbie mccutcheon vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "will wright",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "ella willcox",
+    "match": "robbie mccutcheon vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "albert stanley",
+    "match": "celia willison vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "max mclachlan",
+    "match": "celia willison vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "will wright",
+    "match": "celia willison vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "celia willison",
+    "match": "celia willison vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "ella willcox",
+    "match": "celia willison vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "max mclachlan",
+    "match": "albert stanley vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "will wright",
+    "match": "albert stanley vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "josh hyde",
+    "match": "albert stanley vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "ella willcox",
+    "match": "albert stanley vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will wright",
+    "loser": "max mclachlan",
+    "match": "max mclachlan vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max mclachlan",
+    "loser": "josh hyde",
+    "match": "max mclachlan vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max mclachlan",
+    "loser": "ella willcox",
+    "match": "max mclachlan vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will wright",
+    "loser": "josh hyde",
+    "match": "will wright vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will wright",
+    "loser": "ella willcox",
+    "match": "will wright vs ella willcox",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "ella willcox",
+    "match": "josh hyde vs ella willcox",
+    "race": 0
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "final",
+    "winner": "marinella laaksonen",
+    "loser": "martina karlemo",
+    "match": "marinella laaksonen vs martina karlemo",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "final",
+    "winner": "martina karlemo",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs martina karlemo",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "final",
+    "winner": "marinella laaksonen",
+    "loser": "martina karlemo",
+    "match": "marinella laaksonen vs martina karlemo",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "final",
+    "winner": "marinella laaksonen",
+    "loser": "martina karlemo",
+    "match": "marinella laaksonen vs martina karlemo",
+    "race": 4
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "petit-final",
+    "winner": "susanna kukkonen",
+    "loser": "antonia degerlund",
+    "match": "antonia degerlund vs susanna kukkonen",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "petit-final",
+    "winner": "susanna kukkonen",
+    "loser": "antonia degerlund",
+    "match": "antonia degerlund vs susanna kukkonen",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-1",
+    "winner": "marinella laaksonen",
+    "loser": "antonia degerlund",
+    "match": "marinella laaksonen vs antonia degerlund",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-1",
+    "winner": "marinella laaksonen",
+    "loser": "antonia degerlund",
+    "match": "marinella laaksonen vs antonia degerlund",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-1",
+    "winner": "marinella laaksonen",
+    "loser": "antonia degerlund",
+    "match": "marinella laaksonen vs antonia degerlund",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "susanna kukkonen",
+    "loser": "martina karlemo",
+    "match": "martina karlemo vs susanna kukkonen",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "martina karlemo",
+    "loser": "susanna kukkonen",
+    "match": "martina karlemo vs susanna kukkonen",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "martina karlemo",
+    "loser": "susanna kukkonen",
+    "match": "martina karlemo vs susanna kukkonen",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "semi-final-2",
+    "winner": "martina karlemo",
+    "loser": "susanna kukkonen",
+    "match": "martina karlemo vs susanna kukkonen",
+    "race": 4
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-1",
+    "winner": "martina karlemo",
+    "loser": "linnea floser",
+    "match": "martina karlemo vs linnea floser",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-1",
+    "winner": "linnea floser",
+    "loser": "martina karlemo",
+    "match": "martina karlemo vs linnea floser",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-1",
+    "winner": "martina karlemo",
+    "loser": "linnea floser",
+    "match": "martina karlemo vs linnea floser",
+    "race": 3
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-2",
+    "winner": "antonia degerlund",
+    "loser": "jassi skogman",
+    "match": "antonia degerlund vs jassi skogman",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-2",
+    "winner": "antonia degerlund",
+    "loser": "jassi skogman",
+    "match": "antonia degerlund vs jassi skogman",
+    "race": 2
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-3",
+    "winner": "susanna kukkonen",
+    "loser": "sanna mattsson",
+    "match": "susanna kukkonen vs sanna mattsson",
+    "race": 1
+  },
+  {
+    "regatta": "Finnish Women's National Championships",
+    "phase": "quarter-final-3",
+    "winner": "susanna kukkonen",
+    "loser": "sanna mattsson",
+    "match": "susanna kukkonen vs sanna mattsson",
+    "race": 2
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "ethan fong vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "ethan fong vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "ethan fong vs josh hyde",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "petit-final",
+    "winner": "noah malpot",
+    "loser": "samuel scott",
+    "match": "samuel scott vs noah malpot",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "petit-final",
+    "winner": "samuel scott",
+    "loser": "noah malpot",
+    "match": "samuel scott vs noah malpot",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "petit-final",
+    "winner": "noah malpot",
+    "loser": "samuel scott",
+    "match": "samuel scott vs noah malpot",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-1",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-1",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-1",
+    "winner": "samuel scott",
+    "loser": "josh hyde",
+    "match": "josh hyde vs samuel scott",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-1",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-2",
+    "winner": "ethan fong",
+    "loser": "noah malpot",
+    "match": "ethan fong vs noah malpot",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-2",
+    "winner": "ethan fong",
+    "loser": "noah malpot",
+    "match": "ethan fong vs noah malpot",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "semi-final-2",
+    "winner": "ethan fong",
+    "loser": "noah malpot",
+    "match": "ethan fong vs noah malpot",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "sam clarke",
+    "loser": "charley cates",
+    "match": "charley cates vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "charley cates",
+    "loser": "robbie wooldridge",
+    "match": "charley cates vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "charley cates",
+    "loser": "wilbur stanley",
+    "match": "charley cates vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "sam clarke",
+    "loser": "robbie wooldridge",
+    "match": "sam clarke vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "sam clarke",
+    "loser": "wilbur stanley",
+    "match": "sam clarke vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr2",
+    "winner": "robbie wooldridge",
+    "loser": "wilbur stanley",
+    "match": "robbie wooldridge vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "sam clarke",
+    "loser": "charley cates",
+    "match": "charley cates vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "robbie wooldridge",
+    "loser": "charley cates",
+    "match": "charley cates vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "charley cates",
+    "loser": "wilbur stanley",
+    "match": "charley cates vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "robbie wooldridge",
+    "loser": "sam clarke",
+    "match": "sam clarke vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "sam clarke",
+    "loser": "wilbur stanley",
+    "match": "sam clarke vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "5th-to-8th-rr1",
+    "winner": "robbie wooldridge",
+    "loser": "wilbur stanley",
+    "match": "robbie wooldridge vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "noah malpot",
+    "loser": "josh hyde",
+    "match": "josh hyde vs noah malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "charley cates",
+    "match": "josh hyde vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "sam clarke",
+    "match": "josh hyde vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "wilbur stanley",
+    "match": "josh hyde vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "robbie wooldridge",
+    "match": "josh hyde vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "noah malpot",
+    "match": "ethan fong vs noah malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "samuel scott",
+    "match": "ethan fong vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "charley cates",
+    "match": "ethan fong vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "sam clarke",
+    "match": "ethan fong vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "wilbur stanley",
+    "match": "ethan fong vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "ethan fong",
+    "loser": "robbie wooldridge",
+    "match": "ethan fong vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "samuel scott",
+    "loser": "noah malpot",
+    "match": "noah malpot vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "noah malpot",
+    "loser": "charley cates",
+    "match": "noah malpot vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "noah malpot",
+    "loser": "sam clarke",
+    "match": "noah malpot vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "noah malpot",
+    "loser": "wilbur stanley",
+    "match": "noah malpot vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "noah malpot",
+    "loser": "robbie wooldridge",
+    "match": "noah malpot vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "samuel scott",
+    "loser": "charley cates",
+    "match": "samuel scott vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "samuel scott",
+    "loser": "sam clarke",
+    "match": "samuel scott vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "samuel scott",
+    "loser": "wilbur stanley",
+    "match": "samuel scott vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "samuel scott",
+    "match": "samuel scott vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "charley cates",
+    "loser": "sam clarke",
+    "match": "charley cates vs sam clarke",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "charley cates",
+    "loser": "wilbur stanley",
+    "match": "charley cates vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "charley cates",
+    "loser": "robbie wooldridge",
+    "match": "charley cates vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "sam clarke",
+    "loser": "wilbur stanley",
+    "match": "sam clarke vs wilbur stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "sam clarke",
+    "loser": "robbie wooldridge",
+    "match": "sam clarke vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth Worlds Trials",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "wilbur stanley",
+    "match": "wilbur stanley vs robbie wooldridge",
+    "race": 0
+  }
+]

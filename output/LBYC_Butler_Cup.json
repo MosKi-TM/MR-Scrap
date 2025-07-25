@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-4",
+    "winner": "jeffrey petersen",
+    "loser": "dave hood",
+    "match": "jeffrey petersen vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-4",
+    "winner": "terry mclaughlin",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-4",
+    "winner": "dave hood",
+    "loser": "terry mclaughlin",
+    "match": "dave hood vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-3",
+    "winner": "jeffrey petersen",
+    "loser": "dave hood",
+    "match": "jeffrey petersen vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-3",
+    "winner": "terry mclaughlin",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-3",
+    "winner": "dave hood",
+    "loser": "terry mclaughlin",
+    "match": "dave hood vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "dave hood",
+    "match": "jeffrey petersen vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "terry mclaughlin",
+    "match": "jeffrey petersen vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-2",
+    "winner": "terry mclaughlin",
+    "loser": "dave hood",
+    "match": "dave hood vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "dave hood",
+    "match": "jeffrey petersen vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "terry mclaughlin",
+    "match": "jeffrey petersen vs terry mclaughlin",
+    "race": 0
+  },
+  {
+    "regatta": "LBYC Butler Cup",
+    "phase": "round-robin-1",
+    "winner": "terry mclaughlin",
+    "loser": "dave hood",
+    "match": "dave hood vs terry mclaughlin",
+    "race": 0
+  }
+]

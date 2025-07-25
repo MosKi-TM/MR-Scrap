@@ -1,0 +1,722 @@
+[
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "final",
+    "winner": "daniel kemp",
+    "loser": "josh hyde",
+    "match": "daniel kemp vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs josh hyde",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs josh hyde",
+    "race": 4
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "ethan fong",
+    "loser": "rory sims",
+    "match": "rory sims vs ethan fong",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "rory sims",
+    "loser": "ethan fong",
+    "match": "rory sims vs ethan fong",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "rory sims",
+    "loser": "ethan fong",
+    "match": "rory sims vs ethan fong",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "josh hyde",
+    "loser": "rory sims",
+    "match": "josh hyde vs rory sims",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "josh hyde",
+    "loser": "rory sims",
+    "match": "josh hyde vs rory sims",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "josh hyde",
+    "loser": "rory sims",
+    "match": "josh hyde vs rory sims",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "xavier mclachlan",
+    "loser": "hayden smith",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "xavier mclachlan",
+    "loser": "hayden smith",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "ella arnold",
+    "loser": "sam scott",
+    "match": "ella arnold vs sam scott",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "sam scott",
+    "loser": "ella arnold",
+    "match": "ella arnold vs sam scott",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "sam scott",
+    "loser": "ella arnold",
+    "match": "ella arnold vs sam scott",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "xavier mclachlan",
+    "match": "josh hyde vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ella arnold",
+    "match": "josh hyde vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "braedyn denney",
+    "match": "josh hyde vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "rory sims",
+    "match": "josh hyde vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "hayden smith",
+    "match": "josh hyde vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "sam scott",
+    "match": "josh hyde vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "xavier mclachlan",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "ella arnold",
+    "match": "daniel kemp vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "braedyn denney",
+    "match": "daniel kemp vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "rory sims",
+    "match": "daniel kemp vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "hayden smith",
+    "match": "daniel kemp vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "sam scott",
+    "match": "daniel kemp vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "ella arnold",
+    "match": "xavier mclachlan vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "braedyn denney",
+    "match": "xavier mclachlan vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "rory sims",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "hayden smith",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "sam scott",
+    "match": "xavier mclachlan vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ella arnold",
+    "loser": "braedyn denney",
+    "match": "ella arnold vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "rory sims",
+    "loser": "ella arnold",
+    "match": "ella arnold vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ella arnold",
+    "loser": "hayden smith",
+    "match": "ella arnold vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam scott",
+    "loser": "ella arnold",
+    "match": "ella arnold vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "ella arnold",
+    "match": "ella arnold vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "rory sims",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "braedyn denney",
+    "loser": "sam scott",
+    "match": "braedyn denney vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "rory sims",
+    "match": "rory sims vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam scott",
+    "loser": "rory sims",
+    "match": "rory sims vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "rory sims",
+    "match": "rory sims vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "sam scott",
+    "match": "hayden smith vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "hayden smith",
+    "match": "hayden smith vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "sam scott",
+    "match": "sam scott vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "josh hyde",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "xavier mclachlan",
+    "match": "josh hyde vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "ella arnold",
+    "match": "josh hyde vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "braedyn denney",
+    "match": "josh hyde vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "josh hyde",
+    "match": "josh hyde vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "hayden smith",
+    "match": "josh hyde vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "sam scott",
+    "match": "josh hyde vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "xavier mclachlan",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "ella arnold",
+    "match": "daniel kemp vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "braedyn denney",
+    "match": "daniel kemp vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "rory sims",
+    "match": "daniel kemp vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "hayden smith",
+    "match": "daniel kemp vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "sam scott",
+    "match": "daniel kemp vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "ella arnold",
+    "match": "xavier mclachlan vs ella arnold",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "braedyn denney",
+    "match": "xavier mclachlan vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "hayden smith",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "sam scott",
+    "match": "xavier mclachlan vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "ethan fong",
+    "match": "xavier mclachlan vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "braedyn denney",
+    "loser": "ella arnold",
+    "match": "ella arnold vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ella arnold",
+    "loser": "rory sims",
+    "match": "ella arnold vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ella arnold",
+    "loser": "hayden smith",
+    "match": "ella arnold vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ella arnold",
+    "loser": "sam scott",
+    "match": "ella arnold vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "ella arnold",
+    "match": "ella arnold vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam scott",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "braedyn denney",
+    "match": "braedyn denney vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "hayden smith",
+    "match": "rory sims vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "sam scott",
+    "match": "rory sims vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "rory sims",
+    "loser": "ethan fong",
+    "match": "rory sims vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "sam scott",
+    "match": "hayden smith vs sam scott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "ethan fong",
+    "match": "hayden smith vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth International Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "sam scott",
+    "match": "sam scott vs ethan fong",
+    "race": 0
+  }
+]

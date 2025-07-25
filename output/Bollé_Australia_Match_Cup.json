@@ -1,0 +1,506 @@
+[
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "final",
+    "winner": "tom slingsby",
+    "loser": "harry price",
+    "match": "tom slingsby vs harry price",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "final",
+    "winner": "tom slingsby",
+    "loser": "harry price",
+    "match": "tom slingsby vs harry price",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "tom slingsby",
+    "match": "tom slingsby vs harry price",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "final",
+    "winner": "tom slingsby",
+    "loser": "harry price",
+    "match": "tom slingsby vs harry price",
+    "race": 4
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "petit-final",
+    "winner": "william sargent",
+    "loser": "steve thomas",
+    "match": "william sargent vs steve thomas",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "petit-final",
+    "winner": "william sargent",
+    "loser": "steve thomas",
+    "match": "william sargent vs steve thomas",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-1",
+    "winner": "tom slingsby",
+    "loser": "steve thomas",
+    "match": "tom slingsby vs steve thomas",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-1",
+    "winner": "tom slingsby",
+    "loser": "steve thomas",
+    "match": "tom slingsby vs steve thomas",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-1",
+    "winner": "tom slingsby",
+    "loser": "steve thomas",
+    "match": "tom slingsby vs steve thomas",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "william sargent",
+    "match": "harry price vs william sargent",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "william sargent",
+    "match": "harry price vs william sargent",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "william sargent",
+    "match": "harry price vs william sargent",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "tom slingsby",
+    "loser": "cameron whiteside",
+    "match": "tom slingsby vs cameron whiteside",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "tom slingsby",
+    "loser": "cameron whiteside",
+    "match": "tom slingsby vs cameron whiteside",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "harry price",
+    "loser": "jed cruickshank",
+    "match": "harry price vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "harry price",
+    "loser": "jed cruickshank",
+    "match": "harry price vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "william sargent",
+    "loser": "jack littlechild",
+    "match": "william sargent vs jack littlechild",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "william sargent",
+    "loser": "jack littlechild",
+    "match": "william sargent vs jack littlechild",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "steve thomas",
+    "loser": "cole tapper",
+    "match": "cole tapper vs steve thomas",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "cole tapper",
+    "loser": "steve thomas",
+    "match": "cole tapper vs steve thomas",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "steve thomas",
+    "loser": "cole tapper",
+    "match": "cole tapper vs steve thomas",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "steve thomas",
+    "loser": "jack littlechild",
+    "match": "steve thomas vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "steve thomas",
+    "match": "steve thomas vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "steve thomas",
+    "loser": "cameron whiteside",
+    "match": "steve thomas vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "steve thomas",
+    "loser": "maddie o’shea",
+    "match": "steve thomas vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jack littlechild",
+    "loser": "cameron whiteside",
+    "match": "jack littlechild vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jack littlechild",
+    "loser": "maddie o’shea",
+    "match": "jack littlechild vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "cameron whiteside",
+    "match": "jed cruickshank vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "maddie o’shea",
+    "match": "jed cruickshank vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "repechage",
+    "winner": "cameron whiteside",
+    "loser": "maddie o’shea",
+    "match": "cameron whiteside vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "harry price",
+    "loser": "cole tapper",
+    "match": "harry price vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "jack littlechild",
+    "loser": "harry price",
+    "match": "harry price vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "harry price",
+    "loser": "maddie o’shea",
+    "match": "harry price vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "harry price",
+    "loser": "steve thomas",
+    "match": "harry price vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "cole tapper",
+    "loser": "jack littlechild",
+    "match": "cole tapper vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "cole tapper",
+    "loser": "maddie o’shea",
+    "match": "cole tapper vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "cole tapper",
+    "loser": "steve thomas",
+    "match": "cole tapper vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "jack littlechild",
+    "loser": "maddie o’shea",
+    "match": "jack littlechild vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "steve thomas",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr2",
+    "winner": "steve thomas",
+    "loser": "maddie o’shea",
+    "match": "maddie o’shea vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "william sargent",
+    "loser": "jed cruickshank",
+    "match": "william sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "william sargent",
+    "loser": "cameron whiteside",
+    "match": "william sargent vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "tom slingsby",
+    "loser": "william sargent",
+    "match": "william sargent vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "jed cruickshank",
+    "loser": "cameron whiteside",
+    "match": "jed cruickshank vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "tom slingsby",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr2",
+    "winner": "tom slingsby",
+    "loser": "cameron whiteside",
+    "match": "cameron whiteside vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "jed cruickshank",
+    "loser": "william sargent",
+    "match": "william sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "william sargent",
+    "loser": "cameron whiteside",
+    "match": "william sargent vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "william sargent",
+    "loser": "tom slingsby",
+    "match": "william sargent vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "cameron whiteside",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cameron whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "tom slingsby",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-b-rr1",
+    "winner": "tom slingsby",
+    "loser": "cameron whiteside",
+    "match": "cameron whiteside vs tom slingsby",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "harry price",
+    "loser": "cole tapper",
+    "match": "harry price vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "harry price",
+    "loser": "jack littlechild",
+    "match": "harry price vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "harry price",
+    "loser": "maddie o’shea",
+    "match": "harry price vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "steve thomas",
+    "loser": "harry price",
+    "match": "harry price vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "jack littlechild",
+    "loser": "cole tapper",
+    "match": "cole tapper vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "cole tapper",
+    "loser": "maddie o’shea",
+    "match": "cole tapper vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "cole tapper",
+    "loser": "steve thomas",
+    "match": "cole tapper vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "maddie o’shea",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs maddie o’shea",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "steve thomas",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs steve thomas",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé Australia Match Cup",
+    "phase": "group-a-rr1",
+    "winner": "steve thomas",
+    "loser": "maddie o’shea",
+    "match": "maddie o’shea vs steve thomas",
+    "race": 0
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "leo takahashi",
+    "loser": "oakley marsh",
+    "match": "leo takahashi vs oakley marsh",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "leo takahashi",
+    "loser": "oakley marsh",
+    "match": "leo takahashi vs oakley marsh",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "leo takahashi",
+    "loser": "oakley marsh",
+    "match": "leo takahashi vs oakley marsh",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "jordan stevenson",
+    "loser": "james wilson",
+    "match": "james wilson vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "jordan stevenson",
+    "loser": "james wilson",
+    "match": "james wilson vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "oakley marsh",
+    "loser": "jordan stevenson",
+    "match": "oakley marsh vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "jordan stevenson",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "oakley marsh",
+    "loser": "jordan stevenson",
+    "match": "oakley marsh vs jordan stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "james wilson",
+    "loser": "leo takahashi",
+    "match": "leo takahashi vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "leo takahashi",
+    "loser": "james wilson",
+    "match": "leo takahashi vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "leo takahashi",
+    "loser": "james wilson",
+    "match": "leo takahashi vs james wilson",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "oakley marsh",
+    "match": "leo takahashi vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "james wilson",
+    "match": "leo takahashi vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "jordan stevenson",
+    "match": "leo takahashi vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "sam barnett",
+    "match": "leo takahashi vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "fergus abbott",
+    "match": "leo takahashi vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "zoe bennett",
+    "match": "leo takahashi vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "leo takahashi",
+    "loser": "lachlan grimwade",
+    "match": "leo takahashi vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "james wilson",
+    "match": "oakley marsh vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "sam barnett",
+    "match": "oakley marsh vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "fergus abbott",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "zoe bennett",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "oakley marsh",
+    "loser": "lachlan grimwade",
+    "match": "oakley marsh vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "james wilson",
+    "match": "james wilson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "sam barnett",
+    "match": "james wilson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "fergus abbott",
+    "match": "james wilson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "zoe bennett",
+    "match": "james wilson vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "lachlan grimwade",
+    "match": "james wilson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "sam barnett",
+    "match": "jordan stevenson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "fergus abbott",
+    "match": "jordan stevenson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "zoe bennett",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "sam barnett",
+    "loser": "fergus abbott",
+    "match": "sam barnett vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "zoe bennett",
+    "loser": "sam barnett",
+    "match": "sam barnett vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "sam barnett",
+    "match": "sam barnett vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "fergus abbott",
+    "loser": "zoe bennett",
+    "match": "fergus abbott vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "fergus abbott",
+    "match": "fergus abbott vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "lachlan grimwade",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "james wilson",
+    "match": "leo takahashi vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "jordan stevenson",
+    "match": "leo takahashi vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "leo takahashi",
+    "match": "leo takahashi vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "sam barnett",
+    "match": "leo takahashi vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "fergus abbott",
+    "match": "leo takahashi vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "zoe bennett",
+    "match": "leo takahashi vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "leo takahashi",
+    "loser": "lachlan grimwade",
+    "match": "leo takahashi vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "james wilson",
+    "match": "james wilson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "james wilson",
+    "match": "james wilson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "sam barnett",
+    "match": "james wilson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "fergus abbott",
+    "match": "james wilson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "zoe bennett",
+    "loser": "james wilson",
+    "match": "james wilson vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "lachlan grimwade",
+    "match": "james wilson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "oakley marsh",
+    "match": "jordan stevenson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "sam barnett",
+    "match": "jordan stevenson vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "fergus abbott",
+    "match": "jordan stevenson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "zoe bennett",
+    "match": "jordan stevenson vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "lachlan grimwade",
+    "match": "jordan stevenson vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "sam barnett",
+    "match": "oakley marsh vs sam barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "fergus abbott",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "zoe bennett",
+    "match": "oakley marsh vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "oakley marsh",
+    "loser": "lachlan grimwade",
+    "match": "oakley marsh vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "fergus abbott",
+    "match": "sam barnett vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "zoe bennett",
+    "match": "sam barnett vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "sam barnett",
+    "loser": "lachlan grimwade",
+    "match": "sam barnett vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "zoe bennett",
+    "loser": "fergus abbott",
+    "match": "fergus abbott vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "fergus abbott",
+    "loser": "lachlan grimwade",
+    "match": "fergus abbott vs lachlan grimwade",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Youth Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "lachlan grimwade",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs lachlan grimwade",
+    "race": 0
+  }
+]

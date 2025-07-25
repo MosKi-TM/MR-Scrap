@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "final",
+    "winner": "scott buckstaff",
+    "loser": "will holz",
+    "match": "scott buckstaff vs will holz",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "final",
+    "winner": "scott buckstaff",
+    "loser": "will holz",
+    "match": "scott buckstaff vs will holz",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "petit-final",
+    "winner": "ryan davidson",
+    "loser": "christophe killian",
+    "match": "christophe killian vs ryan davidson",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "petit-final",
+    "winner": "ryan davidson",
+    "loser": "christophe killian",
+    "match": "christophe killian vs ryan davidson",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "semi-final-1",
+    "winner": "scott buckstaff",
+    "loser": "ryan davidson",
+    "match": "scott buckstaff vs ryan davidson",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "semi-final-1",
+    "winner": "scott buckstaff",
+    "loser": "ryan davidson",
+    "match": "scott buckstaff vs ryan davidson",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "semi-final-2",
+    "winner": "will holz",
+    "loser": "christophe killian",
+    "match": "christophe killian vs will holz",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "semi-final-2",
+    "winner": "will holz",
+    "loser": "christophe killian",
+    "match": "christophe killian vs will holz",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "5th/6th",
+    "winner": "harrison hawk",
+    "loser": "jack thompson",
+    "match": "jack thompson vs harrison hawk",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "7th/8th",
+    "winner": "charlie lalumiere",
+    "loser": "matt wordell",
+    "match": "charlie lalumiere vs matt wordell",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "consolation-a",
+    "winner": "jack thompson",
+    "loser": "matt wordell",
+    "match": "jack thompson vs matt wordell",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Event",
+    "phase": "consolation-b",
+    "winner": "harrison hawk",
+    "loser": "charlie lalumiere",
+    "match": "harrison hawk vs charlie lalumiere",
+    "race": 1
+  }
+]

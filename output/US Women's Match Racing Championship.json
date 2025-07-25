@@ -1,0 +1,706 @@
+[
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "Janel Martin",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Janel Martin",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "Bridget Groble",
+    "loser": "Janel Martin",
+    "match": "Bridget Groble vs Janel Martin",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "Janel Martin",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Janel Martin",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Bridget Groble",
+    "loser": "Lindsey Baab",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Bridget Groble",
+    "loser": "Lindsey Baab",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 4
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 5
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Janel Martin",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Janel Martin",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Janel Martin",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Janel Martin",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 4
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Janel Martin",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 5
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Sydney Monahan",
+    "loser": "Caroline Bayless",
+    "match": "Sydney Monahan vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Sydney Monahan",
+    "match": "Sydney Monahan vs Gwynie Dunlevy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Blake Oberbauer",
+    "loser": "Sydney Monahan",
+    "match": "Sydney Monahan vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Sydney Monahan",
+    "loser": "Marilyn Cassedy",
+    "match": "Sydney Monahan vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Caroline Bayless",
+    "loser": "Gwynie Dunlevy",
+    "match": "Caroline Bayless vs Gwynie Dunlevy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Blake Oberbauer",
+    "loser": "Caroline Bayless",
+    "match": "Caroline Bayless vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Caroline Bayless",
+    "loser": "Marilyn Cassedy",
+    "match": "Caroline Bayless vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Blake Oberbauer",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Marilyn Cassedy",
+    "match": "Gwynie Dunlevy vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Blake Oberbauer",
+    "loser": "Marilyn Cassedy",
+    "match": "Blake Oberbauer vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Sydney Monahan",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Caroline Bayless",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Gwynie Dunlevy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Blake Oberbauer",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th",
+    "winner": "Marilyn Cassedy",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "Bridget Groble",
+    "loser": "Blake Oberbauer",
+    "match": "Bridget Groble vs Blake Oberbauer",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "Bridget Groble",
+    "loser": "Blake Oberbauer",
+    "match": "Bridget Groble vs Blake Oberbauer",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "Bridget Groble",
+    "loser": "Blake Oberbauer",
+    "match": "Bridget Groble vs Blake Oberbauer",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Gwynie Dunlevy",
+    "match": "Allie Blecher vs Gwynie Dunlevy",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Gwynie Dunlevy",
+    "match": "Allie Blecher vs Gwynie Dunlevy",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Gwynie Dunlevy",
+    "match": "Allie Blecher vs Gwynie Dunlevy",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "Janel Martin",
+    "loser": "Caroline Bayless",
+    "match": "Janel Martin vs Caroline Bayless",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "Janel Martin",
+    "loser": "Caroline Bayless",
+    "match": "Janel Martin vs Caroline Bayless",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "Janel Martin",
+    "loser": "Caroline Bayless",
+    "match": "Janel Martin vs Caroline Bayless",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "Lindsey Baab",
+    "loser": "Sydney Monahan",
+    "match": "Lindsey Baab vs Sydney Monahan",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "Lindsey Baab",
+    "loser": "Sydney Monahan",
+    "match": "Lindsey Baab vs Sydney Monahan",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "Lindsey Baab",
+    "loser": "Sydney Monahan",
+    "match": "Lindsey Baab vs Sydney Monahan",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Janel Martin",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Bridget Groble",
+    "match": "Allie Blecher vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Marilyn Cassedy",
+    "match": "Allie Blecher vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Danielle Gallo",
+    "match": "Allie Blecher vs Danielle Gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Caroline Bayless",
+    "match": "Allie Blecher vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Sydney Monahan",
+    "match": "Allie Blecher vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Allie Blecher",
+    "loser": "Blake Oberbauer",
+    "match": "Allie Blecher vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Lindsey Baab",
+    "loser": "Allie Blecher",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Bridget Groble",
+    "match": "Janel Martin vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Marilyn Cassedy",
+    "match": "Janel Martin vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Danielle Gallo",
+    "match": "Janel Martin vs Danielle Gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Caroline Bayless",
+    "match": "Janel Martin vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Sydney Monahan",
+    "match": "Janel Martin vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Blake Oberbauer",
+    "match": "Janel Martin vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Lindsey Baab",
+    "match": "Janel Martin vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Marilyn Cassedy",
+    "match": "Bridget Groble vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Danielle Gallo",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Danielle Gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Caroline Bayless",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Sydney Monahan",
+    "match": "Bridget Groble vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Blake Oberbauer",
+    "match": "Bridget Groble vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Lindsey Baab",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Marilyn Cassedy",
+    "loser": "Danielle Gallo",
+    "match": "Marilyn Cassedy vs Danielle Gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Caroline Bayless",
+    "loser": "Marilyn Cassedy",
+    "match": "Marilyn Cassedy vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Sydney Monahan",
+    "loser": "Marilyn Cassedy",
+    "match": "Marilyn Cassedy vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Blake Oberbauer",
+    "loser": "Marilyn Cassedy",
+    "match": "Marilyn Cassedy vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Lindsey Baab",
+    "loser": "Marilyn Cassedy",
+    "match": "Marilyn Cassedy vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Caroline Bayless",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Sydney Monahan",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Blake Oberbauer",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Lindsey Baab",
+    "loser": "Danielle Gallo",
+    "match": "Danielle Gallo vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Sydney Monahan",
+    "loser": "Caroline Bayless",
+    "match": "Caroline Bayless vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Blake Oberbauer",
+    "loser": "Caroline Bayless",
+    "match": "Caroline Bayless vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Caroline Bayless",
+    "loser": "Lindsey Baab",
+    "match": "Caroline Bayless vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Blake Oberbauer",
+    "loser": "Sydney Monahan",
+    "match": "Sydney Monahan vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Sydney Monahan",
+    "loser": "Lindsey Baab",
+    "match": "Sydney Monahan vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Lindsey Baab",
+    "loser": "Blake Oberbauer",
+    "match": "Blake Oberbauer vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Allie Blecher",
+    "match": "Gwynie Dunlevy vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Janel Martin",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Janel Martin",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Marilyn Cassedy",
+    "match": "Gwynie Dunlevy vs Marilyn Cassedy",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Danielle Gallo",
+    "match": "Gwynie Dunlevy vs Danielle Gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Caroline Bayless",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Sydney Monahan",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Sydney Monahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Gwynie Dunlevy",
+    "loser": "Blake Oberbauer",
+    "match": "Gwynie Dunlevy vs Blake Oberbauer",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "Lindsey Baab",
+    "loser": "Gwynie Dunlevy",
+    "match": "Gwynie Dunlevy vs Lindsey Baab",
+    "race": 0
+  }
+]

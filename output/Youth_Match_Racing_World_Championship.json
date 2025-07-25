@@ -1,0 +1,810 @@
+[
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "timothee rossi",
+    "loser": "thimote polet",
+    "match": "thimote polet vs timothee rossi",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "timothee rossi",
+    "loser": "thimote polet",
+    "match": "thimote polet vs timothee rossi",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "marius westerlind",
+    "loser": "thimote polet",
+    "match": "marius westerlind vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "marius westerlind",
+    "loser": "thimote polet",
+    "match": "marius westerlind vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs thimote polet",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "marius westerlind",
+    "loser": "thimote polet",
+    "match": "marius westerlind vs thimote polet",
+    "race": 5
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "timothee rossi",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "5th-/-6th",
+    "winner": "ian garetta",
+    "loser": "riccardo sepe",
+    "match": "ian garetta vs riccardo sepe",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "6th-/-7th",
+    "winner": "riccardo sepe",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs riccardo sepe",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "7th-/-8th",
+    "winner": "riccardo sepe",
+    "loser": "finn tapper",
+    "match": "finn tapper vs riccardo sepe",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "8th-/-9th",
+    "winner": "riccardo sepe",
+    "loser": "nicolas bernal",
+    "match": "riccardo sepe vs nicolas bernal",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "9th-/-10th",
+    "winner": "nicolas bernal",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs nicolas bernal",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "10th-/-11th",
+    "winner": "nicolas bernal",
+    "loser": "alexander colquitt",
+    "match": "nicolas bernal vs alexander colquitt",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "11th-/-12th",
+    "winner": "alexander colquitt",
+    "loser": "maeve white",
+    "match": "alexander colquitt vs maeve white",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "marius westerlind",
+    "loser": "ian garetta",
+    "match": "ian garetta vs marius westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "marius westerlind",
+    "loser": "ian garetta",
+    "match": "ian garetta vs marius westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "marius westerlind",
+    "loser": "ian garetta",
+    "match": "ian garetta vs marius westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "finn tapper",
+    "match": "thimote polet vs finn tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "finn tapper",
+    "match": "thimote polet vs finn tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "finn tapper",
+    "match": "thimote polet vs finn tapper",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "timothee rossi",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs timothee rossi",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "timothee rossi",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs timothee rossi",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "timothee rossi",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs timothee rossi",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "jeffrey petersen",
+    "loser": "riccardo sepe",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "riccardo sepe",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "jeffrey petersen",
+    "loser": "riccardo sepe",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "riccardo sepe",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "jeffrey petersen",
+    "loser": "riccardo sepe",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 5
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "jeffrey petersen",
+    "match": "emil kjaer vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "thimote polet",
+    "match": "emil kjaer vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "finn tapper",
+    "match": "emil kjaer vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "robbie mccutcheon",
+    "match": "emil kjaer vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "riccardo sepe",
+    "match": "emil kjaer vs riccardo sepe",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "marius westerlind",
+    "match": "emil kjaer vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "timothee rossi",
+    "match": "emil kjaer vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "alexander colquitt",
+    "match": "emil kjaer vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "maeve white",
+    "match": "emil kjaer vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "thimote polet",
+    "match": "jeffrey petersen vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "robbie mccutcheon",
+    "match": "jeffrey petersen vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "riccardo sepe",
+    "match": "jeffrey petersen vs riccardo sepe",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "jeffrey petersen vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "ian garetta",
+    "match": "jeffrey petersen vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "alexander colquitt",
+    "match": "jeffrey petersen vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "maeve white",
+    "match": "jeffrey petersen vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "thimote polet",
+    "match": "thimote polet vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "robbie mccutcheon",
+    "match": "thimote polet vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "riccardo sepe",
+    "match": "thimote polet vs riccardo sepe",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "marius westerlind",
+    "match": "thimote polet vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "timothee rossi",
+    "match": "thimote polet vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "ian garetta",
+    "match": "thimote polet vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "alexander colquitt",
+    "match": "thimote polet vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "maeve white",
+    "match": "thimote polet vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "nicolas bernal",
+    "match": "thimote polet vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "robbie mccutcheon",
+    "match": "finn tapper vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "riccardo sepe",
+    "match": "finn tapper vs riccardo sepe",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "finn tapper",
+    "match": "finn tapper vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "finn tapper",
+    "match": "finn tapper vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "finn tapper",
+    "match": "finn tapper vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "alexander colquitt",
+    "match": "finn tapper vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "maeve white",
+    "match": "finn tapper vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "nicolas bernal",
+    "match": "finn tapper vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs riccardo sepe",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "alexander colquitt",
+    "match": "robbie mccutcheon vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "robbie mccutcheon vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "nicolas bernal",
+    "match": "robbie mccutcheon vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "marius westerlind",
+    "match": "riccardo sepe vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "timothee rossi",
+    "match": "riccardo sepe vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "riccardo sepe",
+    "match": "riccardo sepe vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "alexander colquitt",
+    "match": "riccardo sepe vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "maeve white",
+    "match": "riccardo sepe vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "riccardo sepe",
+    "loser": "nicolas bernal",
+    "match": "riccardo sepe vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "alexander colquitt",
+    "match": "marius westerlind vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "maeve white",
+    "match": "marius westerlind vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "nicolas bernal",
+    "match": "marius westerlind vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs ian garetta",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "alexander colquitt",
+    "match": "timothee rossi vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "maeve white",
+    "match": "timothee rossi vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "nicolas bernal",
+    "match": "timothee rossi vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "alexander colquitt",
+    "match": "ian garetta vs alexander colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "maeve white",
+    "match": "ian garetta vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ian garetta",
+    "loser": "nicolas bernal",
+    "match": "ian garetta vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "alexander colquitt",
+    "loser": "maeve white",
+    "match": "alexander colquitt vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "alexander colquitt",
+    "loser": "nicolas bernal",
+    "match": "alexander colquitt vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "maeve white",
+    "match": "maeve white vs nicolas bernal",
+    "race": 0
+  }
+]

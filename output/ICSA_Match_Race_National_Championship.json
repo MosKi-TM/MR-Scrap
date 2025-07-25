@@ -1,0 +1,690 @@
+[
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "final",
+    "winner": "boston college eagles",
+    "loser": "charleston cougars",
+    "match": "charleston cougars vs boston college eagles",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "final",
+    "winner": "charleston cougars",
+    "loser": "boston college eagles",
+    "match": "charleston cougars vs boston college eagles",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "final",
+    "winner": "boston college eagles",
+    "loser": "charleston cougars",
+    "match": "charleston cougars vs boston college eagles",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "final",
+    "winner": "boston college eagles",
+    "loser": "charleston cougars",
+    "match": "charleston cougars vs boston college eagles",
+    "race": 4
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "petit-final",
+    "winner": "south florida bulls",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs south florida bulls",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "petit-final",
+    "winner": "south florida bulls",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs south florida bulls",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-1",
+    "winner": "charleston cougars",
+    "loser": "bowdoin polar bears",
+    "match": "charleston cougars vs bowdoin polar bears",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-1",
+    "winner": "charleston cougars",
+    "loser": "bowdoin polar bears",
+    "match": "charleston cougars vs bowdoin polar bears",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-1",
+    "winner": "charleston cougars",
+    "loser": "bowdoin polar bears",
+    "match": "charleston cougars vs bowdoin polar bears",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-2",
+    "winner": "boston college eagles",
+    "loser": "south florida bulls",
+    "match": "boston college eagles vs south florida bulls",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-2",
+    "winner": "boston college eagles",
+    "loser": "south florida bulls",
+    "match": "boston college eagles vs south florida bulls",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-2",
+    "winner": "south florida bulls",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs south florida bulls",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "semi-final-2",
+    "winner": "boston college eagles",
+    "loser": "south florida bulls",
+    "match": "boston college eagles vs south florida bulls",
+    "race": 4
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "5th-/-6th",
+    "winner": "stanford cardinal",
+    "loser": "navy midshipmen",
+    "match": "navy midshipmen vs stanford cardinal",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "7th-/-8th",
+    "winner": "georgetown hoyas",
+    "loser": "washington huskies",
+    "match": "washington huskies vs georgetown hoyas",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "5th-to-8th-(a)",
+    "winner": "navy midshipmen",
+    "loser": "washington huskies",
+    "match": "washington huskies vs navy midshipmen",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "5th-to-8th-(b)",
+    "winner": "stanford cardinal",
+    "loser": "georgetown hoyas",
+    "match": "stanford cardinal vs georgetown hoyas",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-1",
+    "winner": "charleston cougars",
+    "loser": "washington huskies",
+    "match": "charleston cougars vs washington huskies",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-1",
+    "winner": "charleston cougars",
+    "loser": "washington huskies",
+    "match": "charleston cougars vs washington huskies",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-1",
+    "winner": "charleston cougars",
+    "loser": "washington huskies",
+    "match": "charleston cougars vs washington huskies",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-2",
+    "winner": "stanford cardinal",
+    "loser": "boston college eagles",
+    "match": "stanford cardinal vs boston college eagles",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-2",
+    "winner": "boston college eagles",
+    "loser": "stanford cardinal",
+    "match": "stanford cardinal vs boston college eagles",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-2",
+    "winner": "boston college eagles",
+    "loser": "stanford cardinal",
+    "match": "stanford cardinal vs boston college eagles",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-2",
+    "winner": "stanford cardinal",
+    "loser": "boston college eagles",
+    "match": "stanford cardinal vs boston college eagles",
+    "race": 4
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-2",
+    "winner": "boston college eagles",
+    "loser": "stanford cardinal",
+    "match": "stanford cardinal vs boston college eagles",
+    "race": 5
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-3",
+    "winner": "south florida bulls",
+    "loser": "georgetown hoyas",
+    "match": "south florida bulls vs georgetown hoyas",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-3",
+    "winner": "georgetown hoyas",
+    "loser": "south florida bulls",
+    "match": "south florida bulls vs georgetown hoyas",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-3",
+    "winner": "south florida bulls",
+    "loser": "georgetown hoyas",
+    "match": "south florida bulls vs georgetown hoyas",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-3",
+    "winner": "south florida bulls",
+    "loser": "georgetown hoyas",
+    "match": "south florida bulls vs georgetown hoyas",
+    "race": 4
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-4",
+    "winner": "navy midshipmen",
+    "loser": "bowdoin polar bears",
+    "match": "navy midshipmen vs bowdoin polar bears",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-4",
+    "winner": "bowdoin polar bears",
+    "loser": "navy midshipmen",
+    "match": "navy midshipmen vs bowdoin polar bears",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-4",
+    "winner": "bowdoin polar bears",
+    "loser": "navy midshipmen",
+    "match": "navy midshipmen vs bowdoin polar bears",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "quarter-final-4",
+    "winner": "bowdoin polar bears",
+    "loser": "navy midshipmen",
+    "match": "navy midshipmen vs bowdoin polar bears",
+    "race": 4
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "9th-/-10th",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "michigan wolverines",
+    "match": "texas a&m gavelston aggies vs michigan wolverines",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "9th-/-10th",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "michigan wolverines",
+    "match": "texas a&m gavelston aggies vs michigan wolverines",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "boston college eagles",
+    "loser": "texas a&m gavelston aggies",
+    "match": "boston college eagles vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "boston college eagles",
+    "loser": "michigan wolverines",
+    "match": "boston college eagles vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "boston college eagles",
+    "loser": "washington huskies",
+    "match": "boston college eagles vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "michigan wolverines",
+    "match": "texas a&m gavelston aggies vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "washington huskies",
+    "loser": "texas a&m gavelston aggies",
+    "match": "texas a&m gavelston aggies vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "repechage",
+    "winner": "washington huskies",
+    "loser": "michigan wolverines",
+    "match": "michigan wolverines vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin polar bears",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs bowdoin polar bears",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs charleston cougars",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "georgetown hoyas",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs georgetown hoyas",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "boston college eagles",
+    "loser": "michigan wolverines",
+    "match": "boston college eagles vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "boston college eagles",
+    "loser": "navy midshipmen",
+    "match": "boston college eagles vs navy midshipmen",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "boston college eagles",
+    "loser": "texas a&m gavelston aggies",
+    "match": "boston college eagles vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "boston college eagles",
+    "match": "boston college eagles vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "boston college eagles",
+    "loser": "washington huskies",
+    "match": "boston college eagles vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs charleston cougars",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin polar bears",
+    "loser": "georgetown hoyas",
+    "match": "bowdoin polar bears vs georgetown hoyas",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin polar bears",
+    "loser": "michigan wolverines",
+    "match": "bowdoin polar bears vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs navy midshipmen",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "bowdoin polar bears",
+    "match": "bowdoin polar bears vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "bowdoin polar bears",
+    "loser": "washington huskies",
+    "match": "bowdoin polar bears vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "georgetown hoyas",
+    "match": "charleston cougars vs georgetown hoyas",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "michigan wolverines",
+    "match": "charleston cougars vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "navy midshipmen",
+    "match": "charleston cougars vs navy midshipmen",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "stanford cardinal",
+    "match": "charleston cougars vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "texas a&m gavelston aggies",
+    "match": "charleston cougars vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "south florida bulls",
+    "match": "charleston cougars vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "charleston cougars",
+    "loser": "washington huskies",
+    "match": "charleston cougars vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "georgetown hoyas",
+    "loser": "michigan wolverines",
+    "match": "georgetown hoyas vs michigan wolverines",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "georgetown hoyas",
+    "match": "georgetown hoyas vs navy midshipmen",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "georgetown hoyas",
+    "match": "georgetown hoyas vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "georgetown hoyas",
+    "loser": "texas a&m gavelston aggies",
+    "match": "georgetown hoyas vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "georgetown hoyas",
+    "match": "georgetown hoyas vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "georgetown hoyas",
+    "loser": "washington huskies",
+    "match": "georgetown hoyas vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "michigan wolverines",
+    "match": "michigan wolverines vs navy midshipmen",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "michigan wolverines",
+    "match": "michigan wolverines vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "michigan wolverines",
+    "match": "michigan wolverines vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "michigan wolverines",
+    "match": "michigan wolverines vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "michigan wolverines",
+    "loser": "washington huskies",
+    "match": "michigan wolverines vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "stanford cardinal",
+    "match": "navy midshipmen vs stanford cardinal",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "texas a&m gavelston aggies",
+    "match": "navy midshipmen vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "navy midshipmen",
+    "match": "navy midshipmen vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "navy midshipmen",
+    "loser": "washington huskies",
+    "match": "navy midshipmen vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "texas a&m gavelston aggies",
+    "match": "stanford cardinal vs texas a&m gavelston aggies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "south florida bulls",
+    "match": "stanford cardinal vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "stanford cardinal",
+    "loser": "washington huskies",
+    "match": "stanford cardinal vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "texas a&m gavelston aggies",
+    "match": "texas a&m gavelston aggies vs south florida bulls",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "texas a&m gavelston aggies",
+    "loser": "washington huskies",
+    "match": "texas a&m gavelston aggies vs washington huskies",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race National Championship",
+    "phase": "round-robin",
+    "winner": "south florida bulls",
+    "loser": "washington huskies",
+    "match": "south florida bulls vs washington huskies",
+    "race": 0
+  }
+]

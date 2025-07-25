@@ -1,0 +1,466 @@
+[
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "petit-final",
+    "winner": "Jeppe Borch",
+    "loser": "Eric Monnin",
+    "match": "Jeppe Borch vs Eric Monnin",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "semi-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Jeppe Borch",
+    "match": "Jeppe Borch vs Johnie Berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "semi-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Jeppe Borch",
+    "match": "Jeppe Borch vs Johnie Berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Eric Monnin vs Nick Egnot-Johnson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Eric Monnin vs Nick Egnot-Johnson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Aurélien Pierroz",
+    "match": "Johnie Berntsson vs Aurélien Pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Aurélien Pierroz",
+    "match": "Johnie Berntsson vs Aurélien Pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-3",
+    "winner": "Jeppe Borch",
+    "loser": "Marius Westerlind",
+    "match": "Jeppe Borch vs Marius Westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "quarter-final-3",
+    "winner": "Jeppe Borch",
+    "loser": "Marius Westerlind",
+    "match": "Jeppe Borch vs Marius Westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Chris Poole vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Matti Sepp",
+    "match": "Chris Poole vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Aurélien Pierroz",
+    "match": "Chris Poole vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Marius Westerlind",
+    "match": "Chris Poole vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Jeppe Borch",
+    "match": "Eric Monnin vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Eric Monnin vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Matti Sepp",
+    "match": "Eric Monnin vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Aurélien Pierroz",
+    "match": "Eric Monnin vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Rocco Attili",
+    "match": "Johnie Berntsson vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Matti Sepp",
+    "match": "Johnie Berntsson vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Aurélien Pierroz",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Marius Westerlind",
+    "match": "Johnie Berntsson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Matti Sepp",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Aurélien Pierroz",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Jeppe Borch vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Matti Sepp",
+    "match": "Jeppe Borch vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Aurélien Pierroz",
+    "match": "Jeppe Borch vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Marius Westerlind",
+    "match": "Jeppe Borch vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Matti Sepp",
+    "match": "Nick Egnot-Johnson vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Aurélien Pierroz",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Matti Sepp",
+    "loser": "Aurélien Pierroz",
+    "match": "Matti Sepp vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Matti Sepp",
+    "match": "Matti Sepp vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Aurélien Pierroz",
+    "loser": "Marius Westerlind",
+    "match": "Aurélien Pierroz vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Theo Westerlind",
+    "loser": "Eric Monnin",
+    "match": "Theo Westerlind vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Theo Westerlind",
+    "loser": "Rocco Attili",
+    "match": "Theo Westerlind vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Theo Westerlind",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Theo Westerlind vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Theo Westerlind",
+    "loser": "Matti Sepp",
+    "match": "Theo Westerlind vs Matti Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Aurélien Pierroz",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Aurélien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – GKSS Match Cup Sweden (Open)",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Theo Westerlind",
+    "match": "Theo Westerlind vs Marius Westerlind",
+    "race": 0
+  }
+]

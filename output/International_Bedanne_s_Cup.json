@@ -1,0 +1,658 @@
+[
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "final",
+    "winner": "maxime mesnil",
+    "loser": "thimote polet",
+    "match": "thimote polet vs maxime mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "final",
+    "winner": "maxime mesnil",
+    "loser": "thimote polet",
+    "match": "thimote polet vs maxime mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "jeppe borch",
+    "match": "aurelien pierroz vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "jeppe borch",
+    "match": "aurelien pierroz vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs thimote polet",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "thimote polet",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs thimote polet",
+    "race": 5
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "maxime mesnil",
+    "loser": "aurelien pierroz",
+    "match": "maxime mesnil vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "maxime mesnil",
+    "loser": "aurelien pierroz",
+    "match": "maxime mesnil vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "maxime mesnil",
+    "loser": "aurelien pierroz",
+    "match": "maxime mesnil vs aurelien pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "5th-/-6th",
+    "winner": "chris poole",
+    "loser": "pauline courtois",
+    "match": "chris poole vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "5th-/-6th",
+    "winner": "pauline courtois",
+    "loser": "chris poole",
+    "match": "chris poole vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "5th-/-6th",
+    "winner": "pauline courtois",
+    "loser": "chris poole",
+    "match": "chris poole vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "6th-/-7th",
+    "winner": "pauline courtois",
+    "loser": "cedric chateau",
+    "match": "pauline courtois vs cedric chateau",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "6th-/-7th",
+    "winner": "pauline courtois",
+    "loser": "cedric chateau",
+    "match": "pauline courtois vs cedric chateau",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "7th-/-8th",
+    "winner": "cedric chateau",
+    "loser": "octavia owen",
+    "match": "cedric chateau vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "7th-/-8th",
+    "winner": "cedric chateau",
+    "loser": "octavia owen",
+    "match": "cedric chateau vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "octavia owen",
+    "loser": "clara svensdotter",
+    "match": "octavia owen vs clara svensdotter",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "clara svensdotter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs clara svensdotter",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "octavia owen",
+    "loser": "clara svensdotter",
+    "match": "octavia owen vs clara svensdotter",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "9th-/-10th",
+    "winner": "clara svensdotter",
+    "loser": "ted blowers",
+    "match": "ted blowers vs clara svensdotter",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "9th-/-10th",
+    "winner": "ted blowers",
+    "loser": "clara svensdotter",
+    "match": "ted blowers vs clara svensdotter",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "9th-/-10th",
+    "winner": "clara svensdotter",
+    "loser": "ted blowers",
+    "match": "ted blowers vs clara svensdotter",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "thimote polet",
+    "loser": "chris poole",
+    "match": "chris poole vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "thimote polet",
+    "loser": "chris poole",
+    "match": "chris poole vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "thimote polet",
+    "match": "chris poole vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "thimote polet",
+    "loser": "chris poole",
+    "match": "chris poole vs thimote polet",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "maxime mesnil",
+    "loser": "pauline courtois",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "pauline courtois",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "maxime mesnil",
+    "loser": "pauline courtois",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "maxime mesnil",
+    "loser": "pauline courtois",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "cedric chateau",
+    "match": "aurelien pierroz vs cedric chateau",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "cedric chateau",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs cedric chateau",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "cedric chateau",
+    "match": "aurelien pierroz vs cedric chateau",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "cedric chateau",
+    "match": "aurelien pierroz vs cedric chateau",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "aurelien pierroz",
+    "match": "maxime mesnil vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "cedric chateau",
+    "match": "maxime mesnil vs cedric chateau",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "pauline courtois",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "ted blowers",
+    "match": "maxime mesnil vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "thimote polet",
+    "match": "maxime mesnil vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "clara svensdotter",
+    "match": "maxime mesnil vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "aurelien pierroz",
+    "match": "chris poole vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "cedric chateau",
+    "match": "chris poole vs cedric chateau",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "chris poole",
+    "match": "chris poole vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "ted blowers",
+    "match": "chris poole vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "thimote polet",
+    "match": "chris poole vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "clara svensdotter",
+    "match": "chris poole vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "octavia owen",
+    "match": "chris poole vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "cedric chateau",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs cedric chateau",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "pauline courtois",
+    "match": "jeppe borch vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "ted blowers",
+    "match": "jeppe borch vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "thimote polet",
+    "match": "jeppe borch vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "clara svensdotter",
+    "match": "jeppe borch vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "octavia owen",
+    "match": "jeppe borch vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "cedric chateau",
+    "match": "aurelien pierroz vs cedric chateau",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ted blowers",
+    "match": "aurelien pierroz vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "clara svensdotter",
+    "match": "aurelien pierroz vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "octavia owen",
+    "match": "aurelien pierroz vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "cedric chateau",
+    "loser": "pauline courtois",
+    "match": "cedric chateau vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "cedric chateau",
+    "loser": "ted blowers",
+    "match": "cedric chateau vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "cedric chateau",
+    "match": "cedric chateau vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "cedric chateau",
+    "loser": "clara svensdotter",
+    "match": "cedric chateau vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "cedric chateau",
+    "loser": "octavia owen",
+    "match": "cedric chateau vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ted blowers",
+    "match": "pauline courtois vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "thimote polet",
+    "match": "pauline courtois vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "clara svensdotter",
+    "match": "pauline courtois vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "octavia owen",
+    "match": "pauline courtois vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "thimote polet",
+    "match": "ted blowers vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "clara svensdotter",
+    "match": "ted blowers vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "ted blowers",
+    "match": "ted blowers vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "clara svensdotter",
+    "match": "thimote polet vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "octavia owen",
+    "match": "thimote polet vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "clara svensdotter",
+    "match": "clara svensdotter vs octavia owen",
+    "race": 0
+  }
+]

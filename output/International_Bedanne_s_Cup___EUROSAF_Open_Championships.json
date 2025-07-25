@@ -1,0 +1,722 @@
+[
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "final",
+    "winner": "maxime mesnil",
+    "loser": "ian garreta",
+    "match": "ian garreta vs maxime mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "final",
+    "winner": "maxime mesnil",
+    "loser": "ian garreta",
+    "match": "ian garreta vs maxime mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "final",
+    "winner": "ian garreta",
+    "loser": "maxime mesnil",
+    "match": "ian garreta vs maxime mesnil",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "final",
+    "winner": "ian garreta",
+    "loser": "maxime mesnil",
+    "match": "ian garreta vs maxime mesnil",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "final",
+    "winner": "ian garreta",
+    "loser": "maxime mesnil",
+    "match": "ian garreta vs maxime mesnil",
+    "race": 5
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "petit-final",
+    "winner": "lukasz wosinski",
+    "loser": "damian michelier",
+    "match": "damian michelier vs lukasz wosinski",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "petit-final",
+    "winner": "damian michelier",
+    "loser": "lukasz wosinski",
+    "match": "damian michelier vs lukasz wosinski",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "petit-final",
+    "winner": "damian michelier",
+    "loser": "lukasz wosinski",
+    "match": "damian michelier vs lukasz wosinski",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "semi-final-1",
+    "winner": "damian michelier",
+    "loser": "ian garreta",
+    "match": "ian garreta vs damian michelier",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "damian michelier",
+    "match": "ian garreta vs damian michelier",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "damian michelier",
+    "match": "ian garreta vs damian michelier",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "semi-final-2",
+    "winner": "maxime mesnil",
+    "loser": "lukasz wosinski",
+    "match": "maxime mesnil vs lukasz wosinski",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "semi-final-2",
+    "winner": "maxime mesnil",
+    "loser": "lukasz wosinski",
+    "match": "maxime mesnil vs lukasz wosinski",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-1",
+    "winner": "szymon jabłkowski",
+    "loser": "ian garreta",
+    "match": "ian garreta vs szymon jabłkowski",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-1",
+    "winner": "ian garreta",
+    "loser": "szymon jabłkowski",
+    "match": "ian garreta vs szymon jabłkowski",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-1",
+    "winner": "ian garreta",
+    "loser": "szymon jabłkowski",
+    "match": "ian garreta vs szymon jabłkowski",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-2",
+    "winner": "maxime mesnil",
+    "loser": "lennard bal",
+    "match": "maxime mesnil vs lennard bal",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-2",
+    "winner": "maxime mesnil",
+    "loser": "lennard bal",
+    "match": "maxime mesnil vs lennard bal",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "damian michelier",
+    "match": "damian michelier vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-3",
+    "winner": "damian michelier",
+    "loser": "pauline courtois",
+    "match": "damian michelier vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-3",
+    "winner": "damian michelier",
+    "loser": "pauline courtois",
+    "match": "damian michelier vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-4",
+    "winner": "lukasz wosinski",
+    "loser": "aurelien pierroz",
+    "match": "lukasz wosinski vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-4",
+    "winner": "aurelien pierroz",
+    "loser": "lukasz wosinski",
+    "match": "lukasz wosinski vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "quarter-final-4",
+    "winner": "lukasz wosinski",
+    "loser": "aurelien pierroz",
+    "match": "lukasz wosinski vs aurelien pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "damian michelier",
+    "match": "aurelien pierroz vs damian michelier",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "maxime mesnil",
+    "match": "aurelien pierroz vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "pauline courtois",
+    "match": "aurelien pierroz vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ruairi finnegan",
+    "match": "aurelien pierroz vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "martin allix",
+    "match": "aurelien pierroz vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "szymon jabłkowski",
+    "match": "aurelien pierroz vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "sylvain escurat",
+    "match": "aurelien pierroz vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lars huckstadt",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "damian michelier",
+    "match": "damian michelier vs maxime mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "damian michelier",
+    "match": "damian michelier vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "pauline courtois",
+    "match": "damian michelier vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "ruairi finnegan",
+    "match": "damian michelier vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "lennard bal",
+    "match": "damian michelier vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "martin allix",
+    "match": "damian michelier vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "szymon jabłkowski",
+    "match": "damian michelier vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "sylvain escurat",
+    "match": "damian michelier vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "lukasz wosinski",
+    "match": "damian michelier vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "lars huckstadt",
+    "match": "damian michelier vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "ian garreta",
+    "match": "maxime mesnil vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "ruairi finnegan",
+    "match": "maxime mesnil vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "lennard bal",
+    "match": "maxime mesnil vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "martin allix",
+    "match": "maxime mesnil vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "szymon jabłkowski",
+    "match": "maxime mesnil vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "sylvain escurat",
+    "match": "maxime mesnil vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "maxime mesnil",
+    "match": "maxime mesnil vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "maxime mesnil",
+    "loser": "lars huckstadt",
+    "match": "maxime mesnil vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "pauline courtois",
+    "match": "ian garreta vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "ruairi finnegan",
+    "match": "ian garreta vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "lennard bal",
+    "match": "ian garreta vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "martin allix",
+    "match": "ian garreta vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "szymon jabłkowski",
+    "match": "ian garreta vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "sylvain escurat",
+    "loser": "ian garreta",
+    "match": "ian garreta vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "lukasz wosinski",
+    "match": "ian garreta vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "lars huckstadt",
+    "match": "ian garreta vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ruairi finnegan",
+    "match": "pauline courtois vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "martin allix",
+    "match": "pauline courtois vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "szymon jabłkowski",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sylvain escurat",
+    "match": "pauline courtois vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lukasz wosinski",
+    "match": "pauline courtois vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lars huckstadt",
+    "match": "pauline courtois vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs lennard bal",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "szymon jabłkowski",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "sylvain escurat",
+    "match": "ruairi finnegan vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "lars huckstadt",
+    "match": "ruairi finnegan vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "martin allix",
+    "match": "lennard bal vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "szymon jabłkowski",
+    "loser": "lennard bal",
+    "match": "lennard bal vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "sylvain escurat",
+    "loser": "lennard bal",
+    "match": "lennard bal vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "lennard bal",
+    "match": "lennard bal vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lennard bal",
+    "loser": "lars huckstadt",
+    "match": "lennard bal vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "szymon jabłkowski",
+    "match": "martin allix vs szymon jabłkowski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "sylvain escurat",
+    "match": "martin allix vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "martin allix",
+    "match": "martin allix vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "lars huckstadt",
+    "match": "martin allix vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "szymon jabłkowski",
+    "loser": "sylvain escurat",
+    "match": "szymon jabłkowski vs sylvain escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "szymon jabłkowski",
+    "match": "szymon jabłkowski vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "szymon jabłkowski",
+    "loser": "lars huckstadt",
+    "match": "szymon jabłkowski vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "sylvain escurat",
+    "match": "sylvain escurat vs lukasz wosinski",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "sylvain escurat",
+    "loser": "lars huckstadt",
+    "match": "sylvain escurat vs lars huckstadt",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup / EUROSAF Open Championships",
+    "phase": "round-robin",
+    "winner": "lukasz wosinski",
+    "loser": "lars huckstadt",
+    "match": "lukasz wosinski vs lars huckstadt",
+    "race": 0
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "phil robertson",
+    "loser": "jeppe borch",
+    "match": "phil robertson vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "jeppe borch",
+    "loser": "phil robertson",
+    "match": "phil robertson vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "phil robertson",
+    "loser": "jeppe borch",
+    "match": "phil robertson vs jeppe borch",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "phil robertson",
+    "loser": "taylor canfield",
+    "match": "phil robertson vs taylor canfield",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "phil robertson",
+    "loser": "taylor canfield",
+    "match": "phil robertson vs taylor canfield",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "ian williams",
+    "match": "ian williams vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "ian williams",
+    "match": "ian williams vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "ian williams vs eric monnin",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "phil robertson",
+    "loser": "torvar mirsky",
+    "match": "phil robertson vs torvar mirsky",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "phil robertson",
+    "loser": "torvar mirsky",
+    "match": "phil robertson vs torvar mirsky",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "phil robertson",
+    "loser": "torvar mirsky",
+    "match": "phil robertson vs torvar mirsky",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "johnie berntsson",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "nicklas dackhammar",
+    "loser": "jelmer van beek",
+    "match": "nicklas dackhammar vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "nicklas dackhammar",
+    "loser": "mati sepp",
+    "match": "nicklas dackhammar vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "lance fraser",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "nicklas dackhammar",
+    "loser": "anna ostling",
+    "match": "nicklas dackhammar vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "nicklas dackhammar",
+    "loser": "matt whitfield",
+    "match": "nicklas dackhammar vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "jelmer van beek",
+    "match": "johnie berntsson vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "mati sepp",
+    "match": "johnie berntsson vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "lance fraser",
+    "match": "johnie berntsson vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "anna ostling",
+    "match": "johnie berntsson vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "matt whitfield",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "jelmer van beek",
+    "match": "jeppe borch vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "lance fraser",
+    "match": "jeppe borch vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "anna ostling",
+    "match": "jeppe borch vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jeppe borch",
+    "loser": "matt whitfield",
+    "match": "jeppe borch vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jelmer van beek",
+    "loser": "mati sepp",
+    "match": "jelmer van beek vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "lance fraser",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "jelmer van beek",
+    "loser": "anna ostling",
+    "match": "jelmer van beek vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "matt whitfield",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "lance fraser",
+    "loser": "mati sepp",
+    "match": "mati sepp vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "anna ostling",
+    "loser": "mati sepp",
+    "match": "mati sepp vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "mati sepp",
+    "loser": "matt whitfield",
+    "match": "mati sepp vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "anna ostling",
+    "loser": "lance fraser",
+    "match": "lance fraser vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "matt whitfield",
+    "loser": "lance fraser",
+    "match": "lance fraser vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "repechage",
+    "winner": "anna ostling",
+    "loser": "matt whitfield",
+    "match": "anna ostling vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "mati sepp",
+    "match": "ian williams vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "jelmer van beek",
+    "match": "ian williams vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "torvar mirsky",
+    "match": "ian williams vs torvar mirsky",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "lance fraser",
+    "match": "ian williams vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "ian williams",
+    "loser": "pauline courtois",
+    "match": "ian williams vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "mati sepp",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jelmer van beek",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "taylor canfield",
+    "loser": "jeppe borch",
+    "match": "taylor canfield vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs torvar mirsky",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "taylor canfield",
+    "loser": "lance fraser",
+    "match": "taylor canfield vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "taylor canfield",
+    "loser": "pauline courtois",
+    "match": "taylor canfield vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jelmer van beek",
+    "loser": "mati sepp",
+    "match": "mati sepp vs jelmer van beek",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "mati sepp",
+    "match": "mati sepp vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "mati sepp",
+    "match": "mati sepp vs torvar mirsky",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "mati sepp",
+    "loser": "lance fraser",
+    "match": "mati sepp vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "mati sepp",
+    "loser": "pauline courtois",
+    "match": "mati sepp vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs torvar mirsky",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "lance fraser",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jelmer van beek",
+    "loser": "pauline courtois",
+    "match": "jelmer van beek vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs torvar mirsky",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "lance fraser",
+    "match": "jeppe borch vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "jeppe borch",
+    "loser": "pauline courtois",
+    "match": "jeppe borch vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "lance fraser",
+    "match": "torvar mirsky vs lance fraser",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "torvar mirsky",
+    "loser": "pauline courtois",
+    "match": "torvar mirsky vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-2",
+    "winner": "lance fraser",
+    "loser": "pauline courtois",
+    "match": "lance fraser vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs phil robertson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "nicklas dackhammar",
+    "match": "eric monnin vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "johnie berntsson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "matt whitfield",
+    "match": "eric monnin vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "anna ostling",
+    "match": "eric monnin vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "eric monnin",
+    "loser": "kelsey durham",
+    "match": "eric monnin vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "nicklas dackhammar",
+    "match": "phil robertson vs nicklas dackhammar",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "phil robertson",
+    "match": "phil robertson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "johnie berntsson",
+    "match": "phil robertson vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "matt whitfield",
+    "match": "phil robertson vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "anna ostling",
+    "match": "phil robertson vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "phil robertson",
+    "loser": "kelsey durham",
+    "match": "phil robertson vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "nicklas dackhammar",
+    "loser": "johnie berntsson",
+    "match": "nicklas dackhammar vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "nicklas dackhammar",
+    "loser": "matt whitfield",
+    "match": "nicklas dackhammar vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "nicklas dackhammar",
+    "loser": "anna ostling",
+    "match": "nicklas dackhammar vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "nicklas dackhammar",
+    "loser": "kelsey durham",
+    "match": "nicklas dackhammar vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "chris poole vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "matt whitfield",
+    "match": "chris poole vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "anna ostling",
+    "match": "chris poole vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "chris poole",
+    "loser": "kelsey durham",
+    "match": "chris poole vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "johnie berntsson",
+    "loser": "matt whitfield",
+    "match": "johnie berntsson vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "johnie berntsson",
+    "loser": "anna ostling",
+    "match": "johnie berntsson vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "johnie berntsson",
+    "loser": "kelsey durham",
+    "match": "johnie berntsson vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "anna ostling",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "matt whitfield",
+    "loser": "kelsey durham",
+    "match": "matt whitfield vs kelsey durham",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup / Match Racing World Championships",
+    "phase": "group-1",
+    "winner": "anna ostling",
+    "loser": "kelsey durham",
+    "match": "anna ostling vs kelsey durham",
+    "race": 0
+  }
+]

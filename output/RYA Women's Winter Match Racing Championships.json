@@ -1,0 +1,506 @@
+[
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "final",
+    "winner": "Josie Gliddon",
+    "loser": "Sarah Jarman",
+    "match": "Josie Gliddon vs Sarah Jarman",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "final",
+    "winner": "Sarah Jarman",
+    "loser": "Josie Gliddon",
+    "match": "Josie Gliddon vs Sarah Jarman",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "final",
+    "winner": "Sarah Jarman",
+    "loser": "Josie Gliddon",
+    "match": "Josie Gliddon vs Sarah Jarman",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Ruby Sunderland vs Amber Hale",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Ruby Sunderland vs Amber Hale",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Ella Brown",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Ella Brown",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Ella Brown",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Ella Brown",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Heather Quinn",
+    "loser": "Sarah Jarman",
+    "match": "Heather Quinn vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Heather Quinn",
+    "loser": "Ella Brown",
+    "match": "Heather Quinn vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Lucy Gates",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Sarah Jarman",
+    "match": "Amber Hale vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Ella Brown",
+    "match": "Amber Hale vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Lucy Gates",
+    "match": "Amber Hale vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Sarah Jarman",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Ella Brown",
+    "match": "Ruby Sunderland vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Lucy Gates",
+    "match": "Ruby Sunderland vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Sarah Jarman",
+    "match": "Josie Gliddon vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Ella Brown",
+    "match": "Josie Gliddon vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Lucy Gates",
+    "match": "Josie Gliddon vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Sarah Jarman",
+    "loser": "Ella Brown",
+    "match": "Sarah Jarman vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Sarah Jarman",
+    "loser": "Lucy Gates",
+    "match": "Sarah Jarman vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ella Brown",
+    "loser": "Lucy Gates",
+    "match": "Ella Brown vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Emily Schonrock",
+    "loser": "Heather Quinn",
+    "match": "Emily Schonrock vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Amber Hale",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ruby Sunderland",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Josie Gliddon",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Sarah Jarman",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Ella Brown",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-2",
+    "winner": "Emily Schonrock",
+    "loser": "Lucy Gates",
+    "match": "Emily Schonrock vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Sarah Jarman",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Heather Quinn",
+    "loser": "Ella Brown",
+    "match": "Heather Quinn vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Heather Quinn",
+    "loser": "Lucy Gates",
+    "match": "Heather Quinn vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Josie Gliddon",
+    "match": "Amber Hale vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Sarah Jarman",
+    "loser": "Amber Hale",
+    "match": "Amber Hale vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Ella Brown",
+    "match": "Amber Hale vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Lucy Gates",
+    "match": "Amber Hale vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Ruby Sunderland",
+    "match": "Ruby Sunderland vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Sarah Jarman",
+    "match": "Ruby Sunderland vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Ella Brown",
+    "match": "Ruby Sunderland vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Lucy Gates",
+    "match": "Ruby Sunderland vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Sarah Jarman",
+    "match": "Josie Gliddon vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Ella Brown",
+    "match": "Josie Gliddon vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Lucy Gates",
+    "match": "Josie Gliddon vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Sarah Jarman",
+    "loser": "Ella Brown",
+    "match": "Sarah Jarman vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Lucy Gates",
+    "loser": "Sarah Jarman",
+    "match": "Sarah Jarman vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ella Brown",
+    "loser": "Lucy Gates",
+    "match": "Ella Brown vs Lucy Gates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Heather Quinn",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Amber Hale",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Amber Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ruby Sunderland",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Ruby Sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Josie Gliddon",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Josie Gliddon",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Emily Schonrock",
+    "loser": "Sarah Jarman",
+    "match": "Emily Schonrock vs Sarah Jarman",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Ella Brown",
+    "loser": "Emily Schonrock",
+    "match": "Emily Schonrock vs Ella Brown",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's Winter Match Racing Championships",
+    "phase": "round-robin-1",
+    "winner": "Emily Schonrock",
+    "loser": "Lucy Gates",
+    "match": "Emily Schonrock vs Lucy Gates",
+    "race": 0
+  }
+]

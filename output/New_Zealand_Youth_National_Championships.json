@@ -1,0 +1,402 @@
+[
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "albert stanley",
+    "loser": "will wright",
+    "match": "will wright vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "albert stanley",
+    "loser": "will wright",
+    "match": "will wright vs albert stanley",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "albert stanley",
+    "loser": "will wright",
+    "match": "will wright vs albert stanley",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "petit-final",
+    "winner": "robbie mccutcheon",
+    "loser": "nial malone",
+    "match": "robbie mccutcheon vs nial malone",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "petit-final",
+    "winner": "robbie mccutcheon",
+    "loser": "nial malone",
+    "match": "robbie mccutcheon vs nial malone",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "nial malone",
+    "loser": "will wright",
+    "match": "will wright vs nial malone",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "will wright",
+    "loser": "nial malone",
+    "match": "will wright vs nial malone",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "will wright",
+    "loser": "nial malone",
+    "match": "will wright vs nial malone",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "albert stanley",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "albert stanley",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs albert stanley",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thompson",
+    "match": "megan thompson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "will wright",
+    "loser": "megan thompson",
+    "match": "megan thompson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "megan thompson",
+    "loser": "luke armstrong",
+    "match": "megan thompson vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "albert stanley",
+    "loser": "nial malone",
+    "match": "nial malone vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "nial malone",
+    "loser": "brad salthouse",
+    "match": "nial malone vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "nial malone",
+    "loser": "max mclachan",
+    "match": "nial malone vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "albert stanley",
+    "loser": "brad salthouse",
+    "match": "albert stanley vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "max mclachan",
+    "loser": "albert stanley",
+    "match": "albert stanley vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "will wright",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "luke armstrong",
+    "match": "robbie mccutcheon vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "will wright",
+    "loser": "luke armstrong",
+    "match": "will wright vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-2",
+    "winner": "max mclachan",
+    "loser": "brad salthouse",
+    "match": "brad salthouse vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "nial malone",
+    "loser": "megan thompson",
+    "match": "megan thompson vs nial malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thompson",
+    "loser": "robbie mccutcheon",
+    "match": "megan thompson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thompson",
+    "loser": "max mclachan",
+    "match": "megan thompson vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thompson",
+    "loser": "brad salthouse",
+    "match": "megan thompson vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thompson",
+    "loser": "luke armstrong",
+    "match": "megan thompson vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "albert stanley",
+    "loser": "megan thompson",
+    "match": "megan thompson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "megan thompson",
+    "match": "megan thompson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "nial malone",
+    "match": "nial malone vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "nial malone",
+    "loser": "max mclachan",
+    "match": "nial malone vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "nial malone",
+    "loser": "brad salthouse",
+    "match": "nial malone vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "nial malone",
+    "loser": "luke armstrong",
+    "match": "nial malone vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "albert stanley",
+    "loser": "nial malone",
+    "match": "nial malone vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "nial malone",
+    "match": "nial malone vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "max mclachan",
+    "match": "robbie mccutcheon vs max mclachan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "brad salthouse",
+    "match": "robbie mccutcheon vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "luke armstrong",
+    "match": "robbie mccutcheon vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "albert stanley",
+    "match": "robbie mccutcheon vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "max mclachan",
+    "loser": "brad salthouse",
+    "match": "max mclachan vs brad salthouse",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "max mclachan",
+    "loser": "luke armstrong",
+    "match": "max mclachan vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "albert stanley",
+    "loser": "max mclachan",
+    "match": "max mclachan vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "max mclachan",
+    "match": "max mclachan vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "luke armstrong",
+    "loser": "brad salthouse",
+    "match": "brad salthouse vs luke armstrong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "albert stanley",
+    "loser": "brad salthouse",
+    "match": "brad salthouse vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "brad salthouse",
+    "match": "brad salthouse vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "albert stanley",
+    "loser": "luke armstrong",
+    "match": "luke armstrong vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "luke armstrong",
+    "match": "luke armstrong vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin-1",
+    "winner": "will wright",
+    "loser": "albert stanley",
+    "match": "albert stanley vs will wright",
+    "race": 0
+  }
+]

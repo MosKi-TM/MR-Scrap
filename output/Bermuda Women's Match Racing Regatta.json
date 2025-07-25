@@ -1,0 +1,514 @@
+[
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "final",
+    "winner": "Anna Östling",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "Lea Vogelius",
+    "loser": "Kristine Mauritzen",
+    "match": "Lea Vogelius vs Kristine Mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Lea Vogelius",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Lea Vogelius",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Lea Vogelius",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Lea Vogelius",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Lea Vogelius",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Julia Aartsen",
+    "loser": "Juliet Costanzo",
+    "match": "Julia Aartsen vs Juliet Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Sophie Otter",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Sophie Otter",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Julia Aartsen",
+    "loser": "Sophie Otter",
+    "match": "Julia Aartsen vs Sophie Otter",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Julia Aartsen",
+    "loser": "Sophie Otter",
+    "match": "Julia Aartsen vs Sophie Otter",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "5th-to-8th-(b)",
+    "winner": "Juliet Costanzo",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Juliet Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "5th-to-8th-(b)",
+    "winner": "Juliet Costanzo",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Juliet Costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "Kristine Mauritzen",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "Kristine Mauritzen",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "Julia Aartsen",
+    "loser": "Kristine Mauritzen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "Julia Aartsen",
+    "loser": "Kristine Mauritzen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "Kristine Mauritzen",
+    "loser": "Julia Aartsen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Sophie Otter",
+    "match": "Pauline Courtois vs Sophie Otter",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Sophie Otter",
+    "match": "Pauline Courtois vs Sophie Otter",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Sophie Otter",
+    "match": "Pauline Courtois vs Sophie Otter",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "Juliet Costanzo",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "Juliet Costanzo",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "Megan Thomson",
+    "loser": "Lea Vogelius",
+    "match": "Lea Vogelius vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "Megan Thomson",
+    "loser": "Lea Vogelius",
+    "match": "Lea Vogelius vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "Lea Vogelius",
+    "loser": "Megan Thomson",
+    "match": "Lea Vogelius vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "Lea Vogelius",
+    "loser": "Megan Thomson",
+    "match": "Lea Vogelius vs Megan Thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "Lea Vogelius",
+    "loser": "Megan Thomson",
+    "match": "Lea Vogelius vs Megan Thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Julia Aartsen",
+    "match": "Pauline Courtois vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Kristine Mauritzen",
+    "match": "Pauline Courtois vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Juliet Costanzo",
+    "match": "Pauline Courtois vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Anna Östling",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Julia Aartsen",
+    "match": "Megan Thomson vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Juliet Costanzo",
+    "match": "Megan Thomson vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Anna Östling",
+    "loser": "Julia Aartsen",
+    "match": "Anna Östling vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Anna Östling",
+    "loser": "Kristine Mauritzen",
+    "match": "Anna Östling vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Julia Aartsen",
+    "match": "Lea Vogelius vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Kristine Mauritzen",
+    "match": "Lea Vogelius vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Juliet Costanzo",
+    "match": "Lea Vogelius vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Julia Aartsen",
+    "loser": "Kristine Mauritzen",
+    "match": "Julia Aartsen vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Julia Aartsen",
+    "loser": "Juliet Costanzo",
+    "match": "Julia Aartsen vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Juliet Costanzo",
+    "match": "Kristine Mauritzen vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Anna Östling",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Julia Aartsen",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Julia Aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Women's Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "Juliet Costanzo",
+    "loser": "Sophie Otter",
+    "match": "Sophie Otter vs Juliet Costanzo",
+    "race": 0
+  }
+]

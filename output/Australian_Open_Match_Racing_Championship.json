@@ -1,0 +1,530 @@
+[
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "harry price",
+    "match": "harry price vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "harry price",
+    "match": "harry price vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "harry price",
+    "match": "harry price vs james hodgson",
+    "race": 4
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "jordan stevenson",
+    "loser": "klade hauschildt",
+    "match": "jordan stevenson vs klade hauschildt",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "jordan stevenson",
+    "loser": "klade hauschildt",
+    "match": "jordan stevenson vs klade hauschildt",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "klade hauschildt",
+    "match": "harry price vs klade hauschildt",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "klade hauschildt",
+    "match": "harry price vs klade hauschildt",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "clare costanzo",
+    "match": "harry price vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "jordan stevenson",
+    "match": "harry price vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "celia willison",
+    "match": "harry price vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "olivia price",
+    "match": "harry price vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "klade hauschildt",
+    "match": "harry price vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "chris jones",
+    "match": "harry price vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "jordan stevenson",
+    "match": "clare costanzo vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "celia willison",
+    "match": "clare costanzo vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "olivia price",
+    "match": "clare costanzo vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "klade hauschildt",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "clare costanzo",
+    "loser": "chris jones",
+    "match": "clare costanzo vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "james hodgson",
+    "match": "james hodgson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "olivia price",
+    "match": "james hodgson vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "klade hauschildt",
+    "match": "james hodgson vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "james hodgson",
+    "loser": "chris jones",
+    "match": "james hodgson vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "celia willison",
+    "match": "jordan stevenson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "olivia price",
+    "match": "jordan stevenson vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "klade hauschildt",
+    "match": "jordan stevenson vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jordan stevenson",
+    "loser": "chris jones",
+    "match": "jordan stevenson vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "olivia price",
+    "match": "celia willison vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "klade hauschildt",
+    "loser": "celia willison",
+    "match": "celia willison vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "chris jones",
+    "match": "celia willison vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "klade hauschildt",
+    "loser": "olivia price",
+    "match": "olivia price vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "olivia price",
+    "loser": "chris jones",
+    "match": "olivia price vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "klade hauschildt",
+    "loser": "chris jones",
+    "match": "klade hauschildt vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "clare costanzo",
+    "match": "harry price vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "james hodgson",
+    "match": "harry price vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "jordan stevenson",
+    "match": "harry price vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "celia willison",
+    "match": "harry price vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "olivia price",
+    "match": "harry price vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "klade hauschildt",
+    "match": "harry price vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "chris jones",
+    "match": "harry price vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "celia willison",
+    "match": "clare costanzo vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "olivia price",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "klade hauschildt",
+    "match": "clare costanzo vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "clare costanzo",
+    "loser": "chris jones",
+    "match": "clare costanzo vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "james hodgson",
+    "match": "james hodgson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "olivia price",
+    "match": "james hodgson vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "james hodgson",
+    "loser": "klade hauschildt",
+    "match": "james hodgson vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "chris jones",
+    "loser": "james hodgson",
+    "match": "james hodgson vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "celia willison",
+    "match": "jordan stevenson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "olivia price",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "klade hauschildt",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jordan stevenson",
+    "loser": "chris jones",
+    "match": "jordan stevenson vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "olivia price",
+    "loser": "celia willison",
+    "match": "celia willison vs olivia price",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "klade hauschildt",
+    "loser": "celia willison",
+    "match": "celia willison vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "chris jones",
+    "match": "celia willison vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "olivia price",
+    "loser": "klade hauschildt",
+    "match": "olivia price vs klade hauschildt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "olivia price",
+    "loser": "chris jones",
+    "match": "olivia price vs chris jones",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "klade hauschildt",
+    "loser": "chris jones",
+    "match": "klade hauschildt vs chris jones",
+    "race": 0
+  }
+]

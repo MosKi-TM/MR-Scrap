@@ -1,0 +1,218 @@
+[
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "final",
+    "winner": "murray jones",
+    "loser": "george anyon",
+    "match": "murray jones vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "murray jones",
+    "match": "murray jones vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "murray jones",
+    "match": "murray jones vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "petit-final",
+    "winner": "will eastman",
+    "loser": "will dargaville",
+    "match": "will eastman vs will dargaville",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "petit-final",
+    "winner": "will dargaville",
+    "loser": "will eastman",
+    "match": "will eastman vs will dargaville",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "petit-final",
+    "winner": "will eastman",
+    "loser": "will dargaville",
+    "match": "will eastman vs will dargaville",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-1",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "george anyon vs will dargaville",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-1",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "george anyon vs will dargaville",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-1",
+    "winner": "will dargaville",
+    "loser": "george anyon",
+    "match": "george anyon vs will dargaville",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-1",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "george anyon vs will dargaville",
+    "race": 4
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-2",
+    "winner": "murray jones",
+    "loser": "will eastman",
+    "match": "murray jones vs will eastman",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-2",
+    "winner": "murray jones",
+    "loser": "will eastman",
+    "match": "murray jones vs will eastman",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-2",
+    "winner": "will eastman",
+    "loser": "murray jones",
+    "match": "murray jones vs will eastman",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "semi-final-2",
+    "winner": "murray jones",
+    "loser": "will eastman",
+    "match": "murray jones vs will eastman",
+    "race": 4
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-1",
+    "winner": "murray jones",
+    "loser": "clare costanzo",
+    "match": "murray jones vs clare costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-1",
+    "winner": "murray jones",
+    "loser": "clare costanzo",
+    "match": "murray jones vs clare costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-1",
+    "winner": "murray jones",
+    "loser": "clare costanzo",
+    "match": "murray jones vs clare costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-2",
+    "winner": "will eastman",
+    "loser": "tom picot",
+    "match": "will eastman vs tom picot",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-2",
+    "winner": "will eastman",
+    "loser": "tom picot",
+    "match": "will eastman vs tom picot",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-2",
+    "winner": "will eastman",
+    "loser": "tom picot",
+    "match": "will eastman vs tom picot",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-3",
+    "winner": "george anyon",
+    "loser": "cyril fortin",
+    "match": "george anyon vs cyril fortin",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-3",
+    "winner": "george anyon",
+    "loser": "cyril fortin",
+    "match": "george anyon vs cyril fortin",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-3",
+    "winner": "george anyon",
+    "loser": "cyril fortin",
+    "match": "george anyon vs cyril fortin",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-4",
+    "winner": "will dargaville",
+    "loser": "matthew hughes",
+    "match": "will dargaville vs matthew hughes",
+    "race": 1
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-4",
+    "winner": "matthew hughes",
+    "loser": "will dargaville",
+    "match": "will dargaville vs matthew hughes",
+    "race": 2
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-4",
+    "winner": "will dargaville",
+    "loser": "matthew hughes",
+    "match": "will dargaville vs matthew hughes",
+    "race": 3
+  },
+  {
+    "regatta": "Nespresso Youth International",
+    "phase": "quarter-final-4",
+    "winner": "will dargaville",
+    "loser": "matthew hughes",
+    "match": "will dargaville vs matthew hughes",
+    "race": 4
+  }
+]

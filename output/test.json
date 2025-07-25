@@ -1,0 +1,1034 @@
+[
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "ian williams",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "ian williams",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 5
+  },
+  {
+    "regatta": "test",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 6
+  },
+  {
+    "regatta": "test",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "ian garreta",
+    "match": "ian garreta vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "ian garreta",
+    "match": "ian garreta vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "ian garreta",
+    "match": "ian garreta vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "nick egnot-johnson",
+    "match": "ian garreta vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "ian garreta",
+    "match": "ian garreta vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "nick egnot-johnson",
+    "match": "ian garreta vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "ian garreta",
+    "match": "ian garreta vs nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-2",
+    "winner": "aurelien pierroz",
+    "loser": "ian williams",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-1",
+    "winner": "cole tapper",
+    "loser": "ian garreta",
+    "match": "ian garreta vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-1",
+    "winner": "ian garreta",
+    "loser": "cole tapper",
+    "match": "ian garreta vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-1",
+    "winner": "ian garreta",
+    "loser": "cole tapper",
+    "match": "ian garreta vs cole tapper",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-1",
+    "winner": "cole tapper",
+    "loser": "ian garreta",
+    "match": "ian garreta vs cole tapper",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-1",
+    "winner": "ian garreta",
+    "loser": "cole tapper",
+    "match": "ian garreta vs cole tapper",
+    "race": 5
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-2",
+    "winner": "aurelien pierroz",
+    "loser": "eric monnin",
+    "match": "eric monnin vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-2",
+    "winner": "aurelien pierroz",
+    "loser": "eric monnin",
+    "match": "eric monnin vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-2",
+    "winner": "eric monnin",
+    "loser": "aurelien pierroz",
+    "match": "eric monnin vs aurelien pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-2",
+    "winner": "aurelien pierroz",
+    "loser": "eric monnin",
+    "match": "eric monnin vs aurelien pierroz",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-3",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-3",
+    "winner": "nick egnot-johnson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "chris poole vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "chris poole vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-4",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "chris poole vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-4",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "chris poole vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "test",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "chris poole vs ian williams",
+    "race": 5
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "rocco attili",
+    "match": "cole tapper vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "cole tapper",
+    "match": "cole tapper vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "cole tapper",
+    "match": "cole tapper vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "sheng shen",
+    "match": "cole tapper vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "rocco attili",
+    "match": "rocco attili vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "timothee rossi",
+    "match": "rocco attili vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "rocco attili",
+    "match": "rocco attili vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "rocco attili",
+    "match": "rocco attili vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "sheng shen",
+    "match": "rocco attili vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "timothee rossi",
+    "match": "nick egnot-johnson vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "zac west",
+    "match": "nick egnot-johnson vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "sheng shen",
+    "match": "nick egnot-johnson vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "ian williams",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "zac west",
+    "match": "aurelien pierroz vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "aurelien pierroz",
+    "loser": "sheng shen",
+    "match": "aurelien pierroz vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "sheng shen",
+    "match": "timothee rossi vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "zac west",
+    "match": "ian williams vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "ian williams",
+    "loser": "sheng shen",
+    "match": "ian williams vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "sheng shen",
+    "match": "zac west vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "chris poole vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "chris poole vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "cole tapper",
+    "match": "chris poole vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "aurelien pierroz",
+    "match": "chris poole vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "timothee rossi",
+    "match": "chris poole vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "chris poole",
+    "match": "chris poole vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "zac west",
+    "match": "chris poole vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "chris poole vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "sheng shen",
+    "match": "chris poole vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "johnie berntsson",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "eric monnin vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "eric monnin",
+    "match": "eric monnin vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "aurelien pierroz",
+    "match": "eric monnin vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "rocco attili",
+    "match": "eric monnin vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "eric monnin",
+    "match": "eric monnin vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "eric monnin",
+    "match": "eric monnin vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "zac west",
+    "match": "eric monnin vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "ian williams",
+    "match": "eric monnin vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "sheng shen",
+    "match": "eric monnin vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "cole tapper",
+    "match": "johnie berntsson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "aurelien pierroz",
+    "match": "johnie berntsson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "rocco attili",
+    "match": "johnie berntsson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "timothee rossi",
+    "match": "johnie berntsson vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "zac west",
+    "match": "johnie berntsson vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "johnie berntsson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "sheng shen",
+    "match": "johnie berntsson vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "timothee rossi",
+    "match": "nick egnot-johnson vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "zac west",
+    "match": "nick egnot-johnson vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "sheng shen",
+    "match": "nick egnot-johnson vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "cole tapper",
+    "match": "cole tapper vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "rocco attili",
+    "match": "cole tapper vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "ian garreta",
+    "match": "cole tapper vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "cole tapper",
+    "match": "cole tapper vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "sheng shen",
+    "match": "cole tapper vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "timothee rossi",
+    "match": "aurelien pierroz vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ian garreta",
+    "match": "aurelien pierroz vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ian williams",
+    "match": "aurelien pierroz vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "sheng shen",
+    "match": "aurelien pierroz vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "rocco attili",
+    "match": "rocco attili vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "ian garreta",
+    "match": "rocco attili vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "zac west",
+    "match": "rocco attili vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "ian williams",
+    "match": "rocco attili vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "sheng shen",
+    "match": "rocco attili vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "zac west",
+    "match": "timothee rossi vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "ian williams",
+    "match": "timothee rossi vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "sheng shen",
+    "match": "timothee rossi vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "zac west",
+    "match": "ian garreta vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "ian williams",
+    "match": "ian garreta vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian garreta",
+    "loser": "sheng shen",
+    "match": "ian garreta vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "zac west",
+    "match": "zac west vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "sheng shen",
+    "match": "zac west vs sheng shen",
+    "race": 0
+  },
+  {
+    "regatta": "test",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "sheng shen",
+    "match": "ian williams vs sheng shen",
+    "race": 0
+  }
+]

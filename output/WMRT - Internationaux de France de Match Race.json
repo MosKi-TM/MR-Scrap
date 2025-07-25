@@ -1,0 +1,754 @@
+[
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "final",
+    "winner": "Simon Bertheau",
+    "loser": "Eric Monin",
+    "match": "Eric Monin vs Simon Bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "final",
+    "winner": "Simon Bertheau",
+    "loser": "Eric Monin",
+    "match": "Eric Monin vs Simon Bertheau",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "final",
+    "winner": "Simon Bertheau",
+    "loser": "Eric Monin",
+    "match": "Eric Monin vs Simon Bertheau",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "petit-final",
+    "winner": "Damian Michelier",
+    "loser": "Rocco Attili",
+    "match": "Damian Michelier vs Rocco Attili",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "petit-final",
+    "winner": "Rocco Attili",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Rocco Attili",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "petit-final",
+    "winner": "Damian Michelier",
+    "loser": "Rocco Attili",
+    "match": "Damian Michelier vs Rocco Attili",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Simon Bertheau vs Damian Michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-1",
+    "winner": "Damian Michelier",
+    "loser": "Simon Bertheau",
+    "match": "Simon Bertheau vs Damian Michelier",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Simon Bertheau vs Damian Michelier",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Simon Bertheau vs Damian Michelier",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-2",
+    "winner": "Eric Monin",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Eric Monin",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-2",
+    "winner": "Eric Monin",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Eric Monin",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-2",
+    "winner": "Rocco Attili",
+    "loser": "Eric Monin",
+    "match": "Rocco Attili vs Eric Monin",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "semi-final-2",
+    "winner": "Eric Monin",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Eric Monin",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "5th-/-6th",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ian Garetta",
+    "match": "Aurelien Pierroz vs Ian Garetta",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "7th-/-8th",
+    "winner": "Ian Garetta",
+    "loser": "Thimothé Rossi",
+    "match": "Ian Garetta vs Thimothé Rossi",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "9th-/-10th",
+    "winner": "Thimothé Rossi",
+    "loser": "Ruairi Finnegan",
+    "match": "Thimothé Rossi vs Ruairi Finnegan",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "10th-/-11th",
+    "winner": "Ruairi Finnegan",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Ruairi Finnegan",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "11th-/-12th",
+    "winner": "Ruairi Finnegan",
+    "loser": "Lennard Bal",
+    "match": "Lennard Bal vs Ruairi Finnegan",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-1",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Mathieu Durand vs Damian Michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-1",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Mathieu Durand vs Damian Michelier",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-2",
+    "winner": "Eric Monin",
+    "loser": "Thimothé Rossi",
+    "match": "Thimothé Rossi vs Eric Monin",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-2",
+    "winner": "Eric Monin",
+    "loser": "Thimothé Rossi",
+    "match": "Thimothé Rossi vs Eric Monin",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-3",
+    "winner": "Aurelien Pierroz",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Aurelien Pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-3",
+    "winner": "Rocco Attili",
+    "loser": "Aurelien Pierroz",
+    "match": "Rocco Attili vs Aurelien Pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-3",
+    "winner": "Rocco Attili",
+    "loser": "Aurelien Pierroz",
+    "match": "Rocco Attili vs Aurelien Pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-4",
+    "winner": "Simon Bertheau",
+    "loser": "Ian Garetta",
+    "match": "Simon Bertheau vs Ian Garetta",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "quarter-final-4",
+    "winner": "Simon Bertheau",
+    "loser": "Ian Garetta",
+    "match": "Simon Bertheau vs Ian Garetta",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Eric Monin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Thimothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Ian Garetta",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Aurelien Pierroz",
+    "match": "Rocco Attili vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Ruairi Finnegan",
+    "match": "Rocco Attili vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Lennard Bal",
+    "match": "Rocco Attili vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Ben Tylecote",
+    "match": "Rocco Attili vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Simon Bertheau",
+    "match": "Rocco Attili vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Damian Michelier",
+    "match": "Eric Monin vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Eric Monin",
+    "match": "Eric Monin vs Thimothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Ian Garetta",
+    "match": "Eric Monin vs Ian Garetta",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Aurelien Pierroz",
+    "match": "Eric Monin vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Ruairi Finnegan",
+    "match": "Eric Monin vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Lennard Bal",
+    "match": "Eric Monin vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Ben Tylecote",
+    "match": "Eric Monin vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Eric Monin",
+    "loser": "Mathieu Durand",
+    "match": "Eric Monin vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Simon Bertheau",
+    "loser": "Eric Monin",
+    "match": "Eric Monin vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Thimothé Rossi",
+    "match": "Damian Michelier vs Thimothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Ian Garetta",
+    "match": "Damian Michelier vs Ian Garetta",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Aurelien Pierroz",
+    "match": "Damian Michelier vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Ruairi Finnegan",
+    "match": "Damian Michelier vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Lennard Bal",
+    "match": "Damian Michelier vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Ben Tylecote",
+    "match": "Damian Michelier vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Simon Bertheau",
+    "match": "Damian Michelier vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Thimothé Rossi",
+    "match": "Thimothé Rossi vs Ian Garetta",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Aurelien Pierroz",
+    "match": "Thimothé Rossi vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Ruairi Finnegan",
+    "match": "Thimothé Rossi vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Lennard Bal",
+    "match": "Thimothé Rossi vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Thimothé Rossi",
+    "match": "Thimothé Rossi vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Thimothé Rossi",
+    "match": "Thimothé Rossi vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Simon Bertheau",
+    "match": "Thimothé Rossi vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Aurelien Pierroz",
+    "match": "Ian Garetta vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Ruairi Finnegan",
+    "match": "Ian Garetta vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Ian Garetta",
+    "match": "Ian Garetta vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Ben Tylecote",
+    "match": "Ian Garetta vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Mathieu Durand",
+    "match": "Ian Garetta vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Simon Bertheau",
+    "match": "Ian Garetta vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Lennard Bal",
+    "match": "Aurelien Pierroz vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ben Tylecote",
+    "match": "Aurelien Pierroz vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Mathieu Durand",
+    "match": "Aurelien Pierroz vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Simon Bertheau",
+    "match": "Aurelien Pierroz vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Simon Bertheau",
+    "match": "Ruairi Finnegan vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Lennard Bal",
+    "match": "Lennard Bal vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Lennard Bal",
+    "match": "Lennard Bal vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Simon Bertheau",
+    "match": "Lennard Bal vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Simon Bertheau",
+    "match": "Ben Tylecote vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Simon Bertheau",
+    "match": "Mathieu Durand vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Pablo Ruiz Ponce",
+    "loser": "Eric Monin",
+    "match": "Pablo Ruiz Ponce vs Eric Monin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Thimothé Rossi",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Thimothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ian Garetta",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Ian Garetta",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT - Internationaux de France de Match Race",
+    "phase": "round-robin",
+    "winner": "Simon Bertheau",
+    "loser": "Pablo Ruiz Ponce",
+    "match": "Pablo Ruiz Ponce vs Simon Bertheau",
+    "race": 0
+  }
+]

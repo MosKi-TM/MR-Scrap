@@ -1,0 +1,322 @@
+[
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "final",
+    "winner": "nicolai sehested",
+    "loser": "eric monnin",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "final",
+    "winner": "nicolai sehested",
+    "loser": "eric monnin",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "final",
+    "winner": "nicolai sehested",
+    "loser": "eric monnin",
+    "match": "nicolai sehested vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "petit-final",
+    "winner": "mark lees",
+    "loser": "david gilmour",
+    "match": "david gilmour vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "mark lees",
+    "match": "david gilmour vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "petit-final",
+    "winner": "mark lees",
+    "loser": "david gilmour",
+    "match": "david gilmour vs mark lees",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "david gilmour vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "david gilmour vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "eric monnin",
+    "match": "david gilmour vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "eric monnin",
+    "match": "david gilmour vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "david gilmour",
+    "match": "david gilmour vs eric monnin",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "mark lees",
+    "match": "nicolai sehested vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "mark lees",
+    "match": "nicolai sehested vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "semi-final-2",
+    "winner": "nicolai sehested",
+    "loser": "mark lees",
+    "match": "nicolai sehested vs mark lees",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "mark lees",
+    "loser": "chris poole",
+    "match": "chris poole vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "mark lees",
+    "loser": "chris poole",
+    "match": "chris poole vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-1",
+    "winner": "mark lees",
+    "loser": "chris poole",
+    "match": "chris poole vs mark lees",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "dustin durant",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "nicolai sehested",
+    "loser": "dustin durant",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "dustin durant",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "nicolai sehested",
+    "loser": "dustin durant",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-2",
+    "winner": "nicolai sehested",
+    "loser": "dustin durant",
+    "match": "nicolai sehested vs dustin durant",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "david gilmour",
+    "loser": "robert hughes",
+    "match": "david gilmour vs robert hughes",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "robert hughes",
+    "loser": "david gilmour",
+    "match": "david gilmour vs robert hughes",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "robert hughes",
+    "loser": "david gilmour",
+    "match": "david gilmour vs robert hughes",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "david gilmour",
+    "loser": "robert hughes",
+    "match": "david gilmour vs robert hughes",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-3",
+    "winner": "david gilmour",
+    "loser": "robert hughes",
+    "match": "david gilmour vs robert hughes",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-4",
+    "winner": "eric monnin",
+    "loser": "chris steele",
+    "match": "eric monnin vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-4",
+    "winner": "eric monnin",
+    "loser": "chris steele",
+    "match": "eric monnin vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "quarter-final-4",
+    "winner": "eric monnin",
+    "loser": "chris steele",
+    "match": "eric monnin vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-1",
+    "winner": "chris steele",
+    "loser": "chantal hearst",
+    "match": "chris steele vs chantal hearst",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-1",
+    "winner": "chris steele",
+    "loser": "chantal hearst",
+    "match": "chris steele vs chantal hearst",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-2",
+    "winner": "dustin durant",
+    "loser": "david storrs",
+    "match": "dustin durant vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-2",
+    "winner": "dustin durant",
+    "loser": "david storrs",
+    "match": "dustin durant vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-3",
+    "winner": "robert hughes",
+    "loser": "stratis andreadis",
+    "match": "robert hughes vs stratis andreadis",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-3",
+    "winner": "robert hughes",
+    "loser": "stratis andreadis",
+    "match": "robert hughes vs stratis andreadis",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-4",
+    "winner": "mark lees",
+    "loser": "ashlen rooklyn",
+    "match": "ashlen rooklyn vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-4",
+    "winner": "ashlen rooklyn",
+    "loser": "mark lees",
+    "match": "ashlen rooklyn vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Oakcliff International",
+    "phase": "repechage-4",
+    "winner": "mark lees",
+    "loser": "ashlen rooklyn",
+    "match": "ashlen rooklyn vs mark lees",
+    "race": 3
+  }
+]

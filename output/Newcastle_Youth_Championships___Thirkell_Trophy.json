@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "cole tapper vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "final",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "cole tapper vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "cole tapper vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "cole tapper vs alistair read",
+    "race": 4
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "petit-final",
+    "winner": "harry miller",
+    "loser": "cam whiteside",
+    "match": "cam whiteside vs harry miller",
+    "race": 1
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "petit-final",
+    "winner": "cam whiteside",
+    "loser": "harry miller",
+    "match": "cam whiteside vs harry miller",
+    "race": 2
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "petit-final",
+    "winner": "cam whiteside",
+    "loser": "harry miller",
+    "match": "cam whiteside vs harry miller",
+    "race": 3
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "semi-final-1",
+    "winner": "alistair read",
+    "loser": "cam whiteside",
+    "match": "alistair read vs cam whiteside",
+    "race": 1
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "semi-final-1",
+    "winner": "alistair read",
+    "loser": "cam whiteside",
+    "match": "alistair read vs cam whiteside",
+    "race": 2
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "harry miller",
+    "match": "cole tapper vs harry miller",
+    "race": 1
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "harry miller",
+    "match": "cole tapper vs harry miller",
+    "race": 2
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "5th-/-6th",
+    "winner": "craig wright",
+    "loser": "joseph ferguson",
+    "match": "joseph ferguson vs craig wright",
+    "race": 1
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "5th-/-6th",
+    "winner": "craig wright",
+    "loser": "joseph ferguson",
+    "match": "joseph ferguson vs craig wright",
+    "race": 2
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "cole tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "harry miller",
+    "match": "cole tapper vs harry miller",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "cam whiteside",
+    "match": "cole tapper vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "craig wright",
+    "match": "cole tapper vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "joseph ferguson",
+    "match": "cole tapper vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "harry miller",
+    "match": "alistair read vs harry miller",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "cam whiteside",
+    "match": "alistair read vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "craig wright",
+    "match": "alistair read vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "joseph ferguson",
+    "match": "alistair read vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cam whiteside",
+    "loser": "harry miller",
+    "match": "harry miller vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "harry miller",
+    "loser": "craig wright",
+    "match": "harry miller vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "harry miller",
+    "loser": "joseph ferguson",
+    "match": "harry miller vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cam whiteside",
+    "loser": "craig wright",
+    "match": "cam whiteside vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "cam whiteside",
+    "loser": "joseph ferguson",
+    "match": "cam whiteside vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-2",
+    "winner": "craig wright",
+    "loser": "joseph ferguson",
+    "match": "craig wright vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "cole tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "harry miller",
+    "match": "cole tapper vs harry miller",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "cam whiteside",
+    "match": "cole tapper vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "craig wright",
+    "match": "cole tapper vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "joseph ferguson",
+    "match": "cole tapper vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "harry miller",
+    "match": "alistair read vs harry miller",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "cam whiteside",
+    "match": "alistair read vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "craig wright",
+    "match": "alistair read vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "joseph ferguson",
+    "match": "alistair read vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cam whiteside",
+    "loser": "harry miller",
+    "match": "harry miller vs cam whiteside",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "harry miller",
+    "loser": "craig wright",
+    "match": "harry miller vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "joseph ferguson",
+    "loser": "harry miller",
+    "match": "harry miller vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cam whiteside",
+    "loser": "craig wright",
+    "match": "cam whiteside vs craig wright",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "cam whiteside",
+    "loser": "joseph ferguson",
+    "match": "cam whiteside vs joseph ferguson",
+    "race": 0
+  },
+  {
+    "regatta": "Newcastle Youth Championships / Thirkell Trophy",
+    "phase": "round-robin-1",
+    "winner": "joseph ferguson",
+    "loser": "craig wright",
+    "match": "craig wright vs joseph ferguson",
+    "race": 0
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "final",
+    "winner": "tamara echegoyen",
+    "loser": "olivia price",
+    "match": "tamara echegoyen vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "final",
+    "winner": "olivia price",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "final",
+    "winner": "tamara echegoyen",
+    "loser": "olivia price",
+    "match": "tamara echegoyen vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "final",
+    "winner": "olivia price",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "final",
+    "winner": "tamara echegoyen",
+    "loser": "olivia price",
+    "match": "tamara echegoyen vs olivia price",
+    "race": 5
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "petit-final",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "petit-final",
+    "winner": "ekaterina skudina",
+    "loser": "silja lehtinen",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "petit-final",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "petit-final",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 4
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "olivia price",
+    "match": "olivia price vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "silja lehtinen",
+    "match": "olivia price vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "silja lehtinen",
+    "match": "olivia price vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-2",
+    "winner": "ekaterina skudina",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "ekaterina skudina",
+    "match": "tamara echegoyen vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "ekaterina skudina",
+    "match": "tamara echegoyen vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "olivia price",
+    "loser": "renee groeneveld",
+    "match": "olivia price vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "renee groeneveld",
+    "loser": "olivia price",
+    "match": "olivia price vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "olivia price",
+    "loser": "renee groeneveld",
+    "match": "olivia price vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "olivia price",
+    "loser": "renee groeneveld",
+    "match": "olivia price vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "silja lehtinen",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 4
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "tamara echegoyen vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "ekaterina skudina vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "ekaterina skudina vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "2012 Olympics – Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "ekaterina skudina vs lucy macgregor",
+    "race": 5
+  }
+]

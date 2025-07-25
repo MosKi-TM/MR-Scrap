@@ -1,0 +1,218 @@
+[
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "final",
+    "winner": "julie bossard",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs julie bossard",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "julie bossard",
+    "match": "lucy macgregor vs julie bossard",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "julie bossard",
+    "match": "lucy macgregor vs julie bossard",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "julie bossard",
+    "match": "lucy macgregor vs julie bossard",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "petit-final",
+    "winner": "steph roble",
+    "loser": "klaartje zuiderbaan",
+    "match": "klaartje zuiderbaan vs steph roble",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "petit-final",
+    "winner": "steph roble",
+    "loser": "klaartje zuiderbaan",
+    "match": "klaartje zuiderbaan vs steph roble",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "klaartje zuiderbaan",
+    "match": "lucy macgregor vs klaartje zuiderbaan",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-1",
+    "winner": "klaartje zuiderbaan",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs klaartje zuiderbaan",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "klaartje zuiderbaan",
+    "match": "lucy macgregor vs klaartje zuiderbaan",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "klaartje zuiderbaan",
+    "match": "lucy macgregor vs klaartje zuiderbaan",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-2",
+    "winner": "julie bossard",
+    "loser": "steph roble",
+    "match": "steph roble vs julie bossard",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-2",
+    "winner": "julie bossard",
+    "loser": "steph roble",
+    "match": "steph roble vs julie bossard",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "semi-final-2",
+    "winner": "julie bossard",
+    "loser": "steph roble",
+    "match": "steph roble vs julie bossard",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "milly bennett",
+    "match": "lucy macgregor vs milly bennett",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "milly bennett",
+    "match": "lucy macgregor vs milly bennett",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "milly bennett",
+    "match": "lucy macgregor vs milly bennett",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-2",
+    "winner": "steph roble",
+    "loser": "claudia pierce",
+    "match": "steph roble vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-2",
+    "winner": "claudia pierce",
+    "loser": "steph roble",
+    "match": "steph roble vs claudia pierce",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-2",
+    "winner": "steph roble",
+    "loser": "claudia pierce",
+    "match": "steph roble vs claudia pierce",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-2",
+    "winner": "steph roble",
+    "loser": "claudia pierce",
+    "match": "steph roble vs claudia pierce",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-3",
+    "winner": "klaartje zuiderbaan",
+    "loser": "caroline sylvan",
+    "match": "klaartje zuiderbaan vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-3",
+    "winner": "klaartje zuiderbaan",
+    "loser": "caroline sylvan",
+    "match": "klaartje zuiderbaan vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-3",
+    "winner": "klaartje zuiderbaan",
+    "loser": "caroline sylvan",
+    "match": "klaartje zuiderbaan vs caroline sylvan",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-4",
+    "winner": "julie bossard",
+    "loser": "anna kjellberg",
+    "match": "julie bossard vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-4",
+    "winner": "julie bossard",
+    "loser": "anna kjellberg",
+    "match": "julie bossard vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-4",
+    "winner": "anna kjellberg",
+    "loser": "julie bossard",
+    "match": "julie bossard vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS St Quay",
+    "phase": "quarter-final-4",
+    "winner": "julie bossard",
+    "loser": "anna kjellberg",
+    "match": "julie bossard vs anna kjellberg",
+    "race": 4
+  }
+]

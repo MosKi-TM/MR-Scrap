@@ -1,0 +1,562 @@
+[
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "final",
+    "winner": "mark lees",
+    "loser": "christian hamilton",
+    "match": "christian hamilton vs mark lees",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "final",
+    "winner": "mark lees",
+    "loser": "christian hamilton",
+    "match": "christian hamilton vs mark lees",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "petit-final",
+    "winner": "tarra gill-taylor",
+    "loser": "matt whitfield",
+    "match": "tarra gill-taylor vs matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-1",
+    "winner": "christian hamilton",
+    "loser": "matt whitfield",
+    "match": "christian hamilton vs matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-1",
+    "winner": "christian hamilton",
+    "loser": "matt whitfield",
+    "match": "christian hamilton vs matt whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-1",
+    "winner": "christian hamilton",
+    "loser": "matt whitfield",
+    "match": "christian hamilton vs matt whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-2",
+    "winner": "mark lees",
+    "loser": "tarra gill-taylor",
+    "match": "mark lees vs tarra gill-taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-2",
+    "winner": "tarra gill-taylor",
+    "loser": "mark lees",
+    "match": "mark lees vs tarra gill-taylor",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-2",
+    "winner": "tarra gill-taylor",
+    "loser": "mark lees",
+    "match": "mark lees vs tarra gill-taylor",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-2",
+    "winner": "mark lees",
+    "loser": "tarra gill-taylor",
+    "match": "mark lees vs tarra gill-taylor",
+    "race": 4
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "semi-final-2",
+    "winner": "mark lees",
+    "loser": "tarra gill-taylor",
+    "match": "mark lees vs tarra gill-taylor",
+    "race": 5
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "joe burns",
+    "loser": "miles jones",
+    "match": "joe burns vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "james pinder",
+    "loser": "joe burns",
+    "match": "joe burns vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "joe burns",
+    "loser": "nicholas wilkinson",
+    "match": "joe burns vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "miles jones",
+    "loser": "james pinder",
+    "match": "miles jones vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "nicholas wilkinson",
+    "loser": "miles jones",
+    "match": "miles jones vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "5th-to-8th-rr",
+    "winner": "james pinder",
+    "loser": "nicholas wilkinson",
+    "match": "james pinder vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-1",
+    "winner": "christian hamilton",
+    "loser": "joe burns",
+    "match": "christian hamilton vs joe burns",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-1",
+    "winner": "christian hamilton",
+    "loser": "joe burns",
+    "match": "christian hamilton vs joe burns",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "mark lees",
+    "loser": "miles jones",
+    "match": "mark lees vs miles jones",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-2",
+    "winner": "mark lees",
+    "loser": "miles jones",
+    "match": "mark lees vs miles jones",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-3",
+    "winner": "tarra gill-taylor",
+    "loser": "james pinder",
+    "match": "tarra gill-taylor vs james pinder",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-3",
+    "winner": "tarra gill-taylor",
+    "loser": "james pinder",
+    "match": "tarra gill-taylor vs james pinder",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-4",
+    "winner": "matt whitfield",
+    "loser": "nicholas wilkinson",
+    "match": "matt whitfield vs nicholas wilkinson",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "quarter-final-4",
+    "winner": "matt whitfield",
+    "loser": "nicholas wilkinson",
+    "match": "matt whitfield vs nicholas wilkinson",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "james pinder",
+    "match": "matt whitfield vs james pinder",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs tarra gill-taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "octavia owen",
+    "match": "matt whitfield vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "joe burns",
+    "match": "matt whitfield vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "miles jones",
+    "match": "matt whitfield vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "ali morrish",
+    "match": "matt whitfield vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "nicholas wilkinson",
+    "match": "matt whitfield vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "matt whitfield",
+    "loser": "christian hamilton",
+    "match": "matt whitfield vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "james pinder",
+    "match": "james pinder vs tarra gill-taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "octavia owen",
+    "match": "james pinder vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "james pinder",
+    "match": "james pinder vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "miles jones",
+    "match": "james pinder vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "james pinder",
+    "loser": "ali morrish",
+    "match": "james pinder vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "james pinder",
+    "match": "james pinder vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "james pinder",
+    "match": "james pinder vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "james pinder",
+    "match": "james pinder vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "octavia owen",
+    "match": "tarra gill-taylor vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "joe burns",
+    "match": "tarra gill-taylor vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "miles jones",
+    "match": "tarra gill-taylor vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "ali morrish",
+    "match": "tarra gill-taylor vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "tarra gill-taylor",
+    "match": "tarra gill-taylor vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "tarra gill-taylor",
+    "loser": "nicholas wilkinson",
+    "match": "tarra gill-taylor vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "tarra gill-taylor",
+    "match": "tarra gill-taylor vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "octavia owen",
+    "match": "octavia owen vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "octavia owen",
+    "match": "octavia owen vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "ali morrish",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "octavia owen",
+    "match": "octavia owen vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "octavia owen",
+    "match": "octavia owen vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "joe burns",
+    "loser": "miles jones",
+    "match": "joe burns vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "joe burns",
+    "match": "joe burns vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "joe burns",
+    "match": "joe burns vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "joe burns",
+    "match": "joe burns vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "joe burns",
+    "match": "joe burns vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "miles jones",
+    "loser": "ali morrish",
+    "match": "miles jones vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "miles jones",
+    "match": "miles jones vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "miles jones",
+    "match": "miles jones vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "miles jones",
+    "match": "miles jones vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "mark lees",
+    "loser": "ali morrish",
+    "match": "ali morrish vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "ali morrish",
+    "match": "ali morrish vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "mark lees",
+    "match": "mark lees vs nicholas wilkinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "christian hamilton",
+    "loser": "mark lees",
+    "match": "mark lees vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships Grand Final",
+    "phase": "round-robin",
+    "winner": "nicholas wilkinson",
+    "loser": "christian hamilton",
+    "match": "nicholas wilkinson vs christian hamilton",
+    "race": 0
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "final",
+    "winner": "ryder easterlin",
+    "loser": "alec fisichella",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 1
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "final",
+    "winner": "alec fisichella",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 2
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "final",
+    "winner": "alec fisichella",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 3
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "final",
+    "winner": "alec fisichella",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 4
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "petit-final",
+    "winner": "robbie king",
+    "loser": "trevor van leeuwen",
+    "match": "robbie king vs trevor van leeuwen",
+    "race": 1
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "petit-final",
+    "winner": "robbie king",
+    "loser": "trevor van leeuwen",
+    "match": "robbie king vs trevor van leeuwen",
+    "race": 2
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "petit-final",
+    "winner": "robbie king",
+    "loser": "trevor van leeuwen",
+    "match": "robbie king vs trevor van leeuwen",
+    "race": 3
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "ryder easterlin",
+    "loser": "robbie king",
+    "match": "robbie king vs ryder easterlin",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "alec fisichella",
+    "match": "robbie king vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "robbie king",
+    "loser": "trevor van leeuwen",
+    "match": "robbie king vs trevor van leeuwen",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "alec fisichella",
+    "loser": "ryder easterlin",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "ryder easterlin",
+    "loser": "trevor van leeuwen",
+    "match": "ryder easterlin vs trevor van leeuwen",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-2",
+    "winner": "alec fisichella",
+    "loser": "trevor van leeuwen",
+    "match": "alec fisichella vs trevor van leeuwen",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "ryder easterlin",
+    "loser": "robbie king",
+    "match": "robbie king vs ryder easterlin",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "alec fisichella",
+    "loser": "robbie king",
+    "match": "robbie king vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "robbie king",
+    "loser": "trevor van leeuwen",
+    "match": "robbie king vs trevor van leeuwen",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "ryder easterlin",
+    "loser": "alec fisichella",
+    "match": "ryder easterlin vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "ryder easterlin",
+    "loser": "trevor van leeuwen",
+    "match": "ryder easterlin vs trevor van leeuwen",
+    "race": 0
+  },
+  {
+    "regatta": "US National Match Racing Championships – Qualifier",
+    "phase": "round-robin-1",
+    "winner": "alec fisichella",
+    "loser": "trevor van leeuwen",
+    "match": "alec fisichella vs trevor van leeuwen",
+    "race": 0
+  }
+]

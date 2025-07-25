@@ -1,0 +1,530 @@
+[
+  {
+    "regatta": "Ficker Cup",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "chris poole",
+    "match": "chris poole vs harry price",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "petit-final",
+    "winner": "dave hood",
+    "loser": "joachim aschenbrenner",
+    "match": "joachim aschenbrenner vs dave hood",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "harry price",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "joachim aschenbrenner",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "harry price",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "joachim aschenbrenner",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 4
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "joachim aschenbrenner",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 5
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 1
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 2
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 3
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "harry price",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "pearson potts",
+    "match": "harry price vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "chris nesbitt",
+    "match": "harry price vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "harry price",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "dave hood",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "charles lalumiere",
+    "loser": "harry price",
+    "match": "harry price vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "tom spithill",
+    "match": "harry price vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "chris nesbitt",
+    "match": "chris poole vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "joachim aschenbrenner",
+    "match": "chris poole vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "charles lalumiere",
+    "match": "chris poole vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "tom spithill",
+    "match": "chris poole vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "pearson potts",
+    "loser": "chris nesbitt",
+    "match": "pearson potts vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "pearson potts",
+    "match": "pearson potts vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "pearson potts",
+    "match": "pearson potts vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "charles lalumiere",
+    "loser": "pearson potts",
+    "match": "pearson potts vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "tom spithill",
+    "loser": "pearson potts",
+    "match": "pearson potts vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "chris nesbitt",
+    "loser": "charles lalumiere",
+    "match": "chris nesbitt vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "tom spithill",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "dave hood",
+    "match": "joachim aschenbrenner vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "charles lalumiere",
+    "match": "joachim aschenbrenner vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "joachim aschenbrenner",
+    "loser": "tom spithill",
+    "match": "joachim aschenbrenner vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "charles lalumiere",
+    "match": "dave hood vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "tom spithill",
+    "loser": "dave hood",
+    "match": "dave hood vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-2",
+    "winner": "tom spithill",
+    "loser": "charles lalumiere",
+    "match": "charles lalumiere vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "chris poole",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "pearson potts",
+    "match": "harry price vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "chris nesbitt",
+    "match": "harry price vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "joachim aschenbrenner",
+    "match": "harry price vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "dave hood",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "charles lalumiere",
+    "match": "harry price vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "tom spithill",
+    "match": "harry price vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "chris nesbitt",
+    "match": "chris poole vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "joachim aschenbrenner",
+    "match": "chris poole vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "chris poole",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "charles lalumiere",
+    "match": "chris poole vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "tom spithill",
+    "match": "chris poole vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris nesbitt",
+    "loser": "pearson potts",
+    "match": "pearson potts vs chris nesbitt",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "joachim aschenbrenner",
+    "match": "pearson potts vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "pearson potts",
+    "match": "pearson potts vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "charles lalumiere",
+    "match": "pearson potts vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "tom spithill",
+    "loser": "pearson potts",
+    "match": "pearson potts vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs joachim aschenbrenner",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris nesbitt",
+    "loser": "charles lalumiere",
+    "match": "chris nesbitt vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "chris nesbitt",
+    "loser": "tom spithill",
+    "match": "chris nesbitt vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "dave hood",
+    "match": "joachim aschenbrenner vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "charles lalumiere",
+    "match": "joachim aschenbrenner vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "joachim aschenbrenner",
+    "loser": "tom spithill",
+    "match": "joachim aschenbrenner vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "charles lalumiere",
+    "match": "dave hood vs charles lalumiere",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "tom spithill",
+    "loser": "dave hood",
+    "match": "dave hood vs tom spithill",
+    "race": 0
+  },
+  {
+    "regatta": "Ficker Cup",
+    "phase": "round-robin-1",
+    "winner": "charles lalumiere",
+    "loser": "tom spithill",
+    "match": "charles lalumiere vs tom spithill",
+    "race": 0
+  }
+]

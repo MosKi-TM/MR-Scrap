@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "chris steele",
+    "loser": "graeme sutherland",
+    "match": "graeme sutherland vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "chris steele",
+    "loser": "graeme sutherland",
+    "match": "graeme sutherland vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "chris steele",
+    "loser": "graeme sutherland",
+    "match": "graeme sutherland vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "david chapman",
+    "loser": "sam meech",
+    "match": "sam meech vs david chapman",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "david chapman",
+    "loser": "sam meech",
+    "match": "sam meech vs david chapman",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "david chapman",
+    "loser": "chris steele",
+    "match": "chris steele vs david chapman",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "chris steele",
+    "loser": "david chapman",
+    "match": "chris steele vs david chapman",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "chris steele",
+    "loser": "david chapman",
+    "match": "chris steele vs david chapman",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "chris steele",
+    "loser": "david chapman",
+    "match": "chris steele vs david chapman",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "graeme sutherland",
+    "loser": "sam meech",
+    "match": "sam meech vs graeme sutherland",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "graeme sutherland",
+    "loser": "sam meech",
+    "match": "sam meech vs graeme sutherland",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "graeme sutherland",
+    "loser": "sam meech",
+    "match": "sam meech vs graeme sutherland",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-1",
+    "winner": "david wood",
+    "loser": "graeme sutherland",
+    "match": "graeme sutherland vs david wood",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-1",
+    "winner": "graeme sutherland",
+    "loser": "david wood",
+    "match": "graeme sutherland vs david wood",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-1",
+    "winner": "graeme sutherland",
+    "loser": "david wood",
+    "match": "graeme sutherland vs david wood",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-2",
+    "winner": "sam meech",
+    "loser": "jeremy koo",
+    "match": "sam meech vs jeremy koo",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-2",
+    "winner": "sam meech",
+    "loser": "jeremy koo",
+    "match": "sam meech vs jeremy koo",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-3",
+    "winner": "david chapman",
+    "loser": "evan walker",
+    "match": "david chapman vs evan walker",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-3",
+    "winner": "david chapman",
+    "loser": "evan walker",
+    "match": "david chapman vs evan walker",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-4",
+    "winner": "chris steele",
+    "loser": "mathew hughes",
+    "match": "mathew hughes vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-4",
+    "winner": "chris steele",
+    "loser": "mathew hughes",
+    "match": "mathew hughes vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-1",
+    "winner": "jeremy koo",
+    "loser": "george anyon",
+    "match": "jeremy koo vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-1",
+    "winner": "jeremy koo",
+    "loser": "george anyon",
+    "match": "jeremy koo vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-2",
+    "winner": "david wood",
+    "loser": "alan quere",
+    "match": "alan quere vs david wood",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-2",
+    "winner": "david wood",
+    "loser": "alan quere",
+    "match": "alan quere vs david wood",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-3",
+    "winner": "chris steele",
+    "loser": "oakley marsh",
+    "match": "chris steele vs oakley marsh",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-3",
+    "winner": "chris steele",
+    "loser": "oakley marsh",
+    "match": "chris steele vs oakley marsh",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-4",
+    "winner": "evan walker",
+    "loser": "patrick haybittle",
+    "match": "evan walker vs patrick haybittle",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-4",
+    "winner": "evan walker",
+    "loser": "patrick haybittle",
+    "match": "evan walker vs patrick haybittle",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-5",
+    "winner": "mathew hughes",
+    "loser": "robert hielkema",
+    "match": "mathew hughes vs robert hielkema",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-5",
+    "winner": "mathew hughes",
+    "loser": "robert hielkema",
+    "match": "mathew hughes vs robert hielkema",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-6",
+    "winner": "david chapman",
+    "loser": "frankie dair",
+    "match": "david chapman vs frankie dair",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-6",
+    "winner": "david chapman",
+    "loser": "frankie dair",
+    "match": "david chapman vs frankie dair",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-7",
+    "winner": "sam meech",
+    "loser": "francesco kayrouz",
+    "match": "sam meech vs francesco kayrouz",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-7",
+    "winner": "sam meech",
+    "loser": "francesco kayrouz",
+    "match": "sam meech vs francesco kayrouz",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-8",
+    "winner": "graeme sutherland",
+    "loser": "erica dawson",
+    "match": "graeme sutherland vs erica dawson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "top-16-8",
+    "winner": "graeme sutherland",
+    "loser": "erica dawson",
+    "match": "graeme sutherland vs erica dawson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-1",
+    "winner": "patrick haybittle",
+    "loser": "tom fyfe",
+    "match": "patrick haybittle vs tom fyfe",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-1",
+    "winner": "patrick haybittle",
+    "loser": "tom fyfe",
+    "match": "patrick haybittle vs tom fyfe",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-2",
+    "winner": "erica dawson",
+    "loser": "celia willison",
+    "match": "celia willison vs erica dawson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-2",
+    "winner": "erica dawson",
+    "loser": "celia willison",
+    "match": "celia willison vs erica dawson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-3",
+    "winner": "francesco kayrouz",
+    "loser": "brian trubovich",
+    "match": "brian trubovich vs francesco kayrouz",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "repechage-3",
+    "winner": "francesco kayrouz",
+    "loser": "brian trubovich",
+    "match": "brian trubovich vs francesco kayrouz",
+    "race": 2
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "Marcello Torre",
+    "loser": "Ethan Prieto-Low",
+    "match": "Marcello Torre vs Ethan Prieto-Low",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Marcello Torre",
+    "match": "Marcello Torre vs Ethan Prieto-Low",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Marcello Torre",
+    "match": "Marcello Torre vs Ethan Prieto-Low",
+    "race": 3
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "final",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Marcello Torre",
+    "match": "Marcello Torre vs Ethan Prieto-Low",
+    "race": 4
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Cole Tapper",
+    "match": "Ethan Prieto-Low vs Cole Tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Cole Tapper",
+    "match": "Ethan Prieto-Low vs Cole Tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "Josh Hyde",
+    "loser": "Marcello Torre",
+    "match": "Marcello Torre vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "Marcello Torre",
+    "loser": "Josh Hyde",
+    "match": "Marcello Torre vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "Marcello Torre",
+    "loser": "Josh Hyde",
+    "match": "Marcello Torre vs Josh Hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cormac Murphy",
+    "loser": "Ethan Prieto-Low",
+    "match": "Cormac Murphy vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Marcello Torre",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cormac Murphy",
+    "loser": "Jack Frewin",
+    "match": "Cormac Murphy vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Ethan Prieto-Low",
+    "match": "Cole Tapper vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Max Paul",
+    "match": "Cole Tapper vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Marcello Torre",
+    "match": "Cole Tapper vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Brooke Wilson",
+    "match": "Cole Tapper vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Jack Frewin",
+    "match": "Cole Tapper vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Max Paul",
+    "match": "Ethan Prieto-Low vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Alistair Read",
+    "match": "Ethan Prieto-Low vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Ethan Prieto-Low",
+    "match": "Ethan Prieto-Low vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Marcello Torre",
+    "match": "Ethan Prieto-Low vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Brooke Wilson",
+    "match": "Ethan Prieto-Low vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Jack Frewin",
+    "match": "Ethan Prieto-Low vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Max Paul",
+    "match": "Max Paul vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Josh Hyde",
+    "match": "Max Paul vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Marcello Torre",
+    "match": "Max Paul vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Brooke Wilson",
+    "match": "Max Paul vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Jack Frewin",
+    "match": "Max Paul vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Alistair Read",
+    "match": "Alistair Read vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Marcello Torre",
+    "match": "Alistair Read vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Brooke Wilson",
+    "match": "Alistair Read vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Jack Frewin",
+    "match": "Alistair Read vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Marcello Torre",
+    "match": "Josh Hyde vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Brooke Wilson",
+    "match": "Josh Hyde vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Jack Frewin",
+    "match": "Josh Hyde vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Marcello Torre",
+    "loser": "Brooke Wilson",
+    "match": "Marcello Torre vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Marcello Torre",
+    "loser": "Jack Frewin",
+    "match": "Marcello Torre vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Jack Frewin",
+    "match": "Brooke Wilson vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cormac Murphy",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Max Paul",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Alistair Read",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Marcello Torre",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-2",
+    "winner": "Jack Frewin",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Max Paul",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cormac Murphy",
+    "loser": "Alistair Read",
+    "match": "Cormac Murphy vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Marcello Torre",
+    "loser": "Cormac Murphy",
+    "match": "Cormac Murphy vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cormac Murphy",
+    "loser": "Brooke Wilson",
+    "match": "Cormac Murphy vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cormac Murphy",
+    "loser": "Jack Frewin",
+    "match": "Cormac Murphy vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Ethan Prieto-Low",
+    "match": "Cole Tapper vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Max Paul",
+    "match": "Cole Tapper vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Alistair Read",
+    "match": "Cole Tapper vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Marcello Torre",
+    "match": "Cole Tapper vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Brooke Wilson",
+    "match": "Cole Tapper vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Jack Frewin",
+    "match": "Cole Tapper vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Max Paul",
+    "match": "Ethan Prieto-Low vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Alistair Read",
+    "match": "Ethan Prieto-Low vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Ethan Prieto-Low",
+    "match": "Ethan Prieto-Low vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Marcello Torre",
+    "match": "Ethan Prieto-Low vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Brooke Wilson",
+    "match": "Ethan Prieto-Low vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Jack Frewin",
+    "match": "Ethan Prieto-Low vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Alistair Read",
+    "loser": "Max Paul",
+    "match": "Max Paul vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Max Paul",
+    "match": "Max Paul vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Max Paul",
+    "loser": "Marcello Torre",
+    "match": "Max Paul vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Max Paul",
+    "loser": "Brooke Wilson",
+    "match": "Max Paul vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Max Paul",
+    "loser": "Jack Frewin",
+    "match": "Max Paul vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Alistair Read",
+    "match": "Alistair Read vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Marcello Torre",
+    "loser": "Alistair Read",
+    "match": "Alistair Read vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Alistair Read",
+    "loser": "Brooke Wilson",
+    "match": "Alistair Read vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Alistair Read",
+    "loser": "Jack Frewin",
+    "match": "Alistair Read vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Marcello Torre",
+    "match": "Josh Hyde vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Jack Frewin",
+    "match": "Josh Hyde vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Marcello Torre",
+    "loser": "Brooke Wilson",
+    "match": "Marcello Torre vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Marcello Torre",
+    "loser": "Jack Frewin",
+    "match": "Marcello Torre vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Brooke Wilson",
+    "match": "Brooke Wilson vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cormac Murphy",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Cormac Murphy",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Ethan Prieto-Low",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Ethan Prieto-Low",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Max Paul",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Alistair Read",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Alistair Read",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Marcello Torre",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Marcello Torre",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Mia Lovelady",
+    "loser": "Brooke Wilson",
+    "match": "Mia Lovelady vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Warren Jones International Youth Regatta",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Mia Lovelady",
+    "match": "Mia Lovelady vs Jack Frewin",
+    "race": 0
+  }
+]

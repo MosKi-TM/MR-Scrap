@@ -1,0 +1,378 @@
+[
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "final",
+    "winner": "Peter Holz",
+    "loser": "Christian Prendergast",
+    "match": "Peter Holz vs Christian Prendergast",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "final",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Christian Prendergast",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "final",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Christian Prendergast",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "final",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Christian Prendergast",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "Ryan Seago",
+    "loser": "Axel Stordahl",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "Ryan Seago",
+    "loser": "Axel Stordahl",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "Peter Holz",
+    "loser": "Axel Stordahl",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "Axel Stordahl",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "Peter Holz",
+    "loser": "Axel Stordahl",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "Peter Holz",
+    "loser": "Axel Stordahl",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Ruairi Finnegan",
+    "loser": "Steve Flam",
+    "match": "Steve Flam vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Peter Bailey",
+    "loser": "Steve Flam",
+    "match": "Steve Flam vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Peter Bailey",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Bridget Groble",
+    "loser": "Steve Flam",
+    "match": "Bridget Groble vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Bridget Groble",
+    "loser": "Ruairi Finnegan",
+    "match": "Bridget Groble vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "5th-to-8th-rr",
+    "winner": "Bridget Groble",
+    "loser": "Peter Bailey",
+    "match": "Bridget Groble vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Peter Holz",
+    "match": "Ryan Seago vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Peter Bailey",
+    "match": "Ryan Seago vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Axel Stordahl",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Bridget Groble",
+    "match": "Ryan Seago vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Steve Flam",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Ruairi Finnegan",
+    "match": "Peter Holz vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Peter Bailey",
+    "match": "Peter Holz vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Axel Stordahl",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Bridget Groble",
+    "match": "Peter Holz vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Steve Flam",
+    "match": "Peter Holz vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Bailey",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Axel Stordahl",
+    "match": "Ruairi Finnegan vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Steve Flam",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Bailey",
+    "loser": "Axel Stordahl",
+    "match": "Peter Bailey vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Bridget Groble",
+    "loser": "Peter Bailey",
+    "match": "Peter Bailey vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Steve Flam",
+    "loser": "Peter Bailey",
+    "match": "Peter Bailey vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Axel Stordahl",
+    "loser": "Bridget Groble",
+    "match": "Axel Stordahl vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Steve Flam",
+    "loser": "Axel Stordahl",
+    "match": "Axel Stordahl vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Steve Flam",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Steve Flam",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Christian Prendergast vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Ruairi Finnegan",
+    "match": "Christian Prendergast vs Ruairi Finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Bailey",
+    "match": "Christian Prendergast vs Peter Bailey",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Axel Stordahl",
+    "match": "Christian Prendergast vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Bridget Groble",
+    "match": "Christian Prendergast vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Steve Flam",
+    "match": "Christian Prendergast vs Steve Flam",
+    "race": 0
+  }
+]

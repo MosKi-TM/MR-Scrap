@@ -1,0 +1,842 @@
+[
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 1
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "final",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 2
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "final",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 3
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "final",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 4
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "final",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 5
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "Dave Hood",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 1
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 2
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 3
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Dave Hood",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 1
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Dave Hood",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 2
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "Dave Hood",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 3
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Dave Hood",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 4
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Cole Tapper",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 1
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Cole Tapper",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 2
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Cole Tapper",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 3
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Peter Wickwire",
+    "match": "Chris Poole vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Cole Tapper",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Nicole Breault",
+    "match": "Chris Poole vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Dave Hood",
+    "match": "Chris Poole vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Eric Monnin",
+    "loser": "Ian Garreta",
+    "match": "Eric Monnin vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Eric Monnin",
+    "loser": "Rocco Attili",
+    "match": "Eric Monnin vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Eric Monnin",
+    "loser": "Peter Wickwire",
+    "match": "Eric Monnin vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Eric Monnin",
+    "loser": "Cole Tapper",
+    "match": "Eric Monnin vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Ian Garreta",
+    "match": "Johnie Berntsson vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Rocco Attili",
+    "match": "Johnie Berntsson vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Peter Wickwire",
+    "match": "Johnie Berntsson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Cole Tapper",
+    "match": "Johnie Berntsson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Nicole Breault",
+    "match": "Johnie Berntsson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Dave Hood",
+    "match": "Johnie Berntsson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Ian Garreta",
+    "loser": "Rocco Attili",
+    "match": "Ian Garreta vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Ian Garreta",
+    "loser": "Peter Wickwire",
+    "match": "Ian Garreta vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Ian Garreta",
+    "loser": "Cole Tapper",
+    "match": "Ian Garreta vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Peter Wickwire",
+    "loser": "Nicole Breault",
+    "match": "Peter Wickwire vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Nicole Breault",
+    "match": "Cole Tapper vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Dave Hood",
+    "match": "Nicole Breault vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Chris Poole",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Björn Hansen",
+    "loser": "Eric Monnin",
+    "match": "Björn Hansen vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Björn Hansen",
+    "loser": "Ian Garreta",
+    "match": "Björn Hansen vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Björn Hansen",
+    "loser": "Rocco Attili",
+    "match": "Björn Hansen vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Björn Hansen",
+    "loser": "Peter Wickwire",
+    "match": "Björn Hansen vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Cole Tapper",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "Dave Hood",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Peter Wickwire",
+    "match": "Chris Poole vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Cole Tapper",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Nicole Breault",
+    "match": "Chris Poole vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Dave Hood",
+    "match": "Chris Poole vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Johnie Berntsson",
+    "match": "Eric Monnin vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Ian Garreta",
+    "match": "Eric Monnin vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Cole Tapper",
+    "match": "Eric Monnin vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Nicole Breault",
+    "match": "Eric Monnin vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Dave Hood",
+    "match": "Eric Monnin vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Ian Garreta",
+    "match": "Johnie Berntsson vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Cole Tapper",
+    "match": "Johnie Berntsson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Cole Tapper",
+    "match": "Ian Garreta vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Cole Tapper",
+    "match": "Rocco Attili vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Rocco Attili",
+    "match": "Rocco Attili vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Dave Hood",
+    "match": "Rocco Attili vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Dave Hood",
+    "match": "Cole Tapper vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Dave Hood",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Dave Hood",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Eric Monnin",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Björn Hansen",
+    "loser": "Johnie Berntsson",
+    "match": "Björn Hansen vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Björn Hansen",
+    "loser": "Ian Garreta",
+    "match": "Björn Hansen vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Rocco Attili",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Björn Hansen",
+    "loser": "Peter Wickwire",
+    "match": "Björn Hansen vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Cole Tapper",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Björn Hansen",
+    "loser": "Nicole Breault",
+    "match": "Björn Hansen vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "60th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "Björn Hansen",
+    "loser": "Dave Hood",
+    "match": "Björn Hansen vs Dave Hood",
+    "race": 0
+  }
+]

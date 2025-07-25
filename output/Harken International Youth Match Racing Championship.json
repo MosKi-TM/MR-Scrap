@@ -1,0 +1,602 @@
+[
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "Ethan Fong",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "Ethan Fong",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "Daniel Kemp",
+    "loser": "Ethan Fong",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "Daniel Kemp",
+    "loser": "Ethan Fong",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "Daniel Kemp",
+    "loser": "Ethan Fong",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 5
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "James Hayhoe",
+    "loser": "Hayden Smith",
+    "match": "James Hayhoe vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "Hayden Smith",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "Hayden Smith",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Hayden Smith",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Ethan Fong",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Ethan Fong",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "James Hayhoe",
+    "loser": "Ethan Fong",
+    "match": "James Hayhoe vs Ethan Fong",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Ethan Fong",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Ethan Fong",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "Ethan Fong",
+    "loser": "James Hayhoe",
+    "match": "James Hayhoe vs Ethan Fong",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hayden Smith",
+    "match": "Daniel Kemp vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hayden Smith",
+    "match": "Daniel Kemp vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hayden Smith",
+    "match": "Daniel Kemp vs Hayden Smith",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "Ben Crafoord",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Ben Crafoord",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "Ben Crafoord",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Ben Crafoord",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "Charley Cates",
+    "loser": "Thomas Rees",
+    "match": "Charley Cates vs Thomas Rees",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "Charley Cates",
+    "loser": "Thomas Rees",
+    "match": "Charley Cates vs Thomas Rees",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hayden Smith",
+    "match": "Daniel Kemp vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Ethan Fong",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ben Crafoord",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hugo Butterworth",
+    "match": "Daniel Kemp vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Charley Cates",
+    "match": "Daniel Kemp vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "James Hayhoe",
+    "match": "Daniel Kemp vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hayden Smith",
+    "loser": "Ethan Fong",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ben Crafoord",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hayden Smith",
+    "loser": "Hugo Butterworth",
+    "match": "Hayden Smith vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hayden Smith",
+    "loser": "James Hayhoe",
+    "match": "Hayden Smith vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ethan Fong",
+    "loser": "Ben Crafoord",
+    "match": "Ethan Fong vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ethan Fong",
+    "loser": "Hugo Butterworth",
+    "match": "Ethan Fong vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ethan Fong",
+    "loser": "James Hayhoe",
+    "match": "Ethan Fong vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ben Crafoord",
+    "loser": "Hugo Butterworth",
+    "match": "Ben Crafoord vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ben Crafoord",
+    "loser": "James Hayhoe",
+    "match": "Ben Crafoord vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hugo Butterworth",
+    "loser": "James Hayhoe",
+    "match": "Hugo Butterworth vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "James Hayhoe",
+    "match": "Charley Cates vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hayden Smith",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ethan Fong",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Ben Crafoord",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Hugo Butterworth",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "Charley Cates",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "James Hayhoe",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Hayden Smith",
+    "match": "Daniel Kemp vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Ethan Fong",
+    "match": "Daniel Kemp vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Ben Crafoord",
+    "match": "Daniel Kemp vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Hugo Butterworth",
+    "match": "Daniel Kemp vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Charley Cates",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "James Hayhoe",
+    "match": "Daniel Kemp vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Ethan Fong",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Ben Crafoord",
+    "match": "Hayden Smith vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Hugo Butterworth",
+    "match": "Hayden Smith vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Charley Cates",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Hayhoe",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Ben Crafoord",
+    "match": "Ethan Fong vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hugo Butterworth",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Charley Cates",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "James Hayhoe",
+    "match": "Ethan Fong vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ben Crafoord",
+    "loser": "Hugo Butterworth",
+    "match": "Ben Crafoord vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Charley Cates",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ben Crafoord",
+    "loser": "James Hayhoe",
+    "match": "Ben Crafoord vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Charley Cates",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hugo Butterworth",
+    "loser": "James Hayhoe",
+    "match": "Hugo Butterworth vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Hayhoe",
+    "loser": "Charley Cates",
+    "match": "Charley Cates vs James Hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Thomas Rees",
+    "loser": "Hayden Smith",
+    "match": "Thomas Rees vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Ben Crafoord",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Hugo Butterworth",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "Thomas Rees",
+    "loser": "Charley Cates",
+    "match": "Thomas Rees vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "James Hayhoe",
+    "loser": "Thomas Rees",
+    "match": "Thomas Rees vs James Hayhoe",
+    "race": 0
+  }
+]

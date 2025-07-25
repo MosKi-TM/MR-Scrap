@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "finals",
+    "winner": "will holz",
+    "loser": "charlie lalumiere",
+    "match": "will holz vs charlie lalumiere",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "finals",
+    "winner": "will holz",
+    "loser": "charlie lalumiere",
+    "match": "will holz vs charlie lalumiere",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "finals",
+    "winner": "charlie lalumiere",
+    "loser": "will holz",
+    "match": "will holz vs charlie lalumiere",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "finals",
+    "winner": "will holz",
+    "loser": "charlie lalumiere",
+    "match": "will holz vs charlie lalumiere",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "finals",
+    "winner": "charlie lalumiere",
+    "loser": "will holz",
+    "match": "will holz vs charlie lalumiere",
+    "race": 5
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "petit-finals",
+    "winner": "philip bendon",
+    "loser": "nick valente",
+    "match": "philip bendon vs nick valente",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "petit-finals",
+    "winner": "philip bendon",
+    "loser": "nick valente",
+    "match": "philip bendon vs nick valente",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "petit-finals",
+    "winner": "nick valente",
+    "loser": "philip bendon",
+    "match": "philip bendon vs nick valente",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "petit-finals",
+    "winner": "nick valente",
+    "loser": "philip bendon",
+    "match": "philip bendon vs nick valente",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "petit-finals",
+    "winner": "nick valente",
+    "loser": "philip bendon",
+    "match": "philip bendon vs nick valente",
+    "race": 5
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-1",
+    "winner": "will holz",
+    "loser": "philip bendon",
+    "match": "will holz vs philip bendon",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-1",
+    "winner": "philip bendon",
+    "loser": "will holz",
+    "match": "will holz vs philip bendon",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-1",
+    "winner": "will holz",
+    "loser": "philip bendon",
+    "match": "will holz vs philip bendon",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-1",
+    "winner": "will holz",
+    "loser": "philip bendon",
+    "match": "will holz vs philip bendon",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-2",
+    "winner": "charlie lalumiere",
+    "loser": "nick valente",
+    "match": "charlie lalumiere vs nick valente",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-2",
+    "winner": "nick valente",
+    "loser": "charlie lalumiere",
+    "match": "charlie lalumiere vs nick valente",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-2",
+    "winner": "charlie lalumiere",
+    "loser": "nick valente",
+    "match": "charlie lalumiere vs nick valente",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "semi-final-2",
+    "winner": "charlie lalumiere",
+    "loser": "nick valente",
+    "match": "charlie lalumiere vs nick valente",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "5th-/-6th",
+    "winner": "harrison hawk",
+    "loser": "ethan lounsbury",
+    "match": "harrison hawk vs ethan lounsbury",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "5th-/-6th",
+    "winner": "harrison hawk",
+    "loser": "ethan lounsbury",
+    "match": "harrison hawk vs ethan lounsbury",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "5th-/-6th",
+    "winner": "harrison hawk",
+    "loser": "ethan lounsbury",
+    "match": "harrison hawk vs ethan lounsbury",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "5th-/-6th",
+    "winner": "ethan lounsbury",
+    "loser": "harrison hawk",
+    "match": "harrison hawk vs ethan lounsbury",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup Youth Match Racing regatta",
+    "phase": "5th-/-6th",
+    "winner": "harrison hawk",
+    "loser": "ethan lounsbury",
+    "match": "harrison hawk vs ethan lounsbury",
+    "race": 5
+  }
+]

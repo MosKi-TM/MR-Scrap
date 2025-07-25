@@ -1,0 +1,426 @@
+[
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "mati sepp",
+    "match": "mati sepp vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "mati sepp",
+    "match": "mati sepp vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "petit-final",
+    "winner": "oscar engstrom",
+    "loser": "beata torneman",
+    "match": "beata torneman vs oscar engstrom",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "oscar engstrom",
+    "loser": "mati sepp",
+    "match": "oscar engstrom vs mati sepp",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "mati sepp",
+    "loser": "oscar engstrom",
+    "match": "oscar engstrom vs mati sepp",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "oscar engstrom",
+    "loser": "mati sepp",
+    "match": "oscar engstrom vs mati sepp",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "mati sepp",
+    "loser": "oscar engstrom",
+    "match": "oscar engstrom vs mati sepp",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "mati sepp",
+    "loser": "oscar engstrom",
+    "match": "oscar engstrom vs mati sepp",
+    "race": 5
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "beata torneman",
+    "match": "johnie berntsson vs beata torneman",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "beata torneman",
+    "match": "johnie berntsson vs beata torneman",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "beata torneman",
+    "match": "johnie berntsson vs beata torneman",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "mati sepp",
+    "match": "johnie berntsson vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "oscar engstrom",
+    "match": "johnie berntsson vs oscar engstrom",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "sara edholm",
+    "match": "johnie berntsson vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "patrick crogham",
+    "match": "johnie berntsson vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "ellie cumpsty",
+    "match": "johnie berntsson vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "beata torneman",
+    "match": "johnie berntsson vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "mati sepp",
+    "loser": "oscar engstrom",
+    "match": "mati sepp vs oscar engstrom",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "mati sepp",
+    "loser": "sara edholm",
+    "match": "mati sepp vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "mati sepp",
+    "loser": "patrick crogham",
+    "match": "mati sepp vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "mati sepp",
+    "loser": "ellie cumpsty",
+    "match": "mati sepp vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "mati sepp",
+    "loser": "beata torneman",
+    "match": "mati sepp vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "oscar engstrom",
+    "loser": "sara edholm",
+    "match": "oscar engstrom vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "oscar engstrom",
+    "loser": "patrick crogham",
+    "match": "oscar engstrom vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "oscar engstrom",
+    "loser": "ellie cumpsty",
+    "match": "oscar engstrom vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "oscar engstrom",
+    "loser": "beata torneman",
+    "match": "oscar engstrom vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "patrick crogham",
+    "loser": "sara edholm",
+    "match": "sara edholm vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "sara edholm",
+    "loser": "ellie cumpsty",
+    "match": "sara edholm vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "beata torneman",
+    "loser": "sara edholm",
+    "match": "sara edholm vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "patrick crogham",
+    "loser": "ellie cumpsty",
+    "match": "patrick crogham vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "beata torneman",
+    "loser": "patrick crogham",
+    "match": "patrick crogham vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-2",
+    "winner": "beata torneman",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "mati sepp",
+    "match": "johnie berntsson vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "oscar engstrom",
+    "match": "johnie berntsson vs oscar engstrom",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "sara edholm",
+    "match": "johnie berntsson vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "patrick crogham",
+    "match": "johnie berntsson vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "ellie cumpsty",
+    "match": "johnie berntsson vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "beata torneman",
+    "match": "johnie berntsson vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "mati sepp",
+    "loser": "oscar engstrom",
+    "match": "mati sepp vs oscar engstrom",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "mati sepp",
+    "loser": "sara edholm",
+    "match": "mati sepp vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "mati sepp",
+    "loser": "patrick crogham",
+    "match": "mati sepp vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "mati sepp",
+    "loser": "ellie cumpsty",
+    "match": "mati sepp vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "mati sepp",
+    "loser": "beata torneman",
+    "match": "mati sepp vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "oscar engstrom",
+    "loser": "sara edholm",
+    "match": "oscar engstrom vs sara edholm",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "oscar engstrom",
+    "loser": "patrick crogham",
+    "match": "oscar engstrom vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "oscar engstrom",
+    "loser": "ellie cumpsty",
+    "match": "oscar engstrom vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "oscar engstrom",
+    "loser": "beata torneman",
+    "match": "oscar engstrom vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "patrick crogham",
+    "loser": "sara edholm",
+    "match": "sara edholm vs patrick crogham",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "ellie cumpsty",
+    "loser": "sara edholm",
+    "match": "sara edholm vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "beata torneman",
+    "loser": "sara edholm",
+    "match": "sara edholm vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "patrick crogham",
+    "loser": "ellie cumpsty",
+    "match": "patrick crogham vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "patrick crogham",
+    "loser": "beata torneman",
+    "match": "patrick crogham vs beata torneman",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Spring Cup",
+    "phase": "round-robin-1",
+    "winner": "beata torneman",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs beata torneman",
+    "race": 0
+  }
+]

@@ -1,0 +1,706 @@
+[
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "jack egan",
+    "loser": "jeffrey petersen",
+    "match": "jack egan vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffrey petersen",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffrey petersen",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "jeffrey petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffrey petersen",
+    "race": 4
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "david wood",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs david wood",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "jeffrey petersen vs david wood",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "jeffrey petersen vs david wood",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "jeffrey petersen vs david wood",
+    "race": 4
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "morgan pinckney",
+    "loser": "alec fisichella",
+    "match": "morgan pinckney vs alec fisichella",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "morgan pinckney",
+    "loser": "alec fisichella",
+    "match": "morgan pinckney vs alec fisichella",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "daven subbiah",
+    "loser": "joe seiffert",
+    "match": "daven subbiah vs joe seiffert",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "daven subbiah",
+    "loser": "joe seiffert",
+    "match": "daven subbiah vs joe seiffert",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "owen lahr",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs owen lahr",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "owen lahr",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs owen lahr",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "morgan pinckney",
+    "loser": "owen lahr",
+    "match": "morgan pinckney vs owen lahr",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-1",
+    "winner": "owen lahr",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs owen lahr",
+    "race": 4
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "david wood",
+    "loser": "daven subbiah",
+    "match": "david wood vs daven subbiah",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "david wood",
+    "loser": "daven subbiah",
+    "match": "david wood vs daven subbiah",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-2",
+    "winner": "david wood",
+    "loser": "daven subbiah",
+    "match": "david wood vs daven subbiah",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "alec fisichella",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "jeffrey petersen",
+    "loser": "alec fisichella",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "jeffrey petersen",
+    "loser": "alec fisichella",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "alec fisichella",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 4
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-3",
+    "winner": "jeffrey petersen",
+    "loser": "alec fisichella",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 5
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "jack egan",
+    "loser": "joe seiffert",
+    "match": "jack egan vs joe seiffert",
+    "race": 1
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "jack egan",
+    "loser": "joe seiffert",
+    "match": "jack egan vs joe seiffert",
+    "race": 2
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "quarter-final-4",
+    "winner": "jack egan",
+    "loser": "joe seiffert",
+    "match": "jack egan vs joe seiffert",
+    "race": 3
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "david wood",
+    "match": "david wood vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "david wood",
+    "match": "david wood vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "daven subbiah",
+    "loser": "david wood",
+    "match": "david wood vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "morgan pinckney",
+    "match": "david wood vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "alec fisichella",
+    "match": "david wood vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "david wood",
+    "loser": "joe seiffert",
+    "match": "david wood vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "owen lahr",
+    "match": "jeffrey petersen vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "daven subbiah",
+    "match": "jeffrey petersen vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "alec fisichella",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jeffrey petersen",
+    "loser": "joe seiffert",
+    "match": "jeffrey petersen vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "daven subbiah",
+    "match": "jack egan vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "morgan pinckney",
+    "match": "jack egan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "alec fisichella",
+    "match": "jack egan vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jack egan",
+    "loser": "joe seiffert",
+    "match": "jack egan vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "owen lahr",
+    "loser": "daven subbiah",
+    "match": "owen lahr vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "owen lahr",
+    "match": "owen lahr vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alec fisichella",
+    "loser": "owen lahr",
+    "match": "owen lahr vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "owen lahr",
+    "loser": "joe seiffert",
+    "match": "owen lahr vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "daven subbiah",
+    "loser": "morgan pinckney",
+    "match": "daven subbiah vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "daven subbiah",
+    "loser": "alec fisichella",
+    "match": "daven subbiah vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "daven subbiah",
+    "loser": "joe seiffert",
+    "match": "daven subbiah vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alec fisichella",
+    "loser": "morgan pinckney",
+    "match": "morgan pinckney vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "morgan pinckney",
+    "loser": "joe seiffert",
+    "match": "morgan pinckney vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alec fisichella",
+    "loser": "joe seiffert",
+    "match": "alec fisichella vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "jeffrey petersen",
+    "match": "david wood vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "david wood",
+    "match": "david wood vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "owen lahr",
+    "loser": "david wood",
+    "match": "david wood vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "daven subbiah",
+    "match": "david wood vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "morgan pinckney",
+    "match": "david wood vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "alec fisichella",
+    "match": "david wood vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "david wood",
+    "loser": "joe seiffert",
+    "match": "david wood vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "owen lahr",
+    "match": "jeffrey petersen vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "daven subbiah",
+    "match": "jeffrey petersen vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "morgan pinckney",
+    "match": "jeffrey petersen vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "alec fisichella",
+    "match": "jeffrey petersen vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jeffrey petersen",
+    "loser": "joe seiffert",
+    "match": "jeffrey petersen vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "daven subbiah",
+    "match": "jack egan vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "morgan pinckney",
+    "match": "jack egan vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "alec fisichella",
+    "match": "jack egan vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jack egan",
+    "loser": "joe seiffert",
+    "match": "jack egan vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "owen lahr",
+    "loser": "daven subbiah",
+    "match": "owen lahr vs daven subbiah",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "owen lahr",
+    "match": "owen lahr vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "owen lahr",
+    "loser": "alec fisichella",
+    "match": "owen lahr vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "owen lahr",
+    "loser": "joe seiffert",
+    "match": "owen lahr vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "daven subbiah",
+    "match": "daven subbiah vs morgan pinckney",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "daven subbiah",
+    "loser": "alec fisichella",
+    "match": "daven subbiah vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "daven subbiah",
+    "loser": "joe seiffert",
+    "match": "daven subbiah vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "alec fisichella",
+    "match": "morgan pinckney vs alec fisichella",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "morgan pinckney",
+    "loser": "joe seiffert",
+    "match": "morgan pinckney vs joe seiffert",
+    "race": 0
+  },
+  {
+    "regatta": "US Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alec fisichella",
+    "loser": "joe seiffert",
+    "match": "alec fisichella vs joe seiffert",
+    "race": 0
+  }
+]

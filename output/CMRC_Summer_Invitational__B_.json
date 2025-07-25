@@ -1,0 +1,138 @@
+[
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "magnus sandberg",
+    "match": "don wilson vs magnus sandberg",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "magnus sandberg",
+    "match": "don wilson vs magnus sandberg",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "petit-final",
+    "winner": "david storrs",
+    "loser": "lance fraser",
+    "match": "david storrs vs lance fraser",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "petit-final",
+    "winner": "lance fraser",
+    "loser": "david storrs",
+    "match": "david storrs vs lance fraser",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "petit-final",
+    "winner": "david storrs",
+    "loser": "lance fraser",
+    "match": "david storrs vs lance fraser",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "semi-final-1",
+    "winner": "magnus sandberg",
+    "loser": "david storrs",
+    "match": "david storrs vs magnus sandberg",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "semi-final-1",
+    "winner": "magnus sandberg",
+    "loser": "david storrs",
+    "match": "david storrs vs magnus sandberg",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "lance fraser",
+    "match": "lance fraser vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "lance fraser",
+    "match": "lance fraser vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-1",
+    "winner": "magnus sandberg",
+    "loser": "steven lowery",
+    "match": "steven lowery vs magnus sandberg",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-1",
+    "winner": "magnus sandberg",
+    "loser": "steven lowery",
+    "match": "steven lowery vs magnus sandberg",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "david niemann",
+    "match": "david storrs vs david niemann",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-2",
+    "winner": "david storrs",
+    "loser": "david niemann",
+    "match": "david storrs vs david niemann",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "lance fraser",
+    "loser": "brendan kopp",
+    "match": "lance fraser vs brendan kopp",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-3",
+    "winner": "lance fraser",
+    "loser": "brendan kopp",
+    "match": "lance fraser vs brendan kopp",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (B)",
+    "phase": "quarter-final-4",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 2
+  }
+]

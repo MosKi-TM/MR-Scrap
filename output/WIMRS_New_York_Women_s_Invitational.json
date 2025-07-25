@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "finals",
+    "winner": "anna kjellberg",
+    "loser": "lucy macgregor",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "finals",
+    "winner": "anna kjellberg",
+    "loser": "lucy macgregor",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "finals",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "finals",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "petit-finals",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs lotte meldgaard pedersen",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "petit-finals",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs lotte meldgaard pedersen",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-1",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-1",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 5
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-2",
+    "winner": "stephanie roble",
+    "loser": "lucy macgregor",
+    "match": "stephanie roble vs lucy macgregor",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs lucy macgregor",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-1",
+    "winner": "anna kjellberg",
+    "loser": "madeline gill",
+    "match": "anna kjellberg vs madeline gill",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-1",
+    "winner": "anna kjellberg",
+    "loser": "madeline gill",
+    "match": "anna kjellberg vs madeline gill",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-2",
+    "winner": "stephanie roble",
+    "loser": "claudia pierce",
+    "match": "stephanie roble vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-2",
+    "winner": "stephanie roble",
+    "loser": "claudia pierce",
+    "match": "stephanie roble vs claudia pierce",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-3",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "lucy macgregor vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-3",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "lucy macgregor vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-4",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "caroline sylvan",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS New York Women's Invitational",
+    "phase": "quarter-final-4",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "caroline sylvan",
+    "match": "lotte meldgaard pedersen vs caroline sylvan",
+    "race": 2
+  }
+]

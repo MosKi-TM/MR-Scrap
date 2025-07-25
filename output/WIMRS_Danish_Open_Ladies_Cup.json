@@ -1,0 +1,130 @@
+[
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lotte meldgaard",
+    "match": "camilla ulrikkeholm vs lotte meldgaard",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lotte meldgaard",
+    "match": "camilla ulrikkeholm vs lotte meldgaard",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "final",
+    "winner": "lotte meldgaard",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs lotte meldgaard",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "final",
+    "winner": "lotte meldgaard",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs lotte meldgaard",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "final",
+    "winner": "lotte meldgaard",
+    "loser": "camilla ulrikkeholm",
+    "match": "camilla ulrikkeholm vs lotte meldgaard",
+    "race": 5
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "petit-final",
+    "winner": "lucy macgregor",
+    "loser": "merel witteveen",
+    "match": "merel witteveen vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "petit-final",
+    "winner": "lucy macgregor",
+    "loser": "merel witteveen",
+    "match": "merel witteveen vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "camilla ulrikkeholm",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs camilla ulrikkeholm",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "merel witteveen",
+    "match": "lotte meldgaard vs merel witteveen",
+    "race": 1
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-2",
+    "winner": "merel witteveen",
+    "loser": "lotte meldgaard",
+    "match": "lotte meldgaard vs merel witteveen",
+    "race": 2
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "merel witteveen",
+    "match": "lotte meldgaard vs merel witteveen",
+    "race": 3
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard",
+    "loser": "merel witteveen",
+    "match": "lotte meldgaard vs merel witteveen",
+    "race": 4
+  },
+  {
+    "regatta": "WIMRS Danish Open Ladies Cup",
+    "phase": "5th-/-6th",
+    "winner": "stephanie roble",
+    "loser": "anna kjellberg",
+    "match": "stephanie roble vs anna kjellberg",
+    "race": 1
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Cole Tapper",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Cole Tapper",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Cole Tapper",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "Marius Westerlind",
+    "loser": "Josh Hyde",
+    "match": "Marius Westerlind vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "Marius Westerlind",
+    "loser": "Josh Hyde",
+    "match": "Marius Westerlind vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Marius Westerlind",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Marius Westerlind",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Marius Westerlind",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Marius Westerlind",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Marius Westerlind",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 5
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Tom Higgins",
+    "match": "Ange Delerce vs Tom Higgins",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "Tom Higgins",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Tom Higgins",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Tom Higgins",
+    "match": "Ange Delerce vs Tom Higgins",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-1",
+    "winner": "Ange Delerce",
+    "loser": "Tom Higgins",
+    "match": "Ange Delerce vs Tom Higgins",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Matias Rossing",
+    "match": "Cole Tapper vs Matias Rossing",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Matias Rossing",
+    "match": "Cole Tapper vs Matias Rossing",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Matias Rossing",
+    "match": "Cole Tapper vs Matias Rossing",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "Josh Hyde",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "Josh Hyde",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-3",
+    "winner": "Josh Hyde",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Josh Hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "Marius Westerlind",
+    "loser": "Timothée Rossi",
+    "match": "Marius Westerlind vs Timothée Rossi",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "Timothée Rossi",
+    "loser": "Marius Westerlind",
+    "match": "Marius Westerlind vs Timothée Rossi",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "Timothée Rossi",
+    "loser": "Marius Westerlind",
+    "match": "Marius Westerlind vs Timothée Rossi",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "Marius Westerlind",
+    "loser": "Timothée Rossi",
+    "match": "Marius Westerlind vs Timothée Rossi",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "quarter-final-4",
+    "winner": "Marius Westerlind",
+    "loser": "Timothée Rossi",
+    "match": "Marius Westerlind vs Timothée Rossi",
+    "race": 5
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Timothée Rossi",
+    "match": "Josh Hyde vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Ange Delerce",
+    "match": "Josh Hyde vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Justin Callahan",
+    "match": "Josh Hyde vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Nicolas Bernal",
+    "match": "Josh Hyde vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Demetrio Sposato",
+    "match": "Josh Hyde vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Matias Rossing",
+    "match": "Josh Hyde vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Tom Higgins",
+    "match": "Cole Tapper vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Justin Callahan",
+    "match": "Cole Tapper vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Noah Malpot",
+    "match": "Cole Tapper vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Nicolas Bernal",
+    "match": "Cole Tapper vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Demetrio Sposato",
+    "match": "Cole Tapper vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Marius Westerlind",
+    "match": "Cole Tapper vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Matias Rossing",
+    "match": "Cole Tapper vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Tom Higgins",
+    "match": "Timothée Rossi vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Justin Callahan",
+    "match": "Timothée Rossi vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Noah Malpot",
+    "match": "Timothée Rossi vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Nicolas Bernal",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Marius Westerlind",
+    "match": "Timothée Rossi vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Matias Rossing",
+    "match": "Timothée Rossi vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Ange Delerce",
+    "match": "Ange Delerce vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Justin Callahan",
+    "match": "Ange Delerce vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Noah Malpot",
+    "match": "Ange Delerce vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Nicolas Bernal",
+    "match": "Ange Delerce vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Demetrio Sposato",
+    "match": "Ange Delerce vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Marius Westerlind",
+    "match": "Ange Delerce vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Matias Rossing",
+    "match": "Ange Delerce vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Justin Callahan",
+    "match": "Tom Higgins vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Tom Higgins",
+    "match": "Tom Higgins vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Nicolas Bernal",
+    "match": "Tom Higgins vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Tom Higgins",
+    "match": "Tom Higgins vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Tom Higgins",
+    "match": "Tom Higgins vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Matias Rossing",
+    "match": "Tom Higgins vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Nicolas Bernal",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Justin Callahan",
+    "loser": "Demetrio Sposato",
+    "match": "Justin Callahan vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Justin Callahan",
+    "loser": "Marius Westerlind",
+    "match": "Justin Callahan vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Justin Callahan",
+    "loser": "Matias Rossing",
+    "match": "Justin Callahan vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Nicolas Bernal",
+    "match": "Noah Malpot vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Noah Malpot",
+    "match": "Noah Malpot vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Marius Westerlind",
+    "match": "Noah Malpot vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Matias Rossing",
+    "match": "Noah Malpot vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Nicolas Bernal",
+    "match": "Nicolas Bernal vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Nicolas Bernal",
+    "match": "Nicolas Bernal vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Nicolas Bernal",
+    "loser": "Matias Rossing",
+    "match": "Nicolas Bernal vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Demetrio Sposato",
+    "match": "Demetrio Sposato vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Matias Rossing",
+    "match": "Demetrio Sposato vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Matias Rossing",
+    "match": "Marius Westerlind vs Matias Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Timothée Rossi",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Ange Delerce",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Ange Delerce",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Tom Higgins",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Tom Higgins",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Justin Callahan",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Nicolas Bernal",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Nicolas Bernal",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Demetrio Sposato",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Demetrio Sposato",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Marius Westerlind",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Marius Westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "round-robin",
+    "winner": "Matias Rossing",
+    "loser": "Saleh Al Huweil",
+    "match": "Saleh Al Huweil vs Matias Rossing",
+    "race": 0
+  }
+]

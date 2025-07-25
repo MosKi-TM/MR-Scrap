@@ -1,0 +1,458 @@
+[
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "eric monnin",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "petit-final",
+    "winner": "pearson potts",
+    "loser": "chris poole",
+    "match": "chris poole vs pearson potts",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "pearson potts",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "pearson potts",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "jim mcnally",
+    "match": "eric monnin vs jim mcnally",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "pearson potts",
+    "match": "eric monnin vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "james wilson",
+    "match": "eric monnin vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "peter wickwire",
+    "match": "eric monnin vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "pearson potts",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "james wilson",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "peter wickwire",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "pearson potts",
+    "loser": "james wilson",
+    "match": "pearson potts vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "pearson potts vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "pearson potts",
+    "loser": "peter wickwire",
+    "match": "pearson potts vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "pearson potts vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "peter wickwire",
+    "loser": "james wilson",
+    "match": "james wilson vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "james wilson",
+    "match": "james wilson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "peter wickwire",
+    "match": "nick egnot-johnson vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "nick egnot-johnson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "peter wickwire",
+    "match": "peter wickwire vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "jim mcnally",
+    "match": "eric monnin vs jim mcnally",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "pearson potts",
+    "match": "eric monnin vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "james wilson",
+    "match": "eric monnin vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "eric monnin vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "peter wickwire",
+    "match": "eric monnin vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "eric monnin",
+    "loser": "chris poole",
+    "match": "eric monnin vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "jim mcnally",
+    "loser": "james wilson",
+    "match": "jim mcnally vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "peter wickwire",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "jim mcnally",
+    "match": "jim mcnally vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "james wilson",
+    "match": "pearson potts vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "pearson potts vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "peter wickwire",
+    "match": "pearson potts vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "pearson potts vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "james wilson",
+    "match": "james wilson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "peter wickwire",
+    "loser": "james wilson",
+    "match": "james wilson vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "james wilson",
+    "loser": "chris poole",
+    "match": "james wilson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "peter wickwire",
+    "match": "nick egnot-johnson vs peter wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "nick egnot-johnson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "peter wickwire",
+    "loser": "chris poole",
+    "match": "peter wickwire vs chris poole",
+    "race": 0
+  }
+]

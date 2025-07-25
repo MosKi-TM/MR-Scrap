@@ -1,0 +1,906 @@
+[
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "petit-final",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "claire leroy",
+    "match": "pauline courtois vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "claire leroy",
+    "match": "pauline courtois vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs claire leroy",
+    "race": 5
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 5
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "johanna bergqvist",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "johanna bergqvist",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-1",
+    "winner": "johanna bergqvist",
+    "loser": "claire leroy",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-1",
+    "winner": "johanna bergqvist",
+    "loser": "claire leroy",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-1",
+    "winner": "claire leroy",
+    "loser": "johanna bergqvist",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 5
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-3",
+    "winner": "marie bjorling duell",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs marie bjorling duell",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling duell",
+    "match": "pauline courtois vs marie bjorling duell",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling duell",
+    "match": "pauline courtois vs marie bjorling duell",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-3",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling duell",
+    "match": "pauline courtois vs marie bjorling duell",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "lucy macgregor vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "lucy macgregor vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "lucy macgregor vs nicole breault",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "johanna bergqvist",
+    "loser": "claire leroy",
+    "match": "claire leroy vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "claire leroy",
+    "loser": "nicole breault",
+    "match": "claire leroy vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "claire leroy",
+    "loser": "renee groeneveld",
+    "match": "claire leroy vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "claire leroy",
+    "loser": "trine palludan",
+    "match": "claire leroy vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "claire leroy",
+    "loser": "marinella laaksonen",
+    "match": "claire leroy vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "johanna bergqvist",
+    "loser": "nicole breault",
+    "match": "johanna bergqvist vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "renee groeneveld",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "johanna bergqvist",
+    "loser": "trine palludan",
+    "match": "johanna bergqvist vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "johanna bergqvist",
+    "loser": "marinella laaksonen",
+    "match": "johanna bergqvist vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "renee groeneveld",
+    "loser": "nicole breault",
+    "match": "nicole breault vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "nicole breault",
+    "loser": "trine palludan",
+    "match": "nicole breault vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "nicole breault",
+    "loser": "marinella laaksonen",
+    "match": "nicole breault vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "renee groeneveld",
+    "loser": "trine palludan",
+    "match": "renee groeneveld vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonen",
+    "match": "renee groeneveld vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "repechage",
+    "winner": "trine palludan",
+    "loser": "marinella laaksonen",
+    "match": "trine palludan vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "trine palludan",
+    "match": "pauline courtois vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "johanna bergqvist",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonen",
+    "match": "pauline courtois vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "nicole breault",
+    "match": "pauline courtois vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "alexa bezel",
+    "match": "pauline courtois vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "marie bjorling duell",
+    "match": "pauline courtois vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "trine palludan",
+    "match": "anna ostling vs trine palludan",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "johanna bergqvist",
+    "match": "anna ostling vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonen",
+    "match": "anna ostling vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "margot vennin",
+    "match": "anna ostling vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "alexa bezel",
+    "match": "anna ostling vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "anna ostling vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "anna ostling",
+    "match": "anna ostling vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "marie bjorling duell",
+    "match": "anna ostling vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "johanna bergqvist",
+    "match": "trine palludan vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "marinella laaksonen",
+    "match": "trine palludan vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "trine palludan",
+    "match": "trine palludan vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "margot vennin",
+    "match": "trine palludan vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "alexa bezel",
+    "match": "trine palludan vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "trine palludan",
+    "match": "trine palludan vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "trine palludan",
+    "match": "trine palludan vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "trine palludan",
+    "loser": "claire leroy",
+    "match": "trine palludan vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "trine palludan",
+    "match": "trine palludan vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "marinella laaksonen",
+    "match": "johanna bergqvist vs marinella laaksonen",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "alexa bezel",
+    "match": "johanna bergqvist vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "lucy macgregor",
+    "match": "johanna bergqvist vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "claire leroy",
+    "match": "johanna bergqvist vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "marie bjorling duell",
+    "match": "johanna bergqvist vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "nicole breault",
+    "match": "marinella laaksonen vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marinella laaksonen",
+    "loser": "alexa bezel",
+    "match": "marinella laaksonen vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "marinella laaksonen",
+    "match": "marinella laaksonen vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "margot vennin",
+    "match": "nicole breault vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "alexa bezel",
+    "match": "nicole breault vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "nicole breault",
+    "match": "nicole breault vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "renee groeneveld",
+    "match": "nicole breault vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "nicole breault",
+    "match": "nicole breault vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "nicole breault",
+    "match": "nicole breault vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "alexa bezel",
+    "loser": "margot vennin",
+    "match": "margot vennin vs alexa bezel",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "margot vennin",
+    "match": "margot vennin vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "margot vennin",
+    "match": "margot vennin vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "margot vennin",
+    "match": "margot vennin vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "margot vennin",
+    "match": "margot vennin vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs lucy macgregor",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "alexa bezel",
+    "match": "alexa bezel vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "renee groeneveld",
+    "match": "lucy macgregor vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "claire leroy",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "lucy macgregor",
+    "loser": "marie bjorling duell",
+    "match": "lucy macgregor vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "claire leroy",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs claire leroy",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs marie bjorling duell",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries Lysekil Women's Match / Women's World Championships",
+    "phase": "round-robin",
+    "winner": "marie bjorling duell",
+    "loser": "claire leroy",
+    "match": "claire leroy vs marie bjorling duell",
+    "race": 0
+  }
+]

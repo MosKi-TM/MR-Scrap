@@ -1,0 +1,210 @@
+[
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "final",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "final",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "final",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 5
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "petit-final",
+    "winner": "genny tulloch",
+    "loser": "silvia roca mata",
+    "match": "genny tulloch vs silvia roca mata",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "petit-final",
+    "winner": "silvia roca mata",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs silvia roca mata",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "petit-final",
+    "winner": "genny tulloch",
+    "loser": "silvia roca mata",
+    "match": "genny tulloch vs silvia roca mata",
+    "race": 3
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-1",
+    "winner": "silvia roca mata",
+    "loser": "claire leroy",
+    "match": "claire leroy vs silvia roca mata",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "silvia roca mata",
+    "match": "claire leroy vs silvia roca mata",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "silvia roca mata",
+    "match": "claire leroy vs silvia roca mata",
+    "race": 3
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-1",
+    "winner": "silvia roca mata",
+    "loser": "claire leroy",
+    "match": "claire leroy vs silvia roca mata",
+    "race": 4
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-1",
+    "winner": "claire leroy",
+    "loser": "silvia roca mata",
+    "match": "claire leroy vs silvia roca mata",
+    "race": 5
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-2",
+    "winner": "ekaterina skudina",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-2",
+    "winner": "ekaterina skudina",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "semi-final-2",
+    "winner": "ekaterina skudina",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "julie bossard",
+    "match": "julie bossard vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-1",
+    "winner": "julie bossard",
+    "loser": "ekaterina skudina",
+    "match": "julie bossard vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "julie bossard",
+    "match": "julie bossard vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-2",
+    "winner": "claire leroy",
+    "loser": "olivia price",
+    "match": "olivia price vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-2",
+    "winner": "claire leroy",
+    "loser": "olivia price",
+    "match": "olivia price vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-3",
+    "winner": "genny tulloch",
+    "loser": "stephanie hazard",
+    "match": "genny tulloch vs stephanie hazard",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-3",
+    "winner": "genny tulloch",
+    "loser": "stephanie hazard",
+    "match": "genny tulloch vs stephanie hazard",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-4",
+    "winner": "rita goncalves",
+    "loser": "silvia roca mata",
+    "match": "rita goncalves vs silvia roca mata",
+    "race": 1
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-4",
+    "winner": "silvia roca mata",
+    "loser": "rita goncalves",
+    "match": "rita goncalves vs silvia roca mata",
+    "race": 2
+  },
+  {
+    "regatta": "St Quay Women's Cup",
+    "phase": "quarter-final-4",
+    "winner": "silvia roca mata",
+    "loser": "rita goncalves",
+    "match": "rita goncalves vs silvia roca mata",
+    "race": 3
+  }
+]

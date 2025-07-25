@@ -1,0 +1,258 @@
+[
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "pierre-antoine morvan",
+    "match": "taylor canfield vs pierre-antoine morvan",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "final",
+    "winner": "pierre-antoine morvan",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs pierre-antoine morvan",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "pierre-antoine morvan",
+    "match": "taylor canfield vs pierre-antoine morvan",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "pierre-antoine morvan",
+    "match": "taylor canfield vs pierre-antoine morvan",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "chris steele",
+    "match": "chris steele vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "petit-final",
+    "winner": "chris steele",
+    "loser": "sam gilmour",
+    "match": "chris steele vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "chris steele",
+    "match": "chris steele vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "chris steele",
+    "match": "chris steele vs sam gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "sam gilmour",
+    "match": "taylor canfield vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "sam gilmour",
+    "match": "taylor canfield vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-1",
+    "winner": "taylor canfield",
+    "loser": "sam gilmour",
+    "match": "taylor canfield vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "chris steele",
+    "match": "pierre-antoine morvan vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "chris steele",
+    "match": "pierre-antoine morvan vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "semi-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "chris steele",
+    "match": "pierre-antoine morvan vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-1",
+    "winner": "wataru sakamoto",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-1",
+    "winner": "taylor canfield",
+    "loser": "wataru sakamoto",
+    "match": "taylor canfield vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-1",
+    "winner": "taylor canfield",
+    "loser": "wataru sakamoto",
+    "match": "taylor canfield vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-1",
+    "winner": "taylor canfield",
+    "loser": "wataru sakamoto",
+    "match": "taylor canfield vs wataru sakamoto",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "donald wilson",
+    "match": "pierre-antoine morvan vs donald wilson",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-2",
+    "winner": "donald wilson",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs donald wilson",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "donald wilson",
+    "match": "pierre-antoine morvan vs donald wilson",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-2",
+    "winner": "pierre-antoine morvan",
+    "loser": "donald wilson",
+    "match": "pierre-antoine morvan vs donald wilson",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-3",
+    "winner": "maximilian soh",
+    "loser": "chris steele",
+    "match": "chris steele vs maximilian soh",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-3",
+    "winner": "maximilian soh",
+    "loser": "chris steele",
+    "match": "chris steele vs maximilian soh",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "maximilian soh",
+    "match": "chris steele vs maximilian soh",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "maximilian soh",
+    "match": "chris steele vs maximilian soh",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-3",
+    "winner": "chris steele",
+    "loser": "maximilian soh",
+    "match": "chris steele vs maximilian soh",
+    "race": 5
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "sam gilmour",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "sam gilmour",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Chicago Grand Slam",
+    "phase": "quarter-final-4",
+    "winner": "sam gilmour",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 5
+  }
+]

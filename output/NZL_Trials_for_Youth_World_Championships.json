@@ -1,0 +1,602 @@
+[
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "frankie dair",
+    "match": "george anyon vs frankie dair",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "frankie dair",
+    "match": "george anyon vs frankie dair",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "frankie dair",
+    "match": "george anyon vs frankie dair",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "petit-final",
+    "winner": "james wilson",
+    "loser": "josh wijohn",
+    "match": "josh wijohn vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "petit-final",
+    "winner": "josh wijohn",
+    "loser": "james wilson",
+    "match": "josh wijohn vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "petit-final",
+    "winner": "josh wijohn",
+    "loser": "james wilson",
+    "match": "josh wijohn vs james wilson",
+    "race": 3
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "semi-final-1",
+    "winner": "frankie dair",
+    "loser": "james wilson",
+    "match": "frankie dair vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "semi-final-1",
+    "winner": "frankie dair",
+    "loser": "james wilson",
+    "match": "frankie dair vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "josh wijohn",
+    "match": "george anyon vs josh wijohn",
+    "race": 1
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "josh wijohn",
+    "match": "george anyon vs josh wijohn",
+    "race": 2
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "william eastman",
+    "match": "george anyon vs william eastman",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "oakley marsh",
+    "match": "george anyon vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "frankie dair",
+    "match": "george anyon vs frankie dair",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "james wilson",
+    "match": "george anyon vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "zoe bennett",
+    "match": "george anyon vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "james jennings",
+    "match": "george anyon vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "josh wijohn",
+    "match": "george anyon vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "jonathon barnett",
+    "match": "george anyon vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "patrick harris",
+    "match": "george anyon vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "george anyon",
+    "loser": "pierre harrison",
+    "match": "george anyon vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "oakley marsh",
+    "match": "william eastman vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "william eastman",
+    "match": "william eastman vs frankie dair",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "william eastman",
+    "match": "william eastman vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "zoe bennett",
+    "match": "william eastman vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "william eastman",
+    "match": "william eastman vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "james jennings",
+    "match": "william eastman vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "josh wijohn",
+    "match": "william eastman vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "jonathon barnett",
+    "match": "william eastman vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "patrick harris",
+    "match": "william eastman vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "william eastman",
+    "loser": "pierre harrison",
+    "match": "william eastman vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs frankie dair",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "james wilson",
+    "match": "oakley marsh vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "zoe bennett",
+    "match": "oakley marsh vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "celia willison",
+    "match": "oakley marsh vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "jonathon barnett",
+    "match": "oakley marsh vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "patrick harris",
+    "match": "oakley marsh vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "pierre harrison",
+    "match": "oakley marsh vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "james wilson",
+    "match": "frankie dair vs james wilson",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "zoe bennett",
+    "match": "frankie dair vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "celia willison",
+    "match": "frankie dair vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "james jennings",
+    "match": "frankie dair vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "josh wijohn",
+    "match": "frankie dair vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "jonathon barnett",
+    "match": "frankie dair vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "patrick harris",
+    "match": "frankie dair vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "frankie dair",
+    "loser": "pierre harrison",
+    "match": "frankie dair vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "zoe bennett",
+    "match": "james wilson vs zoe bennett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "celia willison",
+    "match": "james wilson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "james jennings",
+    "match": "james wilson vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "james wilson",
+    "match": "james wilson vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "jonathon barnett",
+    "match": "james wilson vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "patrick harris",
+    "match": "james wilson vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james wilson",
+    "loser": "pierre harrison",
+    "match": "james wilson vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "zoe bennett",
+    "loser": "james jennings",
+    "match": "zoe bennett vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "jonathon barnett",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "zoe bennett",
+    "loser": "patrick harris",
+    "match": "zoe bennett vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "zoe bennett",
+    "loser": "pierre harrison",
+    "match": "zoe bennett vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "james jennings",
+    "match": "celia willison vs james jennings",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "celia willison",
+    "match": "celia willison vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "jonathon barnett",
+    "match": "celia willison vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "celia willison",
+    "match": "celia willison vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "pierre harrison",
+    "match": "celia willison vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "james jennings",
+    "match": "james jennings vs josh wijohn",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "jonathon barnett",
+    "match": "james jennings vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "patrick harris",
+    "match": "james jennings vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "james jennings",
+    "loser": "pierre harrison",
+    "match": "james jennings vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "jonathon barnett",
+    "loser": "josh wijohn",
+    "match": "josh wijohn vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "patrick harris",
+    "match": "josh wijohn vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "josh wijohn",
+    "loser": "pierre harrison",
+    "match": "josh wijohn vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "jonathon barnett",
+    "match": "jonathon barnett vs patrick harris",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "pierre harrison",
+    "loser": "jonathon barnett",
+    "match": "jonathon barnett vs pierre harrison",
+    "race": 0
+  },
+  {
+    "regatta": "NZL Trials for Youth World Championships",
+    "phase": "round-robin",
+    "winner": "patrick harris",
+    "loser": "pierre harrison",
+    "match": "patrick harris vs pierre harrison",
+    "race": 0
+  }
+]

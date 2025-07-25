@@ -1,0 +1,82 @@
+[
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "david chapman",
+    "loser": "maximillian soh",
+    "match": "david chapman vs maximillian soh",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "maximillian soh",
+    "loser": "david chapman",
+    "match": "david chapman vs maximillian soh",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "david chapman",
+    "loser": "maximillian soh",
+    "match": "david chapman vs maximillian soh",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "maximillian soh",
+    "loser": "david chapman",
+    "match": "david chapman vs maximillian soh",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "david chapman",
+    "loser": "maximillian soh",
+    "match": "david chapman vs maximillian soh",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "brendan kopp",
+    "match": "david storrs vs brendan kopp",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "brendan kopp",
+    "match": "david storrs vs brendan kopp",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "brendan kopp",
+    "loser": "david storrs",
+    "match": "david storrs vs brendan kopp",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "brendan kopp",
+    "loser": "david storrs",
+    "match": "david storrs vs brendan kopp",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Autumn Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "david storrs",
+    "loser": "brendan kopp",
+    "match": "david storrs vs brendan kopp",
+    "race": 5
+  }
+]

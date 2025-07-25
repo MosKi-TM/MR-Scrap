@@ -1,0 +1,258 @@
+[
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "final",
+    "winner": "david gilmour",
+    "loser": "chris steele",
+    "match": "david gilmour vs chris steele",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "final",
+    "winner": "chris steele",
+    "loser": "david gilmour",
+    "match": "david gilmour vs chris steele",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "final",
+    "winner": "david gilmour",
+    "loser": "chris steele",
+    "match": "david gilmour vs chris steele",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "final",
+    "winner": "david gilmour",
+    "loser": "chris steele",
+    "match": "david gilmour vs chris steele",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "petit-final",
+    "winner": "chris vantol",
+    "loser": "matt graham",
+    "match": "matt graham vs chris vantol",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "petit-final",
+    "winner": "matt graham",
+    "loser": "chris vantol",
+    "match": "matt graham vs chris vantol",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "petit-final",
+    "winner": "matt graham",
+    "loser": "chris vantol",
+    "match": "matt graham vs chris vantol",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "matt graham",
+    "match": "david gilmour vs matt graham",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "matt graham",
+    "match": "david gilmour vs matt graham",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "david gilmour",
+    "loser": "matt graham",
+    "match": "david gilmour vs matt graham",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "chris vantol",
+    "match": "chris steele vs chris vantol",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "chris vantol",
+    "match": "chris steele vs chris vantol",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "chris steele",
+    "loser": "chris vantol",
+    "match": "chris steele vs chris vantol",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "5th/6th",
+    "winner": "judge ryan",
+    "loser": "stephanie roble",
+    "match": "judge ryan vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "5th/6th",
+    "winner": "stephanie roble",
+    "loser": "judge ryan",
+    "match": "judge ryan vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "5th/6th",
+    "winner": "stephanie roble",
+    "loser": "judge ryan",
+    "match": "judge ryan vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "7th/8th",
+    "winner": "chris poole",
+    "loser": "ashlen rooklyn",
+    "match": "chris poole vs ashlen rooklyn",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "7th/8th",
+    "winner": "ashlen rooklyn",
+    "loser": "chris poole",
+    "match": "chris poole vs ashlen rooklyn",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "7th/8th",
+    "winner": "ashlen rooklyn",
+    "loser": "chris poole",
+    "match": "chris poole vs ashlen rooklyn",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-1",
+    "winner": "david gilmour",
+    "loser": "chris poole",
+    "match": "david gilmour vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "david gilmour",
+    "match": "david gilmour vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-1",
+    "winner": "david gilmour",
+    "loser": "chris poole",
+    "match": "david gilmour vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "ashlen rooklyn",
+    "match": "chris steele vs ashlen rooklyn",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-2",
+    "winner": "chris steele",
+    "loser": "ashlen rooklyn",
+    "match": "chris steele vs ashlen rooklyn",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "stephanie roble",
+    "loser": "matt graham",
+    "match": "stephanie roble vs matt graham",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "matt graham",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs matt graham",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "matt graham",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs matt graham",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "chris vantol",
+    "loser": "judge ryan",
+    "match": "judge ryan vs chris vantol",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "judge ryan",
+    "loser": "chris vantol",
+    "match": "judge ryan vs chris vantol",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "chris vantol",
+    "loser": "judge ryan",
+    "match": "judge ryan vs chris vantol",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "9th/10th",
+    "winner": "dustin durant",
+    "loser": "timothy coltman",
+    "match": "timothy coltman vs dustin durant",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "11th/12th",
+    "winner": "peter holz",
+    "loser": "mike quaglio",
+    "match": "peter holz vs mike quaglio",
+    "race": 1
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "robin follin",
+    "loser": "pierre quiroga",
+    "match": "robin follin vs pierre quiroga",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "robin follin",
+    "loser": "pierre quiroga",
+    "match": "robin follin vs pierre quiroga",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "robin follin",
+    "loser": "pierre quiroga",
+    "match": "robin follin vs pierre quiroga",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "simon bertheau",
+    "loser": "victor migraine",
+    "match": "simon bertheau vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "simon bertheau",
+    "loser": "victor migraine",
+    "match": "simon bertheau vs victor migraine",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "robin follin",
+    "loser": "victor migraine",
+    "match": "robin follin vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "robin follin",
+    "loser": "victor migraine",
+    "match": "robin follin vs victor migraine",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "robin follin",
+    "loser": "victor migraine",
+    "match": "robin follin vs victor migraine",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "pierre quiroga",
+    "loser": "simon bertheau",
+    "match": "pierre quiroga vs simon bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "pierre quiroga",
+    "loser": "simon bertheau",
+    "match": "pierre quiroga vs simon bertheau",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "pierre quiroga",
+    "loser": "simon bertheau",
+    "match": "pierre quiroga vs simon bertheau",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "quentin le guellec",
+    "loser": "paul medinger",
+    "match": "quentin le guellec vs paul medinger",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "clement commagnac",
+    "loser": "kevin bloch",
+    "match": "clement commagnac vs kevin bloch",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "quentin le guellec",
+    "loser": "kevin bloch",
+    "match": "quentin le guellec vs kevin bloch",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "paul medinger",
+    "loser": "clement commagnac",
+    "match": "paul medinger vs clement commagnac",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "paul medinger",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs paul medinger",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "pierre quiroga",
+    "loser": "paul medinger",
+    "match": "pierre quiroga vs paul medinger",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "pierre quiroga",
+    "loser": "paul medinger",
+    "match": "pierre quiroga vs paul medinger",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "paul medinger",
+    "loser": "pierre quiroga",
+    "match": "pierre quiroga vs paul medinger",
+    "race": 4
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "pierre quiroga",
+    "loser": "paul medinger",
+    "match": "pierre quiroga vs paul medinger",
+    "race": 5
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "simon bertheau",
+    "loser": "clement commagnac",
+    "match": "simon bertheau vs clement commagnac",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "clement commagnac",
+    "loser": "simon bertheau",
+    "match": "simon bertheau vs clement commagnac",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "clement commagnac",
+    "loser": "simon bertheau",
+    "match": "simon bertheau vs clement commagnac",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "simon bertheau",
+    "loser": "clement commagnac",
+    "match": "simon bertheau vs clement commagnac",
+    "race": 4
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "simon bertheau",
+    "loser": "clement commagnac",
+    "match": "simon bertheau vs clement commagnac",
+    "race": 5
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "victor migraine",
+    "loser": "quentin le guellec",
+    "match": "quentin le guellec vs victor migraine",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "quentin le guellec",
+    "loser": "victor migraine",
+    "match": "quentin le guellec vs victor migraine",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "quentin le guellec",
+    "loser": "victor migraine",
+    "match": "quentin le guellec vs victor migraine",
+    "race": 3
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "victor migraine",
+    "loser": "quentin le guellec",
+    "match": "quentin le guellec vs victor migraine",
+    "race": 4
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "victor migraine",
+    "loser": "quentin le guellec",
+    "match": "quentin le guellec vs victor migraine",
+    "race": 5
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "robin follin",
+    "loser": "kevin bloch",
+    "match": "robin follin vs kevin bloch",
+    "race": 1
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "robin follin",
+    "loser": "kevin bloch",
+    "match": "robin follin vs kevin bloch",
+    "race": 2
+  },
+  {
+    "regatta": "French National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "robin follin",
+    "loser": "kevin bloch",
+    "match": "robin follin vs kevin bloch",
+    "race": 3
+  }
+]

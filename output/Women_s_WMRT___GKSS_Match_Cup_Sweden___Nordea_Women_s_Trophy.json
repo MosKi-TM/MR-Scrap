@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "final",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-2",
+    "winner": "julia aartsen",
+    "loser": "martina carlsson",
+    "match": "julia aartsen vs martina carlsson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-2",
+    "winner": "julia aartsen",
+    "loser": "martina carlsson",
+    "match": "julia aartsen vs martina carlsson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-3",
+    "winner": "renee groeneveld",
+    "loser": "kristine mauritzen",
+    "match": "renee groeneveld vs kristine mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "quarter-final-3",
+    "winner": "renee groeneveld",
+    "loser": "kristine mauritzen",
+    "match": "renee groeneveld vs kristine mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "kristine mauritzen",
+    "match": "pauline courtois vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "martina carlsson",
+    "match": "pauline courtois vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "martina carlsson",
+    "match": "anna ostling vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "julia aartsen",
+    "match": "megan thomson vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "megan thomson",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "megan thomson",
+    "match": "megan thomson vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "martina carlsson",
+    "loser": "megan thomson",
+    "match": "megan thomson vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "julia aartsen",
+    "match": "celia willison vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "celia willison",
+    "match": "celia willison vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "martina carlsson",
+    "loser": "celia willison",
+    "match": "celia willison vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "kristine mauritzen",
+    "match": "julia aartsen vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "martina carlsson",
+    "match": "julia aartsen vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "renee groeneveld",
+    "match": "kristine mauritzen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "martina carlsson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs martina carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – GKSS Match Cup Sweden – Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "martina carlsson",
+    "match": "renee groeneveld vs martina carlsson",
+    "race": 0
+  }
+]

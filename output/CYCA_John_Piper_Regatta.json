@@ -1,0 +1,90 @@
+[
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "james hodgson",
+    "match": "finn tapper vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "james hodgson",
+    "match": "finn tapper vs james hodgson",
+    "race": 4
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs james hodgson",
+    "race": 5
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "petit-final",
+    "winner": "lauren gallaway",
+    "loser": "thomas steenson",
+    "match": "lauren gallaway vs thomas steenson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "petit-final",
+    "winner": "lauren gallaway",
+    "loser": "thomas steenson",
+    "match": "lauren gallaway vs thomas steenson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "thomas steenson",
+    "match": "finn tapper vs thomas steenson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "thomas steenson",
+    "match": "finn tapper vs thomas steenson",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "lauren gallaway",
+    "match": "lauren gallaway vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA John Piper Regatta",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "lauren gallaway",
+    "match": "lauren gallaway vs james hodgson",
+    "race": 2
+  }
+]

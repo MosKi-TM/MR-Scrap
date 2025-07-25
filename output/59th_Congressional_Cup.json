@@ -1,0 +1,986 @@
+[
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "ian williams vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "ian williams vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "ian williams vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "final",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "ian williams vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "chris poole vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "chris poole vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "chris poole vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "ian williams",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "ian williams",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "gavin brady",
+    "match": "gavin brady vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-1",
+    "winner": "gavin brady",
+    "loser": "chris poole",
+    "match": "gavin brady vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "gavin brady",
+    "match": "gavin brady vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "gavin brady",
+    "match": "gavin brady vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-2",
+    "winner": "dave hood",
+    "loser": "nick egnot-johnson",
+    "match": "dave hood vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "dave hood vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-2",
+    "winner": "dave hood",
+    "loser": "nick egnot-johnson",
+    "match": "dave hood vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "dave hood vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "dave hood vs nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "ian williams vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "ian williams vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "ian williams vs cole tapper",
+    "race": 3
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "eric monnin",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "megan thomson",
+    "match": "johnie berntsson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "johnie berntsson",
+    "loser": "scotty dickson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "rocco attili",
+    "match": "chris poole vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "chris poole vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "cole tapper",
+    "match": "chris poole vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "chris poole",
+    "match": "chris poole vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "chris poole",
+    "loser": "scotty dickson",
+    "match": "chris poole vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "eric monnin",
+    "loser": "rocco attili",
+    "match": "rocco attili vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "rocco attili",
+    "match": "rocco attili vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "rocco attili",
+    "loser": "megan thomson",
+    "match": "rocco attili vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "scotty dickson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "eric monnin",
+    "match": "nick egnot-johnson vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "nick egnot-johnson",
+    "loser": "scotty dickson",
+    "match": "nick egnot-johnson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "eric monnin",
+    "match": "eric monnin vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "eric monnin",
+    "loser": "megan thomson",
+    "match": "eric monnin vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "eric monnin",
+    "loser": "scotty dickson",
+    "match": "eric monnin vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "megan thomson",
+    "loser": "cole tapper",
+    "match": "cole tapper vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "scotty dickson",
+    "match": "cole tapper vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "repechage",
+    "winner": "scotty dickson",
+    "loser": "megan thomson",
+    "match": "megan thomson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "eric monnin",
+    "match": "chris poole vs eric monnin",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "chris poole vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "jeppe borch",
+    "match": "chris poole vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "chris poole",
+    "match": "chris poole vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "chris poole",
+    "match": "chris poole vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "chris poole vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "megan thomson",
+    "match": "chris poole vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "gavin brady",
+    "match": "chris poole vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "cole tapper",
+    "match": "chris poole vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "scotty dickson",
+    "match": "chris poole vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "eric monnin",
+    "match": "eric monnin vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "eric monnin",
+    "match": "eric monnin vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "eric monnin",
+    "match": "eric monnin vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "eric monnin",
+    "match": "eric monnin vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "megan thomson",
+    "match": "eric monnin vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "gavin brady",
+    "match": "eric monnin vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "cole tapper",
+    "match": "eric monnin vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "eric monnin",
+    "match": "eric monnin vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "scotty dickson",
+    "match": "eric monnin vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "rocco attili",
+    "match": "johnie berntsson vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "johnie berntsson vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "megan thomson",
+    "match": "johnie berntsson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "dave hood",
+    "match": "johnie berntsson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "johnie berntsson",
+    "loser": "scotty dickson",
+    "match": "johnie berntsson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "rocco attili",
+    "match": "jeppe borch vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "nick egnot-johnson",
+    "match": "jeppe borch vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "ian williams",
+    "match": "jeppe borch vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "megan thomson",
+    "match": "jeppe borch vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "cole tapper",
+    "match": "jeppe borch vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "dave hood",
+    "match": "jeppe borch vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "jeppe borch",
+    "loser": "scotty dickson",
+    "match": "jeppe borch vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "nick egnot-johnson",
+    "match": "rocco attili vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "rocco attili",
+    "match": "rocco attili vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "rocco attili",
+    "match": "rocco attili vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "rocco attili",
+    "match": "rocco attili vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "cole tapper",
+    "match": "rocco attili vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "rocco attili",
+    "match": "rocco attili vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "scotty dickson",
+    "match": "rocco attili vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ian williams",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "scotty dickson",
+    "match": "nick egnot-johnson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "megan thomson",
+    "match": "ian williams vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "gavin brady",
+    "match": "ian williams vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "cole tapper",
+    "match": "ian williams vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "ian williams",
+    "match": "ian williams vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "ian williams",
+    "loser": "scotty dickson",
+    "match": "ian williams vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "megan thomson",
+    "match": "megan thomson vs gavin brady",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "cole tapper",
+    "match": "megan thomson vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "megan thomson",
+    "match": "megan thomson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "scotty dickson",
+    "loser": "megan thomson",
+    "match": "megan thomson vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "cole tapper",
+    "match": "gavin brady vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "gavin brady",
+    "match": "gavin brady vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "scotty dickson",
+    "match": "gavin brady vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "cole tapper",
+    "match": "cole tapper vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "scotty dickson",
+    "match": "cole tapper vs scotty dickson",
+    "race": 0
+  },
+  {
+    "regatta": "59th Congressional Cup",
+    "phase": "round-robin",
+    "winner": "dave hood",
+    "loser": "scotty dickson",
+    "match": "dave hood vs scotty dickson",
+    "race": 0
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "Timothé Rossi",
+    "loser": "Simon Bertheau",
+    "match": "Simon Bertheau vs Timothé Rossi",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "Timothé Rossi",
+    "loser": "Simon Bertheau",
+    "match": "Simon Bertheau vs Timothé Rossi",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "final",
+    "winner": "Timothé Rossi",
+    "loser": "Simon Bertheau",
+    "match": "Simon Bertheau vs Timothé Rossi",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "petit-final",
+    "winner": "Maxime Mesnil",
+    "loser": "Damian Michelier",
+    "match": "Maxime Mesnil vs Damian Michelier",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "petit-final",
+    "winner": "Maxime Mesnil",
+    "loser": "Damian Michelier",
+    "match": "Maxime Mesnil vs Damian Michelier",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Simon Bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Simon Bertheau",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Simon Bertheau",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Timothé Rossi",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "Timothé Rossi",
+    "loser": "Maxime Mesnil",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "Maxime Mesnil",
+    "loser": "Timothé Rossi",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "Timothé Rossi",
+    "loser": "Maxime Mesnil",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 4
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "semi-final-2",
+    "winner": "Timothé Rossi",
+    "loser": "Maxime Mesnil",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 5
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "5th-/-6th",
+    "winner": "Damien Iehl",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Damien Iehl",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "6th-/-7th",
+    "winner": "Damien Iehl",
+    "loser": "Mathieu Durand",
+    "match": "Mathieu Durand vs Damien Iehl",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "7th-/-8th",
+    "winner": "Damien Iehl",
+    "loser": "Tom Picot",
+    "match": "Damien Iehl vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "8th-/-9th",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "9th-/-10th",
+    "winner": "Tom Picot",
+    "loser": "Noe Ackerman",
+    "match": "Noe Ackerman vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "10th-/-11th",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "11th-/-12th",
+    "winner": "Tom Picot",
+    "loser": "Sylvain Escurat",
+    "match": "Tom Picot vs Sylvain Escurat",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Simon Bertheau",
+    "match": "Pauline Courtois vs Simon Bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Simon Bertheau",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Simon Bertheau",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-1",
+    "winner": "Simon Bertheau",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Simon Bertheau",
+    "race": 4
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "Mathieu Durand",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "Mathieu Durand",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 4
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-2",
+    "winner": "Damian Michelier",
+    "loser": "Mathieu Durand",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 5
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-3",
+    "winner": "Timothé Rossi",
+    "loser": "Damien Iehl",
+    "match": "Timothé Rossi vs Damien Iehl",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-3",
+    "winner": "Timothé Rossi",
+    "loser": "Damien Iehl",
+    "match": "Timothé Rossi vs Damien Iehl",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-3",
+    "winner": "Timothé Rossi",
+    "loser": "Damien Iehl",
+    "match": "Timothé Rossi vs Damien Iehl",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-4",
+    "winner": "Maxime Mesnil",
+    "loser": "Aurelien Pierroz",
+    "match": "Maxime Mesnil vs Aurelien Pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-4",
+    "winner": "Maxime Mesnil",
+    "loser": "Aurelien Pierroz",
+    "match": "Maxime Mesnil vs Aurelien Pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "quarter-final-4",
+    "winner": "Maxime Mesnil",
+    "loser": "Aurelien Pierroz",
+    "match": "Maxime Mesnil vs Aurelien Pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Aurelien Pierroz",
+    "match": "Damian Michelier vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Timothé Rossi",
+    "match": "Damian Michelier vs Timothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Ian Garreta",
+    "match": "Damian Michelier vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Pauline Courtois",
+    "match": "Damian Michelier vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Maxime Mesnil",
+    "match": "Damian Michelier vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Noe Ackerman",
+    "match": "Damian Michelier vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Damian Michelier",
+    "match": "Damian Michelier vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Tom Picot",
+    "match": "Damian Michelier vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Simon Bertheau",
+    "match": "Damian Michelier vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Sylvain Escurat",
+    "match": "Damian Michelier vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Timothé Rossi",
+    "match": "Aurelien Pierroz vs Timothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Ian Garreta",
+    "match": "Aurelien Pierroz vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Maxime Mesnil",
+    "match": "Aurelien Pierroz vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Noe Ackerman",
+    "match": "Aurelien Pierroz vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Mathieu Durand",
+    "match": "Aurelien Pierroz vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Aurelien Pierroz",
+    "match": "Aurelien Pierroz vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Simon Bertheau",
+    "match": "Aurelien Pierroz vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Sylvain Escurat",
+    "match": "Aurelien Pierroz vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Timothé Rossi",
+    "match": "Timothé Rossi vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Pauline Courtois",
+    "match": "Timothé Rossi vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Maxime Mesnil",
+    "match": "Timothé Rossi vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Noe Ackerman",
+    "match": "Timothé Rossi vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Mathieu Durand",
+    "match": "Timothé Rossi vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Timothé Rossi",
+    "match": "Timothé Rossi vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Simon Bertheau",
+    "match": "Timothé Rossi vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Sylvain Escurat",
+    "match": "Timothé Rossi vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Maxime Mesnil",
+    "match": "Ian Garreta vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Mathieu Durand",
+    "match": "Ian Garreta vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Ian Garreta",
+    "loser": "Simon Bertheau",
+    "match": "Ian Garreta vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Sylvain Escurat",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Maxime Mesnil",
+    "match": "Pauline Courtois vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Mathieu Durand",
+    "match": "Pauline Courtois vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Simon Bertheau",
+    "match": "Pauline Courtois vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Sylvain Escurat",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Mathieu Durand",
+    "match": "Maxime Mesnil vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Simon Bertheau",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Sylvain Escurat",
+    "match": "Maxime Mesnil vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Mathieu Durand",
+    "match": "Noe Ackerman vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Noe Ackerman",
+    "match": "Noe Ackerman vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Simon Bertheau",
+    "match": "Noe Ackerman vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Sylvain Escurat",
+    "match": "Noe Ackerman vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Mathieu Durand",
+    "match": "Mathieu Durand vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Mathieu Durand",
+    "loser": "Simon Bertheau",
+    "match": "Mathieu Durand vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Sylvain Escurat",
+    "loser": "Mathieu Durand",
+    "match": "Mathieu Durand vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Simon Bertheau",
+    "match": "Tom Picot vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Sylvain Escurat",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Simon Bertheau",
+    "loser": "Sylvain Escurat",
+    "match": "Simon Bertheau vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damian Michelier",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Damian Michelier",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Aurelien Pierroz",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Aurelien Pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Timothé Rossi",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Timothé Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damien Iehl",
+    "loser": "Ian Garreta",
+    "match": "Damien Iehl vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damien Iehl",
+    "loser": "Pauline Courtois",
+    "match": "Damien Iehl vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Noe Ackerman",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Noe Ackerman",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damien Iehl",
+    "loser": "Mathieu Durand",
+    "match": "Damien Iehl vs Mathieu Durand",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damien Iehl",
+    "loser": "Tom Picot",
+    "match": "Damien Iehl vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Simon Bertheau",
+    "loser": "Damien Iehl",
+    "match": "Damien Iehl vs Simon Bertheau",
+    "race": 0
+  },
+  {
+    "regatta": "Championnat de France Match Racing Open",
+    "phase": "round-robin",
+    "winner": "Damien Iehl",
+    "loser": "Sylvain Escurat",
+    "match": "Damien Iehl vs Sylvain Escurat",
+    "race": 0
+  }
+]

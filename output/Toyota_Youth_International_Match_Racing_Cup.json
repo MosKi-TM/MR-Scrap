@@ -1,0 +1,946 @@
+[
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 1
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 2
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "ethan fong",
+    "loser": "hayden smith",
+    "match": "ethan fong vs hayden smith",
+    "race": 1
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "ethan fong",
+    "loser": "hayden smith",
+    "match": "ethan fong vs hayden smith",
+    "race": 2
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "josh hyde",
+    "loser": "hayden smith",
+    "match": "josh hyde vs hayden smith",
+    "race": 1
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "josh hyde",
+    "loser": "hayden smith",
+    "match": "josh hyde vs hayden smith",
+    "race": 2
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "samuel scott",
+    "loser": "ethan fong",
+    "match": "ethan fong vs samuel scott",
+    "race": 1
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "samuel scott",
+    "loser": "ethan fong",
+    "match": "ethan fong vs samuel scott",
+    "race": 2
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "xavier mclachlan",
+    "match": "josh hyde vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "hayden smith",
+    "match": "josh hyde vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "ben crafoord",
+    "match": "josh hyde vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "james hayhoe",
+    "match": "josh hyde vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "samuel scott",
+    "match": "josh hyde vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "charley cates",
+    "match": "josh hyde vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "william stratton",
+    "match": "josh hyde vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "leo jeffery",
+    "match": "josh hyde vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "xavier mclachlan",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "hayden smith",
+    "match": "daniel kemp vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "james hayhoe",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "charley cates",
+    "match": "daniel kemp vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "william stratton",
+    "match": "daniel kemp vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "daniel kemp",
+    "loser": "leo jeffery",
+    "match": "daniel kemp vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "ethan fong",
+    "match": "xavier mclachlan vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "james hayhoe",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "samuel scott",
+    "match": "xavier mclachlan vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "charley cates",
+    "match": "xavier mclachlan vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "william stratton",
+    "match": "xavier mclachlan vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "leo jeffery",
+    "match": "xavier mclachlan vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "hayden smith",
+    "match": "ethan fong vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "ben crafoord",
+    "match": "ethan fong vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "james hayhoe",
+    "match": "ethan fong vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "samuel scott",
+    "match": "ethan fong vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "charley cates",
+    "loser": "ethan fong",
+    "match": "ethan fong vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "william stratton",
+    "match": "ethan fong vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ethan fong",
+    "loser": "leo jeffery",
+    "match": "ethan fong vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "hayden smith",
+    "match": "hayden smith vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "james hayhoe",
+    "match": "hayden smith vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "hayden smith",
+    "match": "hayden smith vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "charley cates",
+    "loser": "hayden smith",
+    "match": "hayden smith vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "william stratton",
+    "match": "hayden smith vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "hayden smith",
+    "loser": "leo jeffery",
+    "match": "hayden smith vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "james hayhoe",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "samuel scott",
+    "match": "ben crafoord vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "charley cates",
+    "match": "ben crafoord vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "william stratton",
+    "match": "ben crafoord vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "ben crafoord",
+    "loser": "leo jeffery",
+    "match": "ben crafoord vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "james hayhoe",
+    "match": "james hayhoe vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "charley cates",
+    "loser": "james hayhoe",
+    "match": "james hayhoe vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "james hayhoe",
+    "loser": "william stratton",
+    "match": "james hayhoe vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "james hayhoe",
+    "loser": "leo jeffery",
+    "match": "james hayhoe vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "charley cates",
+    "match": "samuel scott vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "william stratton",
+    "match": "samuel scott vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "samuel scott",
+    "loser": "leo jeffery",
+    "match": "samuel scott vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "william stratton",
+    "loser": "charley cates",
+    "match": "charley cates vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "charley cates",
+    "loser": "leo jeffery",
+    "match": "charley cates vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-2",
+    "winner": "william stratton",
+    "loser": "leo jeffery",
+    "match": "william stratton vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "daniel kemp",
+    "match": "josh hyde vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "xavier mclachlan",
+    "match": "josh hyde vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "ethan fong",
+    "match": "josh hyde vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "josh hyde",
+    "match": "josh hyde vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "josh hyde",
+    "match": "josh hyde vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "james hayhoe",
+    "match": "josh hyde vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "josh hyde",
+    "match": "josh hyde vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "charley cates",
+    "match": "josh hyde vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "william stratton",
+    "match": "josh hyde vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "leo jeffery",
+    "match": "josh hyde vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "xavier mclachlan",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "ethan fong",
+    "match": "daniel kemp vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "ben crafoord",
+    "match": "daniel kemp vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "james hayhoe",
+    "match": "daniel kemp vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "charley cates",
+    "match": "daniel kemp vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "william stratton",
+    "match": "daniel kemp vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "daniel kemp",
+    "loser": "leo jeffery",
+    "match": "daniel kemp vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs ethan fong",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "james hayhoe",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "samuel scott",
+    "match": "xavier mclachlan vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "charley cates",
+    "match": "xavier mclachlan vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "william stratton",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "leo jeffery",
+    "match": "xavier mclachlan vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "hayden smith",
+    "match": "ethan fong vs hayden smith",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "ben crafoord",
+    "match": "ethan fong vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "james hayhoe",
+    "match": "ethan fong vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "ethan fong",
+    "match": "ethan fong vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "charley cates",
+    "match": "ethan fong vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "william stratton",
+    "match": "ethan fong vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ethan fong",
+    "loser": "leo jeffery",
+    "match": "ethan fong vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "ben crafoord",
+    "match": "hayden smith vs ben crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "james hayhoe",
+    "match": "hayden smith vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "samuel scott",
+    "match": "hayden smith vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "charley cates",
+    "match": "hayden smith vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "william stratton",
+    "match": "hayden smith vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "hayden smith",
+    "loser": "leo jeffery",
+    "match": "hayden smith vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "james hayhoe",
+    "match": "ben crafoord vs james hayhoe",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "charley cates",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "william stratton",
+    "loser": "ben crafoord",
+    "match": "ben crafoord vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "ben crafoord",
+    "loser": "leo jeffery",
+    "match": "ben crafoord vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "james hayhoe",
+    "loser": "samuel scott",
+    "match": "james hayhoe vs samuel scott",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "charley cates",
+    "loser": "james hayhoe",
+    "match": "james hayhoe vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "james hayhoe",
+    "loser": "william stratton",
+    "match": "james hayhoe vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "james hayhoe",
+    "loser": "leo jeffery",
+    "match": "james hayhoe vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "charley cates",
+    "match": "samuel scott vs charley cates",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "william stratton",
+    "match": "samuel scott vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "samuel scott",
+    "loser": "leo jeffery",
+    "match": "samuel scott vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "william stratton",
+    "loser": "charley cates",
+    "match": "charley cates vs william stratton",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "charley cates",
+    "loser": "leo jeffery",
+    "match": "charley cates vs leo jeffery",
+    "race": 0
+  },
+  {
+    "regatta": "Toyota Youth International Match Racing Cup",
+    "phase": "round-robin-1",
+    "winner": "leo jeffery",
+    "loser": "william stratton",
+    "match": "william stratton vs leo jeffery",
+    "race": 0
+  }
+]

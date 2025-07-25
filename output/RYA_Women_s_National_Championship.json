@@ -1,0 +1,522 @@
+[
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "final",
+    "winner": "ellie cumpsty",
+    "loser": "ali morrish",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "final",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "final",
+    "winner": "ellie cumpsty",
+    "loser": "ali morrish",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "final",
+    "winner": "ellie cumpsty",
+    "loser": "ali morrish",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 5
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "petit-final",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie otter vs sophie taylor",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "petit-final",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-1",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "semi-final-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 5
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "octavia owen",
+    "loser": "alice kidd",
+    "match": "octavia owen vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "octavia owen",
+    "loser": "juliette kennedy",
+    "match": "octavia owen vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "octavia owen",
+    "loser": "eva miller",
+    "match": "octavia owen vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "juliette kennedy",
+    "loser": "alice kidd",
+    "match": "alice kidd vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "alice kidd",
+    "loser": "eva miller",
+    "match": "alice kidd vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "5th-to-8th",
+    "winner": "juliette kennedy",
+    "loser": "eva miller",
+    "match": "juliette kennedy vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "alice kidd",
+    "match": "sophie otter vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "juliette kennedy",
+    "match": "sophie otter vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "sophie otter vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie otter",
+    "loser": "eva miller",
+    "match": "sophie otter vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie taylor",
+    "loser": "alice kidd",
+    "match": "sophie taylor vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie taylor",
+    "loser": "juliette kennedy",
+    "match": "sophie taylor vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie taylor",
+    "loser": "octavia owen",
+    "match": "sophie taylor vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "sophie taylor",
+    "loser": "eva miller",
+    "match": "sophie taylor vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "alice kidd",
+    "loser": "juliette kennedy",
+    "match": "alice kidd vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "alice kidd",
+    "match": "alice kidd vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "alice kidd",
+    "loser": "eva miller",
+    "match": "alice kidd vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "juliette kennedy",
+    "match": "juliette kennedy vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "juliette kennedy",
+    "loser": "eva miller",
+    "match": "juliette kennedy vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "repechage",
+    "winner": "octavia owen",
+    "loser": "eva miller",
+    "match": "octavia owen vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "eva miller",
+    "match": "octavia owen vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "alice kidd",
+    "match": "octavia owen vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "octavia owen",
+    "match": "octavia owen vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "ali morrish",
+    "match": "ali morrish vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "eva miller",
+    "match": "ali morrish vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "alice kidd",
+    "match": "ali morrish vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "juliette kennedy",
+    "match": "ali morrish vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "sophie taylor",
+    "match": "sophie otter vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "eva miller",
+    "match": "sophie otter vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "alice kidd",
+    "match": "sophie otter vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "juliette kennedy",
+    "match": "sophie otter vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "eva miller",
+    "match": "ellie cumpsty vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "alice kidd",
+    "match": "ellie cumpsty vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "juliette kennedy",
+    "match": "ellie cumpsty vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "eva miller",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs eva miller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "alice kidd",
+    "match": "sophie taylor vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "sophie taylor",
+    "loser": "juliette kennedy",
+    "match": "sophie taylor vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "alice kidd",
+    "loser": "eva miller",
+    "match": "eva miller vs alice kidd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "juliette kennedy",
+    "loser": "eva miller",
+    "match": "eva miller vs juliette kennedy",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Women's National Championship",
+    "phase": "round-robin",
+    "winner": "alice kidd",
+    "loser": "juliette kennedy",
+    "match": "alice kidd vs juliette kennedy",
+    "race": 0
+  }
+]

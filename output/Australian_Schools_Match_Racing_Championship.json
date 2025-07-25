@@ -1,0 +1,322 @@
+[
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "hugo stoner",
+    "match": "will sargent vs hugo stoner",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "hugo stoner",
+    "loser": "will sargent",
+    "match": "will sargent vs hugo stoner",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "hugo stoner",
+    "loser": "will sargent",
+    "match": "will sargent vs hugo stoner",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "hugo stoner",
+    "match": "will sargent vs hugo stoner",
+    "race": 4
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "hugo stoner",
+    "match": "will sargent vs hugo stoner",
+    "race": 5
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "sam king",
+    "loser": "taylor rogers",
+    "match": "sam king vs taylor rogers",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "sam king",
+    "loser": "taylor rogers",
+    "match": "sam king vs taylor rogers",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "will sargent",
+    "loser": "taylor rogers",
+    "match": "will sargent vs taylor rogers",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "will sargent",
+    "loser": "taylor rogers",
+    "match": "will sargent vs taylor rogers",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "hugo stoner",
+    "loser": "sam king",
+    "match": "hugo stoner vs sam king",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "sam king",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs sam king",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "hugo stoner",
+    "loser": "sam king",
+    "match": "hugo stoner vs sam king",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "sam king",
+    "match": "sam king vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "sam king",
+    "match": "sam king vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "sam king",
+    "loser": "jed cruickshank",
+    "match": "sam king vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "sam king",
+    "loser": "taylor rogers",
+    "match": "sam king vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "sam king",
+    "loser": "finley scade",
+    "match": "sam king vs finley scade",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "sam king",
+    "loser": "zachary elliott",
+    "match": "sam king vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "sam king",
+    "loser": "wallis brewer",
+    "match": "sam king vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "jed cruickshank",
+    "match": "hugo stoner vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "taylor rogers",
+    "match": "hugo stoner vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "finley scade",
+    "match": "hugo stoner vs finley scade",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "zachary elliott",
+    "match": "hugo stoner vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "wallis brewer",
+    "match": "hugo stoner vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "taylor rogers",
+    "loser": "will sargent",
+    "match": "will sargent vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "finley scade",
+    "match": "will sargent vs finley scade",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "zachary elliott",
+    "match": "will sargent vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "wallis brewer",
+    "match": "will sargent vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "taylor rogers",
+    "match": "jed cruickshank vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "finley scade",
+    "match": "jed cruickshank vs finley scade",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "zachary elliott",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "wallis brewer",
+    "match": "jed cruickshank vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "taylor rogers",
+    "loser": "finley scade",
+    "match": "taylor rogers vs finley scade",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "taylor rogers",
+    "loser": "zachary elliott",
+    "match": "taylor rogers vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "taylor rogers",
+    "loser": "wallis brewer",
+    "match": "taylor rogers vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "finley scade",
+    "loser": "zachary elliott",
+    "match": "finley scade vs zachary elliott",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "finley scade",
+    "loser": "wallis brewer",
+    "match": "finley scade vs wallis brewer",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Schools Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "zachary elliott",
+    "loser": "wallis brewer",
+    "match": "zachary elliott vs wallis brewer",
+    "race": 0
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "rocco attili",
+    "match": "eric monnin vs rocco attili",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "rocco attili",
+    "match": "eric monnin vs rocco attili",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "final",
+    "winner": "eric monnin",
+    "loser": "rocco attili",
+    "match": "eric monnin vs rocco attili",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "petit-final",
+    "winner": "jeffrey petersen",
+    "loser": "vladimir lipavsky",
+    "match": "vladimir lipavsky vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "petit-final",
+    "winner": "vladimir lipavsky",
+    "loser": "jeffrey petersen",
+    "match": "vladimir lipavsky vs jeffrey petersen",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "petit-final",
+    "winner": "vladimir lipavsky",
+    "loser": "jeffrey petersen",
+    "match": "vladimir lipavsky vs jeffrey petersen",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "vladimir lipavsky",
+    "match": "eric monnin vs vladimir lipavsky",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "vladimir lipavsky",
+    "match": "eric monnin vs vladimir lipavsky",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-1",
+    "winner": "eric monnin",
+    "loser": "vladimir lipavsky",
+    "match": "eric monnin vs vladimir lipavsky",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "jeffrey petersen",
+    "match": "rocco attili vs jeffrey petersen",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "jeffrey petersen",
+    "match": "rocco attili vs jeffrey petersen",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "semi-final-2",
+    "winner": "rocco attili",
+    "loser": "jeffrey petersen",
+    "match": "rocco attili vs jeffrey petersen",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "5th-/-6th",
+    "winner": "damian michelier",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs damian michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "6th-/-7th",
+    "winner": "damian michelier",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs damian michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "7th-/-8th",
+    "winner": "damian michelier",
+    "loser": "mati sepp",
+    "match": "mati sepp vs damian michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "8th-/-9th",
+    "winner": "damian michelier",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs damian michelier",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "9th-/-10th",
+    "winner": "damian michelier",
+    "loser": "martin allix",
+    "match": "damian michelier vs martin allix",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "10th-/-11th",
+    "winner": "martin allix",
+    "loser": "ted blowers",
+    "match": "martin allix vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "damian michelier",
+    "match": "eric monnin vs damian michelier",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "jeffrey petersen",
+    "match": "eric monnin vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "eric monnin",
+    "match": "eric monnin vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "mati sepp",
+    "match": "eric monnin vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "ted blowers",
+    "match": "eric monnin vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "timothee rossi",
+    "match": "eric monnin vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "eric monnin",
+    "match": "eric monnin vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "robbie mccutcheon",
+    "match": "eric monnin vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "martin allix",
+    "match": "eric monnin vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "eric monnin",
+    "loser": "vladimir lipavsky",
+    "match": "eric monnin vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "jeffrey petersen",
+    "match": "damian michelier vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "damian michelier",
+    "match": "damian michelier vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "damian michelier",
+    "match": "damian michelier vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "ted blowers",
+    "match": "damian michelier vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "damian michelier",
+    "match": "damian michelier vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "damian michelier",
+    "match": "damian michelier vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "damian michelier",
+    "match": "damian michelier vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "damian michelier",
+    "loser": "martin allix",
+    "match": "damian michelier vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "damian michelier",
+    "match": "damian michelier vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs rocco attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "mati sepp",
+    "match": "jeffrey petersen vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "ted blowers",
+    "match": "jeffrey petersen vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "jeffrey petersen vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "ruairi finnegan",
+    "match": "jeffrey petersen vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "robbie mccutcheon",
+    "match": "jeffrey petersen vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "martin allix",
+    "match": "jeffrey petersen vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "rocco attili",
+    "match": "rocco attili vs mati sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "ted blowers",
+    "match": "rocco attili vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "timothee rossi",
+    "match": "rocco attili vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "ruairi finnegan",
+    "match": "rocco attili vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "rocco attili",
+    "match": "rocco attili vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "martin allix",
+    "match": "rocco attili vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "rocco attili",
+    "loser": "vladimir lipavsky",
+    "match": "rocco attili vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "ted blowers",
+    "match": "mati sepp vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "mati sepp",
+    "match": "mati sepp vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "ruairi finnegan",
+    "match": "mati sepp vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "mati sepp",
+    "match": "mati sepp vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "mati sepp",
+    "loser": "martin allix",
+    "match": "mati sepp vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "mati sepp",
+    "match": "mati sepp vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "timothee rossi",
+    "match": "ted blowers vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "ted blowers",
+    "match": "ted blowers vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "ted blowers",
+    "match": "ted blowers vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "ted blowers",
+    "match": "ted blowers vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "ted blowers",
+    "match": "ted blowers vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "ruairi finnegan",
+    "match": "timothee rossi vs ruairi finnegan",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "robbie mccutcheon",
+    "match": "timothee rossi vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "martin allix",
+    "match": "timothee rossi vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "ruairi finnegan",
+    "loser": "martin allix",
+    "match": "ruairi finnegan vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "ruairi finnegan",
+    "match": "ruairi finnegan vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "martin allix",
+    "match": "robbie mccutcheon vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs vladimir lipavsky",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT – International Ledro Match Race",
+    "phase": "round-robin",
+    "winner": "vladimir lipavsky",
+    "loser": "martin allix",
+    "match": "martin allix vs vladimir lipavsky",
+    "race": 0
+  }
+]

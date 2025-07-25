@@ -1,0 +1,170 @@
+[
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "final",
+    "winner": "steve lowery",
+    "loser": "peter holz",
+    "match": "steve lowery vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "steve lowery",
+    "match": "steve lowery vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "steve lowery",
+    "match": "steve lowery vs peter holz",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "final",
+    "winner": "steve lowery",
+    "loser": "peter holz",
+    "match": "steve lowery vs peter holz",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "final",
+    "winner": "peter holz",
+    "loser": "steve lowery",
+    "match": "steve lowery vs peter holz",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "petit-final",
+    "winner": "mark johnson",
+    "loser": "andy camarda",
+    "match": "mark johnson vs andy camarda",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "petit-final",
+    "winner": "andy camarda",
+    "loser": "mark johnson",
+    "match": "mark johnson vs andy camarda",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "petit-final",
+    "winner": "andy camarda",
+    "loser": "mark johnson",
+    "match": "mark johnson vs andy camarda",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "steve lowery",
+    "loser": "andy camarda",
+    "match": "steve lowery vs andy camarda",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "andy camarda",
+    "loser": "steve lowery",
+    "match": "steve lowery vs andy camarda",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "andy camarda",
+    "loser": "steve lowery",
+    "match": "steve lowery vs andy camarda",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-1",
+    "winner": "steve lowery",
+    "loser": "andy camarda",
+    "match": "steve lowery vs andy camarda",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "mark johnson",
+    "match": "peter holz vs mark johnson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "mark johnson",
+    "match": "peter holz vs mark johnson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "mark johnson",
+    "match": "peter holz vs mark johnson",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "5th-/-6th",
+    "winner": "james wagner",
+    "loser": "mark croll",
+    "match": "james wagner vs mark croll",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "7th-/-8th",
+    "winner": "ray groble",
+    "loser": "jovan brankov",
+    "match": "ray groble vs jovan brankov",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "5th-to-8th-(a)",
+    "winner": "james wagner",
+    "loser": "jovan brankov",
+    "match": "james wagner vs jovan brankov",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "5th-to-8th-(a)",
+    "winner": "james wagner",
+    "loser": "jovan brankov",
+    "match": "james wagner vs jovan brankov",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "5th-to-8th-(b)",
+    "winner": "mark croll",
+    "loser": "ray groble",
+    "match": "mark croll vs ray groble",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC / CYC Autumn Invitational",
+    "phase": "5th-to-8th-(b)",
+    "winner": "ray groble",
+    "loser": "mark croll",
+    "match": "mark croll vs ray groble",
+    "race": 2
+  }
+]

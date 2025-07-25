@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "petit-final",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "megan thomson",
+    "match": "renee groeneveld vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "megan thomson",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "semi-final-1",
+    "winner": "renee groeneveld",
+    "loser": "megan thomson",
+    "match": "renee groeneveld vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "renee groeneveld",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "sandra sandqvist",
+    "match": "anna ostling vs sandra sandqvist",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "megan thomson",
+    "match": "megan thomson vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "megan thomson",
+    "match": "megan thomson vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "sandra sandqvist",
+    "match": "megan thomson vs sandra sandqvist",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "sophie otter",
+    "match": "sophie otter vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "sophie otter",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "sandra sandqvist",
+    "loser": "sophie otter",
+    "match": "sophie otter vs sandra sandqvist",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "kristine mauritzen",
+    "match": "renee groeneveld vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "renee groeneveld",
+    "loser": "sandra sandqvist",
+    "match": "renee groeneveld vs sandra sandqvist",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Nordea Women's Trophy",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "sandra sandqvist",
+    "match": "kristine mauritzen vs sandra sandqvist",
+    "race": 0
+  }
+]

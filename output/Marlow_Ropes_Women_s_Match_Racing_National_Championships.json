@@ -1,0 +1,458 @@
+[
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "ali morish",
+    "match": "ali morish vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "final",
+    "winner": "ali morish",
+    "loser": "octavia owen",
+    "match": "ali morish vs octavia owen",
+    "race": 2
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "ali morish",
+    "match": "ali morish vs octavia owen",
+    "race": 3
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "final",
+    "winner": "octavia owen",
+    "loser": "ali morish",
+    "match": "ali morish vs octavia owen",
+    "race": 4
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "sophie taylor",
+    "loser": "rhiannon massey",
+    "match": "rhiannon massey vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "sophie taylor",
+    "loser": "rhiannon massey",
+    "match": "rhiannon massey vs sophie taylor",
+    "race": 2
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "sophie taylor",
+    "loser": "ali morish",
+    "match": "ali morish vs sophie taylor",
+    "race": 1
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "ali morish",
+    "loser": "sophie taylor",
+    "match": "ali morish vs sophie taylor",
+    "race": 2
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "ali morish",
+    "loser": "sophie taylor",
+    "match": "ali morish vs sophie taylor",
+    "race": 3
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "rhiannon massey",
+    "loser": "octavia owen",
+    "match": "octavia owen vs rhiannon massey",
+    "race": 1
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "octavia owen",
+    "loser": "rhiannon massey",
+    "match": "octavia owen vs rhiannon massey",
+    "race": 2
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "octavia owen",
+    "loser": "rhiannon massey",
+    "match": "octavia owen vs rhiannon massey",
+    "race": 3
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "willow bland",
+    "loser": "abby west",
+    "match": "abby west vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "abby west",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "abby west vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "5th-to-7th-rr",
+    "winner": "willow bland",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "willow bland vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "octavia owen",
+    "match": "octavia owen vs ali morish",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie taylor",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "abby west",
+    "match": "octavia owen vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "willow bland",
+    "match": "octavia owen vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "octavia owen",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "octavia owen vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "rhiannon massey",
+    "loser": "octavia owen",
+    "match": "octavia owen vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "sophie taylor",
+    "match": "ali morish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "abby west",
+    "match": "ali morish vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "willow bland",
+    "match": "ali morish vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "ali morish vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "ali morish",
+    "loser": "rhiannon massey",
+    "match": "ali morish vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie taylor",
+    "loser": "abby west",
+    "match": "sophie taylor vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie taylor",
+    "loser": "willow bland",
+    "match": "sophie taylor vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "sophie taylor",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "sophie taylor vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "rhiannon massey",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "willow bland",
+    "loser": "abby west",
+    "match": "abby west vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "abby west",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "abby west vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "rhiannon massey",
+    "loser": "abby west",
+    "match": "abby west vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "willow bland",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "willow bland vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "rhiannon massey",
+    "loser": "willow bland",
+    "match": "willow bland vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-2",
+    "winner": "rhiannon massey",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "lucy fitzgeorge-parker vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "ali morish",
+    "match": "octavia owen vs ali morish",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "sophie taylor",
+    "match": "octavia owen vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "abby west",
+    "match": "octavia owen vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "willow bland",
+    "match": "octavia owen vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "octavia owen vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "octavia owen",
+    "loser": "rhiannon massey",
+    "match": "octavia owen vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morish",
+    "loser": "sophie taylor",
+    "match": "ali morish vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morish",
+    "loser": "abby west",
+    "match": "ali morish vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morish",
+    "loser": "willow bland",
+    "match": "ali morish vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morish",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "ali morish vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "ali morish",
+    "loser": "rhiannon massey",
+    "match": "ali morish vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "abby west",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs abby west",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie taylor",
+    "loser": "willow bland",
+    "match": "sophie taylor vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "sophie taylor",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "sophie taylor vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "rhiannon massey",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "abby west",
+    "loser": "willow bland",
+    "match": "abby west vs willow bland",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "abby west",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "abby west vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "abby west",
+    "loser": "rhiannon massey",
+    "match": "abby west vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "willow bland",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "willow bland vs lucy fitzgeorge-parker",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "rhiannon massey",
+    "loser": "willow bland",
+    "match": "willow bland vs rhiannon massey",
+    "race": 0
+  },
+  {
+    "regatta": "Marlow Ropes Women's Match Racing National Championships",
+    "phase": "round-robin-1",
+    "winner": "rhiannon massey",
+    "loser": "lucy fitzgeorge-parker",
+    "match": "lucy fitzgeorge-parker vs rhiannon massey",
+    "race": 0
+  }
+]

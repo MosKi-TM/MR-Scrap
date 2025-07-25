@@ -1,0 +1,322 @@
+[
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "final",
+    "winner": "Hamish Taylor",
+    "loser": "James Gifford",
+    "match": "Hamish Taylor vs James Gifford",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "final",
+    "winner": "Hamish Taylor",
+    "loser": "James Gifford",
+    "match": "Hamish Taylor vs James Gifford",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Patrick Whelan",
+    "loser": "Iain Duncan",
+    "match": "Patrick Whelan vs Iain Duncan",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Iain Duncan",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Iain Duncan",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Iain Duncan",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Iain Duncan",
+    "race": 3
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Hamish Taylor",
+    "loser": "Iain Duncan",
+    "match": "Hamish Taylor vs Iain Duncan",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Hamish Taylor",
+    "loser": "Iain Duncan",
+    "match": "Hamish Taylor vs Iain Duncan",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "James Gifford",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs James Gifford",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "James Gifford",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs James Gifford",
+    "race": 2
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Fraser Patrick",
+    "loser": "Ross Coombs",
+    "match": "Ross Coombs vs Fraser Patrick",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "6th-/-7th",
+    "winner": "Fraser Patrick",
+    "loser": "Ben Hay",
+    "match": "Fraser Patrick vs Ben Hay",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Ben Hay",
+    "loser": "Cecily Webb",
+    "match": "Cecily Webb vs Ben Hay",
+    "race": 1
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Gifford",
+    "loser": "Ross Coombs",
+    "match": "James Gifford vs Ross Coombs",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Gifford",
+    "loser": "Iain Duncan",
+    "match": "James Gifford vs Iain Duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Gifford",
+    "loser": "Ben Hay",
+    "match": "James Gifford vs Ben Hay",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "James Gifford",
+    "loser": "Cecily Webb",
+    "match": "James Gifford vs Cecily Webb",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Fraser Patrick",
+    "loser": "James Gifford",
+    "match": "James Gifford vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "James Gifford",
+    "match": "James Gifford vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Iain Duncan",
+    "loser": "Ross Coombs",
+    "match": "Ross Coombs vs Iain Duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ross Coombs",
+    "loser": "Ben Hay",
+    "match": "Ross Coombs vs Ben Hay",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ross Coombs",
+    "loser": "Cecily Webb",
+    "match": "Ross Coombs vs Cecily Webb",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Fraser Patrick",
+    "loser": "Ross Coombs",
+    "match": "Ross Coombs vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ross Coombs",
+    "loser": "Hamish Taylor",
+    "match": "Ross Coombs vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Iain Duncan",
+    "loser": "Ben Hay",
+    "match": "Iain Duncan vs Ben Hay",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Iain Duncan",
+    "loser": "Cecily Webb",
+    "match": "Iain Duncan vs Cecily Webb",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Fraser Patrick",
+    "loser": "Iain Duncan",
+    "match": "Iain Duncan vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "Iain Duncan",
+    "match": "Iain Duncan vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cecily Webb",
+    "loser": "Ben Hay",
+    "match": "Ben Hay vs Cecily Webb",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Fraser Patrick",
+    "loser": "Ben Hay",
+    "match": "Ben Hay vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "Ben Hay",
+    "match": "Ben Hay vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Fraser Patrick",
+    "loser": "Cecily Webb",
+    "match": "Cecily Webb vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "Cecily Webb",
+    "match": "Cecily Webb vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "Fraser Patrick",
+    "match": "Fraser Patrick vs Hamish Taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "James Gifford",
+    "match": "Patrick Whelan vs James Gifford",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ross Coombs",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Ross Coombs",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Iain Duncan",
+    "match": "Patrick Whelan vs Iain Duncan",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Ben Hay",
+    "match": "Patrick Whelan vs Ben Hay",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Cecily Webb",
+    "match": "Patrick Whelan vs Cecily Webb",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Patrick Whelan",
+    "loser": "Fraser Patrick",
+    "match": "Patrick Whelan vs Fraser Patrick",
+    "race": 0
+  },
+  {
+    "regatta": "RNCYC Ceilidh Cup & SSS Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hamish Taylor",
+    "loser": "Patrick Whelan",
+    "match": "Patrick Whelan vs Hamish Taylor",
+    "race": 0
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "final",
+    "winner": "gavin brady",
+    "loser": "jeffery peterson",
+    "match": "gavin brady vs jeffery peterson",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "final",
+    "winner": "gavin brady",
+    "loser": "jeffery peterson",
+    "match": "gavin brady vs jeffery peterson",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "final",
+    "winner": "gavin brady",
+    "loser": "jeffery peterson",
+    "match": "gavin brady vs jeffery peterson",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "josh dochoda",
+    "loser": "megan thompson",
+    "match": "megan thompson vs josh dochoda",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "josh dochoda",
+    "loser": "megan thompson",
+    "match": "megan thompson vs josh dochoda",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "gavin brady",
+    "loser": "josh dochoda",
+    "match": "gavin brady vs josh dochoda",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "gavin brady",
+    "loser": "josh dochoda",
+    "match": "gavin brady vs josh dochoda",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "gavin brady",
+    "loser": "josh dochoda",
+    "match": "gavin brady vs josh dochoda",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jeffery peterson",
+    "loser": "megan thompson",
+    "match": "jeffery peterson vs megan thompson",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jeffery peterson",
+    "loser": "megan thompson",
+    "match": "jeffery peterson vs megan thompson",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jeffery peterson",
+    "loser": "megan thompson",
+    "match": "jeffery peterson vs megan thompson",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "5th-/-6th",
+    "winner": "caroline bayless",
+    "loser": "danielle gallo",
+    "match": "caroline bayless vs danielle gallo",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "6th-/-7th",
+    "winner": "danielle gallo",
+    "loser": "marcus adam",
+    "match": "danielle gallo vs marcus adam",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "jeffery peterson",
+    "loser": "danielle gallo",
+    "match": "jeffery peterson vs danielle gallo",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "jeffery peterson",
+    "loser": "danielle gallo",
+    "match": "jeffery peterson vs danielle gallo",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "jeffery peterson",
+    "loser": "danielle gallo",
+    "match": "jeffery peterson vs danielle gallo",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "megan thompson",
+    "loser": "marcus adam",
+    "match": "megan thompson vs marcus adam",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "megan thompson",
+    "loser": "marcus adam",
+    "match": "megan thompson vs marcus adam",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "megan thompson",
+    "loser": "marcus adam",
+    "match": "megan thompson vs marcus adam",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "josh dochoda",
+    "loser": "caroline bayless",
+    "match": "josh dochoda vs caroline bayless",
+    "race": 1
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "josh dochoda",
+    "loser": "caroline bayless",
+    "match": "josh dochoda vs caroline bayless",
+    "race": 2
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "josh dochoda",
+    "loser": "caroline bayless",
+    "match": "josh dochoda vs caroline bayless",
+    "race": 3
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "megan thompson",
+    "match": "gavin brady vs megan thompson",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "jeffery peterson",
+    "match": "gavin brady vs jeffery peterson",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "danielle gallo",
+    "match": "gavin brady vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "marcus adam",
+    "match": "gavin brady vs marcus adam",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "caroline bayless",
+    "match": "gavin brady vs caroline bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "gavin brady",
+    "loser": "josh dochoda",
+    "match": "gavin brady vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jeffery peterson",
+    "loser": "megan thompson",
+    "match": "megan thompson vs jeffery peterson",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thompson",
+    "loser": "danielle gallo",
+    "match": "megan thompson vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thompson",
+    "loser": "marcus adam",
+    "match": "megan thompson vs marcus adam",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thompson",
+    "loser": "caroline bayless",
+    "match": "megan thompson vs caroline bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thompson",
+    "loser": "josh dochoda",
+    "match": "megan thompson vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jeffery peterson",
+    "loser": "danielle gallo",
+    "match": "jeffery peterson vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jeffery peterson",
+    "loser": "marcus adam",
+    "match": "jeffery peterson vs marcus adam",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jeffery peterson",
+    "loser": "caroline bayless",
+    "match": "jeffery peterson vs caroline bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "jeffery peterson",
+    "loser": "josh dochoda",
+    "match": "jeffery peterson vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "marcus adam",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs marcus adam",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "caroline bayless",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs caroline bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "caroline bayless",
+    "loser": "marcus adam",
+    "match": "marcus adam vs caroline bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "marcus adam",
+    "match": "marcus adam vs josh dochoda",
+    "race": 0
+  },
+  {
+    "regatta": "Eastport YC USMRC Qualifier",
+    "phase": "round-robin",
+    "winner": "josh dochoda",
+    "loser": "caroline bayless",
+    "match": "caroline bayless vs josh dochoda",
+    "race": 0
+  }
+]

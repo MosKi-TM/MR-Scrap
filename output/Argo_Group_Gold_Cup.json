@@ -1,0 +1,122 @@
+[
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-1",
+    "winner": "phil robertson",
+    "loser": "ian williams",
+    "match": "ian williams vs phil robertson",
+    "race": 1
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-1",
+    "winner": "phil robertson",
+    "loser": "ian williams",
+    "match": "ian williams vs phil robertson",
+    "race": 2
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-1",
+    "winner": "phil robertson",
+    "loser": "ian williams",
+    "match": "ian williams vs phil robertson",
+    "race": 3
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-2",
+    "winner": "johnie berntsson",
+    "loser": "staffan lindberg",
+    "match": "johnie berntsson vs staffan lindberg",
+    "race": 1
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-2",
+    "winner": "johnie berntsson",
+    "loser": "staffan lindberg",
+    "match": "johnie berntsson vs staffan lindberg",
+    "race": 2
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-2",
+    "winner": "staffan lindberg",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs staffan lindberg",
+    "race": 3
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-2",
+    "winner": "johnie berntsson",
+    "loser": "staffan lindberg",
+    "match": "johnie berntsson vs staffan lindberg",
+    "race": 4
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-3",
+    "winner": "torvar mirsky",
+    "loser": "jesper radich",
+    "match": "torvar mirsky vs jesper radich",
+    "race": 1
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-3",
+    "winner": "torvar mirsky",
+    "loser": "jesper radich",
+    "match": "torvar mirsky vs jesper radich",
+    "race": 2
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-3",
+    "winner": "torvar mirsky",
+    "loser": "jesper radich",
+    "match": "torvar mirsky vs jesper radich",
+    "race": 3
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-4",
+    "winner": "mathieu richard",
+    "loser": "francesco bruni",
+    "match": "mathieu richard vs francesco bruni",
+    "race": 1
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-4",
+    "winner": "francesco bruni",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs francesco bruni",
+    "race": 2
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-4",
+    "winner": "francesco bruni",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs francesco bruni",
+    "race": 3
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-4",
+    "winner": "francesco bruni",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs francesco bruni",
+    "race": 4
+  },
+  {
+    "regatta": "Argo Group Gold Cup",
+    "phase": "qf-4",
+    "winner": "francesco bruni",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs francesco bruni",
+    "race": 5
+  }
+]

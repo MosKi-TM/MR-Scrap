@@ -1,0 +1,90 @@
+[
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "finals",
+    "winner": "stephanie roble",
+    "loser": "jennifer wilson",
+    "match": "jennifer wilson vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "finals",
+    "winner": "jennifer wilson",
+    "loser": "stephanie roble",
+    "match": "jennifer wilson vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "finals",
+    "winner": "jennifer wilson",
+    "loser": "stephanie roble",
+    "match": "jennifer wilson vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "finals",
+    "winner": "jennifer wilson",
+    "loser": "stephanie roble",
+    "match": "jennifer wilson vs stephanie roble",
+    "race": 4
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "katie maxim",
+    "loser": "sandy hayes",
+    "match": "katie maxim vs sandy hayes",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "sandy hayes",
+    "loser": "katie maxim",
+    "match": "katie maxim vs sandy hayes",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "katie maxim",
+    "loser": "sandy hayes",
+    "match": "katie maxim vs sandy hayes",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "jennifer wilson",
+    "loser": "sandy hayes",
+    "match": "jennifer wilson vs sandy hayes",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "jennifer wilson",
+    "loser": "sandy hayes",
+    "match": "jennifer wilson vs sandy hayes",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "stephanie roble",
+    "loser": "katie maxim",
+    "match": "stephanie roble vs katie maxim",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "stephanie roble",
+    "loser": "katie maxim",
+    "match": "stephanie roble vs katie maxim",
+    "race": 2
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "regatta": "Women's World Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 1
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 2
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 3
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "petit-final",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "petit-final",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "renee groeneveld vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "renee groeneveld vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonnen",
+    "match": "pauline courtois vs marinella laaksonnen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "octavia owen",
+    "match": "pauline courtois vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "pauline courtois",
+    "loser": "kenza coutard",
+    "match": "pauline courtois vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonnen",
+    "match": "anna ostling vs marinella laaksonnen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "octavia owen",
+    "match": "anna ostling vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "sanna mattsson",
+    "match": "anna ostling vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "kenza coutard",
+    "match": "anna ostling vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonnen",
+    "loser": "octavia owen",
+    "match": "marinella laaksonnen vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "sanna mattsson",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "marinella laaksonnen",
+    "loser": "kenza coutard",
+    "match": "marinella laaksonnen vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "octavia owen",
+    "match": "octavia owen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "octavia owen",
+    "match": "octavia owen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "sanna mattsson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "kenza coutard",
+    "loser": "octavia owen",
+    "match": "octavia owen vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "margot riou",
+    "match": "margot riou vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "margot riou vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "margot riou",
+    "loser": "kenza coutard",
+    "match": "margot riou vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "sanna mattsson",
+    "match": "renee groeneveld vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "renee groeneveld",
+    "loser": "kenza coutard",
+    "match": "renee groeneveld vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-2",
+    "winner": "kenza coutard",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "marinella laaksonnen",
+    "match": "pauline courtois vs marinella laaksonnen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "octavia owen",
+    "match": "pauline courtois vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "pauline courtois vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "sanna mattsson",
+    "match": "pauline courtois vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "pauline courtois",
+    "loser": "kenza coutard",
+    "match": "pauline courtois vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonnen",
+    "loser": "anna ostling",
+    "match": "anna ostling vs marinella laaksonnen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "octavia owen",
+    "match": "anna ostling vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "margot riou",
+    "match": "anna ostling vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "anna ostling",
+    "match": "anna ostling vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "sanna mattsson",
+    "match": "anna ostling vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "kenza coutard",
+    "match": "anna ostling vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonnen",
+    "loser": "octavia owen",
+    "match": "marinella laaksonnen vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "marinella laaksonnen",
+    "loser": "sanna mattsson",
+    "match": "marinella laaksonnen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "kenza coutard",
+    "loser": "marinella laaksonnen",
+    "match": "marinella laaksonnen vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "octavia owen",
+    "match": "octavia owen vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "octavia owen",
+    "match": "octavia owen vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "sanna mattsson",
+    "loser": "octavia owen",
+    "match": "octavia owen vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "kenza coutard",
+    "loser": "octavia owen",
+    "match": "octavia owen vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "margot riou",
+    "match": "margot riou vs renee groeneveld",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "sanna mattsson",
+    "match": "margot riou vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "margot riou",
+    "loser": "kenza coutard",
+    "match": "margot riou vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "sanna mattsson",
+    "match": "renee groeneveld vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "renee groeneveld",
+    "loser": "kenza coutard",
+    "match": "renee groeneveld vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's World Championships",
+    "phase": "round-robin-1",
+    "winner": "kenza coutard",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs kenza coutard",
+    "race": 0
+  }
+]

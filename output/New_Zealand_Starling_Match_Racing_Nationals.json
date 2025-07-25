@@ -1,0 +1,706 @@
+[
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "final",
+    "winner": "jack manning",
+    "loser": "josh hyde",
+    "match": "josh hyde vs jack manning",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "final",
+    "winner": "jack manning",
+    "loser": "josh hyde",
+    "match": "josh hyde vs jack manning",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "final",
+    "winner": "jack manning",
+    "loser": "josh hyde",
+    "match": "josh hyde vs jack manning",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "petit-final",
+    "winner": "robbie wooldridge",
+    "loser": "tom pilkington",
+    "match": "tom pilkington vs robbie wooldridge",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "petit-final",
+    "winner": "robbie wooldridge",
+    "loser": "tom pilkington",
+    "match": "tom pilkington vs robbie wooldridge",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "semi-final-1",
+    "winner": "jack manning",
+    "loser": "tom pilkington",
+    "match": "tom pilkington vs jack manning",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "semi-final-1",
+    "winner": "tom pilkington",
+    "loser": "jack manning",
+    "match": "tom pilkington vs jack manning",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "semi-final-1",
+    "winner": "jack manning",
+    "loser": "tom pilkington",
+    "match": "tom pilkington vs jack manning",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "semi-final-2",
+    "winner": "josh hyde",
+    "loser": "robbie wooldridge",
+    "match": "robbie wooldridge vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "semi-final-2",
+    "winner": "josh hyde",
+    "loser": "robbie wooldridge",
+    "match": "robbie wooldridge vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "winston liesebach",
+    "loser": "william beauchamp",
+    "match": "william beauchamp vs winston liesebach",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "william beauchamp",
+    "loser": "emil rooseboom",
+    "match": "william beauchamp vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "william beauchamp",
+    "loser": "rory sims",
+    "match": "william beauchamp vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "winston liesebach",
+    "loser": "emil rooseboom",
+    "match": "winston liesebach vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "winston liesebach",
+    "loser": "rory sims",
+    "match": "winston liesebach vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "5th-to-8th",
+    "winner": "emil rooseboom",
+    "loser": "rory sims",
+    "match": "emil rooseboom vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "jack parr",
+    "loser": "tim mcculloch",
+    "match": "tim mcculloch vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "tim mcculloch",
+    "loser": "river hopkins",
+    "match": "tim mcculloch vs river hopkins",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "tim mcculloch",
+    "loser": "hermione aris",
+    "match": "tim mcculloch vs hermione aris",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "jack parr",
+    "loser": "river hopkins",
+    "match": "jack parr vs river hopkins",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "jack parr",
+    "loser": "hermione aris",
+    "match": "jack parr vs hermione aris",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "9th-to-12th",
+    "winner": "river hopkins",
+    "loser": "hermione aris",
+    "match": "river hopkins vs hermione aris",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "hermione aris",
+    "match": "hermione aris vs william beauchamp",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "river hopkins",
+    "loser": "hermione aris",
+    "match": "hermione aris vs river hopkins",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "hermione aris",
+    "match": "hermione aris vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "winston liesebach",
+    "loser": "hermione aris",
+    "match": "hermione aris vs winston liesebach",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "hermione aris",
+    "match": "hermione aris vs jack manning",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tim mcculloch",
+    "loser": "hermione aris",
+    "match": "hermione aris vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack parr",
+    "loser": "hermione aris",
+    "match": "hermione aris vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "hermione aris",
+    "match": "hermione aris vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "emil rooseboom",
+    "loser": "hermione aris",
+    "match": "hermione aris vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "rory sims",
+    "loser": "hermione aris",
+    "match": "hermione aris vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "hermione aris",
+    "match": "hermione aris vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "river hopkins",
+    "match": "william beauchamp vs river hopkins",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "william beauchamp",
+    "match": "william beauchamp vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "winston liesebach",
+    "match": "william beauchamp vs winston liesebach",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "william beauchamp",
+    "match": "william beauchamp vs jack manning",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "tim mcculloch",
+    "match": "william beauchamp vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "jack parr",
+    "match": "william beauchamp vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "tom pilkington",
+    "match": "william beauchamp vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "emil rooseboom",
+    "match": "william beauchamp vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "william beauchamp",
+    "loser": "rory sims",
+    "match": "william beauchamp vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "william beauchamp",
+    "match": "william beauchamp vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "river hopkins",
+    "match": "river hopkins vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "winston liesebach",
+    "loser": "river hopkins",
+    "match": "river hopkins vs winston liesebach",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "river hopkins",
+    "match": "river hopkins vs jack manning",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tim mcculloch",
+    "loser": "river hopkins",
+    "match": "river hopkins vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "river hopkins",
+    "loser": "jack parr",
+    "match": "river hopkins vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "river hopkins",
+    "match": "river hopkins vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "emil rooseboom",
+    "loser": "river hopkins",
+    "match": "river hopkins vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "rory sims",
+    "loser": "river hopkins",
+    "match": "river hopkins vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "river hopkins",
+    "match": "river hopkins vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "winston liesebach",
+    "match": "josh hyde vs winston liesebach",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "jack manning",
+    "match": "josh hyde vs jack manning",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "tim mcculloch",
+    "match": "josh hyde vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "jack parr",
+    "match": "josh hyde vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "josh hyde",
+    "match": "josh hyde vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "emil rooseboom",
+    "match": "josh hyde vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "rory sims",
+    "match": "josh hyde vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "josh hyde",
+    "match": "josh hyde vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "winston liesebach",
+    "match": "winston liesebach vs jack manning",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "winston liesebach",
+    "loser": "tim mcculloch",
+    "match": "winston liesebach vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack parr",
+    "loser": "winston liesebach",
+    "match": "winston liesebach vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "winston liesebach",
+    "match": "winston liesebach vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "winston liesebach",
+    "loser": "emil rooseboom",
+    "match": "winston liesebach vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "winston liesebach",
+    "loser": "rory sims",
+    "match": "winston liesebach vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "winston liesebach",
+    "match": "winston liesebach vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "tim mcculloch",
+    "match": "jack manning vs tim mcculloch",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "jack parr",
+    "match": "jack manning vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "jack manning",
+    "match": "jack manning vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "emil rooseboom",
+    "match": "jack manning vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack manning",
+    "loser": "rory sims",
+    "match": "jack manning vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "jack manning",
+    "match": "jack manning vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tim mcculloch",
+    "loser": "jack parr",
+    "match": "tim mcculloch vs jack parr",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "tim mcculloch",
+    "match": "tim mcculloch vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "emil rooseboom",
+    "loser": "tim mcculloch",
+    "match": "tim mcculloch vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "rory sims",
+    "loser": "tim mcculloch",
+    "match": "tim mcculloch vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "tim mcculloch",
+    "match": "tim mcculloch vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "jack parr",
+    "match": "jack parr vs tom pilkington",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "jack parr",
+    "loser": "emil rooseboom",
+    "match": "jack parr vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "rory sims",
+    "loser": "jack parr",
+    "match": "jack parr vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "jack parr",
+    "match": "jack parr vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "emil rooseboom",
+    "match": "tom pilkington vs emil rooseboom",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "rory sims",
+    "match": "tom pilkington vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "tom pilkington",
+    "loser": "robbie wooldridge",
+    "match": "tom pilkington vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "emil rooseboom",
+    "loser": "rory sims",
+    "match": "emil rooseboom vs rory sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "emil rooseboom",
+    "match": "emil rooseboom vs robbie wooldridge",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Starling Match Racing Nationals",
+    "phase": "round-robin",
+    "winner": "robbie wooldridge",
+    "loser": "rory sims",
+    "match": "rory sims vs robbie wooldridge",
+    "race": 0
+  }
+]

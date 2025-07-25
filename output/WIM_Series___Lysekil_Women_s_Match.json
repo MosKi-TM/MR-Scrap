@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "final",
+    "winner": "anna kjellberg",
+    "loser": "camilla ulrikkeholm",
+    "match": "anna kjellberg vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs camilla ulrikkeholm",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "petit-final",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs lotte meldgaard pedersen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "petit-final",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs lotte meldgaard pedersen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna kjellberg",
+    "loser": "lotte meldgaard pedersen",
+    "match": "anna kjellberg vs lotte meldgaard pedersen",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Lysekil Women's Match",
+    "phase": "semi-final-2",
+    "winner": "camilla ulrikkeholm",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs camilla ulrikkeholm",
+    "race": 3
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "rasmus wiltoft",
+    "match": "rasmus wiltoft vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "final",
+    "winner": "rasmus wiltoft",
+    "loser": "anna ostling",
+    "match": "rasmus wiltoft vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "final",
+    "winner": "rasmus wiltoft",
+    "loser": "anna ostling",
+    "match": "rasmus wiltoft vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "petit-final",
+    "winner": "patrik sturesson",
+    "loser": "martin mehus",
+    "match": "patrik sturesson vs martin mehus",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "petit-final",
+    "winner": "patrik sturesson",
+    "loser": "martin mehus",
+    "match": "patrik sturesson vs martin mehus",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "patrik sturesson",
+    "match": "anna ostling vs patrik sturesson",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "patrik sturesson",
+    "match": "anna ostling vs patrik sturesson",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "semi-final-2",
+    "winner": "rasmus wiltoft",
+    "loser": "martin mehus",
+    "match": "rasmus wiltoft vs martin mehus",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Volvo Spring Cup",
+    "phase": "semi-final-2",
+    "winner": "rasmus wiltoft",
+    "loser": "martin mehus",
+    "match": "rasmus wiltoft vs martin mehus",
+    "race": 2
+  }
+]

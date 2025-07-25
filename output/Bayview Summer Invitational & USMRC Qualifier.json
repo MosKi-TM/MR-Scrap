@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "final",
+    "winner": "Ryan Seago",
+    "loser": "James Pinder",
+    "match": "Ryan Seago vs James Pinder",
+    "race": 1
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "final",
+    "winner": "Ryan Seago",
+    "loser": "James Pinder",
+    "match": "Ryan Seago vs James Pinder",
+    "race": 2
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "Michael Kirkman Jr.",
+    "loser": "Geoff Pedrick",
+    "match": "Michael Kirkman Jr. vs Geoff Pedrick",
+    "race": 1
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "petit-final",
+    "winner": "Michael Kirkman Jr.",
+    "loser": "Geoff Pedrick",
+    "match": "Michael Kirkman Jr. vs Geoff Pedrick",
+    "race": 2
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "James Pinder",
+    "loser": "Michael Kirkman Jr.",
+    "match": "James Pinder vs Michael Kirkman Jr.",
+    "race": 1
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "semi-final-1",
+    "winner": "James Pinder",
+    "loser": "Michael Kirkman Jr.",
+    "match": "James Pinder vs Michael Kirkman Jr.",
+    "race": 2
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "Ryan Seago",
+    "loser": "Geoff Pedrick",
+    "match": "Ryan Seago vs Geoff Pedrick",
+    "race": 1
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "semi-final-2",
+    "winner": "Ryan Seago",
+    "loser": "Geoff Pedrick",
+    "match": "Ryan Seago vs Geoff Pedrick",
+    "race": 2
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "Ryan Seago",
+    "loser": "James Pinder",
+    "match": "Ryan Seago vs James Pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "Ryan Seago",
+    "loser": "Michael Kirkman Jr.",
+    "match": "Ryan Seago vs Michael Kirkman Jr.",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "James Pinder",
+    "loser": "Michael Kirkman Jr.",
+    "match": "James Pinder vs Michael Kirkman Jr.",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "Ryan Seago",
+    "loser": "Geoff Pedrick",
+    "match": "Geoff Pedrick vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "James Pinder",
+    "loser": "Geoff Pedrick",
+    "match": "Geoff Pedrick vs James Pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-2",
+    "winner": "Michael Kirkman Jr.",
+    "loser": "Geoff Pedrick",
+    "match": "Geoff Pedrick vs Michael Kirkman Jr.",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "James Pinder",
+    "match": "Ryan Seago vs James Pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Michael Kirkman Jr.",
+    "match": "Ryan Seago vs Michael Kirkman Jr.",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Michael Kirkman Jr.",
+    "loser": "James Pinder",
+    "match": "James Pinder vs Michael Kirkman Jr.",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Geoff Pedrick",
+    "match": "Geoff Pedrick vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Geoff Pedrick",
+    "loser": "James Pinder",
+    "match": "Geoff Pedrick vs James Pinder",
+    "race": 0
+  },
+  {
+    "regatta": "Bayview Summer Invitational & USMRC Qualifier",
+    "phase": "round-robin-1",
+    "winner": "Michael Kirkman Jr.",
+    "loser": "Geoff Pedrick",
+    "match": "Geoff Pedrick vs Michael Kirkman Jr.",
+    "race": 0
+  }
+]

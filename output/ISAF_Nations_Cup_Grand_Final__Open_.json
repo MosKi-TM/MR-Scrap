@@ -1,0 +1,194 @@
+[
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "finals",
+    "winner": "david gilmour",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "finals",
+    "winner": "david gilmour",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "finals",
+    "winner": "david gilmour",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "petit-finals",
+    "winner": "victor ogeman",
+    "loser": "wataru sakamoto",
+    "match": "victor ogeman vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "petit-finals",
+    "winner": "wataru sakamoto",
+    "loser": "victor ogeman",
+    "match": "victor ogeman vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "petit-finals",
+    "winner": "victor ogeman",
+    "loser": "wataru sakamoto",
+    "match": "victor ogeman vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-1",
+    "winner": "david gilmour",
+    "loser": "wataru sakamoto",
+    "match": "david gilmour vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-1",
+    "winner": "wataru sakamoto",
+    "loser": "david gilmour",
+    "match": "david gilmour vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-1",
+    "winner": "david gilmour",
+    "loser": "wataru sakamoto",
+    "match": "david gilmour vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-1",
+    "winner": "david gilmour",
+    "loser": "wataru sakamoto",
+    "match": "david gilmour vs wataru sakamoto",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-2",
+    "winner": "nicolai sehested",
+    "loser": "victor ogeman",
+    "match": "nicolai sehested vs victor ogeman",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-2",
+    "winner": "nicolai sehested",
+    "loser": "victor ogeman",
+    "match": "nicolai sehested vs victor ogeman",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-2",
+    "winner": "victor ogeman",
+    "loser": "nicolai sehested",
+    "match": "nicolai sehested vs victor ogeman",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "semi-finals-2",
+    "winner": "nicolai sehested",
+    "loser": "victor ogeman",
+    "match": "nicolai sehested vs victor ogeman",
+    "race": 4
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-/-6th",
+    "winner": "ashlen rooklyn",
+    "loser": "henrique haddad",
+    "match": "ashlen rooklyn vs henrique haddad",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-/-6th",
+    "winner": "ashlen rooklyn",
+    "loser": "henrique haddad",
+    "match": "ashlen rooklyn vs henrique haddad",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "7th-/-8th",
+    "winner": "rasmus viltoft",
+    "loser": "maximilian soh",
+    "match": "maximilian soh vs rasmus viltoft",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "7th-/-8th",
+    "winner": "maximilian soh",
+    "loser": "rasmus viltoft",
+    "match": "maximilian soh vs rasmus viltoft",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "7th-/-8th",
+    "winner": "maximilian soh",
+    "loser": "rasmus viltoft",
+    "match": "maximilian soh vs rasmus viltoft",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-to-8th-(a)",
+    "winner": "maximilian soh",
+    "loser": "ashlen rooklyn",
+    "match": "ashlen rooklyn vs maximilian soh",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-to-8th-(a)",
+    "winner": "ashlen rooklyn",
+    "loser": "maximilian soh",
+    "match": "ashlen rooklyn vs maximilian soh",
+    "race": 2
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-to-8th-(a)",
+    "winner": "ashlen rooklyn",
+    "loser": "maximilian soh",
+    "match": "ashlen rooklyn vs maximilian soh",
+    "race": 3
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-to-8th-(b)",
+    "winner": "henrique haddad",
+    "loser": "rasmus viltoft",
+    "match": "rasmus viltoft vs henrique haddad",
+    "race": 1
+  },
+  {
+    "regatta": "ISAF Nations Cup Grand Final (Open)",
+    "phase": "5th-to-8th-(b)",
+    "winner": "henrique haddad",
+    "loser": "rasmus viltoft",
+    "match": "rasmus viltoft vs henrique haddad",
+    "race": 2
+  }
+]

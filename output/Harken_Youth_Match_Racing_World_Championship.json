@@ -1,0 +1,874 @@
+[
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jack parkin",
+    "match": "james hodgson vs jack parkin",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jack parkin",
+    "match": "james hodgson vs jack parkin",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jack parkin",
+    "match": "james hodgson vs jack parkin",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "nick egnot-johnson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "nick egnot-johnson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jack parkin",
+    "match": "finn tapper vs jack parkin",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "jack parkin",
+    "loser": "finn tapper",
+    "match": "finn tapper vs jack parkin",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "jack parkin",
+    "loser": "finn tapper",
+    "match": "finn tapper vs jack parkin",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "jack parkin",
+    "loser": "finn tapper",
+    "match": "finn tapper vs jack parkin",
+    "race": 4
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 4
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "james hodgson vs nick egnot-johnson",
+    "race": 5
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "ted blowers",
+    "match": "finn tapper vs ted blowers",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "ted blowers",
+    "match": "finn tapper vs ted blowers",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "ted blowers",
+    "match": "finn tapper vs ted blowers",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "emil kjaer",
+    "loser": "james hodgson",
+    "match": "james hodgson vs emil kjaer",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 4
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "jordan stevenson",
+    "loser": "jack parkin",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "jack parkin",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "jack parkin",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "jack parkin",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 4
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack parkin",
+    "loser": "david wood",
+    "match": "jack parkin vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack parkin",
+    "loser": "ted blowers",
+    "match": "jack parkin vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack parkin",
+    "loser": "sonja stock",
+    "match": "jack parkin vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "marius westerlind",
+    "loser": "jack parkin",
+    "match": "jack parkin vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack parkin",
+    "loser": "ludovico mori",
+    "match": "jack parkin vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ted blowers",
+    "loser": "david wood",
+    "match": "david wood vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "david wood",
+    "loser": "sonja stock",
+    "match": "david wood vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "david wood",
+    "loser": "marius westerlind",
+    "match": "david wood vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "david wood",
+    "loser": "ludovico mori",
+    "match": "david wood vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ted blowers",
+    "loser": "sonja stock",
+    "match": "ted blowers vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "marius westerlind",
+    "loser": "ted blowers",
+    "match": "ted blowers vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ted blowers",
+    "loser": "ludovico mori",
+    "match": "ted blowers vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "marius westerlind",
+    "loser": "sonja stock",
+    "match": "sonja stock vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ludovico mori",
+    "loser": "sonja stock",
+    "match": "sonja stock vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "marius westerlind",
+    "loser": "ludovico mori",
+    "match": "marius westerlind vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "jack parkin",
+    "match": "nick egnot-johnson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "david wood",
+    "match": "nick egnot-johnson vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "ted blowers",
+    "match": "nick egnot-johnson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "ludovico mori",
+    "match": "nick egnot-johnson vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "marius westerlind",
+    "match": "nick egnot-johnson vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "sonja stock",
+    "match": "nick egnot-johnson vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "emil kjaer",
+    "match": "jordan stevenson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "jack parkin",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "david wood",
+    "match": "jordan stevenson vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "ted blowers",
+    "match": "jordan stevenson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "ludovico mori",
+    "match": "jordan stevenson vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "marius westerlind",
+    "match": "jordan stevenson vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "sonja stock",
+    "match": "jordan stevenson vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "emil kjaer",
+    "match": "aurelien pierroz vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jack parkin",
+    "match": "aurelien pierroz vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "david wood",
+    "match": "aurelien pierroz vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ludovico mori",
+    "match": "aurelien pierroz vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "marius westerlind",
+    "match": "aurelien pierroz vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "sonja stock",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "james hodgson",
+    "match": "james hodgson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "james hodgson",
+    "match": "james hodgson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "james hodgson",
+    "match": "james hodgson vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "david wood",
+    "match": "james hodgson vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "ted blowers",
+    "match": "james hodgson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "ludovico mori",
+    "match": "james hodgson vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "marius westerlind",
+    "match": "james hodgson vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "sonja stock",
+    "match": "james hodgson vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "ted blowers",
+    "match": "emil kjaer vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "ludovico mori",
+    "match": "emil kjaer vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "marius westerlind",
+    "match": "emil kjaer vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "sonja stock",
+    "match": "emil kjaer vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "jack parkin",
+    "match": "jack parkin vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "david wood",
+    "match": "jack parkin vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "jack parkin",
+    "match": "jack parkin vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "ludovico mori",
+    "match": "jack parkin vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "marius westerlind",
+    "match": "jack parkin vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "sonja stock",
+    "loser": "jack parkin",
+    "match": "jack parkin vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "david wood",
+    "match": "finn tapper vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "ted blowers",
+    "match": "finn tapper vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "ludovico mori",
+    "match": "finn tapper vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "marius westerlind",
+    "match": "finn tapper vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "sonja stock",
+    "match": "finn tapper vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "ted blowers",
+    "match": "david wood vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "ludovico mori",
+    "match": "david wood vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "marius westerlind",
+    "match": "david wood vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "sonja stock",
+    "match": "david wood vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "ludovico mori",
+    "match": "ted blowers vs ludovico mori",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "marius westerlind",
+    "match": "ted blowers vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "sonja stock",
+    "match": "ted blowers vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "ludovico mori",
+    "match": "ludovico mori vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "sonja stock",
+    "loser": "ludovico mori",
+    "match": "ludovico mori vs sonja stock",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "sonja stock",
+    "match": "marius westerlind vs sonja stock",
+    "race": 0
+  }
+]

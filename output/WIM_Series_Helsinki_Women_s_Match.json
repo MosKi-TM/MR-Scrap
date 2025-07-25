@@ -1,0 +1,170 @@
+[
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "anna ostling vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "pauline courtois",
+    "match": "anna ostling vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "petit-final",
+    "winner": "renee groeneveld",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "renee groeneveld vs camilla ulrikkeholm klinkby",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "petit-final",
+    "winner": "renee groeneveld",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "renee groeneveld vs camilla ulrikkeholm klinkby",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "camilla ulrikkeholm klinkby vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "anna ostling",
+    "match": "camilla ulrikkeholm klinkby vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "camilla ulrikkeholm klinkby vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "camilla ulrikkeholm klinkby",
+    "match": "camilla ulrikkeholm klinkby vs anna ostling",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "renee groeneveld",
+    "loser": "pauline courtois",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "renee groeneveld",
+    "match": "renee groeneveld vs pauline courtois",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "rikst dijkstra",
+    "match": "camilla ulrikkeholm klinkby vs rikst dijkstra",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-1",
+    "winner": "camilla ulrikkeholm klinkby",
+    "loser": "rikst dijkstra",
+    "match": "camilla ulrikkeholm klinkby vs rikst dijkstra",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-2",
+    "winner": "pauline courtois",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-2",
+    "winner": "pauline courtois",
+    "loser": "caroline sylvan",
+    "match": "caroline sylvan vs pauline courtois",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-3",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonen",
+    "match": "anna ostling vs marinella laaksonen",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-3",
+    "winner": "anna ostling",
+    "loser": "marinella laaksonen",
+    "match": "anna ostling vs marinella laaksonen",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-4",
+    "winner": "renee groeneveld",
+    "loser": "antonia degerlund",
+    "match": "renee groeneveld vs antonia degerlund",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Helsinki Women's Match",
+    "phase": "quarter-final-4",
+    "winner": "renee groeneveld",
+    "loser": "antonia degerlund",
+    "match": "renee groeneveld vs antonia degerlund",
+    "race": 2
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "final",
+    "winner": "thomas steenson",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs thomas steenson",
+    "race": 1
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "final",
+    "winner": "hugo stoner",
+    "loser": "thomas steenson",
+    "match": "hugo stoner vs thomas steenson",
+    "race": 2
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "final",
+    "winner": "hugo stoner",
+    "loser": "thomas steenson",
+    "match": "hugo stoner vs thomas steenson",
+    "race": 3
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "michael fels",
+    "match": "alistair read vs michael fels",
+    "race": 1
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "michael fels",
+    "match": "alistair read vs michael fels",
+    "race": 2
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "semi-final-1",
+    "winner": "hugo stoner",
+    "loser": "michael fels",
+    "match": "hugo stoner vs michael fels",
+    "race": 1
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "semi-final-1",
+    "winner": "michael fels",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs michael fels",
+    "race": 2
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "semi-final-1",
+    "winner": "hugo stoner",
+    "loser": "michael fels",
+    "match": "hugo stoner vs michael fels",
+    "race": 3
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "semi-final-2",
+    "winner": "thomas steenson",
+    "loser": "alistair read",
+    "match": "thomas steenson vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "semi-final-2",
+    "winner": "thomas steenson",
+    "loser": "alistair read",
+    "match": "thomas steenson vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "chelsea williams",
+    "loser": "james henderson",
+    "match": "chelsea williams vs james henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "chelsea williams",
+    "loser": "darby jones",
+    "match": "chelsea williams vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "chelsea williams",
+    "loser": "oliver strode",
+    "match": "chelsea williams vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "darby jones",
+    "loser": "james henderson",
+    "match": "james henderson vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "oliver strode",
+    "loser": "james henderson",
+    "match": "james henderson vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "5th-to-8th-rr",
+    "winner": "darby jones",
+    "loser": "oliver strode",
+    "match": "darby jones vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "thomas steenson",
+    "match": "thomas steenson vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "alistair read",
+    "match": "thomas steenson vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "james henderson",
+    "match": "thomas steenson vs james henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "darby jones",
+    "match": "thomas steenson vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "michael fels",
+    "match": "thomas steenson vs michael fels",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "oliver strode",
+    "match": "thomas steenson vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "thomas steenson",
+    "loser": "chelsea williams",
+    "match": "thomas steenson vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "james henderson",
+    "match": "hugo stoner vs james henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "darby jones",
+    "match": "hugo stoner vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "michael fels",
+    "match": "hugo stoner vs michael fels",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "oliver strode",
+    "match": "hugo stoner vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "chelsea williams",
+    "match": "hugo stoner vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "james henderson",
+    "match": "alistair read vs james henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "darby jones",
+    "match": "alistair read vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "michael fels",
+    "match": "alistair read vs michael fels",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "oliver strode",
+    "loser": "alistair read",
+    "match": "alistair read vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "chelsea williams",
+    "match": "alistair read vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "james henderson",
+    "loser": "darby jones",
+    "match": "james henderson vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "michael fels",
+    "loser": "james henderson",
+    "match": "james henderson vs michael fels",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "james henderson",
+    "loser": "oliver strode",
+    "match": "james henderson vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "chelsea williams",
+    "loser": "james henderson",
+    "match": "james henderson vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "darby jones",
+    "loser": "michael fels",
+    "match": "darby jones vs michael fels",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "darby jones",
+    "loser": "oliver strode",
+    "match": "darby jones vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "chelsea williams",
+    "loser": "darby jones",
+    "match": "darby jones vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "michael fels",
+    "loser": "oliver strode",
+    "match": "michael fels vs oliver strode",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "michael fels",
+    "loser": "chelsea williams",
+    "match": "michael fels vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "NCYC CrackerJack Cup",
+    "phase": "round-robin-1",
+    "winner": "chelsea williams",
+    "loser": "oliver strode",
+    "match": "oliver strode vs chelsea williams",
+    "race": 0
+  }
+]

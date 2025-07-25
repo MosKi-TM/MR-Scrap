@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "final",
+    "winner": "will tiller",
+    "loser": "krzysztof rosinski",
+    "match": "will tiller vs krzysztof rosinski",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "final",
+    "winner": "will tiller",
+    "loser": "krzysztof rosinski",
+    "match": "will tiller vs krzysztof rosinski",
+    "race": 2
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "petit-final",
+    "winner": "nicolai sehested",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "petit-final",
+    "winner": "nicolai sehested",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs nicolai sehested",
+    "race": 2
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "semi-final-1",
+    "winner": "will tiller",
+    "loser": "nicolai sehested",
+    "match": "will tiller vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "semi-final-2",
+    "winner": "krzysztof rosinski",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs krzysztof rosinski",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "will tiller",
+    "loser": "mike quaglio",
+    "match": "will tiller vs mike quaglio",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "will tiller",
+    "loser": "mike quaglio",
+    "match": "will tiller vs mike quaglio",
+    "race": 2
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "nicolai sehested",
+    "loser": "jordan reece",
+    "match": "jordan reece vs nicolai sehested",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "nicolai sehested",
+    "loser": "jordan reece",
+    "match": "jordan reece vs nicolai sehested",
+    "race": 2
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "taylor canfield",
+    "loser": "dave perry",
+    "match": "taylor canfield vs dave perry",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "taylor canfield",
+    "loser": "dave perry",
+    "match": "taylor canfield vs dave perry",
+    "race": 2
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "krzysztof rosinski",
+    "loser": "vladimir lipavsky",
+    "match": "vladimir lipavsky vs krzysztof rosinski",
+    "race": 1
+  },
+  {
+    "regatta": "Oakcliff International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "krzysztof rosinski",
+    "loser": "vladimir lipavsky",
+    "match": "vladimir lipavsky vs krzysztof rosinski",
+    "race": 2
+  }
+]

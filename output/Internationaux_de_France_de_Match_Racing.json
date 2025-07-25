@@ -1,0 +1,354 @@
+[
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "final",
+    "winner": "robert solune",
+    "loser": "quentin delapierre",
+    "match": "robert solune vs quentin delapierre",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "final",
+    "winner": "robert solune",
+    "loser": "quentin delapierre",
+    "match": "robert solune vs quentin delapierre",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "final",
+    "winner": "quentin delapierre",
+    "loser": "robert solune",
+    "match": "robert solune vs quentin delapierre",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "final",
+    "winner": "quentin delapierre",
+    "loser": "robert solune",
+    "match": "robert solune vs quentin delapierre",
+    "race": 4
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "final",
+    "winner": "quentin delapierre",
+    "loser": "robert solune",
+    "match": "robert solune vs quentin delapierre",
+    "race": 5
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "nelson mettraux",
+    "match": "eric monnin vs nelson mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "petit-final",
+    "winner": "nelson mettraux",
+    "loser": "eric monnin",
+    "match": "eric monnin vs nelson mettraux",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "petit-final",
+    "winner": "eric monnin",
+    "loser": "nelson mettraux",
+    "match": "eric monnin vs nelson mettraux",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-1",
+    "winner": "quentin delapierre",
+    "loser": "nelson mettraux",
+    "match": "quentin delapierre vs nelson mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-1",
+    "winner": "quentin delapierre",
+    "loser": "nelson mettraux",
+    "match": "quentin delapierre vs nelson mettraux",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-1",
+    "winner": "quentin delapierre",
+    "loser": "nelson mettraux",
+    "match": "quentin delapierre vs nelson mettraux",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-2",
+    "winner": "robert solune",
+    "loser": "eric monnin",
+    "match": "robert solune vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-2",
+    "winner": "robert solune",
+    "loser": "eric monnin",
+    "match": "robert solune vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "robert solune",
+    "match": "robert solune vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-2",
+    "winner": "eric monnin",
+    "loser": "robert solune",
+    "match": "robert solune vs eric monnin",
+    "race": 4
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "semi-final-2",
+    "winner": "robert solune",
+    "loser": "eric monnin",
+    "match": "robert solune vs eric monnin",
+    "race": 5
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "5th/6th",
+    "winner": "loick peyron",
+    "loser": "jan eckert",
+    "match": "jan eckert vs loick peyron",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "6th/7th",
+    "winner": "loick peyron",
+    "loser": "pierre rhimbault",
+    "match": "loick peyron vs pierre rhimbault",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "7th/8th",
+    "winner": "pierre rhimbault",
+    "loser": "philip bendon",
+    "match": "pierre rhimbault vs philip bendon",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "8th/9th",
+    "winner": "philip bendon",
+    "loser": "hugo feydit",
+    "match": "hugo feydit vs philip bendon",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "9th/10th",
+    "winner": "philip bendon",
+    "loser": "paul medinger",
+    "match": "paul medinger vs philip bendon",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "10th/11th",
+    "winner": "philip bendon",
+    "loser": "simon bertheau",
+    "match": "philip bendon vs simon bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "11th/12th",
+    "winner": "simon bertheau",
+    "loser": "sylvain escurat",
+    "match": "simon bertheau vs sylvain escurat",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "quentin delapierre",
+    "loser": "hugo feydit",
+    "match": "hugo feydit vs quentin delapierre",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "quentin delapierre",
+    "loser": "hugo feydit",
+    "match": "hugo feydit vs quentin delapierre",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-1",
+    "winner": "quentin delapierre",
+    "loser": "hugo feydit",
+    "match": "hugo feydit vs quentin delapierre",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "jan eckert",
+    "loser": "nelson mettraux",
+    "match": "nelson mettraux vs jan eckert",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "nelson mettraux",
+    "loser": "jan eckert",
+    "match": "nelson mettraux vs jan eckert",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "nelson mettraux",
+    "loser": "jan eckert",
+    "match": "nelson mettraux vs jan eckert",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-2",
+    "winner": "nelson mettraux",
+    "loser": "jan eckert",
+    "match": "nelson mettraux vs jan eckert",
+    "race": 4
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "pierre rhimbault",
+    "match": "pierre rhimbault vs eric monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "pierre rhimbault",
+    "match": "pierre rhimbault vs eric monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-3",
+    "winner": "eric monnin",
+    "loser": "pierre rhimbault",
+    "match": "pierre rhimbault vs eric monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "robert solune",
+    "loser": "loick peyron",
+    "match": "loick peyron vs robert solune",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "robert solune",
+    "loser": "loick peyron",
+    "match": "loick peyron vs robert solune",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "quarter-final-4",
+    "winner": "robert solune",
+    "loser": "loick peyron",
+    "match": "loick peyron vs robert solune",
+    "race": 3
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-1",
+    "winner": "loick peyron",
+    "loser": "sylvain escurat",
+    "match": "sylvain escurat vs loick peyron",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-1",
+    "winner": "loick peyron",
+    "loser": "sylvain escurat",
+    "match": "sylvain escurat vs loick peyron",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-2",
+    "winner": "robert solune",
+    "loser": "simon bertheau",
+    "match": "robert solune vs simon bertheau",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-2",
+    "winner": "robert solune",
+    "loser": "simon bertheau",
+    "match": "robert solune vs simon bertheau",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-3",
+    "winner": "hugo feydit",
+    "loser": "paul medinger",
+    "match": "paul medinger vs hugo feydit",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-3",
+    "winner": "hugo feydit",
+    "loser": "paul medinger",
+    "match": "paul medinger vs hugo feydit",
+    "race": 2
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-4",
+    "winner": "pierre rhimbault",
+    "loser": "philip bendon",
+    "match": "pierre rhimbault vs philip bendon",
+    "race": 1
+  },
+  {
+    "regatta": "Internationaux de France de Match Racing",
+    "phase": "repechage-4",
+    "winner": "pierre rhimbault",
+    "loser": "philip bendon",
+    "match": "pierre rhimbault vs philip bendon",
+    "race": 2
+  }
+]

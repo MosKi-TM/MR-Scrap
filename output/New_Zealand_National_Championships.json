@@ -1,0 +1,810 @@
+[
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "final",
+    "winner": "graeme sutherland",
+    "loser": "nick egnot-johnson",
+    "match": "graeme sutherland vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "final",
+    "winner": "graeme sutherland",
+    "loser": "nick egnot-johnson",
+    "match": "graeme sutherland vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "petit-final",
+    "winner": "reuben corbett",
+    "loser": "leonard takahashi",
+    "match": "reuben corbett vs leonard takahashi",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-1",
+    "winner": "graeme sutherland",
+    "loser": "reuben corbett",
+    "match": "reuben corbett vs graeme sutherland",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-1",
+    "winner": "reuben corbett",
+    "loser": "graeme sutherland",
+    "match": "reuben corbett vs graeme sutherland",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-1",
+    "winner": "graeme sutherland",
+    "loser": "reuben corbett",
+    "match": "reuben corbett vs graeme sutherland",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "leonard takahashi",
+    "match": "nick egnot-johnson vs leonard takahashi",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-2",
+    "winner": "leonard takahashi",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs leonard takahashi",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "semi-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "leonard takahashi",
+    "match": "nick egnot-johnson vs leonard takahashi",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-1",
+    "winner": "reuben corbett",
+    "loser": "niall malone",
+    "match": "reuben corbett vs niall malone",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-1",
+    "winner": "reuben corbett",
+    "loser": "niall malone",
+    "match": "reuben corbett vs niall malone",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-3",
+    "winner": "alastair gifford",
+    "loser": "graeme sutherland",
+    "match": "graeme sutherland vs alastair gifford",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-3",
+    "winner": "graeme sutherland",
+    "loser": "alastair gifford",
+    "match": "graeme sutherland vs alastair gifford",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-3",
+    "winner": "graeme sutherland",
+    "loser": "alastair gifford",
+    "match": "graeme sutherland vs alastair gifford",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-4",
+    "winner": "leonard takahashi",
+    "loser": "jordan stevenson",
+    "match": "leonard takahashi vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-4",
+    "winner": "jordan stevenson",
+    "loser": "leonard takahashi",
+    "match": "leonard takahashi vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "quarter-final-4",
+    "winner": "leonard takahashi",
+    "loser": "jordan stevenson",
+    "match": "leonard takahashi vs jordan stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-1",
+    "winner": "reuben corbett",
+    "loser": "will wright",
+    "match": "reuben corbett vs will wright",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-1",
+    "winner": "reuben corbett",
+    "loser": "will wright",
+    "match": "reuben corbett vs will wright",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-1",
+    "winner": "reuben corbett",
+    "loser": "will wright",
+    "match": "reuben corbett vs will wright",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-2",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-2",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-2",
+    "winner": "nick egnot-johnson",
+    "loser": "max mclachlan",
+    "match": "nick egnot-johnson vs max mclachlan",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-3",
+    "winner": "graeme sutherland",
+    "loser": "megan thomson",
+    "match": "graeme sutherland vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-3",
+    "winner": "graeme sutherland",
+    "loser": "megan thomson",
+    "match": "graeme sutherland vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-3",
+    "winner": "graeme sutherland",
+    "loser": "megan thomson",
+    "match": "graeme sutherland vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-4",
+    "winner": "sean herbert",
+    "loser": "leonard takahashi",
+    "match": "leonard takahashi vs sean herbert",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-4",
+    "winner": "leonard takahashi",
+    "loser": "sean herbert",
+    "match": "leonard takahashi vs sean herbert",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-4",
+    "winner": "leonard takahashi",
+    "loser": "sean herbert",
+    "match": "leonard takahashi vs sean herbert",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-4",
+    "winner": "leonard takahashi",
+    "loser": "sean herbert",
+    "match": "leonard takahashi vs sean herbert",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-5",
+    "winner": "robbie mccutcheon",
+    "loser": "isaac mchardie",
+    "match": "robbie mccutcheon vs isaac mchardie",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-5",
+    "winner": "robbie mccutcheon",
+    "loser": "isaac mchardie",
+    "match": "robbie mccutcheon vs isaac mchardie",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-5",
+    "winner": "isaac mchardie",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs isaac mchardie",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-5",
+    "winner": "robbie mccutcheon",
+    "loser": "isaac mchardie",
+    "match": "robbie mccutcheon vs isaac mchardie",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-6",
+    "winner": "jordan stevenson",
+    "loser": "albert stanley",
+    "match": "jordan stevenson vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-6",
+    "winner": "jordan stevenson",
+    "loser": "albert stanley",
+    "match": "jordan stevenson vs albert stanley",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-6",
+    "winner": "jordan stevenson",
+    "loser": "albert stanley",
+    "match": "jordan stevenson vs albert stanley",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-7",
+    "winner": "niall malone",
+    "loser": "celia willison",
+    "match": "niall malone vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-7",
+    "winner": "niall malone",
+    "loser": "celia willison",
+    "match": "niall malone vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-7",
+    "winner": "niall malone",
+    "loser": "celia willison",
+    "match": "niall malone vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-8",
+    "winner": "alastair gifford",
+    "loser": "frank dair",
+    "match": "alastair gifford vs frank dair",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-8",
+    "winner": "alastair gifford",
+    "loser": "frank dair",
+    "match": "alastair gifford vs frank dair",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "super-16-match-8",
+    "winner": "alastair gifford",
+    "loser": "frank dair",
+    "match": "alastair gifford vs frank dair",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "jordan stevenson",
+    "match": "nick egnot-johnson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "graeme sutherland",
+    "match": "nick egnot-johnson vs graeme sutherland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "alastair gifford",
+    "match": "nick egnot-johnson vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "isaac mchardie",
+    "match": "nick egnot-johnson vs isaac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "sean herbert",
+    "match": "nick egnot-johnson vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "nick egnot-johnson",
+    "loser": "will wright",
+    "match": "nick egnot-johnson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs graeme sutherland",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "jordan stevenson",
+    "loser": "alastair gifford",
+    "match": "jordan stevenson vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "jordan stevenson",
+    "loser": "isaac mchardie",
+    "match": "jordan stevenson vs isaac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "jordan stevenson",
+    "loser": "megan thomson",
+    "match": "jordan stevenson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "jordan stevenson",
+    "loser": "sean herbert",
+    "match": "jordan stevenson vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "jordan stevenson",
+    "loser": "will wright",
+    "match": "jordan stevenson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "alastair gifford",
+    "match": "graeme sutherland vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "isaac mchardie",
+    "match": "graeme sutherland vs isaac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "megan thomson",
+    "match": "graeme sutherland vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "sean herbert",
+    "match": "graeme sutherland vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "graeme sutherland",
+    "loser": "will wright",
+    "match": "graeme sutherland vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "alastair gifford",
+    "loser": "isaac mchardie",
+    "match": "alastair gifford vs isaac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "alastair gifford",
+    "loser": "megan thomson",
+    "match": "alastair gifford vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "sean herbert",
+    "loser": "alastair gifford",
+    "match": "alastair gifford vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "alastair gifford",
+    "loser": "will wright",
+    "match": "alastair gifford vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "megan thomson",
+    "loser": "isaac mchardie",
+    "match": "isaac mchardie vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "sean herbert",
+    "loser": "isaac mchardie",
+    "match": "isaac mchardie vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "isaac mchardie",
+    "loser": "will wright",
+    "match": "isaac mchardie vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "sean herbert",
+    "loser": "megan thomson",
+    "match": "megan thomson vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "megan thomson",
+    "loser": "will wright",
+    "match": "megan thomson vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-b",
+    "winner": "sean herbert",
+    "loser": "will wright",
+    "match": "sean herbert vs will wright",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "frank dair",
+    "match": "leonard takahashi vs frank dair",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "leonard takahashi",
+    "match": "leonard takahashi vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "albert stanley",
+    "match": "leonard takahashi vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "celia willison",
+    "match": "leonard takahashi vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "niall malone",
+    "match": "leonard takahashi vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "robbie mccutcheon",
+    "match": "leonard takahashi vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "leonard takahashi",
+    "loser": "max mclachlan",
+    "match": "leonard takahashi vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "frank dair",
+    "match": "frank dair vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "albert stanley",
+    "loser": "frank dair",
+    "match": "frank dair vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "frank dair",
+    "loser": "celia willison",
+    "match": "frank dair vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "niall malone",
+    "loser": "frank dair",
+    "match": "frank dair vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "robbie mccutcheon",
+    "loser": "frank dair",
+    "match": "frank dair vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "frank dair",
+    "loser": "max mclachlan",
+    "match": "frank dair vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "albert stanley",
+    "match": "reuben corbett vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "celia willison",
+    "match": "reuben corbett vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "niall malone",
+    "match": "reuben corbett vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "reuben corbett vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "reuben corbett",
+    "loser": "max mclachlan",
+    "match": "reuben corbett vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "celia willison",
+    "loser": "albert stanley",
+    "match": "albert stanley vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "albert stanley",
+    "loser": "niall malone",
+    "match": "albert stanley vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "robbie mccutcheon",
+    "loser": "albert stanley",
+    "match": "albert stanley vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "albert stanley",
+    "loser": "max mclachlan",
+    "match": "albert stanley vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "niall malone",
+    "loser": "celia willison",
+    "match": "celia willison vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "robbie mccutcheon",
+    "loser": "celia willison",
+    "match": "celia willison vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "celia willison",
+    "loser": "max mclachlan",
+    "match": "celia willison vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "robbie mccutcheon",
+    "loser": "niall malone",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "niall malone",
+    "loser": "max mclachlan",
+    "match": "niall malone vs max mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championships",
+    "phase": "rr-group-a",
+    "winner": "robbie mccutcheon",
+    "loser": "max mclachlan",
+    "match": "robbie mccutcheon vs max mclachlan",
+    "race": 0
+  }
+]

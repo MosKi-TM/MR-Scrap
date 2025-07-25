@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Xavier McLachlan",
+    "match": "Cole Tapper vs Xavier McLachlan",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Xavier McLachlan",
+    "match": "Cole Tapper vs Xavier McLachlan",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Xavier McLachlan",
+    "match": "Cole Tapper vs Xavier McLachlan",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Daniel Kemp",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Daniel Kemp",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Ben Crafoord",
+    "loser": "Daniel Kemp",
+    "match": "Ben Crafoord vs Daniel Kemp",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "Daniel Kemp",
+    "loser": "Ben Crafoord",
+    "match": "Ben Crafoord vs Daniel Kemp",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Daniel Kemp",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Daniel Kemp",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Cole Tapper",
+    "loser": "Daniel Kemp",
+    "match": "Cole Tapper vs Daniel Kemp",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "Cole Tapper",
+    "loser": "Daniel Kemp",
+    "match": "Cole Tapper vs Daniel Kemp",
+    "race": 3
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Ben Crafoord",
+    "match": "Xavier McLachlan vs Ben Crafoord",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Ben Crafoord",
+    "match": "Xavier McLachlan vs Ben Crafoord",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Hugo Butterworth",
+    "loser": "Massimo Henderson",
+    "match": "Hugo Butterworth vs Massimo Henderson",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "Hugo Butterworth",
+    "loser": "Massimo Henderson",
+    "match": "Hugo Butterworth vs Massimo Henderson",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Kye Rivers",
+    "loser": "Henry Myers",
+    "match": "Kye Rivers vs Henry Myers",
+    "race": 1
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "Kye Rivers",
+    "loser": "Henry Myers",
+    "match": "Kye Rivers vs Henry Myers",
+    "race": 2
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Daniel Kemp",
+    "match": "Cole Tapper vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Xavier McLachlan",
+    "match": "Cole Tapper vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Massimo Henderson",
+    "match": "Cole Tapper vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Hugo Butterworth",
+    "match": "Cole Tapper vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Ben Crafoord",
+    "match": "Cole Tapper vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Kye Rivers",
+    "match": "Cole Tapper vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Daniel Kemp",
+    "loser": "Xavier McLachlan",
+    "match": "Daniel Kemp vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Daniel Kemp",
+    "loser": "Massimo Henderson",
+    "match": "Daniel Kemp vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hugo Butterworth",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Daniel Kemp",
+    "loser": "Ben Crafoord",
+    "match": "Daniel Kemp vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Daniel Kemp",
+    "loser": "Kye Rivers",
+    "match": "Daniel Kemp vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Massimo Henderson",
+    "match": "Xavier McLachlan vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Hugo Butterworth",
+    "match": "Xavier McLachlan vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Ben Crafoord",
+    "match": "Xavier McLachlan vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Kye Rivers",
+    "match": "Xavier McLachlan vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Hugo Butterworth",
+    "match": "Massimo Henderson vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Ben Crafoord",
+    "match": "Massimo Henderson vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Kye Rivers",
+    "match": "Massimo Henderson vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hugo Butterworth",
+    "loser": "Ben Crafoord",
+    "match": "Hugo Butterworth vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hugo Butterworth",
+    "loser": "Kye Rivers",
+    "match": "Hugo Butterworth vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "Kye Rivers",
+    "match": "Ben Crafoord vs Kye Rivers",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Daniel Kemp",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Xavier McLachlan",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Massimo Henderson",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Hugo Butterworth",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Ben Crafoord",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Ben Crafoord",
+    "race": 0
+  },
+  {
+    "regatta": "NSW Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "Kye Rivers",
+    "loser": "Henry Myers",
+    "match": "Henry Myers vs Kye Rivers",
+    "race": 0
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "george anyon",
+    "loser": "harry price",
+    "match": "harry price vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "george anyon",
+    "match": "harry price vs george anyon",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "lachy gilmour",
+    "loser": "will dargaville",
+    "match": "will dargaville vs lachy gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "will dargaville",
+    "loser": "lachy gilmour",
+    "match": "will dargaville vs lachy gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "will dargaville",
+    "loser": "lachy gilmour",
+    "match": "will dargaville vs lachy gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "lachy gilmour",
+    "match": "harry price vs lachy gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "lachy gilmour",
+    "match": "harry price vs lachy gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "harry price",
+    "loser": "lachy gilmour",
+    "match": "harry price vs lachy gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "will dargaville",
+    "loser": "george anyon",
+    "match": "will dargaville vs george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "will dargaville vs george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "will dargaville vs george anyon",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "will dargaville",
+    "loser": "george anyon",
+    "match": "will dargaville vs george anyon",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "george anyon",
+    "loser": "will dargaville",
+    "match": "will dargaville vs george anyon",
+    "race": 5
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "5th/6th",
+    "winner": "james hodgson",
+    "loser": "william eastman",
+    "match": "james hodgson vs william eastman",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "7th/8th",
+    "winner": "lucas chatonnier",
+    "loser": "matthew kempkers",
+    "match": "matthew kempkers vs lucas chatonnier",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "william eastman",
+    "loser": "matthew kempkers",
+    "match": "matthew kempkers vs william eastman",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "james hodgson",
+    "loser": "lucas chatonnier",
+    "match": "james hodgson vs lucas chatonnier",
+    "race": 1
+  }
+]

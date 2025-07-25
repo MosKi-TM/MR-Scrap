@@ -1,0 +1,362 @@
+[
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs kim kling",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs ander karlsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "sanna mattsson",
+    "match": "nicklas dackhammar vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "clara svensdotter",
+    "match": "nicklas dackhammar vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "sven larsson",
+    "match": "nicklas dackhammar vs sven larsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "anton johansson",
+    "match": "nicklas dackhammar vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "adam johansson",
+    "match": "nicklas dackhammar vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "nicklas dackhammar",
+    "loser": "robin axelsson",
+    "match": "nicklas dackhammar vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "nicklas dackhammar",
+    "match": "nicklas dackhammar vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "ander karlsson",
+    "match": "kim kling vs ander karlsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "kim kling",
+    "match": "kim kling vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "clara svensdotter",
+    "match": "kim kling vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "sven larsson",
+    "match": "kim kling vs sven larsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "anton johansson",
+    "match": "kim kling vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "adam johansson",
+    "match": "kim kling vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "kim kling",
+    "loser": "robin axelsson",
+    "match": "kim kling vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "kim kling",
+    "match": "kim kling vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "sanna mattsson",
+    "match": "ander karlsson vs sanna mattsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "clara svensdotter",
+    "match": "ander karlsson vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "sven larsson",
+    "match": "ander karlsson vs sven larsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "anton johansson",
+    "match": "ander karlsson vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "adam johansson",
+    "match": "ander karlsson vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "robin axelsson",
+    "match": "ander karlsson vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "ander karlsson",
+    "loser": "olof lundgren",
+    "match": "ander karlsson vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "clara svensdotter",
+    "match": "sanna mattsson vs clara svensdotter",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "sven larsson",
+    "match": "sanna mattsson vs sven larsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "anton johansson",
+    "loser": "sanna mattsson",
+    "match": "sanna mattsson vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "adam johansson",
+    "match": "sanna mattsson vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "robin axelsson",
+    "match": "sanna mattsson vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sanna mattsson",
+    "loser": "olof lundgren",
+    "match": "sanna mattsson vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "clara svensdotter",
+    "loser": "sven larsson",
+    "match": "clara svensdotter vs sven larsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "clara svensdotter",
+    "loser": "anton johansson",
+    "match": "clara svensdotter vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "clara svensdotter",
+    "loser": "adam johansson",
+    "match": "clara svensdotter vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "robin axelsson",
+    "loser": "clara svensdotter",
+    "match": "clara svensdotter vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "clara svensdotter",
+    "match": "clara svensdotter vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sven larsson",
+    "loser": "anton johansson",
+    "match": "sven larsson vs anton johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sven larsson",
+    "loser": "adam johansson",
+    "match": "sven larsson vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "sven larsson",
+    "loser": "robin axelsson",
+    "match": "sven larsson vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "sven larsson",
+    "match": "sven larsson vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "adam johansson",
+    "loser": "anton johansson",
+    "match": "anton johansson vs adam johansson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "anton johansson",
+    "loser": "robin axelsson",
+    "match": "anton johansson vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "anton johansson",
+    "match": "anton johansson vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "robin axelsson",
+    "loser": "adam johansson",
+    "match": "adam johansson vs robin axelsson",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "adam johansson",
+    "match": "adam johansson vs olof lundgren",
+    "race": 0
+  },
+  {
+    "regatta": "GKSS Club Championships",
+    "phase": "round-robin",
+    "winner": "olof lundgren",
+    "loser": "robin axelsson",
+    "match": "robin axelsson vs olof lundgren",
+    "race": 0
+  }
+]

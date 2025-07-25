@@ -1,0 +1,538 @@
+[
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "Noah Malpot",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Noah Malpot",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Noah Malpot",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "Noah Malpot",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Noah Malpot",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 5
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "petit-final",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "petit-final",
+    "winner": "Hayden Smith",
+    "loser": "Ethan Fong",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "petit-final",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "Noah Malpot",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Noah Malpot",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "Noah Malpot",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Noah Malpot",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "Josh Hyde",
+    "loser": "Ethan Fong",
+    "match": "Josh Hyde vs Ethan Fong",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "Josh Hyde",
+    "loser": "Ethan Fong",
+    "match": "Josh Hyde vs Ethan Fong",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Rory Sims",
+    "match": "Josh Hyde vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Ethan Fong",
+    "match": "Josh Hyde vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Sam Scott",
+    "match": "Josh Hyde vs Sam Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Noah Malpot",
+    "match": "Josh Hyde vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Charley Cates",
+    "match": "Josh Hyde vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Lucas Day",
+    "match": "Josh Hyde vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Wilbur Stanley",
+    "match": "Josh Hyde vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Finn Olson",
+    "match": "Josh Hyde vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Rory Sims",
+    "loser": "Hayden Smith",
+    "match": "Rory Sims vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Scott",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Sam Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Rory Sims",
+    "loser": "Charley Cates",
+    "match": "Rory Sims vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Rory Sims",
+    "loser": "Lucas Day",
+    "match": "Rory Sims vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Rory Sims",
+    "loser": "Wilbur Stanley",
+    "match": "Rory Sims vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Ethan Fong",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Sam Scott",
+    "match": "Hayden Smith vs Sam Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Noah Malpot",
+    "match": "Hayden Smith vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Charley Cates",
+    "match": "Hayden Smith vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Lucas Day",
+    "match": "Hayden Smith vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Hayden Smith",
+    "loser": "Wilbur Stanley",
+    "match": "Hayden Smith vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Sam Scott",
+    "match": "Ethan Fong vs Sam Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Charley Cates",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Lucas Day",
+    "match": "Ethan Fong vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Wilbur Stanley",
+    "match": "Ethan Fong vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Finn Olson",
+    "match": "Ethan Fong vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Scott",
+    "loser": "Noah Malpot",
+    "match": "Sam Scott vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Scott",
+    "loser": "Charley Cates",
+    "match": "Sam Scott vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Scott",
+    "loser": "Lucas Day",
+    "match": "Sam Scott vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Scott",
+    "loser": "Wilbur Stanley",
+    "match": "Sam Scott vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Charley Cates",
+    "match": "Noah Malpot vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Lucas Day",
+    "match": "Noah Malpot vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Wilbur Stanley",
+    "match": "Noah Malpot vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Finn Olson",
+    "match": "Noah Malpot vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Charley Cates",
+    "loser": "Lucas Day",
+    "match": "Charley Cates vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Wilbur Stanley",
+    "loser": "Charley Cates",
+    "match": "Charley Cates vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Charley Cates",
+    "match": "Charley Cates vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Lucas Day",
+    "loser": "Wilbur Stanley",
+    "match": "Lucas Day vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Lucas Day",
+    "match": "Lucas Day vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Wilbur Stanley",
+    "match": "Wilbur Stanley vs Finn Olson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Josh Hyde",
+    "loser": "Sam Clarke",
+    "match": "Sam Clarke vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Rory Sims",
+    "match": "Sam Clarke vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Hayden Smith",
+    "match": "Sam Clarke vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Ethan Fong",
+    "loser": "Sam Clarke",
+    "match": "Sam Clarke vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Sam Scott",
+    "match": "Sam Clarke vs Sam Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Noah Malpot",
+    "loser": "Sam Clarke",
+    "match": "Sam Clarke vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Charley Cates",
+    "match": "Sam Clarke vs Charley Cates",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Lucas Day",
+    "match": "Sam Clarke vs Lucas Day",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Sam Clarke",
+    "loser": "Wilbur Stanley",
+    "match": "Sam Clarke vs Wilbur Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Youth National Championships",
+    "phase": "round-robin",
+    "winner": "Finn Olson",
+    "loser": "Sam Clarke",
+    "match": "Sam Clarke vs Finn Olson",
+    "race": 0
+  }
+]

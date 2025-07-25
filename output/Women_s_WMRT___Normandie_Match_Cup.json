@@ -1,0 +1,690 @@
+[
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "megan thomson",
+    "match": "pauline courtois vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "megan thomson",
+    "match": "pauline courtois vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "megan thomson",
+    "match": "pauline courtois vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "anna ostling vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "anna ostling vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "anna ostling vs celia willison",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "anna ostling vs celia willison",
+    "race": 6
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-1",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "5th-/-6th",
+    "winner": "julia aartsen",
+    "loser": "sophie otter",
+    "match": "julia aartsen vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "6th-/-7th",
+    "winner": "sophie otter",
+    "loser": "kenza coutard",
+    "match": "kenza coutard vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "7th-/-8th",
+    "winner": "sophie otter",
+    "loser": "nicole breault",
+    "match": "nicole breault vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "8th-/-9th",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "9th-/-10th",
+    "winner": "sophie otter",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "10th-/-11th",
+    "winner": "sophie otter",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "ali morrish",
+    "match": "pauline courtois vs ali morrish",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "pauline courtois",
+    "loser": "ali morrish",
+    "match": "pauline courtois vs ali morrish",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "kenza coutard",
+    "match": "anna ostling vs kenza coutard",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "anna ostling",
+    "loser": "kenza coutard",
+    "match": "anna ostling vs kenza coutard",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "megan thomson",
+    "loser": "nicole breault",
+    "match": "megan thomson vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "megan thomson",
+    "loser": "nicole breault",
+    "match": "megan thomson vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "celia willison",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "celia willison",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "anna ostling",
+    "match": "pauline courtois vs anna ostling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "nicole breault",
+    "match": "pauline courtois vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "sophie otter",
+    "match": "pauline courtois vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lea richter vogelius",
+    "match": "pauline courtois vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ali morrish",
+    "match": "pauline courtois vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "kenza coutard",
+    "match": "pauline courtois vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "julia aartsen",
+    "match": "pauline courtois vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "kristine mauritzen",
+    "match": "pauline courtois vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "anna ostling",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "lea richter vogelius",
+    "match": "anna ostling vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "ali morrish",
+    "match": "anna ostling vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "kenza coutard",
+    "match": "anna ostling vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "julia aartsen",
+    "match": "anna ostling vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "sophie otter",
+    "match": "nicole breault vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "nicole breault",
+    "match": "nicole breault vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "nicole breault",
+    "match": "nicole breault vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "nicole breault",
+    "match": "nicole breault vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "nicole breault",
+    "match": "nicole breault vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "nicole breault",
+    "match": "nicole breault vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "kristine mauritzen",
+    "match": "nicole breault vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "lea richter vogelius",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "celia willison",
+    "match": "celia willison vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "kenza coutard",
+    "match": "celia willison vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "celia willison",
+    "match": "celia willison vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "lea richter vogelius",
+    "match": "sophie otter vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "sophie otter vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "sophie otter",
+    "match": "sophie otter vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "sophie otter",
+    "match": "sophie otter vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "sophie otter",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "ali morrish",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "megan thomson",
+    "match": "lea richter vogelius vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "kristine mauritzen",
+    "match": "lea richter vogelius vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "ali morrish",
+    "match": "ali morrish vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "ali morrish",
+    "match": "ali morrish vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kristine mauritzen",
+    "loser": "ali morrish",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "megan thomson",
+    "match": "megan thomson vs kenza coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "julia aartsen",
+    "match": "megan thomson vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "kenza coutard",
+    "match": "kenza coutard vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "kenza coutard",
+    "loser": "kristine mauritzen",
+    "match": "kenza coutard vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Normandie Match Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "kristine mauritzen",
+    "match": "julia aartsen vs kristine mauritzen",
+    "race": 0
+  }
+]

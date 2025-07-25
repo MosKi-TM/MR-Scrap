@@ -1,0 +1,34 @@
+[
+  {
+    "regatta": "Seawanhaka Cup",
+    "phase": "semi-final-1",
+    "winner": "seawanhaka corinthian yacht club",
+    "loser": "royal st. lawrence yacht club",
+    "match": "seawanhaka corinthian yacht club vs royal st. lawrence yacht club",
+    "race": 1
+  },
+  {
+    "regatta": "Seawanhaka Cup",
+    "phase": "semi-final-1",
+    "winner": "seawanhaka corinthian yacht club",
+    "loser": "royal st. lawrence yacht club",
+    "match": "seawanhaka corinthian yacht club vs royal st. lawrence yacht club",
+    "race": 2
+  },
+  {
+    "regatta": "Seawanhaka Cup",
+    "phase": "semi-final-2",
+    "winner": "long beach yacht club",
+    "loser": "royal nova scotia yacht squadron",
+    "match": "long beach yacht club vs royal nova scotia yacht squadron",
+    "race": 1
+  },
+  {
+    "regatta": "Seawanhaka Cup",
+    "phase": "semi-final-2",
+    "winner": "long beach yacht club",
+    "loser": "royal nova scotia yacht squadron",
+    "match": "long beach yacht club vs royal nova scotia yacht squadron",
+    "race": 2
+  }
+]

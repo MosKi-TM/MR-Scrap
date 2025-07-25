@@ -1,0 +1,842 @@
+[
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Chelsea Williams",
+    "match": "Josh Hyde vs Chelsea Williams",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Chelsea Williams",
+    "match": "Josh Hyde vs Chelsea Williams",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "Josh Hyde",
+    "loser": "Chelsea Williams",
+    "match": "Josh Hyde vs Chelsea Williams",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "Daniel Kemp",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Daniel Kemp",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "Daniel Kemp",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Daniel Kemp",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "Chelsea Williams",
+    "loser": "Xavier McLachlan",
+    "match": "Chelsea Williams vs Xavier McLachlan",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "Chelsea Williams",
+    "loser": "Xavier McLachlan",
+    "match": "Chelsea Williams vs Xavier McLachlan",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Josh Hyde",
+    "loser": "Daniel Kemp",
+    "match": "Josh Hyde vs Daniel Kemp",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "Josh Hyde",
+    "loser": "Daniel Kemp",
+    "match": "Josh Hyde vs Daniel Kemp",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Brooke Wilson",
+    "loser": "Rory Sims",
+    "match": "Brooke Wilson vs Rory Sims",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Rory Sims",
+    "loser": "Brooke Wilson",
+    "match": "Brooke Wilson vs Rory Sims",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "Brooke Wilson",
+    "loser": "Rory Sims",
+    "match": "Brooke Wilson vs Rory Sims",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Massimo Henderson",
+    "loser": "Hugo Butterworth",
+    "match": "Massimo Henderson vs Hugo Butterworth",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "Massimo Henderson",
+    "loser": "Hugo Butterworth",
+    "match": "Massimo Henderson vs Hugo Butterworth",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "Sam Scott",
+    "loser": "Mia Lovelady",
+    "match": "Sam Scott vs Mia Lovelady",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Xavier McLachlan",
+    "match": "Josh Hyde vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Brooke Wilson",
+    "match": "Josh Hyde vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Massimo Henderson",
+    "match": "Josh Hyde vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Rory Sims",
+    "match": "Josh Hyde vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Chelsea Williams",
+    "match": "Josh Hyde vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Hugo Butterworth",
+    "match": "Josh Hyde vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Mia Lovelady",
+    "match": "Josh Hyde vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Xavier McLachlan",
+    "match": "Daniel Kemp vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Brooke Wilson",
+    "match": "Daniel Kemp vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Massimo Henderson",
+    "match": "Daniel Kemp vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Chelsea Williams",
+    "match": "Daniel Kemp vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Hugo Butterworth",
+    "match": "Daniel Kemp vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Mia Lovelady",
+    "match": "Daniel Kemp vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Brooke Wilson",
+    "match": "Xavier McLachlan vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Chelsea Williams",
+    "match": "Xavier McLachlan vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Hugo Butterworth",
+    "match": "Xavier McLachlan vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Mia Lovelady",
+    "match": "Xavier McLachlan vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Brooke Wilson",
+    "match": "Brooke Wilson vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Brooke Wilson",
+    "match": "Brooke Wilson vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Chelsea Williams",
+    "match": "Brooke Wilson vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Hugo Butterworth",
+    "match": "Brooke Wilson vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Mia Lovelady",
+    "match": "Brooke Wilson vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Chelsea Williams",
+    "match": "Massimo Henderson vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Hugo Butterworth",
+    "match": "Massimo Henderson vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Mia Lovelady",
+    "match": "Massimo Henderson vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Chelsea Williams",
+    "match": "Rory Sims vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Hugo Butterworth",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Mia Lovelady",
+    "match": "Rory Sims vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Chelsea Williams",
+    "loser": "Hugo Butterworth",
+    "match": "Chelsea Williams vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Mia Lovelady",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Hugo Butterworth",
+    "loser": "Mia Lovelady",
+    "match": "Hugo Butterworth vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Josh Hyde",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Daniel Kemp",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Xavier McLachlan",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Brooke Wilson",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Massimo Henderson",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Rory Sims",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Sam Scott",
+    "loser": "Chelsea Williams",
+    "match": "Sam Scott vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Hugo Butterworth",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "Sam Scott",
+    "loser": "Mia Lovelady",
+    "match": "Sam Scott vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Daniel Kemp",
+    "match": "Josh Hyde vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Xavier McLachlan",
+    "match": "Josh Hyde vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Brooke Wilson",
+    "match": "Josh Hyde vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Massimo Henderson",
+    "match": "Josh Hyde vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Rory Sims",
+    "match": "Josh Hyde vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Chelsea Williams",
+    "match": "Josh Hyde vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Hugo Butterworth",
+    "match": "Josh Hyde vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Mia Lovelady",
+    "match": "Josh Hyde vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Brooke Wilson",
+    "match": "Daniel Kemp vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Massimo Henderson",
+    "match": "Daniel Kemp vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Daniel Kemp",
+    "match": "Daniel Kemp vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Chelsea Williams",
+    "match": "Daniel Kemp vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Hugo Butterworth",
+    "match": "Daniel Kemp vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Mia Lovelady",
+    "match": "Daniel Kemp vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Brooke Wilson",
+    "match": "Xavier McLachlan vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Massimo Henderson",
+    "match": "Xavier McLachlan vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Rory Sims",
+    "match": "Xavier McLachlan vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Chelsea Williams",
+    "match": "Xavier McLachlan vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Hugo Butterworth",
+    "loser": "Xavier McLachlan",
+    "match": "Xavier McLachlan vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Mia Lovelady",
+    "match": "Xavier McLachlan vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Massimo Henderson",
+    "loser": "Brooke Wilson",
+    "match": "Brooke Wilson vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Rory Sims",
+    "match": "Brooke Wilson vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Chelsea Williams",
+    "match": "Brooke Wilson vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Hugo Butterworth",
+    "match": "Brooke Wilson vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Mia Lovelady",
+    "match": "Brooke Wilson vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Massimo Henderson",
+    "match": "Massimo Henderson vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Massimo Henderson",
+    "loser": "Hugo Butterworth",
+    "match": "Massimo Henderson vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Massimo Henderson",
+    "loser": "Mia Lovelady",
+    "match": "Massimo Henderson vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Hugo Butterworth",
+    "match": "Rory Sims vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Mia Lovelady",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Hugo Butterworth",
+    "loser": "Chelsea Williams",
+    "match": "Chelsea Williams vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Mia Lovelady",
+    "match": "Chelsea Williams vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Mia Lovelady",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Mia Lovelady",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Josh Hyde",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Daniel Kemp",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Daniel Kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Xavier McLachlan",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Xavier McLachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Brooke Wilson",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Brooke Wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Massimo Henderson",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Massimo Henderson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Sam Scott",
+    "loser": "Rory Sims",
+    "match": "Sam Scott vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Chelsea Williams",
+    "loser": "Sam Scott",
+    "match": "Sam Scott vs Chelsea Williams",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Sam Scott",
+    "loser": "Hugo Butterworth",
+    "match": "Sam Scott vs Hugo Butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "Sam Scott",
+    "loser": "Mia Lovelady",
+    "match": "Sam Scott vs Mia Lovelady",
+    "race": 0
+  }
+]

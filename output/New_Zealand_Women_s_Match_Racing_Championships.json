@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs samantha norman",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs samantha norman",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "zoe bennett",
+    "loser": "samantha norman",
+    "match": "zoe bennett vs samantha norman",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "final",
+    "winner": "samantha norman",
+    "loser": "zoe bennett",
+    "match": "zoe bennett vs samantha norman",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "stephanie kirkman",
+    "loser": "lauren gallaway",
+    "match": "stephanie kirkman vs lauren gallaway",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "lauren gallaway",
+    "loser": "stephanie kirkman",
+    "match": "stephanie kirkman vs lauren gallaway",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "stephanie kirkman",
+    "loser": "lauren gallaway",
+    "match": "stephanie kirkman vs lauren gallaway",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "zoe bennett",
+    "loser": "lauren gallaway",
+    "match": "zoe bennett vs lauren gallaway",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "zoe bennett",
+    "loser": "lauren gallaway",
+    "match": "zoe bennett vs lauren gallaway",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "samantha norman",
+    "loser": "stephanie kirkman",
+    "match": "stephanie kirkman vs samantha norman",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "stephanie kirkman",
+    "loser": "samantha norman",
+    "match": "stephanie kirkman vs samantha norman",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Women's Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "samantha norman",
+    "loser": "stephanie kirkman",
+    "match": "stephanie kirkman vs samantha norman",
+    "race": 3
+  }
+]

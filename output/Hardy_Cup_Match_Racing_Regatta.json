@@ -1,0 +1,1010 @@
+[
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "final",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "ash rooklyn",
+    "loser": "jed cruickshank",
+    "match": "ash rooklyn vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "ash rooklyn",
+    "loser": "jed cruickshank",
+    "match": "ash rooklyn vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "alistair read",
+    "loser": "ash rooklyn",
+    "match": "ash rooklyn vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "alistair read",
+    "loser": "ash rooklyn",
+    "match": "ash rooklyn vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "alistair read",
+    "loser": "ash rooklyn",
+    "match": "ash rooklyn vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "will sargent",
+    "loser": "david chapman",
+    "match": "will sargent vs david chapman",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "david chapman",
+    "loser": "will sargent",
+    "match": "will sargent vs david chapman",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "david chapman",
+    "loser": "will sargent",
+    "match": "will sargent vs david chapman",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "jules costanzo",
+    "loser": "harry lawson",
+    "match": "jules costanzo vs harry lawson",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "7th-/-8th",
+    "winner": "jules costanzo",
+    "loser": "harry lawson",
+    "match": "jules costanzo vs harry lawson",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "maddie o'shea",
+    "loser": "xavier mclachlan",
+    "match": "maddie o'shea vs xavier mclachlan",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "xavier mclachlan",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs xavier mclachlan",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "9th-/-10th",
+    "winner": "maddie o'shea",
+    "loser": "xavier mclachlan",
+    "match": "maddie o'shea vs xavier mclachlan",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "harry lawson",
+    "match": "finn tapper vs harry lawson",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "harry lawson",
+    "match": "finn tapper vs harry lawson",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "harry lawson",
+    "loser": "finn tapper",
+    "match": "finn tapper vs harry lawson",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "finn tapper",
+    "loser": "harry lawson",
+    "match": "finn tapper vs harry lawson",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "ash rooklyn",
+    "loser": "jules costanzo",
+    "match": "ash rooklyn vs jules costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "ash rooklyn",
+    "loser": "jules costanzo",
+    "match": "ash rooklyn vs jules costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "ash rooklyn",
+    "loser": "jules costanzo",
+    "match": "ash rooklyn vs jules costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "jed cruickshank",
+    "loser": "will sargent",
+    "match": "will sargent vs jed cruickshank",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "jed cruickshank",
+    "loser": "will sargent",
+    "match": "will sargent vs jed cruickshank",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "jed cruickshank",
+    "loser": "will sargent",
+    "match": "will sargent vs jed cruickshank",
+    "race": 5
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "alistair read",
+    "loser": "david chapman",
+    "match": "david chapman vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "alistair read",
+    "loser": "david chapman",
+    "match": "david chapman vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "david chapman",
+    "loser": "alistair read",
+    "match": "david chapman vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "david chapman",
+    "loser": "alistair read",
+    "match": "david chapman vs alistair read",
+    "race": 4
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "alistair read",
+    "loser": "david chapman",
+    "match": "david chapman vs alistair read",
+    "race": 5
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "david chapman",
+    "loser": "finn tapper",
+    "match": "finn tapper vs david chapman",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "will sargent",
+    "match": "finn tapper vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "jules costanzo",
+    "match": "finn tapper vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "maddie o'shea",
+    "match": "finn tapper vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "finn tapper",
+    "match": "finn tapper vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "harry lawson",
+    "match": "finn tapper vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "finn tapper",
+    "loser": "xavier mclachlan",
+    "match": "finn tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "david chapman",
+    "match": "david chapman vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "david chapman",
+    "match": "david chapman vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "david chapman",
+    "loser": "jules costanzo",
+    "match": "david chapman vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "david chapman",
+    "loser": "jed cruickshank",
+    "match": "david chapman vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "maddie o'shea",
+    "loser": "david chapman",
+    "match": "david chapman vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "david chapman",
+    "match": "david chapman vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "david chapman",
+    "loser": "harry lawson",
+    "match": "david chapman vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "david chapman",
+    "loser": "xavier mclachlan",
+    "match": "david chapman vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "will sargent",
+    "match": "alistair read vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jules costanzo",
+    "loser": "alistair read",
+    "match": "alistair read vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "maddie o'shea",
+    "match": "alistair read vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "alistair read",
+    "match": "alistair read vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "harry lawson",
+    "match": "alistair read vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "xavier mclachlan",
+    "match": "alistair read vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "jules costanzo",
+    "match": "will sargent vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "will sargent",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "maddie o'shea",
+    "match": "will sargent vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "will sargent",
+    "match": "will sargent vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "harry lawson",
+    "match": "will sargent vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "xavier mclachlan",
+    "match": "will sargent vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "jules costanzo",
+    "match": "jules costanzo vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jules costanzo",
+    "loser": "maddie o'shea",
+    "match": "jules costanzo vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "jules costanzo",
+    "match": "jules costanzo vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jules costanzo",
+    "loser": "harry lawson",
+    "match": "jules costanzo vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jules costanzo",
+    "loser": "xavier mclachlan",
+    "match": "jules costanzo vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "maddie o'shea",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "harry lawson",
+    "match": "jed cruickshank vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "xavier mclachlan",
+    "match": "jed cruickshank vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "maddie o'shea",
+    "loser": "harry lawson",
+    "match": "maddie o'shea vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "xavier mclachlan",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "harry lawson",
+    "match": "ash rooklyn vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "ash rooklyn",
+    "loser": "xavier mclachlan",
+    "match": "ash rooklyn vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "harry lawson",
+    "loser": "xavier mclachlan",
+    "match": "harry lawson vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "david chapman",
+    "match": "finn tapper vs david chapman",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "alistair read",
+    "match": "finn tapper vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "will sargent",
+    "match": "finn tapper vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "jules costanzo",
+    "match": "finn tapper vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "jed cruickshank",
+    "match": "finn tapper vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "maddie o'shea",
+    "match": "finn tapper vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ash rooklyn",
+    "loser": "finn tapper",
+    "match": "finn tapper vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "harry lawson",
+    "match": "finn tapper vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "finn tapper",
+    "loser": "xavier mclachlan",
+    "match": "finn tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "alistair read",
+    "match": "david chapman vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "david chapman",
+    "match": "david chapman vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "jules costanzo",
+    "match": "david chapman vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "jed cruickshank",
+    "match": "david chapman vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "maddie o'shea",
+    "match": "david chapman vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "ash rooklyn",
+    "match": "david chapman vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry lawson",
+    "loser": "david chapman",
+    "match": "david chapman vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "david chapman",
+    "loser": "xavier mclachlan",
+    "match": "david chapman vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "alistair read vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "jules costanzo",
+    "match": "alistair read vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "alistair read",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "maddie o'shea",
+    "match": "alistair read vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "ash rooklyn",
+    "match": "alistair read vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "harry lawson",
+    "match": "alistair read vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "xavier mclachlan",
+    "match": "alistair read vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "jules costanzo",
+    "match": "will sargent vs jules costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "will sargent",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "maddie o'shea",
+    "match": "will sargent vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "ash rooklyn",
+    "match": "will sargent vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "harry lawson",
+    "match": "will sargent vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "xavier mclachlan",
+    "match": "will sargent vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "jules costanzo",
+    "match": "jules costanzo vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jules costanzo",
+    "loser": "maddie o'shea",
+    "match": "jules costanzo vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ash rooklyn",
+    "loser": "jules costanzo",
+    "match": "jules costanzo vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jules costanzo",
+    "loser": "harry lawson",
+    "match": "jules costanzo vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jules costanzo",
+    "loser": "xavier mclachlan",
+    "match": "jules costanzo vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "maddie o'shea",
+    "match": "jed cruickshank vs maddie o'shea",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "ash rooklyn",
+    "match": "jed cruickshank vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "harry lawson",
+    "match": "jed cruickshank vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "xavier mclachlan",
+    "match": "jed cruickshank vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ash rooklyn",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs ash rooklyn",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry lawson",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "xavier mclachlan",
+    "loser": "maddie o'shea",
+    "match": "maddie o'shea vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ash rooklyn",
+    "loser": "harry lawson",
+    "match": "ash rooklyn vs harry lawson",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "ash rooklyn",
+    "loser": "xavier mclachlan",
+    "match": "ash rooklyn vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Hardy Cup Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "harry lawson",
+    "loser": "xavier mclachlan",
+    "match": "harry lawson vs xavier mclachlan",
+    "race": 0
+  }
+]

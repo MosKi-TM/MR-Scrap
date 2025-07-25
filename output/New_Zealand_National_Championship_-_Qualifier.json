@@ -1,0 +1,594 @@
+[
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "final",
+    "winner": "jonathon weston",
+    "loser": "robbie mccutcheon",
+    "match": "jonathon weston vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "final",
+    "winner": "jonathon weston",
+    "loser": "robbie mccutcheon",
+    "match": "jonathon weston vs robbie mccutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "petit-final",
+    "winner": "niall malone",
+    "loser": "sean herbert",
+    "match": "niall malone vs sean herbert",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "petit-final",
+    "winner": "niall malone",
+    "loser": "sean herbert",
+    "match": "niall malone vs sean herbert",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "semi-final-1",
+    "winner": "robbie mccutcheon",
+    "loser": "niall malone",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "semi-final-1",
+    "winner": "robbie mccutcheon",
+    "loser": "niall malone",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jonathon weston",
+    "loser": "sean herbert",
+    "match": "jonathon weston vs sean herbert",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "semi-final-2",
+    "winner": "jonathon weston",
+    "loser": "sean herbert",
+    "match": "jonathon weston vs sean herbert",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "celia willison",
+    "match": "celia willison vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "celia willison",
+    "match": "celia willison vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "celia willison",
+    "match": "celia willison vs jonathon weston",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "issac mchardie",
+    "match": "celia willison vs issac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "alex mitchell-barker",
+    "match": "celia willison vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "olivia christie",
+    "match": "celia willison vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "josh hyde",
+    "match": "celia willison vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "celia willison",
+    "match": "celia willison vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "henry angus",
+    "match": "celia willison vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "maeve white",
+    "match": "celia willison vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "megan thomson",
+    "match": "megan thomson vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "robbie mccutcheon",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "megan thomson",
+    "match": "megan thomson vs jonathon weston",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "issac mchardie",
+    "match": "megan thomson vs issac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "alex mitchell-barker",
+    "match": "megan thomson vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "olivia christie",
+    "match": "megan thomson vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "megan thomson",
+    "match": "megan thomson vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "henry angus",
+    "match": "megan thomson vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "robbie mccutcheon",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "niall malone",
+    "match": "niall malone vs jonathon weston",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "issac mchardie",
+    "match": "niall malone vs issac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "alex mitchell-barker",
+    "match": "niall malone vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "olivia christie",
+    "match": "niall malone vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "josh hyde",
+    "match": "niall malone vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "niall malone",
+    "match": "niall malone vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "henry angus",
+    "match": "niall malone vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "niall malone",
+    "loser": "maeve white",
+    "match": "niall malone vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs jonathon weston",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "issac mchardie",
+    "match": "robbie mccutcheon vs issac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "alex mitchell-barker",
+    "match": "robbie mccutcheon vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "olivia christie",
+    "match": "robbie mccutcheon vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "sean herbert",
+    "match": "robbie mccutcheon vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "henry angus",
+    "match": "robbie mccutcheon vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "robbie mccutcheon vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "issac mchardie",
+    "match": "jonathon weston vs issac mchardie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "alex mitchell-barker",
+    "match": "jonathon weston vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "olivia christie",
+    "match": "jonathon weston vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "josh hyde",
+    "match": "jonathon weston vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "sean herbert",
+    "match": "jonathon weston vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "henry angus",
+    "match": "jonathon weston vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "jonathon weston",
+    "loser": "maeve white",
+    "match": "jonathon weston vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "issac mchardie",
+    "loser": "alex mitchell-barker",
+    "match": "issac mchardie vs alex mitchell-barker",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "issac mchardie",
+    "loser": "olivia christie",
+    "match": "issac mchardie vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "issac mchardie",
+    "loser": "josh hyde",
+    "match": "issac mchardie vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "issac mchardie",
+    "match": "issac mchardie vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "issac mchardie",
+    "loser": "henry angus",
+    "match": "issac mchardie vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "issac mchardie",
+    "loser": "maeve white",
+    "match": "issac mchardie vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "olivia christie",
+    "loser": "alex mitchell-barker",
+    "match": "alex mitchell-barker vs olivia christie",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "josh hyde",
+    "match": "alex mitchell-barker vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "alex mitchell-barker",
+    "match": "alex mitchell-barker vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "henry angus",
+    "match": "alex mitchell-barker vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "alex mitchell-barker",
+    "loser": "maeve white",
+    "match": "alex mitchell-barker vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "olivia christie",
+    "match": "olivia christie vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "olivia christie",
+    "match": "olivia christie vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "olivia christie",
+    "loser": "henry angus",
+    "match": "olivia christie vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "olivia christie",
+    "loser": "maeve white",
+    "match": "olivia christie vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "sean herbert",
+    "match": "josh hyde vs sean herbert",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "henry angus",
+    "match": "josh hyde vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "maeve white",
+    "match": "josh hyde vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "henry angus",
+    "match": "sean herbert vs henry angus",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "sean herbert",
+    "loser": "maeve white",
+    "match": "sean herbert vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National Championship - Qualifier",
+    "phase": "round-robin",
+    "winner": "henry angus",
+    "loser": "maeve white",
+    "match": "henry angus vs maeve white",
+    "race": 0
+  }
+]

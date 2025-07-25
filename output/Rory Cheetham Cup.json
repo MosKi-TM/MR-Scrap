@@ -1,0 +1,546 @@
+[
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "final",
+    "winner": "Ted Blowers",
+    "loser": "Ed Harris",
+    "match": "Ted Blowers vs Ed Harris",
+    "race": 1
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "final",
+    "winner": "Ted Blowers",
+    "loser": "Ed Harris",
+    "match": "Ted Blowers vs Ed Harris",
+    "race": 2
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "petit-final",
+    "winner": "Jack Hanslope",
+    "loser": "Ollie Brookes",
+    "match": "Jack Hanslope vs Ollie Brookes",
+    "race": 1
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "semi-final-1",
+    "winner": "Ted Blowers",
+    "loser": "Ollie Brookes",
+    "match": "Ted Blowers vs Ollie Brookes",
+    "race": 1
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "semi-final-1",
+    "winner": "Ted Blowers",
+    "loser": "Ollie Brookes",
+    "match": "Ted Blowers vs Ollie Brookes",
+    "race": 2
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "semi-final-2",
+    "winner": "Ed Harris",
+    "loser": "Jack Hanslope",
+    "match": "Ed Harris vs Jack Hanslope",
+    "race": 1
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "semi-final-2",
+    "winner": "Jack Hanslope",
+    "loser": "Ed Harris",
+    "match": "Ed Harris vs Jack Hanslope",
+    "race": 2
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "semi-final-2",
+    "winner": "Ed Harris",
+    "loser": "Jack Hanslope",
+    "match": "Ed Harris vs Jack Hanslope",
+    "race": 3
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Jessie Main",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Rob Giardelli",
+    "loser": "Ollie Meadowcroft",
+    "match": "Rob Giardelli vs Ollie Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Natasha Baker",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Rob Giardelli",
+    "loser": "Julia Staite",
+    "match": "Rob Giardelli vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Jessie Main",
+    "loser": "Ollie Meadowcroft",
+    "match": "Jessie Main vs Ollie Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Jessie Main",
+    "loser": "Natasha Baker",
+    "match": "Jessie Main vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Julia Staite",
+    "loser": "Jessie Main",
+    "match": "Jessie Main vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Natasha Baker",
+    "match": "Ollie Meadowcroft vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Julia Staite",
+    "match": "Ollie Meadowcroft vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Julia Staite",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Rob Giardelli",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Rob Giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Tim Baker",
+    "loser": "Jessie Main",
+    "match": "Tim Baker vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Ollie Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Tim Baker",
+    "loser": "Natasha Baker",
+    "match": "Tim Baker vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "5th-to-10th",
+    "winner": "Tim Baker",
+    "loser": "Julia Staite",
+    "match": "Tim Baker vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Ollie Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Julia Staite",
+    "loser": "Rob Giardelli",
+    "match": "Julia Staite vs Rob Giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jack Hanslope",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Jack Hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Brookes",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Julia Staite",
+    "match": "Julia Staite vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Rob Giardelli",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Rob Giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Jack Hanslope",
+    "match": "Ollie Meadowcroft vs Jack Hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Ollie Brookes",
+    "match": "Ollie Meadowcroft vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Ted Blowers",
+    "match": "Ollie Meadowcroft vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jack Hanslope",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Jack Hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Brookes",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Rob Giardelli",
+    "match": "Rob Giardelli vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Rob Giardelli",
+    "loser": "Ted Blowers",
+    "match": "Rob Giardelli vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Jack Hanslope",
+    "match": "Jessie Main vs Jack Hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Ollie Brookes",
+    "match": "Jessie Main vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Jessie Main",
+    "match": "Jessie Main vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Jessie Main",
+    "match": "Jessie Main vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Ted Blowers",
+    "match": "Jessie Main vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jack Hanslope",
+    "loser": "Ollie Brookes",
+    "match": "Jack Hanslope vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Jack Hanslope",
+    "match": "Jack Hanslope vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Jack Hanslope",
+    "match": "Jack Hanslope vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jack Hanslope",
+    "loser": "Ted Blowers",
+    "match": "Jack Hanslope vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Natasha Baker",
+    "loser": "Ollie Brookes",
+    "match": "Ollie Brookes vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Ollie Brookes",
+    "match": "Ollie Brookes vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Brookes",
+    "loser": "Ted Blowers",
+    "match": "Ollie Brookes vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Natasha Baker",
+    "match": "Natasha Baker vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Ted Blowers",
+    "match": "Ed Harris vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Julia Staite",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Julia Staite",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Ollie Meadowcroft",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Rob Giardelli",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Rob Giardelli",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jessie Main",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Jessie Main",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Jack Hanslope",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Jack Hanslope",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ollie Brookes",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Ollie Brookes",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Tim Baker",
+    "loser": "Natasha Baker",
+    "match": "Tim Baker vs Natasha Baker",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ed Harris",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Ed Harris",
+    "race": 0
+  },
+  {
+    "regatta": "Rory Cheetham Cup",
+    "phase": "round-robin",
+    "winner": "Ted Blowers",
+    "loser": "Tim Baker",
+    "match": "Tim Baker vs Ted Blowers",
+    "race": 0
+  }
+]

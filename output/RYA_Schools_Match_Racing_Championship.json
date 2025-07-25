@@ -1,0 +1,386 @@
+[
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "finley dickinson",
+    "loser": "jamie tylecote",
+    "match": "finley dickinson vs jamie tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "final",
+    "winner": "finley dickinson",
+    "loser": "jamie tylecote",
+    "match": "finley dickinson vs jamie tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "sebastian kempe",
+    "loser": "ben mueller",
+    "match": "ben mueller vs sebastian kempe",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "henry baylis",
+    "match": "henry baylis vs finley dickinson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "henry baylis",
+    "loser": "albert gillmore",
+    "match": "henry baylis vs albert gillmore",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "henry baylis",
+    "match": "henry baylis vs sebastian kempe",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "henry baylis",
+    "loser": "rupert mathieson",
+    "match": "henry baylis vs rupert mathieson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "henry baylis",
+    "match": "henry baylis vs ben mueller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "harrison procter",
+    "loser": "henry baylis",
+    "match": "henry baylis vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "henry baylis",
+    "loser": "george turner",
+    "match": "henry baylis vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "henry baylis",
+    "match": "henry baylis vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam walton",
+    "loser": "henry baylis",
+    "match": "henry baylis vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "albert gillmore",
+    "match": "finley dickinson vs albert gillmore",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "sebastian kempe",
+    "match": "finley dickinson vs sebastian kempe",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "rupert mathieson",
+    "match": "finley dickinson vs rupert mathieson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "ben mueller",
+    "match": "finley dickinson vs ben mueller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "harrison procter",
+    "match": "finley dickinson vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "george turner",
+    "match": "finley dickinson vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "finley dickinson",
+    "loser": "jamie tylecote",
+    "match": "finley dickinson vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam walton",
+    "loser": "finley dickinson",
+    "match": "finley dickinson vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "albert gillmore",
+    "match": "albert gillmore vs sebastian kempe",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "albert gillmore",
+    "loser": "rupert mathieson",
+    "match": "albert gillmore vs rupert mathieson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "albert gillmore",
+    "match": "albert gillmore vs ben mueller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "albert gillmore",
+    "loser": "harrison procter",
+    "match": "albert gillmore vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "albert gillmore",
+    "loser": "george turner",
+    "match": "albert gillmore vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "albert gillmore",
+    "match": "albert gillmore vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam walton",
+    "loser": "albert gillmore",
+    "match": "albert gillmore vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "rupert mathieson",
+    "match": "sebastian kempe vs rupert mathieson",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "sebastian kempe",
+    "match": "sebastian kempe vs ben mueller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "harrison procter",
+    "match": "sebastian kempe vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "george turner",
+    "match": "sebastian kempe vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "sebastian kempe",
+    "match": "sebastian kempe vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sebastian kempe",
+    "loser": "sam walton",
+    "match": "sebastian kempe vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "rupert mathieson",
+    "match": "rupert mathieson vs ben mueller",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "harrison procter",
+    "loser": "rupert mathieson",
+    "match": "rupert mathieson vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "george turner",
+    "loser": "rupert mathieson",
+    "match": "rupert mathieson vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "rupert mathieson",
+    "match": "rupert mathieson vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "sam walton",
+    "loser": "rupert mathieson",
+    "match": "rupert mathieson vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "harrison procter",
+    "loser": "ben mueller",
+    "match": "ben mueller vs harrison procter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "george turner",
+    "match": "ben mueller vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "ben mueller",
+    "match": "ben mueller vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "ben mueller",
+    "loser": "sam walton",
+    "match": "ben mueller vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "harrison procter",
+    "loser": "george turner",
+    "match": "harrison procter vs george turner",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "harrison procter",
+    "match": "harrison procter vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "harrison procter",
+    "loser": "sam walton",
+    "match": "harrison procter vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "george turner",
+    "match": "george turner vs jamie tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "george turner",
+    "loser": "sam walton",
+    "match": "george turner vs sam walton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Schools Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "jamie tylecote",
+    "loser": "sam walton",
+    "match": "jamie tylecote vs sam walton",
+    "race": 0
+  }
+]

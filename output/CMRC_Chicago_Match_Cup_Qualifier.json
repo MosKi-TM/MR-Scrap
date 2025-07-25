@@ -1,0 +1,170 @@
+[
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "final",
+    "winner": "will tiller",
+    "loser": "don wilson",
+    "match": "will tiller vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "will tiller",
+    "match": "will tiller vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "will tiller",
+    "match": "will tiller vs don wilson",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "will tiller",
+    "match": "will tiller vs don wilson",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "petit-final",
+    "winner": "nathan hollerbach",
+    "loser": "sam gilmour",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "petit-final",
+    "winner": "sam gilmour",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "petit-final",
+    "winner": "nathan hollerbach",
+    "loser": "sam gilmour",
+    "match": "nathan hollerbach vs sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "semi-final-1",
+    "winner": "nathan hollerbach",
+    "loser": "don wilson",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "don wilson vs nathan hollerbach",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "semi-final-2",
+    "winner": "will tiller",
+    "loser": "sam gilmour",
+    "match": "will tiller vs sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "semi-final-2",
+    "winner": "will tiller",
+    "loser": "sam gilmour",
+    "match": "will tiller vs sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "will tiller",
+    "loser": "chris poole",
+    "match": "will tiller vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "will tiller",
+    "loser": "chris poole",
+    "match": "will tiller vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "don wilson",
+    "loser": "steve lowery",
+    "match": "don wilson vs steve lowery",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "don wilson",
+    "loser": "steve lowery",
+    "match": "don wilson vs steve lowery",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "sam gilmour",
+    "loser": "val smith",
+    "match": "sam gilmour vs val smith",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "sam gilmour",
+    "loser": "val smith",
+    "match": "sam gilmour vs val smith",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-4",
+    "winner": "jordan reece",
+    "loser": "nathan hollerbach",
+    "match": "jordan reece vs nathan hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "jordan reece",
+    "match": "jordan reece vs nathan hollerbach",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Qualifier",
+    "phase": "quarter-final-4",
+    "winner": "nathan hollerbach",
+    "loser": "jordan reece",
+    "match": "jordan reece vs nathan hollerbach",
+    "race": 3
+  }
+]

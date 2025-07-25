@@ -1,0 +1,202 @@
+[
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "taylor canfield vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "taylor canfield vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "petit-final",
+    "winner": "mathieu richard",
+    "loser": "david gilmour",
+    "match": "mathieu richard vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "petit-final",
+    "winner": "david gilmour",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-1",
+    "winner": "mathieu richard",
+    "loser": "ian williams",
+    "match": "mathieu richard vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-2",
+    "winner": "david gilmour",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs david gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "taylor canfield vs david gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "taylor canfield vs david gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "david gilmour",
+    "match": "taylor canfield vs david gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "phil robertson",
+    "loser": "ian williams",
+    "match": "ian williams vs phil robertson",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "phil robertson",
+    "loser": "ian williams",
+    "match": "ian williams vs phil robertson",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "ian williams",
+    "loser": "phil robertson",
+    "match": "ian williams vs phil robertson",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "ian williams",
+    "loser": "phil robertson",
+    "match": "ian williams vs phil robertson",
+    "race": 4
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "ian williams",
+    "loser": "phil robertson",
+    "match": "ian williams vs phil robertson",
+    "race": 5
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "david gilmour",
+    "loser": "keith swinton",
+    "match": "david gilmour vs keith swinton",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "david gilmour",
+    "loser": "keith swinton",
+    "match": "david gilmour vs keith swinton",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "david gilmour",
+    "loser": "keith swinton",
+    "match": "david gilmour vs keith swinton",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "mathieu richard",
+    "loser": "arthur herreman",
+    "match": "mathieu richard vs arthur herreman",
+    "race": 1
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "arthur herreman",
+    "loser": "mathieu richard",
+    "match": "mathieu richard vs arthur herreman",
+    "race": 2
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "mathieu richard",
+    "loser": "arthur herreman",
+    "match": "mathieu richard vs arthur herreman",
+    "race": 3
+  },
+  {
+    "regatta": "World Match Race Tour – Dutch Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "mathieu richard",
+    "loser": "arthur herreman",
+    "match": "mathieu richard vs arthur herreman",
+    "race": 4
+  }
+]

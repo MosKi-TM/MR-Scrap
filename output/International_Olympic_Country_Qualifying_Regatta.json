@@ -1,0 +1,138 @@
+[
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "final",
+    "winner": "silja lehtinen",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "final",
+    "winner": "silja lehtinen",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "final",
+    "winner": "silja lehtinen",
+    "loser": "tamara echegoyen",
+    "match": "tamara echegoyen vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "martina silva",
+    "match": "lotte meldgaard pedersen vs martina silva",
+    "race": 1
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "martina silva",
+    "match": "lotte meldgaard pedersen vs martina silva",
+    "race": 2
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "martina silva",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs martina silva",
+    "race": 3
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "martina silva",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs martina silva",
+    "race": 4
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "martina silva",
+    "match": "lotte meldgaard pedersen vs martina silva",
+    "race": 5
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "martina silva",
+    "loser": "silja lehtinen",
+    "match": "martina silva vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "martina silva",
+    "match": "martina silva vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "martina silva",
+    "match": "martina silva vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "martina silva",
+    "loser": "silja lehtinen",
+    "match": "martina silva vs silja lehtinen",
+    "race": 4
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "martina silva",
+    "match": "martina silva vs silja lehtinen",
+    "race": 5
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "lotte meldgaard pedersen",
+    "loser": "tamara echegoyen",
+    "match": "lotte meldgaard pedersen vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs tamara echegoyen",
+    "race": 3
+  },
+  {
+    "regatta": "International Olympic Country Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "lotte meldgaard pedersen",
+    "match": "lotte meldgaard pedersen vs tamara echegoyen",
+    "race": 4
+  }
+]

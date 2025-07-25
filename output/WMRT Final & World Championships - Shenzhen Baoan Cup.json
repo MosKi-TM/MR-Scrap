@@ -1,0 +1,730 @@
+[
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "final",
+    "winner": "Gavin Brady",
+    "loser": "Ian Williams",
+    "match": "Ian Williams vs Gavin Brady",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Gavin Brady",
+    "match": "Ian Williams vs Gavin Brady",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Gavin Brady",
+    "match": "Ian Williams vs Gavin Brady",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "final",
+    "winner": "Ian Williams",
+    "loser": "Gavin Brady",
+    "match": "Ian Williams vs Gavin Brady",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "petit-final",
+    "winner": "Megan Thomson",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "petit-final",
+    "winner": "Johnie Berntsson",
+    "loser": "Megan Thomson",
+    "match": "Johnie Berntsson vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "petit-final",
+    "winner": "Megan Thomson",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Megan Thomson",
+    "match": "Ian Williams vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Ian Williams",
+    "match": "Ian Williams vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Megan Thomson",
+    "match": "Ian Williams vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-1",
+    "winner": "Ian Williams",
+    "loser": "Megan Thomson",
+    "match": "Ian Williams vs Megan Thomson",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-2",
+    "winner": "Gavin Brady",
+    "loser": "Johnie Berntsson",
+    "match": "Gavin Brady vs Johnie Berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-2",
+    "winner": "Gavin Brady",
+    "loser": "Johnie Berntsson",
+    "match": "Gavin Brady vs Johnie Berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Johnie Berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "semi-final-2",
+    "winner": "Gavin Brady",
+    "loser": "Johnie Berntsson",
+    "match": "Gavin Brady vs Johnie Berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-1",
+    "winner": "Björn Hansen",
+    "loser": "Megan Thomson",
+    "match": "Björn Hansen vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-1",
+    "winner": "Megan Thomson",
+    "loser": "Björn Hansen",
+    "match": "Björn Hansen vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Johnie Berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-2",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Johnie Berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-3",
+    "winner": "Chris Poole",
+    "loser": "Ian Williams",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Ian Williams vs Chris Poole",
+    "race": 3
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-4",
+    "winner": "Gavin Brady",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 1
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "quarter-final-4",
+    "winner": "Gavin Brady",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 2
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Chris Poole vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Mati Sepp",
+    "match": "Chris Poole vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Gavin Brady",
+    "match": "Chris Poole vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Björn Hansen",
+    "match": "Chris Poole vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Rocco Attili",
+    "match": "Chris Poole vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Johnie Berntsson vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Mati Sepp",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Rocco Attili",
+    "match": "Johnie Berntsson vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Megan Thomson",
+    "match": "Johnie Berntsson vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Jeppe Borch",
+    "match": "Eric Monnin vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Eric Monnin vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Mati Sepp",
+    "match": "Eric Monnin vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Björn Hansen",
+    "match": "Eric Monnin vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Rocco Attili",
+    "match": "Eric Monnin vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Megan Thomson",
+    "match": "Eric Monnin vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Jeppe Borch vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Mati Sepp",
+    "loser": "Jeppe Borch",
+    "match": "Jeppe Borch vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Ian Williams",
+    "match": "Jeppe Borch vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Jeppe Borch",
+    "match": "Jeppe Borch vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Björn Hansen",
+    "match": "Jeppe Borch vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Jeppe Borch",
+    "match": "Jeppe Borch vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Megan Thomson",
+    "match": "Jeppe Borch vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Mati Sepp",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Ian Williams",
+    "match": "Nick Egnot-Johnson vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rocco Attili",
+    "match": "Nick Egnot-Johnson vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Megan Thomson",
+    "match": "Nick Egnot-Johnson vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Mati Sepp",
+    "match": "Mati Sepp vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Mati Sepp",
+    "match": "Mati Sepp vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Mati Sepp",
+    "match": "Mati Sepp vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Mati Sepp",
+    "loser": "Rocco Attili",
+    "match": "Mati Sepp vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Mati Sepp",
+    "match": "Mati Sepp vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Ian Williams",
+    "match": "Ian Williams vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Björn Hansen",
+    "match": "Ian Williams vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Rocco Attili",
+    "match": "Ian Williams vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Megan Thomson",
+    "match": "Ian Williams vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Björn Hansen",
+    "match": "Gavin Brady vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Megan Thomson",
+    "match": "Gavin Brady vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Rocco Attili",
+    "match": "Björn Hansen vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Megan Thomson",
+    "match": "Björn Hansen vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Megan Thomson",
+    "match": "Rocco Attili vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Chris Poole",
+    "match": "Ruairi Finnegan vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Jeppe Borch",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Jeppe Borch",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ruairi Finnegan",
+    "loser": "Mati Sepp",
+    "match": "Ruairi Finnegan vs Mati Sepp",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Ian Williams",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Ian Williams",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Björn Hansen",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Björn Hansen",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Rocco Attili",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Rocco Attili",
+    "race": 0
+  },
+  {
+    "regatta": "WMRT Final & World Championships - Shenzhen Baoan Cup",
+    "phase": "round-robin",
+    "winner": "Megan Thomson",
+    "loser": "Ruairi Finnegan",
+    "match": "Ruairi Finnegan vs Megan Thomson",
+    "race": 0
+  }
+]

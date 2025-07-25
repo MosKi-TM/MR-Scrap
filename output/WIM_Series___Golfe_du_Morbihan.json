@@ -1,0 +1,178 @@
+[
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "klaartje zuiderbaan vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "klaartje zuiderbaan vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "final",
+    "winner": "camilla ulrikkeholm",
+    "loser": "klaartje zuiderbaan",
+    "match": "klaartje zuiderbaan vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "petit-final",
+    "winner": "anne-claire le berre",
+    "loser": "anna kjellberg",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "petit-final",
+    "winner": "anna kjellberg",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "petit-final",
+    "winner": "anne-claire le berre",
+    "loser": "anna kjellberg",
+    "match": "anne-claire le berre vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-1",
+    "winner": "camilla ulrikkeholm",
+    "loser": "anne-claire le berre",
+    "match": "anne-claire le berre vs camilla ulrikkeholm",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-2",
+    "winner": "anna kjellberg",
+    "loser": "klaartje zuiderbaan",
+    "match": "anna kjellberg vs klaartje zuiderbaan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-2",
+    "winner": "klaartje zuiderbaan",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs klaartje zuiderbaan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-2",
+    "winner": "klaartje zuiderbaan",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs klaartje zuiderbaan",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-2",
+    "winner": "anna kjellberg",
+    "loser": "klaartje zuiderbaan",
+    "match": "anna kjellberg vs klaartje zuiderbaan",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "semi-final-2",
+    "winner": "klaartje zuiderbaan",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs klaartje zuiderbaan",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-1",
+    "winner": "anne-claire le berre",
+    "loser": "caroline sylvan",
+    "match": "anne-claire le berre vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-1",
+    "winner": "anne-claire le berre",
+    "loser": "caroline sylvan",
+    "match": "anne-claire le berre vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-2",
+    "winner": "klaartje zuiderbaan",
+    "loser": "claudia pierce",
+    "match": "klaartje zuiderbaan vs claudia pierce",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-2",
+    "winner": "klaartje zuiderbaan",
+    "loser": "claudia pierce",
+    "match": "klaartje zuiderbaan vs claudia pierce",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-3",
+    "winner": "camilla ulrikkeholm",
+    "loser": "annabel vose",
+    "match": "annabel vose vs camilla ulrikkeholm",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-3",
+    "winner": "camilla ulrikkeholm",
+    "loser": "annabel vose",
+    "match": "annabel vose vs camilla ulrikkeholm",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-4",
+    "winner": "anna kjellberg",
+    "loser": "morgane fountaine",
+    "match": "anna kjellberg vs morgane fountaine",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series – Golfe du Morbihan",
+    "phase": "quarter-final-4",
+    "winner": "anna kjellberg",
+    "loser": "morgane fountaine",
+    "match": "anna kjellberg vs morgane fountaine",
+    "race": 2
+  }
+]

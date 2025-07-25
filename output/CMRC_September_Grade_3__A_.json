@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "wataru sakamoto",
+    "match": "anna tunnicliffe vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "wataru sakamoto",
+    "match": "anna tunnicliffe vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "finals",
+    "winner": "anna tunnicliffe",
+    "loser": "wataru sakamoto",
+    "match": "anna tunnicliffe vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "petit-finals",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "petit-finals",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "petit-finals",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "wataru sakamoto",
+    "match": "don wilson vs wataru sakamoto",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-1",
+    "winner": "wataru sakamoto",
+    "loser": "don wilson",
+    "match": "don wilson vs wataru sakamoto",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "wataru sakamoto",
+    "match": "don wilson vs wataru sakamoto",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-1",
+    "winner": "wataru sakamoto",
+    "loser": "don wilson",
+    "match": "don wilson vs wataru sakamoto",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-1",
+    "winner": "wataru sakamoto",
+    "loser": "don wilson",
+    "match": "don wilson vs wataru sakamoto",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "david storrs",
+    "match": "anna tunnicliffe vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "david storrs",
+    "match": "anna tunnicliffe vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC September Grade 3 (A)",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "david storrs",
+    "match": "anna tunnicliffe vs david storrs",
+    "race": 3
+  }
+]

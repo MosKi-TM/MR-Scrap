@@ -1,0 +1,658 @@
+[
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "final",
+    "winner": "Tom Picot",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "final",
+    "winner": "Eric Monnin",
+    "loser": "Tom Picot",
+    "match": "Eric Monnin vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "petit-final",
+    "winner": "Pauline Courtois",
+    "loser": "Marin Micoulot",
+    "match": "Pauline Courtois vs Marin Micoulot",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "Marin Micoulot",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Marin Micoulot",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Marin Micoulot",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "Marin Micoulot",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-1",
+    "winner": "Eric Monnin",
+    "loser": "Marin Micoulot",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 5
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Tom Picot",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "Pauline Courtois",
+    "loser": "Tom Picot",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 4
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "semi-final-2",
+    "winner": "Tom Picot",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 5
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "5th-/-6th",
+    "winner": "Damian Michellier",
+    "loser": "Martin Allix",
+    "match": "Damian Michellier vs Martin Allix",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "6th-/-7th",
+    "winner": "Martin Allix",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Martin Allix",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "7th-/-8th",
+    "winner": "Martin Allix",
+    "loser": "Benoît Dijoux",
+    "match": "Martin Allix vs Benoît Dijoux",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "8th-/-9th",
+    "winner": "Benoît Dijoux",
+    "loser": "Nelson Mettraux",
+    "match": "Benoît Dijoux vs Nelson Mettraux",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "9th-/-10th",
+    "winner": "Nelson Mettraux",
+    "loser": "Sylvain Escurat",
+    "match": "Nelson Mettraux vs Sylvain Escurat",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "10th-/-11th",
+    "winner": "Sylvain Escurat",
+    "loser": "Martina Carlsson",
+    "match": "Martina Carlsson vs Sylvain Escurat",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martin Allix",
+    "match": "Pauline Courtois vs Martin Allix",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "Martin Allix",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Martin Allix",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martin Allix",
+    "match": "Pauline Courtois vs Martin Allix",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "Marin Micoulot",
+    "loser": "Damian Michellier",
+    "match": "Marin Micoulot vs Damian Michellier",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-2",
+    "winner": "Marin Micoulot",
+    "loser": "Damian Michellier",
+    "match": "Marin Micoulot vs Damian Michellier",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Maxime Mesnil",
+    "race": 1
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "Tom Picot",
+    "loser": "Maxime Mesnil",
+    "match": "Tom Picot vs Maxime Mesnil",
+    "race": 2
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "quarter-final-3",
+    "winner": "Tom Picot",
+    "loser": "Maxime Mesnil",
+    "match": "Tom Picot vs Maxime Mesnil",
+    "race": 3
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Damian Michellier",
+    "match": "Eric Monnin vs Damian Michellier",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Pauline Courtois",
+    "match": "Eric Monnin vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Benoît Dijoux",
+    "match": "Eric Monnin vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Tom Picot",
+    "match": "Eric Monnin vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Marin Micoulot",
+    "match": "Eric Monnin vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Sylvain Escurat",
+    "match": "Eric Monnin vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Martina Carlsson",
+    "match": "Eric Monnin vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Maxime Mesnil",
+    "match": "Damian Michellier vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Martin Allix",
+    "match": "Damian Michellier vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Pauline Courtois",
+    "match": "Damian Michellier vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Damian Michellier",
+    "match": "Damian Michellier vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Damian Michellier",
+    "match": "Damian Michellier vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Marin Micoulot",
+    "match": "Damian Michellier vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Sylvain Escurat",
+    "loser": "Damian Michellier",
+    "match": "Damian Michellier vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Martina Carlsson",
+    "match": "Damian Michellier vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Martin Allix",
+    "match": "Maxime Mesnil vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Maxime Mesnil",
+    "match": "Maxime Mesnil vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Tom Picot",
+    "match": "Maxime Mesnil vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Marin Micoulot",
+    "match": "Maxime Mesnil vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Sylvain Escurat",
+    "match": "Maxime Mesnil vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Martina Carlsson",
+    "match": "Maxime Mesnil vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Pauline Courtois",
+    "match": "Martin Allix vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Martin Allix",
+    "match": "Martin Allix vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Marin Micoulot",
+    "match": "Martin Allix vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Sylvain Escurat",
+    "match": "Martin Allix vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Martina Carlsson",
+    "match": "Martin Allix vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Benoît Dijoux",
+    "match": "Pauline Courtois vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Tom Picot",
+    "match": "Pauline Courtois vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Marin Micoulot",
+    "match": "Pauline Courtois vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Pauline Courtois",
+    "loser": "Sylvain Escurat",
+    "match": "Pauline Courtois vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martina Carlsson",
+    "loser": "Pauline Courtois",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Benoît Dijoux",
+    "match": "Benoît Dijoux vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Marin Micoulot",
+    "match": "Benoît Dijoux vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Sylvain Escurat",
+    "match": "Benoît Dijoux vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Martina Carlsson",
+    "match": "Benoît Dijoux vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Marin Micoulot",
+    "match": "Tom Picot vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Sylvain Escurat",
+    "match": "Tom Picot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Martina Carlsson",
+    "match": "Tom Picot vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Sylvain Escurat",
+    "match": "Marin Micoulot vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Martina Carlsson",
+    "match": "Marin Micoulot vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martina Carlsson",
+    "loser": "Sylvain Escurat",
+    "match": "Sylvain Escurat vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Damian Michellier",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Damian Michellier",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Maxime Mesnil",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Maxime Mesnil",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Martin Allix",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Martin Allix",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Nelson Mettraux",
+    "loser": "Pauline Courtois",
+    "match": "Nelson Mettraux vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Benoît Dijoux",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Benoît Dijoux",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Tom Picot",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Marin Micoulot",
+    "loser": "Nelson Mettraux",
+    "match": "Nelson Mettraux vs Marin Micoulot",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Nelson Mettraux",
+    "loser": "Sylvain Escurat",
+    "match": "Nelson Mettraux vs Sylvain Escurat",
+    "race": 0
+  },
+  {
+    "regatta": "International Bedanne's Cup",
+    "phase": "round-robin",
+    "winner": "Nelson Mettraux",
+    "loser": "Martina Carlsson",
+    "match": "Nelson Mettraux vs Martina Carlsson",
+    "race": 0
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "jordan stevenson",
+    "loser": "james hodgson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "james hodgson vs jordan stevenson",
+    "race": 4
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs nick egnot-johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs nick egnot-johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan stevenson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs jordan stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan stevenson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs jordan stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan stevenson",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs jordan stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs james hodgson",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "albert stanley",
+    "match": "aurelien pierroz vs albert stanley",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "albert stanley",
+    "match": "aurelien pierroz vs albert stanley",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "albert stanley",
+    "match": "aurelien pierroz vs albert stanley",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-2",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-4",
+    "winner": "jordan stevenson",
+    "loser": "jack parkin",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 1
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-4",
+    "winner": "jordan stevenson",
+    "loser": "jack parkin",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 2
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "quarter-final-4",
+    "winner": "jordan stevenson",
+    "loser": "jack parkin",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 3
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "jordan stevenson",
+    "match": "nick egnot-johnson vs jordan stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "aurelien pierroz",
+    "match": "nick egnot-johnson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "james hodgson",
+    "match": "nick egnot-johnson vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "emil kjaer",
+    "match": "nick egnot-johnson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "oakley marsh",
+    "match": "nick egnot-johnson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "albert stanley",
+    "match": "nick egnot-johnson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "juliet costanzo",
+    "match": "nick egnot-johnson vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "niall powers",
+    "match": "nick egnot-johnson vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "jed cruickshank",
+    "match": "nick egnot-johnson vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "nick egnot-johnson",
+    "loser": "robin chantrelle",
+    "match": "nick egnot-johnson vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "emil kjaer",
+    "match": "jordan stevenson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "ted blowers",
+    "match": "jordan stevenson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "oakley marsh",
+    "match": "jordan stevenson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "albert stanley",
+    "match": "jordan stevenson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "juliet costanzo",
+    "match": "jordan stevenson vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "niall powers",
+    "loser": "jordan stevenson",
+    "match": "jordan stevenson vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "jed cruickshank",
+    "match": "jordan stevenson vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "robbie mccutcheon",
+    "match": "jordan stevenson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jordan stevenson",
+    "loser": "robin chantrelle",
+    "match": "jordan stevenson vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "james hodgson",
+    "match": "aurelien pierroz vs james hodgson",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "emil kjaer",
+    "match": "aurelien pierroz vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jack parkin",
+    "match": "aurelien pierroz vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ted blowers",
+    "match": "aurelien pierroz vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "oakley marsh",
+    "match": "aurelien pierroz vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "albert stanley",
+    "match": "aurelien pierroz vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "juliet costanzo",
+    "match": "aurelien pierroz vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "niall powers",
+    "match": "aurelien pierroz vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "jed cruickshank",
+    "match": "aurelien pierroz vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "robbie mccutcheon",
+    "match": "aurelien pierroz vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "robin chantrelle",
+    "match": "aurelien pierroz vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "emil kjaer",
+    "match": "james hodgson vs emil kjaer",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "jack parkin",
+    "match": "james hodgson vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "ted blowers",
+    "match": "james hodgson vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "oakley marsh",
+    "match": "james hodgson vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "albert stanley",
+    "match": "james hodgson vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "juliet costanzo",
+    "match": "james hodgson vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "niall powers",
+    "match": "james hodgson vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "jed cruickshank",
+    "match": "james hodgson vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "robbie mccutcheon",
+    "match": "james hodgson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "robin chantrelle",
+    "match": "james hodgson vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "emil kjaer",
+    "match": "emil kjaer vs jack parkin",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "ted blowers",
+    "match": "emil kjaer vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "oakley marsh",
+    "match": "emil kjaer vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "albert stanley",
+    "match": "emil kjaer vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "juliet costanzo",
+    "match": "emil kjaer vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "niall powers",
+    "match": "emil kjaer vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "jed cruickshank",
+    "match": "emil kjaer vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "robbie mccutcheon",
+    "match": "emil kjaer vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "emil kjaer",
+    "loser": "robin chantrelle",
+    "match": "emil kjaer vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "ted blowers",
+    "match": "jack parkin vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "jack parkin",
+    "match": "jack parkin vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "albert stanley",
+    "match": "jack parkin vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "jack parkin",
+    "match": "jack parkin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "niall powers",
+    "match": "jack parkin vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "jed cruickshank",
+    "match": "jack parkin vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "robbie mccutcheon",
+    "match": "jack parkin vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jack parkin",
+    "loser": "robin chantrelle",
+    "match": "jack parkin vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "oakley marsh",
+    "match": "ted blowers vs oakley marsh",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "ted blowers",
+    "match": "ted blowers vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "juliet costanzo",
+    "match": "ted blowers vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "niall powers",
+    "match": "ted blowers vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "ted blowers",
+    "match": "ted blowers vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "ted blowers",
+    "loser": "robbie mccutcheon",
+    "match": "ted blowers vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "robin chantrelle",
+    "loser": "ted blowers",
+    "match": "ted blowers vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "albert stanley",
+    "match": "oakley marsh vs albert stanley",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "juliet costanzo",
+    "match": "oakley marsh vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "niall powers",
+    "match": "oakley marsh vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "jed cruickshank",
+    "match": "oakley marsh vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "oakley marsh",
+    "loser": "robbie mccutcheon",
+    "match": "oakley marsh vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "robin chantrelle",
+    "loser": "oakley marsh",
+    "match": "oakley marsh vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "juliet costanzo",
+    "match": "albert stanley vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "niall powers",
+    "match": "albert stanley vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "albert stanley",
+    "match": "albert stanley vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "robbie mccutcheon",
+    "match": "albert stanley vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "albert stanley",
+    "loser": "robin chantrelle",
+    "match": "albert stanley vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "niall powers",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs niall powers",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "jed cruickshank",
+    "match": "juliet costanzo vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "robbie mccutcheon",
+    "match": "juliet costanzo vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "robin chantrelle",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "niall powers",
+    "loser": "jed cruickshank",
+    "match": "niall powers vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "niall powers",
+    "loser": "robbie mccutcheon",
+    "match": "niall powers vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "robin chantrelle",
+    "loser": "niall powers",
+    "match": "niall powers vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "robbie mccutcheon",
+    "match": "jed cruickshank vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "robin chantrelle",
+    "match": "jed cruickshank vs robin chantrelle",
+    "race": 0
+  },
+  {
+    "regatta": "Harken Youth International Match Racing Cup",
+    "phase": "round-robin",
+    "winner": "robin chantrelle",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs robin chantrelle",
+    "race": 0
+  }
+]

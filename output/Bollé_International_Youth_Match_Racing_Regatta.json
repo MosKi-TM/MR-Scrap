@@ -1,0 +1,778 @@
+[
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "cole tapper vs will sargent",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "cole tapper vs will sargent",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "cole tapper vs will sargent",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "ethan prieto-low",
+    "loser": "josh hyde",
+    "match": "josh hyde vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "ethan prieto-low",
+    "loser": "josh hyde",
+    "match": "josh hyde vs ethan prieto-low",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "cole tapper vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "cole tapper vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "cole tapper vs josh hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "ethan prieto-low",
+    "loser": "will sargent",
+    "match": "will sargent vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "will sargent",
+    "loser": "ethan prieto-low",
+    "match": "will sargent vs ethan prieto-low",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "will sargent",
+    "loser": "ethan prieto-low",
+    "match": "will sargent vs ethan prieto-low",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "will sargent",
+    "loser": "ethan prieto-low",
+    "match": "will sargent vs ethan prieto-low",
+    "race": 4
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-1",
+    "winner": "cole tapper",
+    "loser": "zac west",
+    "match": "cole tapper vs zac west",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "marcello torre vs josh hyde",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "marcello torre vs josh hyde",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "marcello torre",
+    "loser": "josh hyde",
+    "match": "marcello torre vs josh hyde",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "marcello torre",
+    "loser": "josh hyde",
+    "match": "marcello torre vs josh hyde",
+    "race": 4
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-3",
+    "winner": "josh hyde",
+    "loser": "marcello torre",
+    "match": "marcello torre vs josh hyde",
+    "race": 5
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "ethan prieto-low",
+    "loser": "max brennan",
+    "match": "max brennan vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "max brennan",
+    "loser": "ethan prieto-low",
+    "match": "max brennan vs ethan prieto-low",
+    "race": 2
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "ethan prieto-low",
+    "loser": "max brennan",
+    "match": "max brennan vs ethan prieto-low",
+    "race": 3
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "quarter-final-4",
+    "winner": "ethan prieto-low",
+    "loser": "max brennan",
+    "match": "max brennan vs ethan prieto-low",
+    "race": 4
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "jed cruickshank",
+    "match": "zac west vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "ethan prieto-low",
+    "loser": "zac west",
+    "match": "zac west vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "brayden hamilton",
+    "match": "zac west vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "kevin le dreau",
+    "match": "zac west vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "zac west",
+    "loser": "thomas rees",
+    "match": "zac west vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "ethan prieto-low",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "brayden hamilton",
+    "match": "jed cruickshank vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "kevin le dreau",
+    "match": "jed cruickshank vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "jed cruickshank",
+    "loser": "thomas rees",
+    "match": "jed cruickshank vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "ethan prieto-low",
+    "loser": "brayden hamilton",
+    "match": "ethan prieto-low vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "ethan prieto-low",
+    "loser": "kevin le dreau",
+    "match": "ethan prieto-low vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "ethan prieto-low",
+    "loser": "thomas rees",
+    "match": "ethan prieto-low vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "brayden hamilton",
+    "loser": "kevin le dreau",
+    "match": "brayden hamilton vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "brayden hamilton",
+    "loser": "thomas rees",
+    "match": "brayden hamilton vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "repechage",
+    "winner": "thomas rees",
+    "loser": "kevin le dreau",
+    "match": "kevin le dreau vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "ethan prieto-low",
+    "match": "will sargent vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "marcello torre",
+    "match": "will sargent vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "josh hyde",
+    "match": "will sargent vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "brayden hamilton",
+    "match": "will sargent vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "will sargent",
+    "match": "will sargent vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "kevin le dreau",
+    "match": "will sargent vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "thomas rees",
+    "match": "will sargent vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "zac west",
+    "match": "will sargent vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "brayden hamilton",
+    "match": "ethan prieto-low vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "kevin le dreau",
+    "match": "ethan prieto-low vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "thomas rees",
+    "match": "ethan prieto-low vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "zac west",
+    "match": "ethan prieto-low vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "brayden hamilton",
+    "match": "jed cruickshank vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "kevin le dreau",
+    "match": "jed cruickshank vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "thomas rees",
+    "match": "jed cruickshank vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "jed cruickshank",
+    "loser": "zac west",
+    "match": "jed cruickshank vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "marcello torre",
+    "match": "cole tapper vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "josh hyde",
+    "match": "cole tapper vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "brayden hamilton",
+    "match": "cole tapper vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "max brennan",
+    "match": "cole tapper vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "kevin le dreau",
+    "match": "cole tapper vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "thomas rees",
+    "match": "cole tapper vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "cole tapper",
+    "match": "cole tapper vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "josh hyde",
+    "match": "marcello torre vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "brayden hamilton",
+    "match": "marcello torre vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "max brennan",
+    "match": "marcello torre vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "kevin le dreau",
+    "match": "marcello torre vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "thomas rees",
+    "match": "marcello torre vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "zac west",
+    "match": "marcello torre vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "brayden hamilton",
+    "match": "josh hyde vs brayden hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "max brennan",
+    "match": "josh hyde vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "kevin le dreau",
+    "match": "josh hyde vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "thomas rees",
+    "match": "josh hyde vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "josh hyde",
+    "loser": "zac west",
+    "match": "josh hyde vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "brayden hamilton",
+    "match": "brayden hamilton vs max brennan",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "brayden hamilton",
+    "loser": "kevin le dreau",
+    "match": "brayden hamilton vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "brayden hamilton",
+    "loser": "thomas rees",
+    "match": "brayden hamilton vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "brayden hamilton",
+    "match": "brayden hamilton vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "kevin le dreau",
+    "match": "max brennan vs kevin le dreau",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "max brennan",
+    "loser": "thomas rees",
+    "match": "max brennan vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "max brennan",
+    "match": "max brennan vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "kevin le dreau",
+    "loser": "thomas rees",
+    "match": "kevin le dreau vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "kevin le dreau",
+    "match": "kevin le dreau vs zac west",
+    "race": 0
+  },
+  {
+    "regatta": "Bollé International Youth Match Racing Regatta",
+    "phase": "round-robin",
+    "winner": "zac west",
+    "loser": "thomas rees",
+    "match": "thomas rees vs zac west",
+    "race": 0
+  }
+]

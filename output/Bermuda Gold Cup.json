@@ -1,0 +1,474 @@
+[
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "final",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Johnie Berntsson vs Eric Monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "final",
+    "winner": "Eric Monnin",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Eric Monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "final",
+    "winner": "Johnie Berntsson",
+    "loser": "Eric Monnin",
+    "match": "Johnie Berntsson vs Eric Monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "petit-final",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Nick Egnot-Johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-1",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-2",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-2",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "semi-final-2",
+    "winner": "Eric Monnin",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-/-6th",
+    "winner": "Cole Tapper",
+    "loser": "David Hood",
+    "match": "Cole Tapper vs David Hood",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "7th-/-8th",
+    "winner": "Gavin Brady",
+    "loser": "Kelsey Durham",
+    "match": "Gavin Brady vs Kelsey Durham",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Cole Tapper",
+    "loser": "Kelsey Durham",
+    "match": "Cole Tapper vs Kelsey Durham",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-to-8th-(a)",
+    "winner": "Cole Tapper",
+    "loser": "Kelsey Durham",
+    "match": "Cole Tapper vs Kelsey Durham",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-to-8th-(b)",
+    "winner": "David Hood",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs David Hood",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-to-8th-(b)",
+    "winner": "Gavin Brady",
+    "loser": "David Hood",
+    "match": "Gavin Brady vs David Hood",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "5th-to-8th-(b)",
+    "winner": "David Hood",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs David Hood",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Kelsey Durham",
+    "match": "Johnie Berntsson vs Kelsey Durham",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Kelsey Durham",
+    "match": "Johnie Berntsson vs Kelsey Durham",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-1",
+    "winner": "Johnie Berntsson",
+    "loser": "Kelsey Durham",
+    "match": "Johnie Berntsson vs Kelsey Durham",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "David Hood",
+    "match": "Chris Poole vs David Hood",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "David Hood",
+    "match": "Chris Poole vs David Hood",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "David Hood",
+    "match": "Chris Poole vs David Hood",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Nick Egnot-Johnson",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Nick Egnot-Johnson",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-3",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Nick Egnot-Johnson",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "Eric Monnin",
+    "loser": "Gavin Brady",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 1
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "Eric Monnin",
+    "loser": "Gavin Brady",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 2
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "Gavin Brady",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 3
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "quarter-final-4",
+    "winner": "Eric Monnin",
+    "loser": "Gavin Brady",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 4
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Johnie Berntsson",
+    "match": "Chris Poole vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Eric Monnin",
+    "match": "Chris Poole vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Gavin Brady",
+    "match": "Chris Poole vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Chris Poole vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Cole Tapper",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "David Hood",
+    "match": "Chris Poole vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Johnie Berntsson",
+    "match": "Johnie Berntsson vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Gavin Brady",
+    "match": "Johnie Berntsson vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Johnie Berntsson vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Cole Tapper",
+    "match": "Johnie Berntsson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "David Hood",
+    "match": "Johnie Berntsson vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Gavin Brady",
+    "match": "Eric Monnin vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Eric Monnin",
+    "match": "Eric Monnin vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Cole Tapper",
+    "match": "Eric Monnin vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "David Hood",
+    "match": "Eric Monnin vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Gavin Brady",
+    "match": "Gavin Brady vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Cole Tapper",
+    "match": "Gavin Brady vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "David Hood",
+    "match": "Gavin Brady vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Cole Tapper",
+    "match": "Nick Egnot-Johnson vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "David Hood",
+    "match": "Nick Egnot-Johnson vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "David Hood",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs David Hood",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Johnie Berntsson",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs Johnie Berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Eric Monnin",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs Eric Monnin",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Gavin Brady",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs Gavin Brady",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "Kelsey Durham",
+    "loser": "Cole Tapper",
+    "match": "Kelsey Durham vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Bermuda Gold Cup",
+    "phase": "round-robin",
+    "winner": "David Hood",
+    "loser": "Kelsey Durham",
+    "match": "Kelsey Durham vs David Hood",
+    "race": 0
+  }
+]

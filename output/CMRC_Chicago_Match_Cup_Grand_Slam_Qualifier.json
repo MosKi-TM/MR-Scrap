@@ -1,0 +1,178 @@
+[
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "chris poole",
+    "match": "chris poole vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "chris poole",
+    "match": "chris poole vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "petit-final",
+    "winner": "nathan hollerbach",
+    "loser": "steve lowery",
+    "match": "nathan hollerbach vs steve lowery",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "semi-final-1",
+    "winner": "nathan hollerbach",
+    "loser": "don wilson",
+    "match": "nathan hollerbach vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs don wilson",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "steve lowery",
+    "match": "chris poole vs steve lowery",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "steve lowery",
+    "match": "chris poole vs steve lowery",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "steve lowery",
+    "loser": "peter holz",
+    "match": "peter holz vs steve lowery",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "peter holz",
+    "loser": "steve lowery",
+    "match": "peter holz vs steve lowery",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "peter holz",
+    "loser": "steve lowery",
+    "match": "peter holz vs steve lowery",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "steve lowery",
+    "loser": "peter holz",
+    "match": "peter holz vs steve lowery",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-1",
+    "winner": "steve lowery",
+    "loser": "peter holz",
+    "match": "peter holz vs steve lowery",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "will bailey",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs will bailey",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "will bailey",
+    "match": "nathan hollerbach vs will bailey",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "will bailey",
+    "loser": "nathan hollerbach",
+    "match": "nathan hollerbach vs will bailey",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "will bailey",
+    "match": "nathan hollerbach vs will bailey",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-2",
+    "winner": "nathan hollerbach",
+    "loser": "will bailey",
+    "match": "nathan hollerbach vs will bailey",
+    "race": 5
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "david storrs",
+    "loser": "don wilson",
+    "match": "don wilson vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Chicago Match Cup Grand Slam Qualifier",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 4
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "final",
+    "winner": "murray gordon",
+    "loser": "thomas spithill",
+    "match": "thomas spithill vs murray gordon",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "final",
+    "winner": "murray gordon",
+    "loser": "thomas spithill",
+    "match": "thomas spithill vs murray gordon",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "final",
+    "winner": "thomas spithill",
+    "loser": "murray gordon",
+    "match": "thomas spithill vs murray gordon",
+    "race": 3
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "final",
+    "winner": "thomas spithill",
+    "loser": "murray gordon",
+    "match": "thomas spithill vs murray gordon",
+    "race": 4
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "final",
+    "winner": "thomas spithill",
+    "loser": "murray gordon",
+    "match": "thomas spithill vs murray gordon",
+    "race": 5
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "pat langley",
+    "match": "pat langley vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "petit-final",
+    "winner": "pat langley",
+    "loser": "alistair read",
+    "match": "pat langley vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "pat langley",
+    "match": "pat langley vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "semi-final-1",
+    "winner": "murray gordon",
+    "loser": "alistair read",
+    "match": "alistair read vs murray gordon",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "semi-final-1",
+    "winner": "murray gordon",
+    "loser": "alistair read",
+    "match": "alistair read vs murray gordon",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "semi-final-2",
+    "winner": "thomas spithill",
+    "loser": "pat langley",
+    "match": "thomas spithill vs pat langley",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "semi-final-2",
+    "winner": "thomas spithill",
+    "loser": "pat langley",
+    "match": "thomas spithill vs pat langley",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "5th-/-6th",
+    "winner": "juliet costanzo",
+    "loser": "craig souter",
+    "match": "juliet costanzo vs craig souter",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "5th-/-6th",
+    "winner": "craig souter",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs craig souter",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "5th-/-6th",
+    "winner": "juliet costanzo",
+    "loser": "craig souter",
+    "match": "juliet costanzo vs craig souter",
+    "race": 3
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "7th-/-8th",
+    "winner": "scotty o'connor",
+    "loser": "daniel kemp",
+    "match": "scotty o'connor vs daniel kemp",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "7th-/-8th",
+    "winner": "scotty o'connor",
+    "loser": "daniel kemp",
+    "match": "scotty o'connor vs daniel kemp",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "alistair read",
+    "match": "alistair read vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "thomas spithill",
+    "match": "alistair read vs thomas spithill",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "murray gordon",
+    "match": "alistair read vs murray gordon",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "pat langley",
+    "loser": "alistair read",
+    "match": "alistair read vs pat langley",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "craig souter",
+    "match": "alistair read vs craig souter",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "scotty o'connor",
+    "match": "alistair read vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "alistair read",
+    "match": "alistair read vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs thomas spithill",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "murray gordon",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs murray gordon",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "pat langley",
+    "match": "juliet costanzo vs pat langley",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "craig souter",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs craig souter",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "scotty o'connor",
+    "match": "juliet costanzo vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "daniel kemp",
+    "match": "juliet costanzo vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "murray gordon",
+    "match": "thomas spithill vs murray gordon",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "pat langley",
+    "match": "thomas spithill vs pat langley",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "craig souter",
+    "match": "thomas spithill vs craig souter",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "scotty o'connor",
+    "match": "thomas spithill vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "thomas spithill",
+    "loser": "daniel kemp",
+    "match": "thomas spithill vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "pat langley",
+    "loser": "murray gordon",
+    "match": "murray gordon vs pat langley",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "murray gordon",
+    "loser": "craig souter",
+    "match": "murray gordon vs craig souter",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "murray gordon",
+    "loser": "scotty o'connor",
+    "match": "murray gordon vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "murray gordon",
+    "loser": "daniel kemp",
+    "match": "murray gordon vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "pat langley",
+    "loser": "craig souter",
+    "match": "pat langley vs craig souter",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "pat langley",
+    "loser": "scotty o'connor",
+    "match": "pat langley vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "pat langley",
+    "loser": "daniel kemp",
+    "match": "pat langley vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "craig souter",
+    "loser": "scotty o'connor",
+    "match": "craig souter vs scotty o'connor",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "craig souter",
+    "loser": "daniel kemp",
+    "match": "craig souter vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "round-robin",
+    "winner": "scotty o'connor",
+    "loser": "daniel kemp",
+    "match": "scotty o'connor vs daniel kemp",
+    "race": 0
+  }
+]

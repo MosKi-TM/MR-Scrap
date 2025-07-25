@@ -1,0 +1,58 @@
+[
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "final",
+    "winner": "terry mclaughlin",
+    "loser": "david niemann",
+    "match": "terry mclaughlin vs david niemann",
+    "race": 1
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "final",
+    "winner": "terry mclaughlin",
+    "loser": "david niemann",
+    "match": "terry mclaughlin vs david niemann",
+    "race": 2
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "final",
+    "winner": "terry mclaughlin",
+    "loser": "david niemann",
+    "match": "terry mclaughlin vs david niemann",
+    "race": 3
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "petit-final",
+    "winner": "lance fraser",
+    "loser": "landon gardner",
+    "match": "landon gardner vs lance fraser",
+    "race": 1
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "petit-final",
+    "winner": "lance fraser",
+    "loser": "landon gardner",
+    "match": "landon gardner vs lance fraser",
+    "race": 2
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "5th/6th",
+    "winner": "magnus sandberg",
+    "loser": "ian hollerbach",
+    "match": "magnus sandberg vs ian hollerbach",
+    "race": 1
+  },
+  {
+    "regatta": "RCYC York Cup",
+    "phase": "7th/8th",
+    "winner": "nick krueger",
+    "loser": "chantal hearst",
+    "match": "chantal hearst vs nick krueger",
+    "race": 1
+  }
+]

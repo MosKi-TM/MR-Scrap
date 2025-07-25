@@ -1,0 +1,130 @@
+[
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "peter holz",
+    "match": "peter holz vs steven lowery",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "peter holz",
+    "match": "peter holz vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "will holz",
+    "loser": "peter holz",
+    "match": "peter holz vs will holz",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "tod reynolds",
+    "loser": "peter holz",
+    "match": "peter holz vs tod reynolds",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "david wood",
+    "match": "steven lowery vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "bruce stone",
+    "match": "steven lowery vs bruce stone",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "steven lowery",
+    "loser": "ray groble",
+    "match": "steven lowery vs ray groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "nicole breault",
+    "match": "david wood vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "bruce stone",
+    "match": "david wood vs bruce stone",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "ray groble",
+    "match": "david wood vs ray groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "will holz",
+    "match": "nicole breault vs will holz",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "tod reynolds",
+    "match": "nicole breault vs tod reynolds",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "will holz",
+    "loser": "ray groble",
+    "match": "will holz vs ray groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "tod reynolds",
+    "loser": "will holz",
+    "match": "will holz vs tod reynolds",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "ray groble",
+    "loser": "bruce stone",
+    "match": "bruce stone vs ray groble",
+    "race": 0
+  },
+  {
+    "regatta": "Chicago Spring Invitational",
+    "phase": "round-robin",
+    "winner": "tod reynolds",
+    "loser": "bruce stone",
+    "match": "bruce stone vs tod reynolds",
+    "race": 0
+  }
+]

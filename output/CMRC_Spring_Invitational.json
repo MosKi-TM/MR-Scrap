@@ -1,0 +1,178 @@
+[
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "hans pusch",
+    "match": "hans pusch vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "hans pusch",
+    "match": "hans pusch vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "petit-final",
+    "winner": "chris nesbitt",
+    "loser": "alex curtiss",
+    "match": "chris nesbitt vs alex curtiss",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "petit-final",
+    "winner": "alex curtiss",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs alex curtiss",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "petit-final",
+    "winner": "chris nesbitt",
+    "loser": "alex curtiss",
+    "match": "chris nesbitt vs alex curtiss",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-1",
+    "winner": "chris nesbitt",
+    "loser": "hans pusch",
+    "match": "hans pusch vs chris nesbitt",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-1",
+    "winner": "hans pusch",
+    "loser": "chris nesbitt",
+    "match": "hans pusch vs chris nesbitt",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-1",
+    "winner": "hans pusch",
+    "loser": "chris nesbitt",
+    "match": "hans pusch vs chris nesbitt",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-1",
+    "winner": "hans pusch",
+    "loser": "chris nesbitt",
+    "match": "hans pusch vs chris nesbitt",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-2",
+    "winner": "alex curtiss",
+    "loser": "don wilson",
+    "match": "don wilson vs alex curtiss",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "alex curtiss",
+    "match": "don wilson vs alex curtiss",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "alex curtiss",
+    "match": "don wilson vs alex curtiss",
+    "race": 3
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "semi-final-2",
+    "winner": "don wilson",
+    "loser": "alex curtiss",
+    "match": "don wilson vs alex curtiss",
+    "race": 4
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-1",
+    "winner": "hans pusch",
+    "loser": "lars hansen",
+    "match": "lars hansen vs hans pusch",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-1",
+    "winner": "hans pusch",
+    "loser": "lars hansen",
+    "match": "lars hansen vs hans pusch",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-2",
+    "winner": "alex curtiss",
+    "loser": "jack jennings",
+    "match": "alex curtiss vs jack jennings",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-2",
+    "winner": "alex curtiss",
+    "loser": "jack jennings",
+    "match": "alex curtiss vs jack jennings",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "ben marden",
+    "match": "ben marden vs don wilson",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-3",
+    "winner": "don wilson",
+    "loser": "ben marden",
+    "match": "ben marden vs don wilson",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-4",
+    "winner": "chris nesbitt",
+    "loser": "tod reynolds",
+    "match": "chris nesbitt vs tod reynolds",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-4",
+    "winner": "tod reynolds",
+    "loser": "chris nesbitt",
+    "match": "chris nesbitt vs tod reynolds",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Spring Invitational",
+    "phase": "quarter-final-4",
+    "winner": "chris nesbitt",
+    "loser": "tod reynolds",
+    "match": "chris nesbitt vs tod reynolds",
+    "race": 3
+  }
+]

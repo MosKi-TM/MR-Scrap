@@ -1,0 +1,858 @@
+[
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "final",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "taylor canfield vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "final",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "petit-final",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "ian williams vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "ian williams vs johnie berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-1",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 5
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "taylor canfield vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "chris poole",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "taylor canfield vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "semi-final-2",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "taylor canfield vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "ian williams",
+    "match": "ian williams vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "ian williams vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "chris poole",
+    "match": "ian williams vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "jeppe borch",
+    "match": "ian williams vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "pearson potts",
+    "match": "ian williams vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "emil kjær",
+    "match": "ian williams vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "ian williams",
+    "loser": "dave hood",
+    "match": "ian williams vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeppe borch",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjær",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "harry price",
+    "match": "taylor canfield vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "chris poole",
+    "match": "taylor canfield vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "jeppe borch",
+    "match": "taylor canfield vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "pearson potts",
+    "match": "taylor canfield vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "emil kjær",
+    "match": "taylor canfield vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "taylor canfield",
+    "loser": "dave hood",
+    "match": "taylor canfield vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "harry price",
+    "match": "harry price vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "harry price",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "jeppe borch",
+    "match": "harry price vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "pearson potts",
+    "loser": "harry price",
+    "match": "harry price vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "emil kjær",
+    "match": "harry price vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "harry price",
+    "loser": "dave hood",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "jeppe borch",
+    "match": "johnie berntsson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "pearson potts",
+    "match": "johnie berntsson vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjær",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "johnie berntsson",
+    "loser": "dave hood",
+    "match": "johnie berntsson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "emil kjær",
+    "match": "chris poole vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "chris poole",
+    "loser": "dave hood",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeppe borch",
+    "loser": "pearson potts",
+    "match": "jeppe borch vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeppe borch",
+    "loser": "emil kjær",
+    "match": "jeppe borch vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "jeppe borch",
+    "loser": "dave hood",
+    "match": "jeppe borch vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "emil kjær",
+    "loser": "pearson potts",
+    "match": "pearson potts vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "pearson potts",
+    "match": "pearson potts vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-2",
+    "winner": "dave hood",
+    "loser": "emil kjær",
+    "match": "emil kjær vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "nick egnot-johnson",
+    "match": "ian williams vs nick egnot-johnson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "ian williams",
+    "match": "ian williams vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "harry price",
+    "match": "ian williams vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "ian williams",
+    "match": "ian williams vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeppe borch",
+    "loser": "ian williams",
+    "match": "ian williams vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "pearson potts",
+    "match": "ian williams vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "ian williams",
+    "loser": "emil kjær",
+    "match": "ian williams vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "ian williams",
+    "match": "ian williams vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "taylor canfield",
+    "match": "nick egnot-johnson vs taylor canfield",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "harry price",
+    "match": "nick egnot-johnson vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeppe borch",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "pearson potts",
+    "match": "nick egnot-johnson vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "emil kjær",
+    "match": "nick egnot-johnson vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "dave hood",
+    "match": "nick egnot-johnson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "harry price",
+    "match": "taylor canfield vs harry price",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "johnie berntsson",
+    "match": "taylor canfield vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "jeppe borch",
+    "match": "taylor canfield vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "pearson potts",
+    "match": "taylor canfield vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "emil kjær",
+    "match": "taylor canfield vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "taylor canfield",
+    "loser": "dave hood",
+    "match": "taylor canfield vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "johnie berntsson",
+    "match": "harry price vs johnie berntsson",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "harry price",
+    "match": "harry price vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeppe borch",
+    "loser": "harry price",
+    "match": "harry price vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "harry price",
+    "loser": "pearson potts",
+    "match": "harry price vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjær",
+    "loser": "harry price",
+    "match": "harry price vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "harry price",
+    "match": "harry price vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "chris poole",
+    "match": "johnie berntsson vs chris poole",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "jeppe borch",
+    "match": "johnie berntsson vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "pearson potts",
+    "match": "johnie berntsson vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "emil kjær",
+    "match": "johnie berntsson vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "johnie berntsson",
+    "loser": "dave hood",
+    "match": "johnie berntsson vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeppe borch",
+    "loser": "chris poole",
+    "match": "chris poole vs jeppe borch",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "chris poole",
+    "loser": "pearson potts",
+    "match": "chris poole vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjær",
+    "loser": "chris poole",
+    "match": "chris poole vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "dave hood",
+    "loser": "chris poole",
+    "match": "chris poole vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs pearson potts",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjær",
+    "loser": "jeppe borch",
+    "match": "jeppe borch vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "jeppe borch",
+    "loser": "dave hood",
+    "match": "jeppe borch vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjær",
+    "loser": "pearson potts",
+    "match": "pearson potts vs emil kjær",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "pearson potts",
+    "loser": "dave hood",
+    "match": "pearson potts vs dave hood",
+    "race": 0
+  },
+  {
+    "regatta": "57th Congressional Cup",
+    "phase": "round-robin-1",
+    "winner": "emil kjær",
+    "loser": "dave hood",
+    "match": "emil kjær vs dave hood",
+    "race": 0
+  }
+]

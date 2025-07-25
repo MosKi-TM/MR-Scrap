@@ -1,0 +1,530 @@
+[
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "final",
+    "winner": "noe ackermann",
+    "loser": "timothee rossi",
+    "match": "noe ackermann vs timothee rossi",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "final",
+    "winner": "noe ackermann",
+    "loser": "timothee rossi",
+    "match": "noe ackermann vs timothee rossi",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "petit-final",
+    "winner": "theo westerlind",
+    "loser": "martin allix",
+    "match": "theo westerlind vs martin allix",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "semi-final-1",
+    "winner": "martin allix",
+    "loser": "noe ackermann",
+    "match": "noe ackermann vs martin allix",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "semi-final-1",
+    "winner": "noe ackermann",
+    "loser": "martin allix",
+    "match": "noe ackermann vs martin allix",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "semi-final-1",
+    "winner": "noe ackermann",
+    "loser": "martin allix",
+    "match": "noe ackermann vs martin allix",
+    "race": 3
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "semi-final-2",
+    "winner": "timothee rossi",
+    "loser": "theo westerlind",
+    "match": "timothee rossi vs theo westerlind",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "semi-final-2",
+    "winner": "timothee rossi",
+    "loser": "theo westerlind",
+    "match": "timothee rossi vs theo westerlind",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "5th-/-6th",
+    "winner": "alexandre declerck",
+    "loser": "william hill",
+    "match": "alexandre declerck vs william hill",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "6th-/-7th",
+    "winner": "william hill",
+    "loser": "ruby sunderland",
+    "match": "william hill vs ruby sunderland",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "7th-/-8th",
+    "winner": "ruby sunderland",
+    "loser": "julia d'amodio",
+    "match": "ruby sunderland vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "8th-/-9th",
+    "winner": "julia d'amodio",
+    "loser": "demetrio sposato",
+    "match": "demetrio sposato vs julia d'amodio",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "9th-/-10th",
+    "winner": "julia d'amodio",
+    "loser": "johannes sidelmann",
+    "match": "julia d'amodio vs johannes sidelmann",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-1",
+    "winner": "noe ackermann",
+    "loser": "demetrio sposato",
+    "match": "noe ackermann vs demetrio sposato",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-1",
+    "winner": "noe ackermann",
+    "loser": "demetrio sposato",
+    "match": "noe ackermann vs demetrio sposato",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-2",
+    "winner": "timothee rossi",
+    "loser": "ruby sunderland",
+    "match": "timothee rossi vs ruby sunderland",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-2",
+    "winner": "timothee rossi",
+    "loser": "ruby sunderland",
+    "match": "timothee rossi vs ruby sunderland",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-3",
+    "winner": "theo westerlind",
+    "loser": "william hill",
+    "match": "theo westerlind vs william hill",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-3",
+    "winner": "theo westerlind",
+    "loser": "william hill",
+    "match": "theo westerlind vs william hill",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-4",
+    "winner": "martin allix",
+    "loser": "alexandre declerck",
+    "match": "martin allix vs alexandre declerck",
+    "race": 1
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "quarter-final-4",
+    "winner": "alexandre declerck",
+    "loser": "martin allix",
+    "match": "martin allix vs alexandre declerck",
+    "race": 2
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs noe ackermann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "theo westerlind",
+    "match": "timothee rossi vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "martin allix",
+    "match": "timothee rossi vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "julia d'amodio",
+    "match": "timothee rossi vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "demetrio sposato",
+    "match": "timothee rossi vs demetrio sposato",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "johannes sidelmann",
+    "match": "timothee rossi vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "alexandre declerck",
+    "match": "timothee rossi vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "ruby sunderland",
+    "match": "timothee rossi vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "william hill",
+    "match": "timothee rossi vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "noe ackermann",
+    "match": "noe ackermann vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "martin allix",
+    "match": "noe ackermann vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "julia d'amodio",
+    "match": "noe ackermann vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "demetrio sposato",
+    "match": "noe ackermann vs demetrio sposato",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "johannes sidelmann",
+    "match": "noe ackermann vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "alexandre declerck",
+    "match": "noe ackermann vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "ruby sunderland",
+    "match": "noe ackermann vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "noe ackermann",
+    "loser": "william hill",
+    "match": "noe ackermann vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "martin allix",
+    "match": "theo westerlind vs martin allix",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "julia d'amodio",
+    "match": "theo westerlind vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "demetrio sposato",
+    "match": "theo westerlind vs demetrio sposato",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "johannes sidelmann",
+    "match": "theo westerlind vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "theo westerlind",
+    "match": "theo westerlind vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "theo westerlind",
+    "loser": "ruby sunderland",
+    "match": "theo westerlind vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "william hill",
+    "loser": "theo westerlind",
+    "match": "theo westerlind vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "julia d'amodio",
+    "match": "martin allix vs julia d'amodio",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "demetrio sposato",
+    "match": "martin allix vs demetrio sposato",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "johannes sidelmann",
+    "match": "martin allix vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "alexandre declerck",
+    "match": "martin allix vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "ruby sunderland",
+    "match": "martin allix vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "martin allix",
+    "loser": "william hill",
+    "match": "martin allix vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "demetrio sposato",
+    "loser": "julia d'amodio",
+    "match": "julia d'amodio vs demetrio sposato",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "johannes sidelmann",
+    "match": "julia d'amodio vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "julia d'amodio",
+    "match": "julia d'amodio vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "ruby sunderland",
+    "loser": "julia d'amodio",
+    "match": "julia d'amodio vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "julia d'amodio",
+    "loser": "william hill",
+    "match": "julia d'amodio vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "demetrio sposato",
+    "loser": "johannes sidelmann",
+    "match": "demetrio sposato vs johannes sidelmann",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "demetrio sposato",
+    "match": "demetrio sposato vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "ruby sunderland",
+    "loser": "demetrio sposato",
+    "match": "demetrio sposato vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "william hill",
+    "loser": "demetrio sposato",
+    "match": "demetrio sposato vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "johannes sidelmann",
+    "match": "johannes sidelmann vs alexandre declerck",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "ruby sunderland",
+    "loser": "johannes sidelmann",
+    "match": "johannes sidelmann vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "william hill",
+    "loser": "johannes sidelmann",
+    "match": "johannes sidelmann vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "ruby sunderland",
+    "match": "alexandre declerck vs ruby sunderland",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "alexandre declerck",
+    "loser": "william hill",
+    "match": "alexandre declerck vs william hill",
+    "race": 0
+  },
+  {
+    "regatta": "SNO-Nantes Youth Cup",
+    "phase": "round-robin",
+    "winner": "william hill",
+    "loser": "ruby sunderland",
+    "match": "ruby sunderland vs william hill",
+    "race": 0
+  }
+]

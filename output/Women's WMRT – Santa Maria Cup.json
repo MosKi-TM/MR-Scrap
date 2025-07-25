@@ -1,0 +1,602 @@
+[
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Allie Blecher",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Allie Blecher",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "final",
+    "winner": "Allie Blecher",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Allie Blecher",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "Nicole Breault",
+    "loser": "Juliet Costanzo",
+    "match": "Nicole Breault vs Juliet Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "Nicole Breault",
+    "loser": "Juliet Costanzo",
+    "match": "Nicole Breault vs Juliet Costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-1",
+    "winner": "Nicole Breault",
+    "loser": "Juliet Costanzo",
+    "match": "Nicole Breault vs Juliet Costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Allie Blecher",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "semi-final-2",
+    "winner": "Allie Blecher",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "5th-/-6th",
+    "winner": "Bridget Groble",
+    "loser": "Lindsey Baab",
+    "match": "Lindsey Baab vs Bridget Groble",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "5th-/-6th",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Lindsey Baab vs Bridget Groble",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "5th-/-6th",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Lindsey Baab vs Bridget Groble",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "6th-/-7th",
+    "winner": "Bridget Groble",
+    "loser": "Caroline Bayless",
+    "match": "Bridget Groble vs Caroline Bayless",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "6th-/-7th",
+    "winner": "Bridget Groble",
+    "loser": "Caroline Bayless",
+    "match": "Bridget Groble vs Caroline Bayless",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "7th-/-8th",
+    "winner": "Caroline Bayless",
+    "loser": "Ella Willcox",
+    "match": "Caroline Bayless vs Ella Willcox",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "7th-/-8th",
+    "winner": "Caroline Bayless",
+    "loser": "Ella Willcox",
+    "match": "Caroline Bayless vs Ella Willcox",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Bridget Groble",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Anna Östling vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Allie Blecher",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Lindsey Baab",
+    "match": "Anna Östling vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Caroline Bayless",
+    "match": "Anna Östling vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Bridget Groble",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Allie Blecher",
+    "match": "Juliet Costanzo vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Caroline Bayless",
+    "match": "Juliet Costanzo vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Bridget Groble",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Bridget Groble",
+    "loser": "Caroline Bayless",
+    "match": "Bridget Groble vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Allie Blecher",
+    "match": "Nicole Breault vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Lindsey Baab",
+    "match": "Nicole Breault vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Caroline Bayless",
+    "match": "Nicole Breault vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Caroline Bayless",
+    "match": "Allie Blecher vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Caroline Bayless",
+    "match": "Lindsey Baab vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Juliet Costanzo",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Bridget Groble",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Nicole Breault",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Allie Blecher",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Lindsey Baab",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-2",
+    "winner": "Caroline Bayless",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Juliet Costanzo",
+    "match": "Anna Östling vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Nicole Breault",
+    "match": "Anna Östling vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Allie Blecher",
+    "match": "Anna Östling vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Lindsey Baab",
+    "match": "Anna Östling vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Caroline Bayless",
+    "match": "Anna Östling vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Nicole Breault",
+    "match": "Juliet Costanzo vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Juliet Costanzo",
+    "match": "Juliet Costanzo vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Lindsey Baab",
+    "match": "Juliet Costanzo vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Caroline Bayless",
+    "match": "Juliet Costanzo vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Nicole Breault",
+    "match": "Bridget Groble vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Allie Blecher",
+    "match": "Bridget Groble vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Lindsey Baab",
+    "match": "Bridget Groble vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Caroline Bayless",
+    "match": "Bridget Groble vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Allie Blecher",
+    "match": "Nicole Breault vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Lindsey Baab",
+    "match": "Nicole Breault vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Caroline Bayless",
+    "match": "Nicole Breault vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Lindsey Baab",
+    "match": "Allie Blecher vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Caroline Bayless",
+    "match": "Allie Blecher vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Lindsey Baab",
+    "loser": "Caroline Bayless",
+    "match": "Lindsey Baab vs Caroline Bayless",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Juliet Costanzo",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Juliet Costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Bridget Groble",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Bridget Groble",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Nicole Breault",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Allie Blecher",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Allie Blecher",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Lindsey Baab",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Lindsey Baab",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Santa Maria Cup",
+    "phase": "round-robin-1",
+    "winner": "Caroline Bayless",
+    "loser": "Ella Willcox",
+    "match": "Ella Willcox vs Caroline Bayless",
+    "race": 0
+  }
+]

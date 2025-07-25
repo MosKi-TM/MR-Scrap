@@ -1,0 +1,194 @@
+[
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "final",
+    "winner": "will boulden",
+    "loser": "ethan prieto-low",
+    "match": "will boulden vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "petit-final",
+    "winner": "marcello torre",
+    "loser": "conor nicholas",
+    "match": "marcello torre vs conor nicholas",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "conor nicholas",
+    "loser": "will boulden",
+    "match": "will boulden vs conor nicholas",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "will boulden",
+    "loser": "conor nicholas",
+    "match": "will boulden vs conor nicholas",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "will boulden",
+    "loser": "conor nicholas",
+    "match": "will boulden vs conor nicholas",
+    "race": 3
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ethan prieto-low",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "marcello torre",
+    "loser": "ethan prieto-low",
+    "match": "marcello torre vs ethan prieto-low",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ethan prieto-low",
+    "race": 3
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "ethan prieto-low",
+    "loser": "marcello torre",
+    "match": "marcello torre vs ethan prieto-low",
+    "race": 4
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "will boulden",
+    "loser": "ethan prieto-low",
+    "match": "will boulden vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "will boulden",
+    "loser": "conor nicholas",
+    "match": "will boulden vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "will boulden",
+    "match": "will boulden vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "will boulden",
+    "loser": "kaiella taylor",
+    "match": "will boulden vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "will boulden",
+    "loser": "lucy alderson",
+    "match": "will boulden vs lucy alderson",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "ethan prieto-low",
+    "match": "ethan prieto-low vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "kaiella taylor",
+    "match": "ethan prieto-low vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "lucy alderson",
+    "match": "ethan prieto-low vs lucy alderson",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "conor nicholas",
+    "match": "conor nicholas vs marcello torre",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "kaiella taylor",
+    "match": "conor nicholas vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "lucy alderson",
+    "match": "conor nicholas vs lucy alderson",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "kaiella taylor",
+    "match": "marcello torre vs kaiella taylor",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "marcello torre",
+    "loser": "lucy alderson",
+    "match": "marcello torre vs lucy alderson",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins Youth Regatta",
+    "phase": "round-robin",
+    "winner": "lucy alderson",
+    "loser": "kaiella taylor",
+    "match": "kaiella taylor vs lucy alderson",
+    "race": 0
+  }
+]

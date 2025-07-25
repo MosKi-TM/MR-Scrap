@@ -1,0 +1,754 @@
+[
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "open-final",
+    "winner": "tom grimes",
+    "loser": "sam king",
+    "match": "sam king vs tom grimes",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "open-final",
+    "winner": "sam king",
+    "loser": "tom grimes",
+    "match": "sam king vs tom grimes",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "open-final",
+    "winner": "tom grimes",
+    "loser": "sam king",
+    "match": "sam king vs tom grimes",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-final",
+    "winner": "daniel kemp",
+    "loser": "xavier mclachlan",
+    "match": "xavier mclachlan vs daniel kemp",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-final",
+    "winner": "xavier mclachlan",
+    "loser": "daniel kemp",
+    "match": "xavier mclachlan vs daniel kemp",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-final",
+    "winner": "xavier mclachlan",
+    "loser": "daniel kemp",
+    "match": "xavier mclachlan vs daniel kemp",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-petit-final",
+    "winner": "thomas rees",
+    "loser": "hugo butterworth",
+    "match": "thomas rees vs hugo butterworth",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-petit-final",
+    "winner": "thomas rees",
+    "loser": "hugo butterworth",
+    "match": "thomas rees vs hugo butterworth",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "open-semi-final-1",
+    "winner": "sam king",
+    "loser": "max paul",
+    "match": "sam king vs max paul",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "open-semi-final-2",
+    "winner": "tom grimes",
+    "loser": "finn tapper",
+    "match": "finn tapper vs tom grimes",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-semi-final-1",
+    "winner": "xavier mclachlan",
+    "loser": "thomas rees",
+    "match": "xavier mclachlan vs thomas rees",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-semi-final-1",
+    "winner": "xavier mclachlan",
+    "loser": "thomas rees",
+    "match": "xavier mclachlan vs thomas rees",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-semi-final-2",
+    "winner": "daniel kemp",
+    "loser": "hugo butterworth",
+    "match": "daniel kemp vs hugo butterworth",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "youth-semi-final-2",
+    "winner": "daniel kemp",
+    "loser": "hugo butterworth",
+    "match": "daniel kemp vs hugo butterworth",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "hugo butterworth",
+    "match": "max paul vs hugo butterworth",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "finn tapper",
+    "match": "max paul vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "xavier mclachlan",
+    "match": "max paul vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "max paul",
+    "match": "max paul vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "thomas rees",
+    "match": "max paul vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "finlay bunt",
+    "match": "max paul vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "max paul",
+    "loser": "carter baker",
+    "match": "max paul vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "tom grimes",
+    "match": "sam king vs tom grimes",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "daniel kemp",
+    "match": "sam king vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "xavier mclachlan",
+    "match": "sam king vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "chelsea williams",
+    "match": "sam king vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "thomas rees",
+    "match": "sam king vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "finlay bunt",
+    "match": "sam king vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "murphy cowen",
+    "match": "sam king vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "sam king",
+    "loser": "carter baker",
+    "match": "sam king vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "daniel kemp",
+    "match": "tom grimes vs daniel kemp",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "xavier mclachlan",
+    "match": "tom grimes vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "chelsea williams",
+    "match": "tom grimes vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "thomas rees",
+    "match": "tom grimes vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "finlay bunt",
+    "match": "tom grimes vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "murphy cowen",
+    "match": "tom grimes vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "carter baker",
+    "match": "tom grimes vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "hugo butterworth",
+    "match": "hugo butterworth vs finn tapper",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "chelsea williams",
+    "match": "hugo butterworth vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "thomas rees",
+    "match": "hugo butterworth vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "finlay bunt",
+    "match": "hugo butterworth vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "murphy cowen",
+    "match": "hugo butterworth vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "carter baker",
+    "match": "hugo butterworth vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "xavier mclachlan",
+    "match": "finn tapper vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "chelsea williams",
+    "match": "finn tapper vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "thomas rees",
+    "match": "finn tapper vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "murphy cowen",
+    "match": "finn tapper vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finn tapper",
+    "loser": "carter baker",
+    "match": "finn tapper vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "chelsea williams",
+    "match": "daniel kemp vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "thomas rees",
+    "match": "daniel kemp vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "finlay bunt",
+    "match": "daniel kemp vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "murphy cowen",
+    "match": "daniel kemp vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "carter baker",
+    "match": "daniel kemp vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "chelsea williams",
+    "match": "xavier mclachlan vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "thomas rees",
+    "match": "xavier mclachlan vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "finlay bunt",
+    "match": "xavier mclachlan vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "murphy cowen",
+    "match": "xavier mclachlan vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "carter baker",
+    "match": "xavier mclachlan vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "chelsea williams",
+    "match": "chelsea williams vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "finlay bunt",
+    "match": "chelsea williams vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "murphy cowen",
+    "match": "chelsea williams vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "carter baker",
+    "match": "chelsea williams vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "thomas rees",
+    "match": "thomas rees vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "murphy cowen",
+    "match": "thomas rees vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "carter baker",
+    "match": "thomas rees vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "murphy cowen",
+    "match": "finlay bunt vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "finlay bunt",
+    "match": "finlay bunt vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "murphy cowen",
+    "match": "murphy cowen vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "chelsea williams",
+    "match": "hugo butterworth vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "thomas rees",
+    "match": "hugo butterworth vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "finlay bunt",
+    "match": "hugo butterworth vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "murphy cowen",
+    "match": "hugo butterworth vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo butterworth",
+    "loser": "carter baker",
+    "match": "hugo butterworth vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "daniel kemp",
+    "match": "daniel kemp vs xavier mclachlan",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "chelsea williams",
+    "match": "daniel kemp vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "thomas rees",
+    "match": "daniel kemp vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "finlay bunt",
+    "match": "daniel kemp vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "murphy cowen",
+    "match": "daniel kemp vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "daniel kemp",
+    "loser": "carter baker",
+    "match": "daniel kemp vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "chelsea williams",
+    "match": "xavier mclachlan vs chelsea williams",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "thomas rees",
+    "match": "xavier mclachlan vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "finlay bunt",
+    "match": "xavier mclachlan vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "murphy cowen",
+    "match": "xavier mclachlan vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "xavier mclachlan",
+    "loser": "carter baker",
+    "match": "xavier mclachlan vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "chelsea williams",
+    "match": "chelsea williams vs thomas rees",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "finlay bunt",
+    "match": "chelsea williams vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "murphy cowen",
+    "match": "chelsea williams vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "chelsea williams",
+    "loser": "carter baker",
+    "match": "chelsea williams vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "thomas rees",
+    "match": "thomas rees vs finlay bunt",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "murphy cowen",
+    "match": "thomas rees vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "thomas rees",
+    "loser": "carter baker",
+    "match": "thomas rees vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "finlay bunt",
+    "loser": "murphy cowen",
+    "match": "finlay bunt vs murphy cowen",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "finlay bunt",
+    "match": "finlay bunt vs carter baker",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Open & Youth Championships",
+    "phase": "round-robin",
+    "winner": "carter baker",
+    "loser": "murphy cowen",
+    "match": "murphy cowen vs carter baker",
+    "race": 0
+  }
+]

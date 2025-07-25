@@ -1,0 +1,490 @@
+[
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "final",
+    "winner": "stanford",
+    "loser": "georgetown",
+    "match": "georgetown vs stanford",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "final",
+    "winner": "stanford",
+    "loser": "georgetown",
+    "match": "georgetown vs stanford",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "final",
+    "winner": "stanford",
+    "loser": "georgetown",
+    "match": "georgetown vs stanford",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "petit-final",
+    "winner": "jacksonville",
+    "loser": "fordham",
+    "match": "jacksonville vs fordham",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "petit-final",
+    "winner": "jacksonville",
+    "loser": "fordham",
+    "match": "jacksonville vs fordham",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-1",
+    "winner": "georgetown",
+    "loser": "fordham",
+    "match": "georgetown vs fordham",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-1",
+    "winner": "fordham",
+    "loser": "georgetown",
+    "match": "georgetown vs fordham",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-1",
+    "winner": "georgetown",
+    "loser": "fordham",
+    "match": "georgetown vs fordham",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-2",
+    "winner": "stanford",
+    "loser": "jacksonville",
+    "match": "stanford vs jacksonville",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-2",
+    "winner": "jacksonville",
+    "loser": "stanford",
+    "match": "stanford vs jacksonville",
+    "race": 2
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "semi-final-2",
+    "winner": "stanford",
+    "loser": "jacksonville",
+    "match": "stanford vs jacksonville",
+    "race": 3
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "5th-/-6th",
+    "winner": "tufts",
+    "loser": "tulane",
+    "match": "tufts vs tulane",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "7th-/-8th",
+    "winner": "wisconsin",
+    "loser": "eckerd",
+    "match": "wisconsin vs eckerd",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "5th-to-8th-(a)",
+    "winner": "tufts",
+    "loser": "eckerd",
+    "match": "tufts vs eckerd",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "5th-to-8th-(b)",
+    "winner": "tulane",
+    "loser": "wisconsin",
+    "match": "wisconsin vs tulane",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "9th-/-10th",
+    "winner": "bowdoin",
+    "loser": "washington",
+    "match": "bowdoin vs washington",
+    "race": 1
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "eckerd",
+    "loser": "bowdoin",
+    "match": "bowdoin vs eckerd",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "bowdoin",
+    "match": "bowdoin vs fordham",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "bowdoin",
+    "match": "bowdoin vs georgetown",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "bowdoin",
+    "match": "bowdoin vs jacksonville",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "bowdoin",
+    "match": "bowdoin vs stanford",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tufts",
+    "loser": "bowdoin",
+    "match": "bowdoin vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tulane",
+    "loser": "bowdoin",
+    "match": "bowdoin vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "bowdoin",
+    "loser": "washington",
+    "match": "bowdoin vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "wisconsin",
+    "loser": "bowdoin",
+    "match": "bowdoin vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "eckerd",
+    "match": "eckerd vs fordham",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "eckerd",
+    "match": "eckerd vs georgetown",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "eckerd",
+    "match": "eckerd vs jacksonville",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "eckerd",
+    "match": "eckerd vs stanford",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tufts",
+    "loser": "eckerd",
+    "match": "eckerd vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tulane",
+    "loser": "eckerd",
+    "match": "eckerd vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "eckerd",
+    "loser": "washington",
+    "match": "eckerd vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "wisconsin",
+    "loser": "eckerd",
+    "match": "eckerd vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "fordham",
+    "match": "fordham vs georgetown",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "fordham",
+    "match": "fordham vs jacksonville",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "fordham",
+    "match": "fordham vs stanford",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "tufts",
+    "match": "fordham vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "tulane",
+    "match": "fordham vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "washington",
+    "match": "fordham vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "fordham",
+    "loser": "wisconsin",
+    "match": "fordham vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "jacksonville",
+    "match": "georgetown vs jacksonville",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "stanford",
+    "match": "georgetown vs stanford",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "tufts",
+    "match": "georgetown vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "tulane",
+    "match": "georgetown vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "washington",
+    "match": "georgetown vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "georgetown",
+    "loser": "wisconsin",
+    "match": "georgetown vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "jacksonville",
+    "match": "jacksonville vs stanford",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "tufts",
+    "match": "jacksonville vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "tulane",
+    "match": "jacksonville vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "jacksonville",
+    "loser": "washington",
+    "match": "jacksonville vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "wisconsin",
+    "loser": "jacksonville",
+    "match": "jacksonville vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "tufts",
+    "match": "stanford vs tufts",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "tulane",
+    "match": "stanford vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "washington",
+    "match": "stanford vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "stanford",
+    "loser": "wisconsin",
+    "match": "stanford vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tufts",
+    "loser": "tulane",
+    "match": "tufts vs tulane",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tufts",
+    "loser": "washington",
+    "match": "tufts vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tufts",
+    "loser": "wisconsin",
+    "match": "tufts vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "washington",
+    "loser": "tulane",
+    "match": "tulane vs washington",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "tulane",
+    "loser": "wisconsin",
+    "match": "tulane vs wisconsin",
+    "race": 0
+  },
+  {
+    "regatta": "ICSA Match Race Nationals",
+    "phase": "round-robin",
+    "winner": "wisconsin",
+    "loser": "washington",
+    "match": "washington vs wisconsin",
+    "race": 0
+  }
+]

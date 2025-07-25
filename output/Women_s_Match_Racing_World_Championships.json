@@ -1,0 +1,106 @@
+[
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "silja lehtinen vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "silja lehtinen vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "anna tunnicliffe",
+    "match": "silja lehtinen vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "petit-finals",
+    "winner": "claire leroy",
+    "loser": "sally barkow",
+    "match": "sally barkow vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "petit-finals",
+    "winner": "sally barkow",
+    "loser": "claire leroy",
+    "match": "sally barkow vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "petit-finals",
+    "winner": "sally barkow",
+    "loser": "claire leroy",
+    "match": "sally barkow vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "claire leroy",
+    "match": "silja lehtinen vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "claire leroy",
+    "match": "silja lehtinen vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "silja lehtinen",
+    "loser": "claire leroy",
+    "match": "silja lehtinen vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "anna tunnicliffe vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "anna tunnicliffe vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "sally barkow",
+    "loser": "anna tunnicliffe",
+    "match": "anna tunnicliffe vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "anna tunnicliffe vs sally barkow",
+    "race": 4
+  }
+]

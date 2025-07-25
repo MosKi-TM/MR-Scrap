@@ -1,0 +1,74 @@
+[
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "final",
+    "winner": "don wilson",
+    "loser": "peter holz",
+    "match": "don wilson vs peter holz",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "petit-final",
+    "winner": "brendan kopp",
+    "loser": "david storrs",
+    "match": "brendan kopp vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "petit-final",
+    "winner": "brendan kopp",
+    "loser": "david storrs",
+    "match": "brendan kopp vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "semi-final-1",
+    "winner": "don wilson",
+    "loser": "david storrs",
+    "match": "don wilson vs david storrs",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "brendan kopp",
+    "loser": "peter holz",
+    "match": "peter holz vs brendan kopp",
+    "race": 1
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "brendan kopp",
+    "match": "peter holz vs brendan kopp",
+    "race": 2
+  },
+  {
+    "regatta": "CMRC Summer Invitational (A)",
+    "phase": "semi-final-2",
+    "winner": "peter holz",
+    "loser": "brendan kopp",
+    "match": "peter holz vs brendan kopp",
+    "race": 3
+  }
+]

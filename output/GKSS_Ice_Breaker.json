@@ -1,0 +1,74 @@
+[
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "final",
+    "winner": "bjorn hansen",
+    "loser": "johnie berntsson",
+    "match": "bjorn hansen vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "final",
+    "winner": "bjorn hansen",
+    "loser": "johnie berntsson",
+    "match": "bjorn hansen vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "petit-final",
+    "winner": "staffan lindberg",
+    "loser": "viktor ogeman",
+    "match": "staffan lindberg vs viktor ogeman",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "petit-final",
+    "winner": "viktor ogeman",
+    "loser": "staffan lindberg",
+    "match": "staffan lindberg vs viktor ogeman",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "petit-final",
+    "winner": "viktor ogeman",
+    "loser": "staffan lindberg",
+    "match": "staffan lindberg vs viktor ogeman",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "staffan lindberg",
+    "match": "staffan lindberg vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "staffan lindberg",
+    "match": "staffan lindberg vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "semi-final-2",
+    "winner": "bjorn hansen",
+    "loser": "viktor ogeman",
+    "match": "bjorn hansen vs viktor ogeman",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Ice Breaker",
+    "phase": "semi-final-2",
+    "winner": "bjorn hansen",
+    "loser": "viktor ogeman",
+    "match": "bjorn hansen vs viktor ogeman",
+    "race": 2
+  }
+]

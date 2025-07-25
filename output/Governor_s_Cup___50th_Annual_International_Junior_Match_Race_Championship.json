@@ -1,0 +1,162 @@
+[
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "sdyc - nevin snow",
+    "loser": "rfbyc - sam gilmour",
+    "match": "sdyc - nevin snow vs rfbyc - sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "sdyc - nevin snow",
+    "loser": "rfbyc - sam gilmour",
+    "match": "sdyc - nevin snow vs rfbyc - sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "cyca - harry price",
+    "loser": "byc - christophe killian",
+    "match": "cyca - harry price vs byc - christophe killian",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs byc - christophe killian",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs byc - christophe killian",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs rfbyc - sam gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "cyca - harry price",
+    "loser": "rfbyc - sam gilmour",
+    "match": "cyca - harry price vs rfbyc - sam gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "cyca - harry price",
+    "match": "cyca - harry price vs rfbyc - sam gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "sdyc - nevin snow",
+    "loser": "byc - christophe killian",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "sdyc - nevin snow",
+    "loser": "byc - christophe killian",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "jyma - ryo leonard takahashi",
+    "loser": "dryc - christopher weis",
+    "match": "jyma - ryo leonard takahashi vs dryc - christopher weis",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "jyma - ryo leonard takahashi",
+    "loser": "dryc - christopher weis",
+    "match": "jyma - ryo leonard takahashi vs dryc - christopher weis",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpayc - william dargaville",
+    "loser": "rfbyc - lachy gilmour",
+    "match": "rpayc - william dargaville vs rfbyc - lachy gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "rpayc - william dargaville",
+    "match": "rpayc - william dargaville vs rfbyc - lachy gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rfbyc - lachy gilmour",
+    "loser": "rpayc - william dargaville",
+    "match": "rpayc - william dargaville vs rfbyc - lachy gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "rnzys - george anyon",
+    "loser": "pyc - charles lalumiere",
+    "match": "pyc - charles lalumiere vs rnzys - george anyon",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "9th/10th",
+    "winner": "rnzys - george anyon",
+    "loser": "pyc - charles lalumiere",
+    "match": "pyc - charles lalumiere vs rnzys - george anyon",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "rfbyc - will boulden",
+    "loser": "sfyc - romain screve",
+    "match": "sfyc - romain screve vs rfbyc - will boulden",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "sfyc - romain screve",
+    "loser": "rfbyc - will boulden",
+    "match": "sfyc - romain screve vs rfbyc - will boulden",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 50th Annual International Junior Match Race Championship",
+    "phase": "11th/12th",
+    "winner": "sfyc - romain screve",
+    "loser": "rfbyc - will boulden",
+    "match": "sfyc - romain screve vs rfbyc - will boulden",
+    "race": 3
+  }
+]

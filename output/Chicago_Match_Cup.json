@@ -1,0 +1,234 @@
+[
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "jordan reece",
+    "match": "ian williams vs jordan reece",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "jordan reece",
+    "match": "ian williams vs jordan reece",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "jordan reece",
+    "match": "ian williams vs jordan reece",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "petit-finals",
+    "winner": "bjorn hansen",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs bjorn hansen",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "petit-finals",
+    "winner": "bjorn hansen",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs bjorn hansen",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "bjorn hansen",
+    "loser": "jordan reece",
+    "match": "bjorn hansen vs jordan reece",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan reece",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jordan reece",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan reece",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jordan reece",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "bjorn hansen",
+    "loser": "jordan reece",
+    "match": "bjorn hansen vs jordan reece",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-1",
+    "winner": "jordan reece",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jordan reece",
+    "race": 5
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "taylor canfield",
+    "match": "ian williams vs taylor canfield",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "bjorn hansen",
+    "loser": "sally barkow",
+    "match": "bjorn hansen vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "bjorn hansen",
+    "loser": "sally barkow",
+    "match": "bjorn hansen vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "sally barkow",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "bjorn hansen",
+    "loser": "sally barkow",
+    "match": "bjorn hansen vs sally barkow",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "ian williams vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "ian williams vs johnie berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "jordan reece",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs jordan reece",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "jordan reece",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs jordan reece",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "pierre-antoine morvan",
+    "loser": "jordan reece",
+    "match": "pierre-antoine morvan vs jordan reece",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "jordan reece",
+    "loser": "pierre-antoine morvan",
+    "match": "pierre-antoine morvan vs jordan reece",
+    "race": 4
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 1
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "phil robertson",
+    "loser": "taylor canfield",
+    "match": "phil robertson vs taylor canfield",
+    "race": 2
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 3
+  },
+  {
+    "regatta": "Chicago Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "phil robertson",
+    "match": "phil robertson vs taylor canfield",
+    "race": 4
+  }
+]

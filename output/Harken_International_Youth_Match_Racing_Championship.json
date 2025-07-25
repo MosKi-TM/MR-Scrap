@@ -1,0 +1,890 @@
+[
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "matt whitfield",
+    "loser": "alastair gifford",
+    "match": "alastair gifford vs matt whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "matt whitfield",
+    "loser": "alastair gifford",
+    "match": "alastair gifford vs matt whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "alastair gifford",
+    "loser": "matt whitfield",
+    "match": "alastair gifford vs matt whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "alastair gifford",
+    "loser": "matt whitfield",
+    "match": "alastair gifford vs matt whitfield",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "final",
+    "winner": "alastair gifford",
+    "loser": "matt whitfield",
+    "match": "alastair gifford vs matt whitfield",
+    "race": 5
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "juliet costanzo",
+    "loser": "alistair read",
+    "match": "juliet costanzo vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "alistair read",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "matt whitfield",
+    "loser": "alistair read",
+    "match": "matt whitfield vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "matt whitfield",
+    "loser": "alistair read",
+    "match": "matt whitfield vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "matt whitfield",
+    "loser": "alistair read",
+    "match": "matt whitfield vs alistair read",
+    "race": 4
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "alastair gifford",
+    "loser": "juliet costanzo",
+    "match": "alastair gifford vs juliet costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "alastair gifford",
+    "loser": "juliet costanzo",
+    "match": "alastair gifford vs juliet costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "alastair gifford",
+    "loser": "juliet costanzo",
+    "match": "alastair gifford vs juliet costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "robbie mccutcheon",
+    "loser": "hugo stoner",
+    "match": "robbie mccutcheon vs hugo stoner",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "5th-/-6th",
+    "winner": "robbie mccutcheon",
+    "loser": "hugo stoner",
+    "match": "robbie mccutcheon vs hugo stoner",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "jed cruickshank",
+    "loser": "jonathon barnett",
+    "match": "jed cruickshank vs jonathon barnett",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "7th-/-8th",
+    "winner": "jed cruickshank",
+    "loser": "jonathon barnett",
+    "match": "jed cruickshank vs jonathon barnett",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "9th-/-10th",
+    "winner": "finn niemeier",
+    "loser": "niall malone",
+    "match": "niall malone vs finn niemeier",
+    "race": 1
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "9th-/-10th",
+    "winner": "finn niemeier",
+    "loser": "niall malone",
+    "match": "niall malone vs finn niemeier",
+    "race": 2
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "hugo stoner",
+    "match": "matt whitfield vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "alastair gifford",
+    "match": "matt whitfield vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "alistair read",
+    "match": "matt whitfield vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "niall malone",
+    "match": "matt whitfield vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "jed cruickshank",
+    "match": "matt whitfield vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "finn niemeier",
+    "match": "matt whitfield vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "matt whitfield",
+    "loser": "jonathon barnett",
+    "match": "matt whitfield vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "hugo stoner",
+    "loser": "alistair read",
+    "match": "hugo stoner vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "hugo stoner",
+    "loser": "niall malone",
+    "match": "hugo stoner vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "hugo stoner",
+    "loser": "jed cruickshank",
+    "match": "hugo stoner vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "finn niemeier",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "hugo stoner",
+    "loser": "jonathon barnett",
+    "match": "hugo stoner vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "alistair read",
+    "match": "alastair gifford vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "juliet costanzo",
+    "match": "alastair gifford vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "niall malone",
+    "match": "alastair gifford vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "robbie mccutcheon",
+    "match": "alastair gifford vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "alastair gifford",
+    "match": "alastair gifford vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "finn niemeier",
+    "match": "alastair gifford vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alastair gifford",
+    "loser": "jonathon barnett",
+    "match": "alastair gifford vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "juliet costanzo",
+    "match": "alistair read vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "niall malone",
+    "match": "alistair read vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "robbie mccutcheon",
+    "match": "alistair read vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "finn niemeier",
+    "match": "alistair read vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "jonathon barnett",
+    "match": "alistair read vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "niall malone",
+    "match": "juliet costanzo vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "robbie mccutcheon",
+    "match": "juliet costanzo vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "jed cruickshank",
+    "match": "juliet costanzo vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "finn niemeier",
+    "match": "juliet costanzo vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jonathon barnett",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "niall malone",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "niall malone",
+    "match": "niall malone vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "niall malone",
+    "loser": "finn niemeier",
+    "match": "niall malone vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jonathon barnett",
+    "loser": "niall malone",
+    "match": "niall malone vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "jed cruickshank",
+    "match": "robbie mccutcheon vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "finn niemeier",
+    "match": "robbie mccutcheon vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "jonathon barnett",
+    "match": "robbie mccutcheon vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "finn niemeier",
+    "match": "jed cruickshank vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "jonathon barnett",
+    "match": "jed cruickshank vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "jonathon barnett",
+    "loser": "finn niemeier",
+    "match": "finn niemeier vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "hugo stoner",
+    "match": "matt whitfield vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "alistair read",
+    "match": "matt whitfield vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "niall malone",
+    "match": "matt whitfield vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "robbie mccutcheon",
+    "match": "matt whitfield vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "jed cruickshank",
+    "match": "matt whitfield vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "finn niemeier",
+    "match": "matt whitfield vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "matt whitfield",
+    "loser": "jonathon barnett",
+    "match": "matt whitfield vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs alastair gifford",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "niall malone",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "robbie mccutcheon",
+    "match": "hugo stoner vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "finn niemeier",
+    "match": "hugo stoner vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "hugo stoner",
+    "loser": "jonathon barnett",
+    "match": "hugo stoner vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "alistair read",
+    "match": "alastair gifford vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "juliet costanzo",
+    "match": "alastair gifford vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "niall malone",
+    "match": "alastair gifford vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "robbie mccutcheon",
+    "match": "alastair gifford vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "jed cruickshank",
+    "match": "alastair gifford vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "finn niemeier",
+    "match": "alastair gifford vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alastair gifford",
+    "loser": "jonathon barnett",
+    "match": "alastair gifford vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "juliet costanzo",
+    "match": "alistair read vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "niall malone",
+    "loser": "alistair read",
+    "match": "alistair read vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "robbie mccutcheon",
+    "match": "alistair read vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "finn niemeier",
+    "match": "alistair read vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "jonathon barnett",
+    "match": "alistair read vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "niall malone",
+    "match": "juliet costanzo vs niall malone",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "jed cruickshank",
+    "match": "juliet costanzo vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "finn niemeier",
+    "match": "juliet costanzo vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "jonathon barnett",
+    "match": "juliet costanzo vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "niall malone",
+    "match": "niall malone vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "niall malone",
+    "match": "niall malone vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "niall malone",
+    "loser": "finn niemeier",
+    "match": "niall malone vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "niall malone",
+    "loser": "jonathon barnett",
+    "match": "niall malone vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "jed cruickshank",
+    "match": "robbie mccutcheon vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "finn niemeier",
+    "match": "robbie mccutcheon vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jonathon barnett",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "finn niemeier",
+    "match": "jed cruickshank vs finn niemeier",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jonathon barnett",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs jonathon barnett",
+    "race": 0
+  },
+  {
+    "regatta": "Harken International Youth Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "jonathon barnett",
+    "loser": "finn niemeier",
+    "match": "finn niemeier vs jonathon barnett",
+    "race": 0
+  }
+]

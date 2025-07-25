@@ -1,0 +1,458 @@
+[
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "reuben corbett",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "final",
+    "winner": "reuben corbett",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "reuben corbett",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "final",
+    "winner": "reuben corbett",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "final",
+    "winner": "nick egnot-johnson",
+    "loser": "reuben corbett",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 5
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "womens-final",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "womens-final",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "petit-final",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "robbie mccutcheon vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "petit-final",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "robbie mccutcheon vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-1",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-2",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "reuben corbett vs robbie mccutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-2",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "reuben corbett vs robbie mccutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "semi-final-2",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "reuben corbett vs robbie mccutcheon",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "maeve white",
+    "match": "nick egnot-johnson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "reuben corbett",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "josh hyde",
+    "match": "nick egnot-johnson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "nick egnot-johnson",
+    "loser": "braedyn denney",
+    "match": "nick egnot-johnson vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "reuben corbett",
+    "loser": "megan thomson",
+    "match": "megan thomson vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "braedyn denney",
+    "match": "megan thomson vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "robbie mccutcheon vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "robbie mccutcheon",
+    "loser": "braedyn denney",
+    "match": "robbie mccutcheon vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "reuben corbett",
+    "loser": "maeve white",
+    "match": "maeve white vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "maeve white",
+    "match": "maeve white vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "braedyn denney",
+    "loser": "maeve white",
+    "match": "maeve white vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "reuben corbett",
+    "loser": "josh hyde",
+    "match": "reuben corbett vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "reuben corbett",
+    "loser": "braedyn denney",
+    "match": "reuben corbett vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-2",
+    "winner": "josh hyde",
+    "loser": "braedyn denney",
+    "match": "josh hyde vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "megan thomson",
+    "match": "nick egnot-johnson vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "robbie mccutcheon",
+    "match": "nick egnot-johnson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "maeve white",
+    "match": "nick egnot-johnson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "nick egnot-johnson",
+    "match": "nick egnot-johnson vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "josh hyde",
+    "match": "nick egnot-johnson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "nick egnot-johnson",
+    "loser": "braedyn denney",
+    "match": "nick egnot-johnson vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "megan thomson",
+    "match": "megan thomson vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "maeve white",
+    "match": "megan thomson vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "megan thomson",
+    "match": "megan thomson vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "josh hyde",
+    "match": "megan thomson vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "braedyn denney",
+    "loser": "megan thomson",
+    "match": "megan thomson vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "maeve white",
+    "match": "robbie mccutcheon vs maeve white",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "josh hyde",
+    "match": "robbie mccutcheon vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "robbie mccutcheon",
+    "loser": "braedyn denney",
+    "match": "robbie mccutcheon vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "maeve white",
+    "match": "maeve white vs reuben corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "maeve white",
+    "match": "maeve white vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "maeve white",
+    "loser": "braedyn denney",
+    "match": "maeve white vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "josh hyde",
+    "match": "reuben corbett vs josh hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "reuben corbett",
+    "loser": "braedyn denney",
+    "match": "reuben corbett vs braedyn denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand National & Women's Championships",
+    "phase": "round-robin-1",
+    "winner": "josh hyde",
+    "loser": "braedyn denney",
+    "match": "josh hyde vs braedyn denney",
+    "race": 0
+  }
+]

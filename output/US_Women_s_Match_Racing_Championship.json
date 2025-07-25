@@ -1,0 +1,562 @@
+[
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "allie blecher",
+    "loser": "janel zarkowsky",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "allie blecher",
+    "loser": "janel zarkowsky",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "allie blecher",
+    "loser": "janel zarkowsky",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "bridget groble",
+    "match": "bridget groble vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "bridget groble",
+    "match": "bridget groble vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "allie blecher",
+    "loser": "nicole breault",
+    "match": "allie blecher vs nicole breault",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "nicole breault",
+    "loser": "allie blecher",
+    "match": "allie blecher vs nicole breault",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "allie blecher",
+    "loser": "nicole breault",
+    "match": "allie blecher vs nicole breault",
+    "race": 3
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "janel zarkowsky",
+    "loser": "bridget groble",
+    "match": "janel zarkowsky vs bridget groble",
+    "race": 1
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "janel zarkowsky",
+    "loser": "bridget groble",
+    "match": "janel zarkowsky vs bridget groble",
+    "race": 2
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "catherine shanahan",
+    "loser": "torrey chirsari",
+    "match": "torrey chirsari vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "gloria kevliciute",
+    "loser": "torrey chirsari",
+    "match": "torrey chirsari vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "torrey chirsari",
+    "loser": "danielle gallo",
+    "match": "torrey chirsari vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "liz  hjorth",
+    "loser": "torrey chirsari",
+    "match": "torrey chirsari vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "torrey chirsari",
+    "loser": "alexis gesualdo",
+    "match": "torrey chirsari vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "gloria kevliciute",
+    "loser": "catherine shanahan",
+    "match": "catherine shanahan vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "catherine shanahan",
+    "loser": "danielle gallo",
+    "match": "catherine shanahan vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "catherine shanahan",
+    "loser": "liz  hjorth",
+    "match": "catherine shanahan vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "catherine shanahan",
+    "loser": "alexis gesualdo",
+    "match": "catherine shanahan vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "gloria kevliciute",
+    "loser": "danielle gallo",
+    "match": "gloria kevliciute vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "gloria kevliciute",
+    "loser": "liz  hjorth",
+    "match": "gloria kevliciute vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "gloria kevliciute",
+    "loser": "alexis gesualdo",
+    "match": "gloria kevliciute vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "liz  hjorth",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "danielle gallo",
+    "loser": "alexis gesualdo",
+    "match": "danielle gallo vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "5th-to-10th-rr",
+    "winner": "liz  hjorth",
+    "loser": "alexis gesualdo",
+    "match": "liz  hjorth vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "nicole breault",
+    "match": "nicole breault vs allie blecher",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "nicole breault",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "bridget groble",
+    "match": "nicole breault vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "danielle gallo",
+    "match": "nicole breault vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "liz  hjorth",
+    "match": "nicole breault vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "alexis gesualdo",
+    "match": "nicole breault vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "catherine shanahan",
+    "match": "nicole breault vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "gloria kevliciute",
+    "match": "nicole breault vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "nicole breault",
+    "loser": "torrey chirsari",
+    "match": "nicole breault vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "allie blecher",
+    "match": "allie blecher vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "bridget groble",
+    "match": "allie blecher vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "danielle gallo",
+    "match": "allie blecher vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "liz  hjorth",
+    "match": "allie blecher vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "alexis gesualdo",
+    "match": "allie blecher vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "catherine shanahan",
+    "match": "allie blecher vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "gloria kevliciute",
+    "match": "allie blecher vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "allie blecher",
+    "loser": "torrey chirsari",
+    "match": "allie blecher vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs bridget groble",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "danielle gallo",
+    "match": "janel zarkowsky vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "liz  hjorth",
+    "match": "janel zarkowsky vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "alexis gesualdo",
+    "match": "janel zarkowsky vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "catherine shanahan",
+    "match": "janel zarkowsky vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "gloria kevliciute",
+    "match": "janel zarkowsky vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "janel zarkowsky",
+    "loser": "torrey chirsari",
+    "match": "janel zarkowsky vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "danielle gallo",
+    "match": "bridget groble vs danielle gallo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "liz  hjorth",
+    "match": "bridget groble vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "alexis gesualdo",
+    "match": "bridget groble vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "catherine shanahan",
+    "match": "bridget groble vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "bridget groble",
+    "loser": "gloria kevliciute",
+    "match": "bridget groble vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "torrey chirsari",
+    "loser": "bridget groble",
+    "match": "bridget groble vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "danielle gallo",
+    "loser": "liz  hjorth",
+    "match": "danielle gallo vs liz  hjorth",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "danielle gallo",
+    "loser": "alexis gesualdo",
+    "match": "danielle gallo vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "catherine shanahan",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "danielle gallo",
+    "match": "danielle gallo vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "danielle gallo",
+    "loser": "torrey chirsari",
+    "match": "danielle gallo vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "liz  hjorth",
+    "loser": "alexis gesualdo",
+    "match": "liz  hjorth vs alexis gesualdo",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "catherine shanahan",
+    "loser": "liz  hjorth",
+    "match": "liz  hjorth vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "liz  hjorth",
+    "match": "liz  hjorth vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "torrey chirsari",
+    "loser": "liz  hjorth",
+    "match": "liz  hjorth vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "catherine shanahan",
+    "loser": "alexis gesualdo",
+    "match": "alexis gesualdo vs catherine shanahan",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "alexis gesualdo",
+    "loser": "gloria kevliciute",
+    "match": "alexis gesualdo vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "torrey chirsari",
+    "loser": "alexis gesualdo",
+    "match": "alexis gesualdo vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "catherine shanahan",
+    "loser": "gloria kevliciute",
+    "match": "catherine shanahan vs gloria kevliciute",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "torrey chirsari",
+    "loser": "catherine shanahan",
+    "match": "catherine shanahan vs torrey chirsari",
+    "race": 0
+  },
+  {
+    "regatta": "US Women's Match Racing Championship",
+    "phase": "round-robin",
+    "winner": "gloria kevliciute",
+    "loser": "torrey chirsari",
+    "match": "gloria kevliciute vs torrey chirsari",
+    "race": 0
+  }
+]

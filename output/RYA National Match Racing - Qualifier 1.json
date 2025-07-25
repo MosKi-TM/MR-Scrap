@@ -1,0 +1,394 @@
+[
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "final",
+    "winner": "Ben Tylecote",
+    "loser": "Patrick Croghan",
+    "match": "Ben Tylecote vs Patrick Croghan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "final",
+    "winner": "Ben Tylecote",
+    "loser": "Patrick Croghan",
+    "match": "Ben Tylecote vs Patrick Croghan",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "petit-final",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Ollie Meadowcroft",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-1",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Ben Tylecote",
+    "match": "Ollie Meadowcroft vs Ben Tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-1",
+    "winner": "Ben Tylecote",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Ben Tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-1",
+    "winner": "Ben Tylecote",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Ben Tylecote",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-2",
+    "winner": "Matt Greenfield",
+    "loser": "Patrick Croghan",
+    "match": "Matt Greenfield vs Patrick Croghan",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-2",
+    "winner": "Patrick Croghan",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Patrick Croghan",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "semi-final-2",
+    "winner": "Patrick Croghan",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Patrick Croghan",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "5th-/-6th",
+    "winner": "Oli Hale",
+    "loser": "James Clapham",
+    "match": "Oli Hale vs James Clapham",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "6th-/-7th",
+    "winner": "James Clapham",
+    "loser": "Heather Quinn",
+    "match": "James Clapham vs Heather Quinn",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "7th-/-8th",
+    "winner": "Heather Quinn",
+    "loser": "Julian Fung",
+    "match": "Julian Fung vs Heather Quinn",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "8th-/-9th",
+    "winner": "Heather Quinn",
+    "loser": "Andrew Sturt",
+    "match": "Andrew Sturt vs Heather Quinn",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Matt Greenfield",
+    "match": "Patrick Croghan vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Heather Quinn",
+    "match": "Patrick Croghan vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Andrew Sturt",
+    "match": "Patrick Croghan vs Andrew Sturt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "Oli Hale",
+    "match": "Patrick Croghan vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Patrick Croghan",
+    "loser": "James Clapham",
+    "match": "Patrick Croghan vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "Patrick Croghan",
+    "match": "Patrick Croghan vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Matt Greenfield",
+    "match": "Ben Tylecote vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Heather Quinn",
+    "match": "Ben Tylecote vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Andrew Sturt",
+    "match": "Ben Tylecote vs Andrew Sturt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "Oli Hale",
+    "match": "Ben Tylecote vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ben Tylecote",
+    "loser": "James Clapham",
+    "match": "Ben Tylecote vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "Ben Tylecote",
+    "match": "Ben Tylecote vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Heather Quinn",
+    "match": "Matt Greenfield vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Andrew Sturt",
+    "loser": "Matt Greenfield",
+    "match": "Matt Greenfield vs Andrew Sturt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Oli Hale",
+    "match": "Matt Greenfield vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "James Clapham",
+    "match": "Matt Greenfield vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Julian Fung",
+    "match": "Matt Greenfield vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Andrew Sturt",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Andrew Sturt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Heather Quinn",
+    "loser": "James Clapham",
+    "match": "Heather Quinn vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "Heather Quinn",
+    "match": "Heather Quinn vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "Andrew Sturt",
+    "match": "Andrew Sturt vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "James Clapham",
+    "loser": "Andrew Sturt",
+    "match": "Andrew Sturt vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "Andrew Sturt",
+    "match": "Andrew Sturt vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Oli Hale",
+    "loser": "James Clapham",
+    "match": "Oli Hale vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "Oli Hale",
+    "match": "Oli Hale vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Julian Fung",
+    "loser": "James Clapham",
+    "match": "James Clapham vs Julian Fung",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Patrick Croghan",
+    "match": "Ollie Meadowcroft vs Patrick Croghan",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Ben Tylecote",
+    "match": "Ollie Meadowcroft vs Ben Tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Matt Greenfield",
+    "loser": "Ollie Meadowcroft",
+    "match": "Ollie Meadowcroft vs Matt Greenfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Heather Quinn",
+    "match": "Ollie Meadowcroft vs Heather Quinn",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Andrew Sturt",
+    "match": "Ollie Meadowcroft vs Andrew Sturt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Oli Hale",
+    "match": "Ollie Meadowcroft vs Oli Hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "James Clapham",
+    "match": "Ollie Meadowcroft vs James Clapham",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 1",
+    "phase": "round-robin",
+    "winner": "Ollie Meadowcroft",
+    "loser": "Julian Fung",
+    "match": "Ollie Meadowcroft vs Julian Fung",
+    "race": 0
+  }
+]

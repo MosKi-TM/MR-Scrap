@@ -1,0 +1,506 @@
+[
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Ian Garreta",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "semi-final-2",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Timothée Rossi vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "8th-/-9th",
+    "winner": "Celia Willison",
+    "loser": "Tom Picot",
+    "match": "Celia Willison vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Celia Willison",
+    "match": "Chris Poole vs Celia Willison",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Celia Willison",
+    "match": "Chris Poole vs Celia Willison",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-1",
+    "winner": "Chris Poole",
+    "loser": "Celia Willison",
+    "match": "Chris Poole vs Celia Willison",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-2",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-2",
+    "winner": "Ryan Seago",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-2",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-2",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ian Garreta",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Ian Garreta",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-3",
+    "winner": "Peter Wickwire",
+    "loser": "Ian Garreta",
+    "match": "Peter Wickwire vs Ian Garreta",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ian Garreta",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Ian Garreta",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ian Garreta",
+    "loser": "Peter Wickwire",
+    "match": "Peter Wickwire vs Ian Garreta",
+    "race": 4
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-4",
+    "winner": "Zac West",
+    "loser": "Pearson Potts",
+    "match": "Pearson Potts vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-4",
+    "winner": "Zac West",
+    "loser": "Pearson Potts",
+    "match": "Pearson Potts vs Zac West",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "quarter-final-4",
+    "winner": "Zac West",
+    "loser": "Pearson Potts",
+    "match": "Pearson Potts vs Zac West",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Timothée Rossi",
+    "match": "Chris Poole vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Celia Willison",
+    "match": "Chris Poole vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Peter Wickwire",
+    "match": "Chris Poole vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ryan Seago",
+    "match": "Chris Poole vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Pearson Potts",
+    "match": "Chris Poole vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Eric Belda",
+    "match": "Chris Poole vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Tom Picot",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Celia Willison",
+    "match": "Timothée Rossi vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Ian Garreta",
+    "match": "Timothée Rossi vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Peter Wickwire",
+    "match": "Timothée Rossi vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Pearson Potts",
+    "match": "Timothée Rossi vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Eric Belda",
+    "match": "Timothée Rossi vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Tom Picot",
+    "match": "Timothée Rossi vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Ryan Seago",
+    "match": "Celia Willison vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Pearson Potts",
+    "match": "Celia Willison vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Celia Willison",
+    "loser": "Eric Belda",
+    "match": "Celia Willison vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Celia Willison",
+    "match": "Celia Willison vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Peter Wickwire",
+    "match": "Ian Garreta vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Pearson Potts",
+    "match": "Ian Garreta vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garreta",
+    "loser": "Eric Belda",
+    "match": "Ian Garreta vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Ian Garreta",
+    "match": "Ian Garreta vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Ryan Seago",
+    "match": "Peter Wickwire vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Pearson Potts",
+    "match": "Peter Wickwire vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Eric Belda",
+    "match": "Peter Wickwire vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Tom Picot",
+    "match": "Peter Wickwire vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Pearson Potts",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Eric Belda",
+    "match": "Ryan Seago vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Pearson Potts",
+    "loser": "Eric Belda",
+    "match": "Pearson Potts vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Pearson Potts",
+    "loser": "Tom Picot",
+    "match": "Pearson Potts vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Eric Belda",
+    "match": "Eric Belda vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Zac West vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Zac West",
+    "match": "Zac West vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Celia Willison",
+    "match": "Zac West vs Celia Willison",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Ian Garreta",
+    "match": "Zac West vs Ian Garreta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Peter Wickwire",
+    "loser": "Zac West",
+    "match": "Zac West vs Peter Wickwire",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Ryan Seago",
+    "match": "Zac West vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Pearson Potts",
+    "loser": "Zac West",
+    "match": "Zac West vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Eric Belda",
+    "match": "Zac West vs Eric Belda",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Thompson Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Tom Picot",
+    "match": "Zac West vs Tom Picot",
+    "race": 0
+  }
+]

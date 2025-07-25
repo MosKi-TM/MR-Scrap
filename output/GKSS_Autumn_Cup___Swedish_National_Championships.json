@@ -1,0 +1,66 @@
+[
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "viktor ogeman",
+    "match": "johnie berntsson vs viktor ogeman",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "final",
+    "winner": "johnie berntsson",
+    "loser": "viktor ogeman",
+    "match": "johnie berntsson vs viktor ogeman",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "petit-final",
+    "winner": "olof lundgren",
+    "loser": "lucas lier",
+    "match": "olof lundgren vs lucas lier",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "semi-final-1",
+    "winner": "viktor ogeman",
+    "loser": "lucas lier",
+    "match": "viktor ogeman vs lucas lier",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "semi-final-1",
+    "winner": "lucas lier",
+    "loser": "viktor ogeman",
+    "match": "viktor ogeman vs lucas lier",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "semi-final-1",
+    "winner": "viktor ogeman",
+    "loser": "lucas lier",
+    "match": "viktor ogeman vs lucas lier",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "olof lundgren",
+    "match": "johnie berntsson vs olof lundgren",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Autumn Cup / Swedish National Championships",
+    "phase": "semi-final-2",
+    "winner": "johnie berntsson",
+    "loser": "olof lundgren",
+    "match": "johnie berntsson vs olof lundgren",
+    "race": 2
+  }
+]

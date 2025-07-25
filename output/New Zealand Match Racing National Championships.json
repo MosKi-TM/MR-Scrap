@@ -1,0 +1,778 @@
+[
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "Reuben Corbett",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Reuben Corbett",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "Reuben Corbett",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Reuben Corbett",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "Cole Tapper",
+    "loser": "Reuben Corbett",
+    "match": "Cole Tapper vs Reuben Corbett",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "final",
+    "winner": "Reuben Corbett",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Reuben Corbett",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "Robbie McCutcheon",
+    "loser": "Josh Hyde",
+    "match": "Robbie McCutcheon vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "Josh Hyde",
+    "loser": "Robbie McCutcheon",
+    "match": "Robbie McCutcheon vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "petit-final",
+    "winner": "Josh Hyde",
+    "loser": "Robbie McCutcheon",
+    "match": "Robbie McCutcheon vs Josh Hyde",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "Reuben Corbett",
+    "loser": "Josh Hyde",
+    "match": "Reuben Corbett vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "Josh Hyde",
+    "loser": "Reuben Corbett",
+    "match": "Reuben Corbett vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "Reuben Corbett",
+    "loser": "Josh Hyde",
+    "match": "Reuben Corbett vs Josh Hyde",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-1",
+    "winner": "Reuben Corbett",
+    "loser": "Josh Hyde",
+    "match": "Reuben Corbett vs Josh Hyde",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "Robbie McCutcheon",
+    "loser": "Cole Tapper",
+    "match": "Cole Tapper vs Robbie McCutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Robbie McCutcheon",
+    "match": "Cole Tapper vs Robbie McCutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Robbie McCutcheon",
+    "match": "Cole Tapper vs Robbie McCutcheon",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "semi-final-2",
+    "winner": "Cole Tapper",
+    "loser": "Robbie McCutcheon",
+    "match": "Cole Tapper vs Robbie McCutcheon",
+    "race": 4
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-1",
+    "winner": "Cole Tapper",
+    "loser": "Hayden Smith",
+    "match": "Cole Tapper vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-1",
+    "winner": "Cole Tapper",
+    "loser": "Hayden Smith",
+    "match": "Cole Tapper vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-2",
+    "winner": "Reuben Corbett",
+    "loser": "Ethan Fong",
+    "match": "Reuben Corbett vs Ethan Fong",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-2",
+    "winner": "Reuben Corbett",
+    "loser": "Ethan Fong",
+    "match": "Reuben Corbett vs Ethan Fong",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-3",
+    "winner": "Robbie McCutcheon",
+    "loser": "Noah Malpot",
+    "match": "Noah Malpot vs Robbie McCutcheon",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-3",
+    "winner": "Robbie McCutcheon",
+    "loser": "Noah Malpot",
+    "match": "Noah Malpot vs Robbie McCutcheon",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-4",
+    "winner": "Josh Hyde",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Josh Hyde",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "quarter-final-4",
+    "winner": "Josh Hyde",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Josh Hyde",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-1",
+    "winner": "Ethan Fong",
+    "loser": "Rory Sims",
+    "match": "Ethan Fong vs Rory Sims",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-1",
+    "winner": "Ethan Fong",
+    "loser": "Rory Sims",
+    "match": "Ethan Fong vs Rory Sims",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-2",
+    "winner": "Tom Picot",
+    "loser": "Hayden Smith",
+    "match": "Tom Picot vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-2",
+    "winner": "Hayden Smith",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-2",
+    "winner": "Hayden Smith",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Hayden Smith",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-3",
+    "winner": "Robbie McCutcheon",
+    "loser": "Max Paul",
+    "match": "Robbie McCutcheon vs Max Paul",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-3",
+    "winner": "Robbie McCutcheon",
+    "loser": "Max Paul",
+    "match": "Robbie McCutcheon vs Max Paul",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-4",
+    "winner": "Josh Hyde",
+    "loser": "Jordan Stevenson",
+    "match": "Josh Hyde vs Jordan Stevenson",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-4",
+    "winner": "Jordan Stevenson",
+    "loser": "Josh Hyde",
+    "match": "Josh Hyde vs Jordan Stevenson",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-4",
+    "winner": "Josh Hyde",
+    "loser": "Jordan Stevenson",
+    "match": "Josh Hyde vs Jordan Stevenson",
+    "race": 3
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-5",
+    "winner": "Cole Tapper",
+    "loser": "George Pilkington",
+    "match": "Cole Tapper vs George Pilkington",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-5",
+    "winner": "Cole Tapper",
+    "loser": "George Pilkington",
+    "match": "Cole Tapper vs George Pilkington",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-6",
+    "winner": "Reuben Corbett",
+    "loser": "Samuel Scott",
+    "match": "Reuben Corbett vs Samuel Scott",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-6",
+    "winner": "Reuben Corbett",
+    "loser": "Samuel Scott",
+    "match": "Reuben Corbett vs Samuel Scott",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-7",
+    "winner": "Noah Malpot",
+    "loser": "Sam Street",
+    "match": "Noah Malpot vs Sam Street",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-7",
+    "winner": "Noah Malpot",
+    "loser": "Sam Street",
+    "match": "Noah Malpot vs Sam Street",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-8",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Braedyn Denney",
+    "match": "Nick Egnot-Johnson vs Braedyn Denney",
+    "race": 1
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "super-sixteen-8",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Braedyn Denney",
+    "match": "Nick Egnot-Johnson vs Braedyn Denney",
+    "race": 2
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Tom Picot",
+    "match": "Cole Tapper vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Josh Hyde",
+    "match": "Cole Tapper vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Reuben Corbett",
+    "match": "Cole Tapper vs Reuben Corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Samuel Scott",
+    "match": "Cole Tapper vs Samuel Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Braedyn Denney",
+    "match": "Cole Tapper vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Jordan Stevenson",
+    "match": "Cole Tapper vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Tom Picot",
+    "loser": "Reuben Corbett",
+    "match": "Tom Picot vs Reuben Corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Tom Picot",
+    "loser": "Samuel Scott",
+    "match": "Tom Picot vs Samuel Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Braedyn Denney",
+    "loser": "Tom Picot",
+    "match": "Tom Picot vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Tom Picot",
+    "loser": "Jordan Stevenson",
+    "match": "Tom Picot vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Reuben Corbett",
+    "match": "Josh Hyde vs Reuben Corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Samuel Scott",
+    "match": "Josh Hyde vs Samuel Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Braedyn Denney",
+    "match": "Josh Hyde vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Jordan Stevenson",
+    "match": "Josh Hyde vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Reuben Corbett",
+    "loser": "Samuel Scott",
+    "match": "Reuben Corbett vs Samuel Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Reuben Corbett",
+    "loser": "Braedyn Denney",
+    "match": "Reuben Corbett vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Reuben Corbett",
+    "loser": "Jordan Stevenson",
+    "match": "Reuben Corbett vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Braedyn Denney",
+    "loser": "Samuel Scott",
+    "match": "Samuel Scott vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Jordan Stevenson",
+    "loser": "Samuel Scott",
+    "match": "Samuel Scott vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Braedyn Denney",
+    "loser": "Jordan Stevenson",
+    "match": "Braedyn Denney vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Cole Tapper",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Cole Tapper",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Tom Picot",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Josh Hyde",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Josh Hyde",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Reuben Corbett",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Reuben Corbett",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Sam Street",
+    "loser": "Samuel Scott",
+    "match": "Sam Street vs Samuel Scott",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Braedyn Denney",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Braedyn Denney",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-b",
+    "winner": "Jordan Stevenson",
+    "loser": "Sam Street",
+    "match": "Sam Street vs Jordan Stevenson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Max Paul",
+    "match": "Nick Egnot-Johnson vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Robbie McCutcheon",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Robbie McCutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Noah Malpot",
+    "match": "Nick Egnot-Johnson vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Ethan Fong",
+    "loser": "Nick Egnot-Johnson",
+    "match": "Nick Egnot-Johnson vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Hayden Smith",
+    "match": "Nick Egnot-Johnson vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "Rory Sims",
+    "match": "Nick Egnot-Johnson vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Max Paul",
+    "loser": "Robbie McCutcheon",
+    "match": "Max Paul vs Robbie McCutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Noah Malpot",
+    "loser": "Max Paul",
+    "match": "Max Paul vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Max Paul",
+    "loser": "Ethan Fong",
+    "match": "Max Paul vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Max Paul",
+    "loser": "Hayden Smith",
+    "match": "Max Paul vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Max Paul",
+    "loser": "Rory Sims",
+    "match": "Max Paul vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Noah Malpot",
+    "loser": "Robbie McCutcheon",
+    "match": "Robbie McCutcheon vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Robbie McCutcheon",
+    "loser": "Ethan Fong",
+    "match": "Robbie McCutcheon vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Robbie McCutcheon",
+    "loser": "Hayden Smith",
+    "match": "Robbie McCutcheon vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Robbie McCutcheon",
+    "loser": "Rory Sims",
+    "match": "Robbie McCutcheon vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Noah Malpot",
+    "loser": "Ethan Fong",
+    "match": "Noah Malpot vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Hayden Smith",
+    "loser": "Noah Malpot",
+    "match": "Noah Malpot vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Noah Malpot",
+    "loser": "Rory Sims",
+    "match": "Noah Malpot vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Ethan Fong vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Ethan Fong",
+    "loser": "Rory Sims",
+    "match": "Ethan Fong vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Hayden Smith",
+    "loser": "Rory Sims",
+    "match": "Hayden Smith vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Nick Egnot-Johnson",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Nick Egnot-Johnson",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Max Paul",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Max Paul",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Robbie McCutcheon",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Robbie McCutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Noah Malpot",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Noah Malpot",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Ethan Fong",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Hayden Smith",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "New Zealand Match Racing National Championships",
+    "phase": "group-a",
+    "winner": "Rory Sims",
+    "loser": "George Pilkington",
+    "match": "George Pilkington vs Rory Sims",
+    "race": 0
+  }
+]

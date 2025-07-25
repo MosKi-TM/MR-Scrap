@@ -1,0 +1,34 @@
+[
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "gold-group-(a)",
+    "winner": "Daniel Kemp",
+    "loser": "Ryan Wilmot",
+    "match": "Ryan Wilmot vs Daniel Kemp",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "gold-group-(b)",
+    "winner": "Alistair Read",
+    "loser": "Murray Gordon",
+    "match": "Murray Gordon vs Alistair Read",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "silver-group-(a)",
+    "winner": "Clare Costanzo",
+    "loser": "Nick Garland",
+    "match": "Nick Garland vs Clare Costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC David Lukins Memorial Regatta",
+    "phase": "silver-group-(b)",
+    "winner": "Will Dargaville",
+    "loser": "Hugo Butterworth",
+    "match": "Hugo Butterworth vs Will Dargaville",
+    "race": 1
+  }
+]

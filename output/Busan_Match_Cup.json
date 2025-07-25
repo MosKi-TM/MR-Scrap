@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "claire leroy vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "petit-final",
+    "winner": "tamara echegoyen",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "petit-final",
+    "winner": "tamara echegoyen",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "semi-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "claire leroy",
+    "match": "claire leroy vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "tamara echegoyen",
+    "match": "claire leroy vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "tamara echegoyen",
+    "match": "claire leroy vs tamara echegoyen",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "ru wang",
+    "match": "lucy macgregor vs ru wang",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "ru wang",
+    "match": "lucy macgregor vs ru wang",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "lucy macgregor",
+    "loser": "ru wang",
+    "match": "lucy macgregor vs ru wang",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "anna kjellberg",
+    "match": "tamara echegoyen vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "anna kjellberg",
+    "match": "tamara echegoyen vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "tamara echegoyen",
+    "loser": "anna kjellberg",
+    "match": "tamara echegoyen vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "claire leroy",
+    "loser": "renee groneveld",
+    "match": "claire leroy vs renee groneveld",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "renee groneveld",
+    "loser": "claire leroy",
+    "match": "claire leroy vs renee groneveld",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "claire leroy",
+    "loser": "renee groneveld",
+    "match": "claire leroy vs renee groneveld",
+    "race": 3
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "claire leroy",
+    "loser": "renee groneveld",
+    "match": "claire leroy vs renee groneveld",
+    "race": 4
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "gulia conti",
+    "match": "ekaterina skudina vs gulia conti",
+    "race": 1
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "gulia conti",
+    "match": "ekaterina skudina vs gulia conti",
+    "race": 2
+  },
+  {
+    "regatta": "Busan Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "ekaterina skudina",
+    "loser": "gulia conti",
+    "match": "ekaterina skudina vs gulia conti",
+    "race": 3
+  }
+]

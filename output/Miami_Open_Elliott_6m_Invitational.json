@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "reuben corbett",
+    "match": "anna tunnicliffe vs reuben corbett",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "reuben corbett",
+    "match": "anna tunnicliffe vs reuben corbett",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "petit-final",
+    "winner": "mandy mulder",
+    "loser": "sally barkow",
+    "match": "mandy mulder vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "petit-final",
+    "winner": "mandy mulder",
+    "loser": "sally barkow",
+    "match": "mandy mulder vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "semi-final-1",
+    "winner": "anna tunnicliffe",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "semi-final-1",
+    "winner": "anna tunnicliffe",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "semi-final-2",
+    "winner": "reuben corbett",
+    "loser": "sally barkow",
+    "match": "sally barkow vs reuben corbett",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "semi-final-2",
+    "winner": "reuben corbett",
+    "loser": "sally barkow",
+    "match": "sally barkow vs reuben corbett",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-1",
+    "winner": "reuben corbett",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs reuben corbett",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-1",
+    "winner": "reuben corbett",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs reuben corbett",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-1",
+    "winner": "reuben corbett",
+    "loser": "stephanie roble",
+    "match": "stephanie roble vs reuben corbett",
+    "race": 3
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-2",
+    "winner": "donald wilson",
+    "loser": "anna tunnicliffe",
+    "match": "donald wilson vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "donald wilson",
+    "match": "donald wilson vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "donald wilson",
+    "match": "donald wilson vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "donald wilson",
+    "match": "donald wilson vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-3",
+    "winner": "genny tulloch",
+    "loser": "sally barkow",
+    "match": "genny tulloch vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs sally barkow",
+    "race": 4
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-4",
+    "winner": "mandy mulder",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-4",
+    "winner": "taylor canfield",
+    "loser": "mandy mulder",
+    "match": "taylor canfield vs mandy mulder",
+    "race": 2
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-4",
+    "winner": "mandy mulder",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs mandy mulder",
+    "race": 3
+  },
+  {
+    "regatta": "Miami Open Elliott 6m Invitational",
+    "phase": "quarter-final-4",
+    "winner": "mandy mulder",
+    "loser": "taylor canfield",
+    "match": "taylor canfield vs mandy mulder",
+    "race": 4
+  }
+]

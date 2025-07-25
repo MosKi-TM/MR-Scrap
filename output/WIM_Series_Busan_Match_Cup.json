@@ -1,0 +1,226 @@
+[
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "final",
+    "winner": "katie spithill",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs katie spithill",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "final",
+    "winner": "katie spithill",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs katie spithill",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "katie spithill",
+    "match": "lucy macgregor vs katie spithill",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "final",
+    "winner": "lucy macgregor",
+    "loser": "katie spithill",
+    "match": "lucy macgregor vs katie spithill",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "final",
+    "winner": "katie spithill",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs katie spithill",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "anna ostling",
+    "match": "claire leroy vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "petit-final",
+    "winner": "claire leroy",
+    "loser": "anna ostling",
+    "match": "claire leroy vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-1",
+    "winner": "lucy macgregor",
+    "loser": "anna ostling",
+    "match": "lucy macgregor vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "katie spithill",
+    "match": "claire leroy vs katie spithill",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "katie spithill",
+    "loser": "claire leroy",
+    "match": "claire leroy vs katie spithill",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "katie spithill",
+    "loser": "claire leroy",
+    "match": "claire leroy vs katie spithill",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "semi-final-2",
+    "winner": "katie spithill",
+    "loser": "claire leroy",
+    "match": "claire leroy vs katie spithill",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "anna ostling",
+    "loser": "stephanie roble",
+    "match": "anna ostling vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "anna ostling",
+    "loser": "stephanie roble",
+    "match": "anna ostling vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "stephanie roble",
+    "loser": "anna ostling",
+    "match": "anna ostling vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-1",
+    "winner": "anna ostling",
+    "loser": "stephanie roble",
+    "match": "anna ostling vs stephanie roble",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "trine palludan",
+    "loser": "katie spithill",
+    "match": "trine palludan vs katie spithill",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "katie spithill",
+    "loser": "trine palludan",
+    "match": "trine palludan vs katie spithill",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "katie spithill",
+    "loser": "trine palludan",
+    "match": "trine palludan vs katie spithill",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "trine palludan",
+    "loser": "katie spithill",
+    "match": "trine palludan vs katie spithill",
+    "race": 4
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-2",
+    "winner": "katie spithill",
+    "loser": "trine palludan",
+    "match": "trine palludan vs katie spithill",
+    "race": 5
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "lucy macgregor",
+    "loser": "caroline sylvan",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "caroline sylvan",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 2
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-3",
+    "winner": "lucy macgregor",
+    "loser": "caroline sylvan",
+    "match": "lucy macgregor vs caroline sylvan",
+    "race": 3
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "claire leroy vs pauline courtois",
+    "race": 1
+  },
+  {
+    "regatta": "WIM Series Busan Match Cup",
+    "phase": "quarter-final-4",
+    "winner": "claire leroy",
+    "loser": "pauline courtois",
+    "match": "claire leroy vs pauline courtois",
+    "race": 2
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "finals",
+    "winner": "johnie berntsson",
+    "loser": "ian williams",
+    "match": "johnie berntsson vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "finals",
+    "winner": "ian williams",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "petit-finals",
+    "winner": "jesper radich",
+    "loser": "peter gilmour",
+    "match": "jesper radich vs peter gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "petit-finals",
+    "winner": "jesper radich",
+    "loser": "peter gilmour",
+    "match": "jesper radich vs peter gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-1",
+    "winner": "peter gilmour",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs peter gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "peter gilmour",
+    "match": "johnie berntsson vs peter gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "peter gilmour",
+    "match": "johnie berntsson vs peter gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-1",
+    "winner": "peter gilmour",
+    "loser": "johnie berntsson",
+    "match": "johnie berntsson vs peter gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-1",
+    "winner": "johnie berntsson",
+    "loser": "peter gilmour",
+    "match": "johnie berntsson vs peter gilmour",
+    "race": 5
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "jesper radich",
+    "match": "ian williams vs jesper radich",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-2",
+    "winner": "jesper radich",
+    "loser": "ian williams",
+    "match": "ian williams vs jesper radich",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "jesper radich",
+    "match": "ian williams vs jesper radich",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "semi-final-2",
+    "winner": "ian williams",
+    "loser": "jesper radich",
+    "match": "ian williams vs jesper radich",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "william tiller",
+    "match": "william tiller vs johnie berntsson",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-1",
+    "winner": "william tiller",
+    "loser": "johnie berntsson",
+    "match": "william tiller vs johnie berntsson",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "william tiller",
+    "match": "william tiller vs johnie berntsson",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-1",
+    "winner": "william tiller",
+    "loser": "johnie berntsson",
+    "match": "william tiller vs johnie berntsson",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-1",
+    "winner": "johnie berntsson",
+    "loser": "william tiller",
+    "match": "william tiller vs johnie berntsson",
+    "race": 5
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-2",
+    "winner": "peter gilmour",
+    "loser": "phil robertson",
+    "match": "phil robertson vs peter gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-2",
+    "winner": "phil robertson",
+    "loser": "peter gilmour",
+    "match": "phil robertson vs peter gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-2",
+    "winner": "phil robertson",
+    "loser": "peter gilmour",
+    "match": "phil robertson vs peter gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-2",
+    "winner": "peter gilmour",
+    "loser": "phil robertson",
+    "match": "phil robertson vs peter gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-2",
+    "winner": "peter gilmour",
+    "loser": "phil robertson",
+    "match": "phil robertson vs peter gilmour",
+    "race": 5
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-3",
+    "winner": "jesper radich",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jesper radich",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-3",
+    "winner": "bjorn hansen",
+    "loser": "jesper radich",
+    "match": "bjorn hansen vs jesper radich",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-3",
+    "winner": "jesper radich",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jesper radich",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-3",
+    "winner": "jesper radich",
+    "loser": "bjorn hansen",
+    "match": "bjorn hansen vs jesper radich",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-3",
+    "winner": "bjorn hansen",
+    "loser": "jesper radich",
+    "match": "bjorn hansen vs jesper radich",
+    "race": 5
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "francesco bruni",
+    "match": "francesco bruni vs ian williams",
+    "race": 1
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "francesco bruni",
+    "match": "francesco bruni vs ian williams",
+    "race": 2
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-4",
+    "winner": "francesco bruni",
+    "loser": "ian williams",
+    "match": "francesco bruni vs ian williams",
+    "race": 3
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "francesco bruni",
+    "match": "francesco bruni vs ian williams",
+    "race": 4
+  },
+  {
+    "regatta": "Monsoon Cup",
+    "phase": "quarter-final-4",
+    "winner": "ian williams",
+    "loser": "francesco bruni",
+    "match": "francesco bruni vs ian williams",
+    "race": 5
+  }
+]

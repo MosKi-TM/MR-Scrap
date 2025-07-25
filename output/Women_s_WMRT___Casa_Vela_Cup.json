@@ -1,0 +1,906 @@
+[
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "celia willison vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "celia willison vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "celia willison vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "final",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "celia willison vs anna ostling",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "petit-final",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "nicole breault",
+    "loser": "anna ostling",
+    "match": "nicole breault vs anna ostling",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "nicole breault vs anna ostling",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "nicole breault",
+    "loser": "anna ostling",
+    "match": "nicole breault vs anna ostling",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "nicole breault vs anna ostling",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-1",
+    "winner": "anna ostling",
+    "loser": "nicole breault",
+    "match": "nicole breault vs anna ostling",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "megan thomson vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "megan thomson vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 4
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "semi-final-2",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "megan thomson vs celia willison",
+    "race": 5
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "5th-/-6th",
+    "winner": "sophie otter",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs sophie otter",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "5th-/-6th",
+    "winner": "sophie otter",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs sophie otter",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "7th-/-8th",
+    "winner": "brooke wilson",
+    "loser": "rebecca coles",
+    "match": "brooke wilson vs rebecca coles",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "7th-/-8th",
+    "winner": "rebecca coles",
+    "loser": "brooke wilson",
+    "match": "brooke wilson vs rebecca coles",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "7th-/-8th",
+    "winner": "brooke wilson",
+    "loser": "rebecca coles",
+    "match": "brooke wilson vs rebecca coles",
+    "race": 3
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "9th-/-10th",
+    "winner": "ali morrish",
+    "loser": "kristine mauritzen",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 1
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "9th-/-10th",
+    "winner": "ali morrish",
+    "loser": "kristine mauritzen",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 2
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "anna ostling",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "celia willison",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "sophie otter",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "anna ostling",
+    "match": "anna ostling vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "anna ostling",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "janel zarkowsky",
+    "match": "anna ostling vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "anna ostling",
+    "loser": "rebecca coles",
+    "match": "anna ostling vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "sophie otter",
+    "match": "nicole breault vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "ali morrish",
+    "match": "nicole breault vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "janel zarkowsky",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "kristine mauritzen",
+    "match": "nicole breault vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "brooke wilson",
+    "match": "nicole breault vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "nicole breault",
+    "loser": "rebecca coles",
+    "match": "nicole breault vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "ali morrish",
+    "match": "celia willison vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "celia willison",
+    "match": "celia willison vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "rebecca coles",
+    "match": "celia willison vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "sophie otter",
+    "match": "sophie otter vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "kristine mauritzen",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "sophie otter",
+    "loser": "brooke wilson",
+    "match": "sophie otter vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "rebecca coles",
+    "loser": "sophie otter",
+    "match": "sophie otter vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "ali morrish",
+    "match": "ali morrish vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "kristine mauritzen",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "ali morrish",
+    "loser": "brooke wilson",
+    "match": "ali morrish vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "rebecca coles",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "megan thomson",
+    "match": "megan thomson vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "megan thomson",
+    "match": "megan thomson vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "megan thomson",
+    "loser": "rebecca coles",
+    "match": "megan thomson vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "janel zarkowsky",
+    "loser": "kristine mauritzen",
+    "match": "janel zarkowsky vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "rebecca coles",
+    "loser": "janel zarkowsky",
+    "match": "janel zarkowsky vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "rebecca coles",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-2",
+    "winner": "brooke wilson",
+    "loser": "rebecca coles",
+    "match": "brooke wilson vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "anna ostling",
+    "match": "anna ostling vs nicole breault",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "anna ostling",
+    "match": "anna ostling vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "anna ostling",
+    "match": "anna ostling vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "anna ostling",
+    "match": "anna ostling vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "megan thomson",
+    "match": "anna ostling vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "anna ostling",
+    "match": "anna ostling vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "kristine mauritzen",
+    "match": "anna ostling vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "brooke wilson",
+    "match": "anna ostling vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "anna ostling",
+    "loser": "rebecca coles",
+    "match": "anna ostling vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "celia willison",
+    "match": "nicole breault vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "sophie otter",
+    "match": "nicole breault vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "ali morrish",
+    "match": "nicole breault vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "megan thomson",
+    "match": "nicole breault vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "janel zarkowsky",
+    "match": "nicole breault vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "kristine mauritzen",
+    "match": "nicole breault vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "brooke wilson",
+    "match": "nicole breault vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "nicole breault",
+    "loser": "rebecca coles",
+    "match": "nicole breault vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "sophie otter",
+    "match": "celia willison vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "celia willison",
+    "match": "celia willison vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "celia willison",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "janel zarkowsky",
+    "match": "celia willison vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "kristine mauritzen",
+    "match": "celia willison vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "brooke wilson",
+    "match": "celia willison vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "rebecca coles",
+    "loser": "celia willison",
+    "match": "celia willison vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "sophie otter vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "sophie otter",
+    "match": "sophie otter vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "janel zarkowsky",
+    "match": "sophie otter vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "kristine mauritzen",
+    "match": "sophie otter vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "brooke wilson",
+    "match": "sophie otter vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "sophie otter",
+    "loser": "rebecca coles",
+    "match": "sophie otter vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "ali morrish",
+    "match": "ali morrish vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "ali morrish",
+    "loser": "kristine mauritzen",
+    "match": "ali morrish vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "ali morrish",
+    "match": "ali morrish vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "rebecca coles",
+    "loser": "ali morrish",
+    "match": "ali morrish vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "janel zarkowsky",
+    "match": "megan thomson vs janel zarkowsky",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "kristine mauritzen",
+    "match": "megan thomson vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "brooke wilson",
+    "match": "megan thomson vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "megan thomson",
+    "loser": "rebecca coles",
+    "match": "megan thomson vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "kristine mauritzen",
+    "match": "janel zarkowsky vs kristine mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "brooke wilson",
+    "match": "janel zarkowsky vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "janel zarkowsky",
+    "loser": "rebecca coles",
+    "match": "janel zarkowsky vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs brooke wilson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "rebecca coles",
+    "loser": "kristine mauritzen",
+    "match": "kristine mauritzen vs rebecca coles",
+    "race": 0
+  },
+  {
+    "regatta": "Women's WMRT – Casa Vela Cup",
+    "phase": "round-robin-1",
+    "winner": "brooke wilson",
+    "loser": "rebecca coles",
+    "match": "brooke wilson vs rebecca coles",
+    "race": 0
+  }
+]

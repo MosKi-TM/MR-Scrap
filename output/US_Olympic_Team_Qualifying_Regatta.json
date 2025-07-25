@@ -1,0 +1,146 @@
+[
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "final",
+    "winner": "anna tunnicliffe",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "sally barkow",
+    "loser": "stephanie roble",
+    "match": "sally barkow vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "petit-final",
+    "winner": "sally barkow",
+    "loser": "stephanie roble",
+    "match": "sally barkow vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "genny tulloch",
+    "loser": "stephanie roble",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 1
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "stephanie roble",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 2
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "stephanie roble",
+    "loser": "genny tulloch",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 3
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "genny tulloch",
+    "loser": "stephanie roble",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 4
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "genny tulloch",
+    "loser": "stephanie roble",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 5
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-1",
+    "winner": "genny tulloch",
+    "loser": "stephanie roble",
+    "match": "genny tulloch vs stephanie roble",
+    "race": 6
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "sally barkow",
+    "loser": "anna tunnicliffe",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "sally barkow",
+    "loser": "anna tunnicliffe",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 3
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 4
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 5
+  },
+  {
+    "regatta": "US Olympic Team Qualifying Regatta",
+    "phase": "semi-final-2",
+    "winner": "anna tunnicliffe",
+    "loser": "sally barkow",
+    "match": "sally barkow vs anna tunnicliffe",
+    "race": 6
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "Justin Callahan",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Justin Callahan",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "Ryan Seago",
+    "loser": "Justin Callahan",
+    "match": "Ryan Seago vs Justin Callahan",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-1",
+    "winner": "Ryan Seago",
+    "loser": "Justin Callahan",
+    "match": "Ryan Seago vs Justin Callahan",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "semi-final-2",
+    "winner": "Chris Poole",
+    "loser": "Zac West",
+    "match": "Chris Poole vs Zac West",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-1",
+    "winner": "Zac West",
+    "loser": "Ian Garretta",
+    "match": "Ian Garretta vs Zac West",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-1",
+    "winner": "Zac West",
+    "loser": "Ian Garretta",
+    "match": "Ian Garretta vs Zac West",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-2",
+    "winner": "Justin Callahan",
+    "loser": "Christian Prendergast",
+    "match": "Justin Callahan vs Christian Prendergast",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-2",
+    "winner": "Christian Prendergast",
+    "loser": "Justin Callahan",
+    "match": "Justin Callahan vs Christian Prendergast",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-2",
+    "winner": "Justin Callahan",
+    "loser": "Christian Prendergast",
+    "match": "Justin Callahan vs Christian Prendergast",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ryan Seago",
+    "loser": "Tom Picot",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "Tom Picot",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-3",
+    "winner": "Ryan Seago",
+    "loser": "Tom Picot",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "Michael Kirkman",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Michael Kirkman",
+    "race": 1
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "Chris Poole",
+    "loser": "Michael Kirkman",
+    "match": "Chris Poole vs Michael Kirkman",
+    "race": 2
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "quarter-final-4",
+    "winner": "Chris Poole",
+    "loser": "Michael Kirkman",
+    "match": "Chris Poole vs Michael Kirkman",
+    "race": 3
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ian Garretta",
+    "match": "Chris Poole vs Ian Garretta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Timothée Rossi",
+    "match": "Chris Poole vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Ryan Seago",
+    "match": "Chris Poole vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Justin Callahan",
+    "match": "Chris Poole vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Chris Poole vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Chris Poole",
+    "loser": "Michael Kirkman",
+    "match": "Chris Poole vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garretta",
+    "loser": "Timothée Rossi",
+    "match": "Ian Garretta vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Ian Garretta",
+    "match": "Ian Garretta vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Ian Garretta",
+    "match": "Ian Garretta vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garretta",
+    "loser": "Christian Prendergast",
+    "match": "Ian Garretta vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garretta",
+    "loser": "Michael Kirkman",
+    "match": "Ian Garretta vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garretta",
+    "loser": "Tom Picot",
+    "match": "Ian Garretta vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Timothée Rossi",
+    "loser": "Ryan Seago",
+    "match": "Timothée Rossi vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Christian Prendergast",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Michael Kirkman",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Timothée Rossi",
+    "match": "Timothée Rossi vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Justin Callahan",
+    "match": "Ryan Seago vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Christian Prendergast",
+    "match": "Ryan Seago vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Michael Kirkman",
+    "match": "Ryan Seago vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Tom Picot",
+    "match": "Ryan Seago vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Christian Prendergast",
+    "match": "Justin Callahan vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Michael Kirkman",
+    "match": "Justin Callahan vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Tom Picot",
+    "match": "Justin Callahan vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Christian Prendergast",
+    "loser": "Michael Kirkman",
+    "match": "Christian Prendergast vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Tom Picot",
+    "loser": "Christian Prendergast",
+    "match": "Christian Prendergast vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Michael Kirkman",
+    "loser": "Tom Picot",
+    "match": "Michael Kirkman vs Tom Picot",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Chris Poole",
+    "match": "Zac West vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ian Garretta",
+    "loser": "Zac West",
+    "match": "Zac West vs Ian Garretta",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Timothée Rossi",
+    "match": "Zac West vs Timothée Rossi",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Ryan Seago",
+    "loser": "Zac West",
+    "match": "Zac West vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Justin Callahan",
+    "loser": "Zac West",
+    "match": "Zac West vs Justin Callahan",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Christian Prendergast",
+    "match": "Zac West vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Michael Kirkman",
+    "loser": "Zac West",
+    "match": "Zac West vs Michael Kirkman",
+    "race": 0
+  },
+  {
+    "regatta": "USA Grand Slam – Detroit Cup",
+    "phase": "round-robin-1",
+    "winner": "Zac West",
+    "loser": "Tom Picot",
+    "match": "Zac West vs Tom Picot",
+    "race": 0
+  }
+]

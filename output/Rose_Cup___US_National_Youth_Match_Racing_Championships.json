@@ -1,0 +1,674 @@
+[
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "cameron feves",
+    "loser": "porter killian",
+    "match": "cameron feves vs porter killian",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "cameron feves",
+    "loser": "porter killian",
+    "match": "cameron feves vs porter killian",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "cameron feves",
+    "loser": "porter killian",
+    "match": "cameron feves vs porter killian",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "david wood",
+    "loser": "jeffery petersen",
+    "match": "david wood vs jeffery petersen",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "david wood",
+    "loser": "jeffery petersen",
+    "match": "david wood vs jeffery petersen",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "porter killian",
+    "loser": "david wood",
+    "match": "david wood vs porter killian",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "porter killian",
+    "loser": "david wood",
+    "match": "david wood vs porter killian",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "porter killian",
+    "loser": "david wood",
+    "match": "david wood vs porter killian",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cameron feves",
+    "loser": "jeffery petersen",
+    "match": "cameron feves vs jeffery petersen",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cameron feves",
+    "loser": "jeffery petersen",
+    "match": "cameron feves vs jeffery petersen",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "cameron feves",
+    "loser": "jeffery petersen",
+    "match": "cameron feves vs jeffery petersen",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "sidney gathrid",
+    "loser": "ansgar jordan",
+    "match": "sidney gathrid vs ansgar jordan",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "sidney gathrid",
+    "loser": "ansgar jordan",
+    "match": "sidney gathrid vs ansgar jordan",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "ansgar jordan",
+    "loser": "owen lahr",
+    "match": "owen lahr vs ansgar jordan",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(a)",
+    "winner": "ansgar jordan",
+    "loser": "owen lahr",
+    "match": "owen lahr vs ansgar jordan",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "sidney gathrid",
+    "loser": "jack egan",
+    "match": "sidney gathrid vs jack egan",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "5th-to-8th-(b)",
+    "winner": "sidney gathrid",
+    "loser": "jack egan",
+    "match": "sidney gathrid vs jack egan",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "sidney gathrid",
+    "loser": "cameron feves",
+    "match": "sidney gathrid vs cameron feves",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "cameron feves",
+    "loser": "sidney gathrid",
+    "match": "sidney gathrid vs cameron feves",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "cameron feves",
+    "loser": "sidney gathrid",
+    "match": "sidney gathrid vs cameron feves",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-1",
+    "winner": "cameron feves",
+    "loser": "sidney gathrid",
+    "match": "sidney gathrid vs cameron feves",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "jeffery petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffery petersen",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "jeffery petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffery petersen",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "jack egan",
+    "loser": "jeffery petersen",
+    "match": "jack egan vs jeffery petersen",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-2",
+    "winner": "jeffery petersen",
+    "loser": "jack egan",
+    "match": "jack egan vs jeffery petersen",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "porter killian",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs porter killian",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "porter killian",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs porter killian",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "ansgar jordan",
+    "loser": "porter killian",
+    "match": "ansgar jordan vs porter killian",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-3",
+    "winner": "porter killian",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs porter killian",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "quarter-final-4",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "trent turigliatto",
+    "loser": "christophe chaumont",
+    "match": "trent turigliatto vs christophe chaumont",
+    "race": 1
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "christophe chaumont",
+    "loser": "trent turigliatto",
+    "match": "trent turigliatto vs christophe chaumont",
+    "race": 2
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "trent turigliatto",
+    "loser": "christophe chaumont",
+    "match": "trent turigliatto vs christophe chaumont",
+    "race": 3
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "christophe chaumont",
+    "loser": "trent turigliatto",
+    "match": "trent turigliatto vs christophe chaumont",
+    "race": 4
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "trent turigliatto",
+    "loser": "christophe chaumont",
+    "match": "trent turigliatto vs christophe chaumont",
+    "race": 5
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "cameron feves",
+    "match": "ansgar jordan vs cameron feves",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "christophe chaumont",
+    "match": "ansgar jordan vs christophe chaumont",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "jack egan",
+    "match": "ansgar jordan vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "ansgar jordan",
+    "match": "ansgar jordan vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "jeffery petersen",
+    "match": "ansgar jordan vs jeffery petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "owen lahr",
+    "match": "ansgar jordan vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "porter killian",
+    "match": "ansgar jordan vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "trent turigliatto",
+    "match": "ansgar jordan vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "ansgar jordan",
+    "loser": "sidney gathrid",
+    "match": "ansgar jordan vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "cameron feves",
+    "loser": "christophe chaumont",
+    "match": "cameron feves vs christophe chaumont",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "cameron feves",
+    "loser": "jack egan",
+    "match": "cameron feves vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "cameron feves",
+    "match": "cameron feves vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jeffery petersen",
+    "loser": "cameron feves",
+    "match": "cameron feves vs jeffery petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "cameron feves",
+    "loser": "owen lahr",
+    "match": "cameron feves vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "cameron feves",
+    "loser": "porter killian",
+    "match": "cameron feves vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "cameron feves",
+    "loser": "trent turigliatto",
+    "match": "cameron feves vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sidney gathrid",
+    "loser": "cameron feves",
+    "match": "cameron feves vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jack egan",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs jack egan",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jeffery petersen",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs jeffery petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "owen lahr",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "porter killian",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "trent turigliatto",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sidney gathrid",
+    "loser": "christophe chaumont",
+    "match": "christophe chaumont vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "jack egan",
+    "match": "jack egan vs david wood",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jack egan",
+    "loser": "jeffery petersen",
+    "match": "jack egan vs jeffery petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jack egan",
+    "loser": "owen lahr",
+    "match": "jack egan vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "porter killian",
+    "loser": "jack egan",
+    "match": "jack egan vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jack egan",
+    "loser": "trent turigliatto",
+    "match": "jack egan vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jack egan",
+    "loser": "sidney gathrid",
+    "match": "jack egan vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "jeffery petersen",
+    "match": "david wood vs jeffery petersen",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "owen lahr",
+    "match": "david wood vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "porter killian",
+    "match": "david wood vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "trent turigliatto",
+    "match": "david wood vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "david wood",
+    "loser": "sidney gathrid",
+    "match": "david wood vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jeffery petersen",
+    "loser": "owen lahr",
+    "match": "jeffery petersen vs owen lahr",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "jeffery petersen",
+    "loser": "porter killian",
+    "match": "jeffery petersen vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "trent turigliatto",
+    "loser": "jeffery petersen",
+    "match": "jeffery petersen vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sidney gathrid",
+    "loser": "jeffery petersen",
+    "match": "jeffery petersen vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "porter killian",
+    "loser": "owen lahr",
+    "match": "owen lahr vs porter killian",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "owen lahr",
+    "loser": "trent turigliatto",
+    "match": "owen lahr vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "owen lahr",
+    "loser": "sidney gathrid",
+    "match": "owen lahr vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "trent turigliatto",
+    "loser": "porter killian",
+    "match": "porter killian vs trent turigliatto",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sidney gathrid",
+    "loser": "porter killian",
+    "match": "porter killian vs sidney gathrid",
+    "race": 0
+  },
+  {
+    "regatta": "Rose Cup – US National Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sidney gathrid",
+    "loser": "trent turigliatto",
+    "match": "trent turigliatto vs sidney gathrid",
+    "race": 0
+  }
+]

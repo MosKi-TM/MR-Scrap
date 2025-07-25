@@ -1,0 +1,410 @@
+[
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "juliet costanzo vs celia willison",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "juliet costanzo vs celia willison",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "final",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "juliet costanzo vs celia willison",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "charlotte griffin",
+    "loser": "india howard",
+    "match": "charlotte griffin vs india howard",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "india howard",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs india howard",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "petit-final",
+    "winner": "india howard",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs india howard",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "juliet costanzo vs india howard",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "semi-final-1",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "juliet costanzo vs india howard",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "celia willison",
+    "loser": "charlotte griffin",
+    "match": "celia willison vs charlotte griffin",
+    "race": 1
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "charlotte griffin",
+    "loser": "celia willison",
+    "match": "celia willison vs charlotte griffin",
+    "race": 2
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "semi-final-2",
+    "winner": "celia willison",
+    "loser": "charlotte griffin",
+    "match": "celia willison vs charlotte griffin",
+    "race": 3
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "celia willison",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "charlotte griffin",
+    "loser": "india howard",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "tanya kelly",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "celia willison",
+    "loser": "india howard",
+    "match": "celia willison vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "celia willison",
+    "loser": "tanya kelly",
+    "match": "celia willison vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "celia willison",
+    "loser": "juliet costanzo",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "india howard",
+    "loser": "tanya kelly",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "india howard vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-4",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "celia willison",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "charlotte griffin",
+    "loser": "india howard",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "charlotte griffin",
+    "loser": "tanya kelly",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "celia willison",
+    "loser": "india howard",
+    "match": "celia willison vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "celia willison",
+    "loser": "tanya kelly",
+    "match": "celia willison vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "celia willison",
+    "loser": "juliet costanzo",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "india howard",
+    "loser": "tanya kelly",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "india howard",
+    "loser": "juliet costanzo",
+    "match": "india howard vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-3",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "charlotte griffin",
+    "loser": "india howard",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "charlotte griffin",
+    "loser": "tanya kelly",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "india howard",
+    "loser": "celia willison",
+    "match": "celia willison vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "celia willison",
+    "loser": "tanya kelly",
+    "match": "celia willison vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "tanya kelly",
+    "loser": "india howard",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "india howard vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-2",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "celia willison",
+    "match": "charlotte griffin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "india howard",
+    "match": "charlotte griffin vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "charlotte griffin",
+    "loser": "tanya kelly",
+    "match": "charlotte griffin vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "charlotte griffin",
+    "match": "charlotte griffin vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "india howard",
+    "match": "celia willison vs india howard",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "celia willison",
+    "loser": "tanya kelly",
+    "match": "celia willison vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "celia willison",
+    "match": "celia willison vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "india howard",
+    "loser": "tanya kelly",
+    "match": "india howard vs tanya kelly",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "india howard",
+    "match": "india howard vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "Australian Women's Match Racing Championship",
+    "phase": "round-robin-1",
+    "winner": "juliet costanzo",
+    "loser": "tanya kelly",
+    "match": "tanya kelly vs juliet costanzo",
+    "race": 0
+  }
+]

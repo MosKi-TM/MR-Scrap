@@ -1,0 +1,1018 @@
+[
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "ange delerce",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ange delerce",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "ange delerce",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ange delerce",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "ange delerce",
+    "match": "cole tapper vs ange delerce",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "cole tapper",
+    "loser": "ange delerce",
+    "match": "cole tapper vs ange delerce",
+    "race": 4
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "final",
+    "winner": "ange delerce",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ange delerce",
+    "race": 5
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "jeffrey petersen",
+    "loser": "will sargent",
+    "match": "jeffrey petersen vs will sargent",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "will sargent",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs will sargent",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "petit-final",
+    "winner": "jeffrey petersen",
+    "loser": "will sargent",
+    "match": "jeffrey petersen vs will sargent",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "ange delerce",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ange delerce",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "ange delerce",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ange delerce",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-1",
+    "winner": "ange delerce",
+    "loser": "jeffrey petersen",
+    "match": "jeffrey petersen vs ange delerce",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "will sargent",
+    "loser": "cole tapper",
+    "match": "will sargent vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "semi-final-2",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 4
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "jeffrey petersen vs tom higgins",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "jeffrey petersen vs tom higgins",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-1",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "jeffrey petersen vs tom higgins",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "nicolas bernal",
+    "loser": "will sargent",
+    "match": "will sargent vs nicolas bernal",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "nicolas bernal",
+    "match": "will sargent vs nicolas bernal",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "nicolas bernal",
+    "match": "will sargent vs nicolas bernal",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "nicolas bernal",
+    "loser": "will sargent",
+    "match": "will sargent vs nicolas bernal",
+    "race": 4
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-2",
+    "winner": "will sargent",
+    "loser": "nicolas bernal",
+    "match": "will sargent vs nicolas bernal",
+    "race": 5
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "ange delerce",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs ange delerce",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "ange delerce",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs ange delerce",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "robbie mccutcheon",
+    "loser": "ange delerce",
+    "match": "robbie mccutcheon vs ange delerce",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "robbie mccutcheon",
+    "loser": "ange delerce",
+    "match": "robbie mccutcheon vs ange delerce",
+    "race": 4
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-3",
+    "winner": "ange delerce",
+    "loser": "robbie mccutcheon",
+    "match": "robbie mccutcheon vs ange delerce",
+    "race": 5
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "timothee rossi",
+    "loser": "cole tapper",
+    "match": "cole tapper vs timothee rossi",
+    "race": 1
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "timothee rossi",
+    "loser": "cole tapper",
+    "match": "cole tapper vs timothee rossi",
+    "race": 2
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 3
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 4
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "quarter-final-4",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 5
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "marius westerlind",
+    "match": "cole tapper vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "cole tapper",
+    "match": "cole tapper vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "benjamin tylecote",
+    "match": "cole tapper vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "jack frewin",
+    "match": "cole tapper vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "nicolas bernal",
+    "match": "cole tapper vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "cole tapper",
+    "loser": "richard rychlik jr",
+    "match": "cole tapper vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "marius westerlind",
+    "match": "timothee rossi vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "benjamin tylecote",
+    "match": "timothee rossi vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack frewin",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "nicolas bernal",
+    "match": "timothee rossi vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "timothee rossi",
+    "loser": "richard rychlik jr",
+    "match": "timothee rossi vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "benjamin tylecote",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack frewin",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "nicolas bernal",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "marius westerlind",
+    "loser": "richard rychlik jr",
+    "match": "marius westerlind vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "benjamin tylecote",
+    "loser": "ange delerce",
+    "match": "ange delerce vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "jack frewin",
+    "match": "ange delerce vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "nicolas bernal",
+    "match": "ange delerce vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "ange delerce",
+    "loser": "richard rychlik jr",
+    "match": "ange delerce vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack frewin",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "nicolas bernal",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "benjamin tylecote",
+    "loser": "richard rychlik jr",
+    "match": "benjamin tylecote vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "nicolas bernal",
+    "loser": "jack frewin",
+    "match": "jack frewin vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "jack frewin",
+    "loser": "richard rychlik jr",
+    "match": "jack frewin vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "repechage",
+    "winner": "nicolas bernal",
+    "loser": "richard rychlik jr",
+    "match": "nicolas bernal vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "cole tapper",
+    "match": "cole tapper vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "timothee rossi",
+    "match": "cole tapper vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "marius westerlind",
+    "match": "cole tapper vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "cole tapper",
+    "match": "cole tapper vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "ange delerce",
+    "match": "cole tapper vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "benjamin tylecote",
+    "match": "cole tapper vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "robbie mccutcheon",
+    "match": "cole tapper vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack frewin",
+    "loser": "cole tapper",
+    "match": "cole tapper vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "cole tapper",
+    "match": "cole tapper vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "cole tapper",
+    "loser": "tom higgins",
+    "match": "cole tapper vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "richard rychlik jr",
+    "loser": "cole tapper",
+    "match": "cole tapper vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "timothee rossi",
+    "match": "will sargent vs timothee rossi",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "marius westerlind",
+    "match": "will sargent vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "will sargent",
+    "match": "will sargent vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "ange delerce",
+    "match": "will sargent vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "benjamin tylecote",
+    "match": "will sargent vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "will sargent",
+    "match": "will sargent vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "jack frewin",
+    "match": "will sargent vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "nicolas bernal",
+    "match": "will sargent vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "will sargent",
+    "match": "will sargent vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "will sargent",
+    "loser": "richard rychlik jr",
+    "match": "will sargent vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "ange delerce",
+    "match": "timothee rossi vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "benjamin tylecote",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "robbie mccutcheon",
+    "match": "timothee rossi vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "jack frewin",
+    "match": "timothee rossi vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "timothee rossi",
+    "match": "timothee rossi vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "tom higgins",
+    "match": "timothee rossi vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "timothee rossi",
+    "loser": "richard rychlik jr",
+    "match": "timothee rossi vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs jeffrey petersen",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "benjamin tylecote",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack frewin",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "marius westerlind",
+    "match": "marius westerlind vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "marius westerlind",
+    "loser": "richard rychlik jr",
+    "match": "marius westerlind vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "ange delerce",
+    "match": "jeffrey petersen vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "benjamin tylecote",
+    "match": "jeffrey petersen vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "robbie mccutcheon",
+    "match": "jeffrey petersen vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "jack frewin",
+    "match": "jeffrey petersen vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "nicolas bernal",
+    "match": "jeffrey petersen vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "tom higgins",
+    "match": "jeffrey petersen vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jeffrey petersen",
+    "loser": "richard rychlik jr",
+    "match": "jeffrey petersen vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "benjamin tylecote",
+    "match": "ange delerce vs benjamin tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "ange delerce",
+    "match": "ange delerce vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "jack frewin",
+    "match": "ange delerce vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "ange delerce",
+    "match": "ange delerce vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "tom higgins",
+    "match": "ange delerce vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "ange delerce",
+    "loser": "richard rychlik jr",
+    "match": "ange delerce vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "benjamin tylecote",
+    "loser": "robbie mccutcheon",
+    "match": "benjamin tylecote vs robbie mccutcheon",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack frewin",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "richard rychlik jr",
+    "loser": "benjamin tylecote",
+    "match": "benjamin tylecote vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "jack frewin",
+    "match": "robbie mccutcheon vs jack frewin",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "nicolas bernal",
+    "match": "robbie mccutcheon vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "tom higgins",
+    "match": "robbie mccutcheon vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "robbie mccutcheon",
+    "loser": "richard rychlik jr",
+    "match": "robbie mccutcheon vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack frewin",
+    "loser": "nicolas bernal",
+    "match": "jack frewin vs nicolas bernal",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "jack frewin",
+    "match": "jack frewin vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "jack frewin",
+    "loser": "richard rychlik jr",
+    "match": "jack frewin vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "nicolas bernal",
+    "match": "nicolas bernal vs tom higgins",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "nicolas bernal",
+    "loser": "richard rychlik jr",
+    "match": "nicolas bernal vs richard rychlik jr",
+    "race": 0
+  },
+  {
+    "regatta": "2023 Youth Match Racing World Championship",
+    "phase": "round-robin",
+    "winner": "tom higgins",
+    "loser": "richard rychlik jr",
+    "match": "tom higgins vs richard rychlik jr",
+    "race": 0
+  }
+]

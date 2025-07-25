@@ -1,0 +1,850 @@
+[
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "johanna bergqvist",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "johanna bergqvist",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "final",
+    "winner": "johanna bergqvist",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "final",
+    "winner": "pauline courtois",
+    "loser": "johanna bergqvist",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "clare costanzo",
+    "match": "celia willison vs clare costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "petit-final",
+    "winner": "celia willison",
+    "loser": "clare costanzo",
+    "match": "celia willison vs clare costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "semi-final-1",
+    "winner": "johanna bergqvist",
+    "loser": "celia willison",
+    "match": "celia willison vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "semi-final-1",
+    "winner": "johanna bergqvist",
+    "loser": "celia willison",
+    "match": "celia willison vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "clare costanzo",
+    "match": "pauline courtois vs clare costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "clare costanzo",
+    "match": "pauline courtois vs clare costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs clare costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "margot riou",
+    "loser": "clare costanzo",
+    "match": "margot riou vs clare costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs clare costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "margot riou",
+    "loser": "clare costanzo",
+    "match": "margot riou vs clare costanzo",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-1",
+    "winner": "clare costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs clare costanzo",
+    "race": 5
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-2",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "celia willison",
+    "loser": "lea richter vogelius",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "lea richter vogelius",
+    "loser": "celia willison",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "celia willison",
+    "loser": "lea richter vogelius",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-3",
+    "winner": "celia willison",
+    "loser": "lea richter vogelius",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 4
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "pauline courtois",
+    "loser": "ekaterina chashchina",
+    "match": "pauline courtois vs ekaterina chashchina",
+    "race": 1
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "pauline courtois",
+    "loser": "ekaterina chashchina",
+    "match": "pauline courtois vs ekaterina chashchina",
+    "race": 2
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "quarter-final-4",
+    "winner": "pauline courtois",
+    "loser": "ekaterina chashchina",
+    "match": "pauline courtois vs ekaterina chashchina",
+    "race": 3
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "lea richter vogelius",
+    "loser": "ekaterina chashchina",
+    "match": "ekaterina chashchina vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "clare costanzo",
+    "loser": "ekaterina chashchina",
+    "match": "ekaterina chashchina vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "margot vennin",
+    "loser": "ekaterina chashchina",
+    "match": "ekaterina chashchina vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "ekaterina chashchina",
+    "loser": "megan thomson",
+    "match": "ekaterina chashchina vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "ekaterina chashchina",
+    "loser": "xiaowen ni",
+    "match": "ekaterina chashchina vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "clare costanzo",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "margot vennin",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "lea richter vogelius",
+    "loser": "megan thomson",
+    "match": "lea richter vogelius vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "lea richter vogelius",
+    "loser": "xiaowen ni",
+    "match": "lea richter vogelius vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "clare costanzo",
+    "loser": "margot vennin",
+    "match": "clare costanzo vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "clare costanzo",
+    "loser": "megan thomson",
+    "match": "clare costanzo vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "clare costanzo",
+    "loser": "xiaowen ni",
+    "match": "clare costanzo vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "margot vennin",
+    "loser": "megan thomson",
+    "match": "margot vennin vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "xiaowen ni",
+    "loser": "margot vennin",
+    "match": "margot vennin vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "repechage",
+    "winner": "xiaowen ni",
+    "loser": "megan thomson",
+    "match": "megan thomson vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "johanna bergqvist",
+    "match": "pauline courtois vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot riou",
+    "match": "pauline courtois vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "celia willison",
+    "match": "pauline courtois vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "megan thomson",
+    "match": "pauline courtois vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "lea richter vogelius",
+    "match": "pauline courtois vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "eunjin kim",
+    "match": "pauline courtois vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ekaterina chashchina",
+    "match": "pauline courtois vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "yuting lu",
+    "match": "pauline courtois vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "xiaowen ni",
+    "match": "pauline courtois vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "margot vennin",
+    "match": "johanna bergqvist vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "margot riou",
+    "match": "johanna bergqvist vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "clare costanzo",
+    "match": "johanna bergqvist vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "megan thomson",
+    "match": "johanna bergqvist vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "lea richter vogelius",
+    "match": "johanna bergqvist vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "eunjin kim",
+    "match": "johanna bergqvist vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "ekaterina chashchina",
+    "match": "johanna bergqvist vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "yuting lu",
+    "match": "johanna bergqvist vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "xiaowen ni",
+    "match": "johanna bergqvist vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "margot vennin",
+    "match": "margot vennin vs margot riou",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "margot vennin",
+    "match": "margot vennin vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "clare costanzo",
+    "match": "margot vennin vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "margot vennin",
+    "match": "margot vennin vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "margot vennin",
+    "match": "margot vennin vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "eunjin kim",
+    "match": "margot vennin vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "ekaterina chashchina",
+    "match": "margot vennin vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "yuting lu",
+    "match": "margot vennin vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "xiaowen ni",
+    "match": "margot vennin vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "celia willison",
+    "match": "margot riou vs celia willison",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "margot riou",
+    "match": "margot riou vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "megan thomson",
+    "match": "margot riou vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "lea richter vogelius",
+    "match": "margot riou vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "eunjin kim",
+    "match": "margot riou vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "ekaterina chashchina",
+    "match": "margot riou vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "yuting lu",
+    "match": "margot riou vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "margot riou",
+    "loser": "xiaowen ni",
+    "match": "margot riou vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "clare costanzo",
+    "match": "celia willison vs clare costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "megan thomson",
+    "match": "celia willison vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "lea richter vogelius",
+    "match": "celia willison vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "eunjin kim",
+    "match": "celia willison vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "ekaterina chashchina",
+    "match": "celia willison vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "yuting lu",
+    "match": "celia willison vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "celia willison",
+    "loser": "xiaowen ni",
+    "match": "celia willison vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "megan thomson",
+    "match": "clare costanzo vs megan thomson",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "eunjin kim",
+    "match": "clare costanzo vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "clare costanzo",
+    "match": "clare costanzo vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "yuting lu",
+    "match": "clare costanzo vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "clare costanzo",
+    "loser": "xiaowen ni",
+    "match": "clare costanzo vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "megan thomson",
+    "match": "megan thomson vs lea richter vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "eunjin kim",
+    "match": "megan thomson vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "megan thomson",
+    "match": "megan thomson vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "yuting lu",
+    "match": "megan thomson vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "megan thomson",
+    "loser": "xiaowen ni",
+    "match": "megan thomson vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "eunjin kim",
+    "match": "lea richter vogelius vs eunjin kim",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "lea richter vogelius",
+    "match": "lea richter vogelius vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "yuting lu",
+    "match": "lea richter vogelius vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "lea richter vogelius",
+    "loser": "xiaowen ni",
+    "match": "lea richter vogelius vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "eunjin kim",
+    "match": "eunjin kim vs ekaterina chashchina",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "eunjin kim",
+    "loser": "yuting lu",
+    "match": "eunjin kim vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "xiaowen ni",
+    "loser": "eunjin kim",
+    "match": "eunjin kim vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "yuting lu",
+    "match": "ekaterina chashchina vs yuting lu",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "ekaterina chashchina",
+    "loser": "xiaowen ni",
+    "match": "ekaterina chashchina vs xiaowen ni",
+    "race": 0
+  },
+  {
+    "regatta": "WIMSeries China International Match Race",
+    "phase": "round-robin",
+    "winner": "xiaowen ni",
+    "loser": "yuting lu",
+    "match": "yuting lu vs xiaowen ni",
+    "race": 0
+  }
+]

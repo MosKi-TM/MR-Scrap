@@ -1,0 +1,570 @@
+[
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "Pearson Potts",
+    "loser": "Nicole Breault",
+    "match": "Pearson Potts vs Nicole Breault",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "Nicole Breault",
+    "loser": "Pearson Potts",
+    "match": "Pearson Potts vs Nicole Breault",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "final",
+    "winner": "Pearson Potts",
+    "loser": "Nicole Breault",
+    "match": "Pearson Potts vs Nicole Breault",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "petit-final",
+    "winner": "Chris Poole",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Chris Poole",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "petit-final",
+    "winner": "Morgan Pinckney",
+    "loser": "Chris Poole",
+    "match": "Morgan Pinckney vs Chris Poole",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "petit-final",
+    "winner": "Morgan Pinckney",
+    "loser": "Chris Poole",
+    "match": "Morgan Pinckney vs Chris Poole",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "Pearson Potts",
+    "loser": "Chris Poole",
+    "match": "Pearson Potts vs Chris Poole",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "Pearson Potts",
+    "loser": "Chris Poole",
+    "match": "Pearson Potts vs Chris Poole",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "Chris Poole",
+    "loser": "Pearson Potts",
+    "match": "Pearson Potts vs Chris Poole",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-1",
+    "winner": "Pearson Potts",
+    "loser": "Chris Poole",
+    "match": "Pearson Potts vs Chris Poole",
+    "race": 4
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Morgan Pinckney",
+    "match": "Nicole Breault vs Morgan Pinckney",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Morgan Pinckney",
+    "match": "Nicole Breault vs Morgan Pinckney",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "Morgan Pinckney",
+    "loser": "Nicole Breault",
+    "match": "Nicole Breault vs Morgan Pinckney",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "semi-final-2",
+    "winner": "Nicole Breault",
+    "loser": "Morgan Pinckney",
+    "match": "Nicole Breault vs Morgan Pinckney",
+    "race": 4
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "Peter Holz",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Peter Holz",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Peter Holz",
+    "match": "Morgan Pinckney vs Peter Holz",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-1",
+    "winner": "Morgan Pinckney",
+    "loser": "Peter Holz",
+    "match": "Morgan Pinckney vs Peter Holz",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Chris Poole vs Christian Prendergast",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-2",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Chris Poole vs Christian Prendergast",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-3",
+    "winner": "Pearson Potts",
+    "loser": "Christopher Weis",
+    "match": "Pearson Potts vs Christopher Weis",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-3",
+    "winner": "Pearson Potts",
+    "loser": "Christopher Weis",
+    "match": "Pearson Potts vs Christopher Weis",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-4",
+    "winner": "Nicole Breault",
+    "loser": "Shane Young",
+    "match": "Nicole Breault vs Shane Young",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "quarter-final-4",
+    "winner": "Nicole Breault",
+    "loser": "Shane Young",
+    "match": "Nicole Breault vs Shane Young",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "9th-/-10th",
+    "winner": "Axel Stordahl",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 1
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "9th-/-10th",
+    "winner": "Ryan Seago",
+    "loser": "Axel Stordahl",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 2
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "9th-/-10th",
+    "winner": "Ryan Seago",
+    "loser": "Axel Stordahl",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 3
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Nicole Breault",
+    "match": "Chris Poole vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Ryan Seago",
+    "match": "Chris Poole vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Shane Young",
+    "match": "Chris Poole vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Christopher Weis",
+    "match": "Chris Poole vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Axel Stordahl",
+    "loser": "Chris Poole",
+    "match": "Chris Poole vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Christian Prendergast",
+    "match": "Chris Poole vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Nicole Breault",
+    "match": "Peter Holz vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Ryan Seago",
+    "match": "Peter Holz vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Shane Young",
+    "match": "Peter Holz vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Christopher Weis",
+    "match": "Peter Holz vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Peter Holz",
+    "loser": "Axel Stordahl",
+    "match": "Peter Holz vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Peter Holz",
+    "match": "Peter Holz vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Nicole Breault",
+    "match": "Pearson Potts vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Ryan Seago",
+    "match": "Pearson Potts vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Shane Young",
+    "match": "Pearson Potts vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Christopher Weis",
+    "match": "Pearson Potts vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Axel Stordahl",
+    "match": "Pearson Potts vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Christian Prendergast",
+    "match": "Pearson Potts vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Ryan Seago",
+    "match": "Nicole Breault vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Shane Young",
+    "match": "Nicole Breault vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Christopher Weis",
+    "match": "Nicole Breault vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Axel Stordahl",
+    "match": "Nicole Breault vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Christian Prendergast",
+    "match": "Nicole Breault vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Shane Young",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Ryan Seago",
+    "loser": "Christopher Weis",
+    "match": "Ryan Seago vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Axel Stordahl",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Ryan Seago",
+    "match": "Ryan Seago vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Shane Young",
+    "loser": "Christopher Weis",
+    "match": "Shane Young vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Axel Stordahl",
+    "loser": "Shane Young",
+    "match": "Shane Young vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Shane Young",
+    "match": "Shane Young vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Axel Stordahl",
+    "loser": "Christopher Weis",
+    "match": "Christopher Weis vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Christopher Weis",
+    "match": "Christopher Weis vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Christian Prendergast",
+    "loser": "Axel Stordahl",
+    "match": "Axel Stordahl vs Christian Prendergast",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Chris Poole",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Chris Poole",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Peter Holz",
+    "match": "Morgan Pinckney vs Peter Holz",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Pearson Potts",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Pearson Potts",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Nicole Breault",
+    "loser": "Morgan Pinckney",
+    "match": "Morgan Pinckney vs Nicole Breault",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Ryan Seago",
+    "match": "Morgan Pinckney vs Ryan Seago",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Shane Young",
+    "match": "Morgan Pinckney vs Shane Young",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Christopher Weis",
+    "match": "Morgan Pinckney vs Christopher Weis",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Axel Stordahl",
+    "match": "Morgan Pinckney vs Axel Stordahl",
+    "race": 0
+  },
+  {
+    "regatta": "US Match Racing National Championship",
+    "phase": "round-robin",
+    "winner": "Morgan Pinckney",
+    "loser": "Christian Prendergast",
+    "match": "Morgan Pinckney vs Christian Prendergast",
+    "race": 0
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "ettore botticini",
+    "match": "harry price vs ettore botticini",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "ettore botticini",
+    "loser": "harry price",
+    "match": "harry price vs ettore botticini",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "ettore botticini",
+    "loser": "harry price",
+    "match": "harry price vs ettore botticini",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "ettore botticini",
+    "match": "harry price vs ettore botticini",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "final",
+    "winner": "harry price",
+    "loser": "ettore botticini",
+    "match": "harry price vs ettore botticini",
+    "race": 5
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "george anyon",
+    "loser": "greiner hobbs",
+    "match": "george anyon vs greiner hobbs",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "george anyon",
+    "loser": "greiner hobbs",
+    "match": "george anyon vs greiner hobbs",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ettore botticini",
+    "loser": "george anyon",
+    "match": "george anyon vs ettore botticini",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "george anyon",
+    "loser": "ettore botticini",
+    "match": "george anyon vs ettore botticini",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ettore botticini",
+    "loser": "george anyon",
+    "match": "george anyon vs ettore botticini",
+    "race": 3
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "ettore botticini",
+    "loser": "george anyon",
+    "match": "george anyon vs ettore botticini",
+    "race": 4
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "greiner hobbs",
+    "match": "harry price vs greiner hobbs",
+    "race": 1
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "greiner hobbs",
+    "match": "harry price vs greiner hobbs",
+    "race": 2
+  },
+  {
+    "regatta": "Youth Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "harry price",
+    "loser": "greiner hobbs",
+    "match": "harry price vs greiner hobbs",
+    "race": 3
+  }
+]

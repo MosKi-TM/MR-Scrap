@@ -1,0 +1,98 @@
+[
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "final",
+    "winner": "victor abenius",
+    "loser": "carl ljunggren",
+    "match": "victor abenius vs carl ljunggren",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "final",
+    "winner": "victor abenius",
+    "loser": "carl ljunggren",
+    "match": "victor abenius vs carl ljunggren",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "petit-final",
+    "winner": "lovisa karlsson",
+    "loser": "oscar engstrom",
+    "match": "oscar engstrom vs lovisa karlsson",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "petit-final",
+    "winner": "oscar engstrom",
+    "loser": "lovisa karlsson",
+    "match": "oscar engstrom vs lovisa karlsson",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "petit-final",
+    "winner": "lovisa karlsson",
+    "loser": "oscar engstrom",
+    "match": "oscar engstrom vs lovisa karlsson",
+    "race": 3
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "carl ljunggren",
+    "loser": "oscar engstrom",
+    "match": "carl ljunggren vs oscar engstrom",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "oscar engstrom",
+    "loser": "carl ljunggren",
+    "match": "carl ljunggren vs oscar engstrom",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "semi-final-1",
+    "winner": "carl ljunggren",
+    "loser": "oscar engstrom",
+    "match": "carl ljunggren vs oscar engstrom",
+    "race": 3
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "victor abenius",
+    "loser": "lovisa karlsson",
+    "match": "lovisa karlsson vs victor abenius",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "semi-final-2",
+    "winner": "victor abenius",
+    "loser": "lovisa karlsson",
+    "match": "lovisa karlsson vs victor abenius",
+    "race": 2
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "7th-/-8th",
+    "winner": "jacob reuterskiold",
+    "loser": "lukas andersson",
+    "match": "jacob reuterskiold vs lukas andersson",
+    "race": 1
+  },
+  {
+    "regatta": "Swedish Youth National Championships",
+    "phase": "9th-/-10th",
+    "winner": "jacob klitte",
+    "loser": "gustav koritz",
+    "match": "jacob klitte vs gustav koritz",
+    "race": 1
+  }
+]

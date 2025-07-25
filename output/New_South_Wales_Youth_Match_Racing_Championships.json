@@ -1,0 +1,490 @@
+[
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "tom grimes",
+    "match": "tom grimes vs james hodgson",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "final",
+    "winner": "james hodgson",
+    "loser": "tom grimes",
+    "match": "tom grimes vs james hodgson",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "petit-final",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "tom grimes",
+    "loser": "hayden brown",
+    "match": "tom grimes vs hayden brown",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "semi-final-1",
+    "winner": "tom grimes",
+    "loser": "hayden brown",
+    "match": "tom grimes vs hayden brown",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "nick rozenauers",
+    "loser": "james hodgson",
+    "match": "james hodgson vs nick rozenauers",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick rozenauers",
+    "match": "james hodgson vs nick rozenauers",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "semi-final-2",
+    "winner": "james hodgson",
+    "loser": "nick rozenauers",
+    "match": "james hodgson vs nick rozenauers",
+    "race": 3
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "james farquharson",
+    "loser": "sarah parker",
+    "match": "sarah parker vs james farquharson",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "5th-/-6th",
+    "winner": "james farquharson",
+    "loser": "sarah parker",
+    "match": "sarah parker vs james farquharson",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "thomas steenson",
+    "loser": "fergus abbott",
+    "match": "thomas steenson vs fergus abbott",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "fergus abbott",
+    "loser": "thomas steenson",
+    "match": "thomas steenson vs fergus abbott",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "7th-/-8th",
+    "winner": "thomas steenson",
+    "loser": "fergus abbott",
+    "match": "thomas steenson vs fergus abbott",
+    "race": 3
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "taylor rogers",
+    "loser": "nick anderson",
+    "match": "taylor rogers vs nick anderson",
+    "race": 1
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "9th-/-10th",
+    "winner": "taylor rogers",
+    "loser": "nick anderson",
+    "match": "taylor rogers vs nick anderson",
+    "race": 2
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "james hodgson",
+    "match": "james hodgson vs tom grimes",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "nick rozenauers",
+    "match": "james hodgson vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "sarah parker",
+    "match": "james hodgson vs sarah parker",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "james farquharson",
+    "match": "james hodgson vs james farquharson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "thomas steenson",
+    "match": "james hodgson vs thomas steenson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "hayden brown",
+    "match": "james hodgson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "fergus abbott",
+    "match": "james hodgson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james hodgson",
+    "loser": "nick anderson",
+    "match": "james hodgson vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "taylor rogers",
+    "loser": "james hodgson",
+    "match": "james hodgson vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "tom grimes",
+    "match": "tom grimes vs nick rozenauers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "sarah parker",
+    "match": "tom grimes vs sarah parker",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "james farquharson",
+    "match": "tom grimes vs james farquharson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "thomas steenson",
+    "match": "tom grimes vs thomas steenson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "hayden brown",
+    "match": "tom grimes vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "fergus abbott",
+    "match": "tom grimes vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "nick anderson",
+    "match": "tom grimes vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "taylor rogers",
+    "match": "tom grimes vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "sarah parker",
+    "match": "nick rozenauers vs sarah parker",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "james farquharson",
+    "match": "nick rozenauers vs james farquharson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas steenson",
+    "loser": "nick rozenauers",
+    "match": "nick rozenauers vs thomas steenson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "hayden brown",
+    "match": "nick rozenauers vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "fergus abbott",
+    "match": "nick rozenauers vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick anderson",
+    "loser": "nick rozenauers",
+    "match": "nick rozenauers vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "nick rozenauers",
+    "loser": "taylor rogers",
+    "match": "nick rozenauers vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sarah parker",
+    "loser": "james farquharson",
+    "match": "sarah parker vs james farquharson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sarah parker",
+    "loser": "thomas steenson",
+    "match": "sarah parker vs thomas steenson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "sarah parker",
+    "match": "sarah parker vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "fergus abbott",
+    "loser": "sarah parker",
+    "match": "sarah parker vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sarah parker",
+    "loser": "nick anderson",
+    "match": "sarah parker vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "sarah parker",
+    "loser": "taylor rogers",
+    "match": "sarah parker vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james farquharson",
+    "loser": "thomas steenson",
+    "match": "james farquharson vs thomas steenson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "james farquharson",
+    "match": "james farquharson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james farquharson",
+    "loser": "fergus abbott",
+    "match": "james farquharson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james farquharson",
+    "loser": "nick anderson",
+    "match": "james farquharson vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "james farquharson",
+    "loser": "taylor rogers",
+    "match": "james farquharson vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "thomas steenson",
+    "match": "thomas steenson vs hayden brown",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas steenson",
+    "loser": "fergus abbott",
+    "match": "thomas steenson vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas steenson",
+    "loser": "nick anderson",
+    "match": "thomas steenson vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "thomas steenson",
+    "loser": "taylor rogers",
+    "match": "thomas steenson vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "fergus abbott",
+    "loser": "hayden brown",
+    "match": "hayden brown vs fergus abbott",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "hayden brown",
+    "loser": "nick anderson",
+    "match": "hayden brown vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "taylor rogers",
+    "loser": "hayden brown",
+    "match": "hayden brown vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "fergus abbott",
+    "loser": "nick anderson",
+    "match": "fergus abbott vs nick anderson",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "fergus abbott",
+    "loser": "taylor rogers",
+    "match": "fergus abbott vs taylor rogers",
+    "race": 0
+  },
+  {
+    "regatta": "New South Wales Youth Match Racing Championships",
+    "phase": "round-robin",
+    "winner": "taylor rogers",
+    "loser": "nick anderson",
+    "match": "nick anderson vs taylor rogers",
+    "race": 0
+  }
+]

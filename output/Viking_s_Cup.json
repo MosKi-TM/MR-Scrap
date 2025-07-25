@@ -1,0 +1,506 @@
+[
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "thimote polet",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "aurelien pierroz",
+    "loser": "thimote polet",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "aurelien pierroz",
+    "loser": "thimote polet",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "final",
+    "winner": "aurelien pierroz",
+    "loser": "thimote polet",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 4
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "chris poole",
+    "match": "pauline courtois vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "petit-final",
+    "winner": "pauline courtois",
+    "loser": "chris poole",
+    "match": "pauline courtois vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "chris poole",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "chris poole",
+    "match": "aurelien pierroz vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "chris poole",
+    "match": "aurelien pierroz vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-1",
+    "winner": "aurelien pierroz",
+    "loser": "chris poole",
+    "match": "aurelien pierroz vs chris poole",
+    "race": 4
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "pauline courtois",
+    "loser": "thimote polet",
+    "match": "pauline courtois vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "thimote polet",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "thimote polet",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "semi-final-2",
+    "winner": "thimote polet",
+    "loser": "pauline courtois",
+    "match": "pauline courtois vs thimote polet",
+    "race": 4
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "5th-/-6th",
+    "winner": "margot vennin",
+    "loser": "julia aartsen",
+    "match": "margot vennin vs julia aartsen",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "6th-/-7th",
+    "winner": "julia aartsen",
+    "loser": "philippe benaben",
+    "match": "julia aartsen vs philippe benaben",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "7th-/-8th",
+    "winner": "philippe benaben",
+    "loser": "octavia owen",
+    "match": "philippe benaben vs octavia owen",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "8th-/-9th",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "margot vennin",
+    "match": "margot vennin vs chris poole",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "margot vennin",
+    "match": "margot vennin vs chris poole",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-1",
+    "winner": "chris poole",
+    "loser": "margot vennin",
+    "match": "margot vennin vs chris poole",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs thimote polet",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs thimote polet",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-2",
+    "winner": "thimote polet",
+    "loser": "julia aartsen",
+    "match": "julia aartsen vs thimote polet",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "philippe benaben",
+    "match": "philippe benaben vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "philippe benaben",
+    "match": "philippe benaben vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "quarter-final-3",
+    "winner": "aurelien pierroz",
+    "loser": "philippe benaben",
+    "match": "philippe benaben vs aurelien pierroz",
+    "race": 3
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "chris poole",
+    "match": "chris poole vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "pauline courtois",
+    "match": "chris poole vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "chris poole",
+    "match": "chris poole vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "chris poole",
+    "match": "chris poole vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "philippe benaben",
+    "loser": "chris poole",
+    "match": "chris poole vs philippe benaben",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "octavia owen",
+    "match": "chris poole vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "ellie cumpsty",
+    "match": "chris poole vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "chris poole",
+    "loser": "julia aartsen",
+    "match": "chris poole vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs pauline courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "thimote polet",
+    "match": "aurelien pierroz vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "margot vennin",
+    "match": "aurelien pierroz vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "philippe benaben",
+    "match": "aurelien pierroz vs philippe benaben",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "octavia owen",
+    "match": "aurelien pierroz vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ellie cumpsty",
+    "match": "aurelien pierroz vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "julia aartsen",
+    "match": "aurelien pierroz vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "thimote polet",
+    "match": "pauline courtois vs thimote polet",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "margot vennin",
+    "match": "pauline courtois vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "philippe benaben",
+    "match": "pauline courtois vs philippe benaben",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "octavia owen",
+    "match": "pauline courtois vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "ellie cumpsty",
+    "match": "pauline courtois vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "pauline courtois",
+    "loser": "julia aartsen",
+    "match": "pauline courtois vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "margot vennin",
+    "match": "thimote polet vs margot vennin",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "philippe benaben",
+    "match": "thimote polet vs philippe benaben",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "octavia owen",
+    "match": "thimote polet vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "ellie cumpsty",
+    "match": "thimote polet vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "thimote polet",
+    "loser": "julia aartsen",
+    "match": "thimote polet vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "philippe benaben",
+    "match": "margot vennin vs philippe benaben",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "octavia owen",
+    "match": "margot vennin vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "ellie cumpsty",
+    "match": "margot vennin vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "margot vennin",
+    "loser": "julia aartsen",
+    "match": "margot vennin vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "philippe benaben",
+    "loser": "octavia owen",
+    "match": "philippe benaben vs octavia owen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "philippe benaben",
+    "loser": "ellie cumpsty",
+    "match": "philippe benaben vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "philippe benaben",
+    "match": "philippe benaben vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "octavia owen",
+    "loser": "ellie cumpsty",
+    "match": "octavia owen vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "julia aartsen",
+    "loser": "octavia owen",
+    "match": "octavia owen vs julia aartsen",
+    "race": 0
+  },
+  {
+    "regatta": "Viking's Cup",
+    "phase": "round-robin",
+    "winner": "ellie cumpsty",
+    "loser": "julia aartsen",
+    "match": "ellie cumpsty vs julia aartsen",
+    "race": 0
+  }
+]

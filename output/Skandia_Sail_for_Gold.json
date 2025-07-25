@@ -1,0 +1,138 @@
+[
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "final",
+    "winner": "olivia price",
+    "loser": "claire leroy",
+    "match": "olivia price vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "olivia price",
+    "match": "olivia price vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "final",
+    "winner": "olivia price",
+    "loser": "claire leroy",
+    "match": "olivia price vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "petit-final",
+    "winner": "anna tunnicliffe",
+    "loser": "ekaterina skudina",
+    "match": "anna tunnicliffe vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "semi-final-1",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "anna tunnicliffe",
+    "match": "claire leroy vs anna tunnicliffe",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "anna tunnicliffe",
+    "match": "claire leroy vs anna tunnicliffe",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "tamara echegoyen",
+    "match": "ekaterina skudina vs tamara echegoyen",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "tamara echegoyen",
+    "match": "ekaterina skudina vs tamara echegoyen",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-2",
+    "winner": "claire leroy",
+    "loser": "stephanie hazard",
+    "match": "claire leroy vs stephanie hazard",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-2",
+    "winner": "claire leroy",
+    "loser": "stephanie hazard",
+    "match": "claire leroy vs stephanie hazard",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-3",
+    "winner": "anna tunnicliffe",
+    "loser": "silja lehtinen",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-3",
+    "winner": "anna tunnicliffe",
+    "loser": "silja lehtinen",
+    "match": "anna tunnicliffe vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-4",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "olivia price vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-4",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "olivia price vs lucy macgregor",
+    "race": 2
+  },
+  {
+    "regatta": "Skandia Sail for Gold",
+    "phase": "quarter-final-4",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "olivia price vs lucy macgregor",
+    "race": 3
+  }
+]

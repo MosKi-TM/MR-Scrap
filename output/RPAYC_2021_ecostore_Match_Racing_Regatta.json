@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "final",
+    "winner": "alistair read",
+    "loser": "will sargent",
+    "match": "will sargent vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "will sargent vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "will sargent vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "final",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "will sargent vs alistair read",
+    "race": 4
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "cole tapper",
+    "loser": "max paul",
+    "match": "max paul vs cole tapper",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "petit-final",
+    "winner": "cole tapper",
+    "loser": "max paul",
+    "match": "max paul vs cole tapper",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "max paul",
+    "loser": "will sargent",
+    "match": "max paul vs will sargent",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "will sargent",
+    "loser": "max paul",
+    "match": "max paul vs will sargent",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "semi-final-1",
+    "winner": "will sargent",
+    "loser": "max paul",
+    "match": "max paul vs will sargent",
+    "race": 3
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "cole tapper vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "semi-final-2",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "cole tapper vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "jed cruickshank",
+    "loser": "emma rankin",
+    "match": "jed cruickshank vs emma rankin",
+    "race": 1
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "5th-/-6th",
+    "winner": "jed cruickshank",
+    "loser": "emma rankin",
+    "match": "jed cruickshank vs emma rankin",
+    "race": 2
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "alistair read vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "jed cruickshank",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "alistair read",
+    "match": "alistair read vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "alistair read",
+    "match": "alistair read vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "alistair read",
+    "loser": "emma rankin",
+    "match": "alistair read vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "will sargent",
+    "match": "will sargent vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "max paul",
+    "match": "will sargent vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "will sargent",
+    "loser": "emma rankin",
+    "match": "will sargent vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "jed cruickshank",
+    "loser": "emma rankin",
+    "match": "jed cruickshank vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "cole tapper",
+    "match": "cole tapper vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "cole tapper",
+    "loser": "emma rankin",
+    "match": "cole tapper vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-2",
+    "winner": "max paul",
+    "loser": "emma rankin",
+    "match": "max paul vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "alistair read",
+    "match": "alistair read vs will sargent",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "alistair read",
+    "match": "alistair read vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "cole tapper",
+    "match": "alistair read vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "alistair read",
+    "loser": "max paul",
+    "match": "alistair read vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "emma rankin",
+    "loser": "alistair read",
+    "match": "alistair read vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "jed cruickshank",
+    "match": "will sargent vs jed cruickshank",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "cole tapper",
+    "match": "will sargent vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "max paul",
+    "match": "will sargent vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "will sargent",
+    "loser": "emma rankin",
+    "match": "will sargent vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs cole tapper",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "jed cruickshank",
+    "match": "jed cruickshank vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "jed cruickshank",
+    "loser": "emma rankin",
+    "match": "jed cruickshank vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "cole tapper",
+    "match": "cole tapper vs max paul",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "cole tapper",
+    "loser": "emma rankin",
+    "match": "cole tapper vs emma rankin",
+    "race": 0
+  },
+  {
+    "regatta": "RPAYC 2021 ecostore Match Racing Regatta",
+    "phase": "round-robin-1",
+    "winner": "max paul",
+    "loser": "emma rankin",
+    "match": "max paul vs emma rankin",
+    "race": 0
+  }
+]

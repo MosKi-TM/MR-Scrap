@@ -1,0 +1,482 @@
+[
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Pauline Courtois",
+    "loser": "Julia D’Amodio",
+    "match": "Pauline Courtois vs Julia D’Amodio",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Pauline Courtois",
+    "loser": "Lucie Gout",
+    "match": "Pauline Courtois vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Pauline Courtois",
+    "loser": "Thea Khelif",
+    "match": "Pauline Courtois vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Julia D’Amodio",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Julia D’Amodio",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Lucie Gout",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Kenza Coutard",
+    "loser": "Thea Khelif",
+    "match": "Kenza Coutard vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Lucie Gout",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Thea Khelif",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Lucie Gout",
+    "loser": "Thea Khelif",
+    "match": "Lucie Gout vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Pauline Courtois",
+    "loser": "Enora Percheron",
+    "match": "Enora Percheron vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Kenza Coutard",
+    "loser": "Enora Percheron",
+    "match": "Enora Percheron vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Enora Percheron",
+    "loser": "Julia D’Amodio",
+    "match": "Enora Percheron vs Julia D’Amodio",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Lucie Gout",
+    "loser": "Enora Percheron",
+    "match": "Enora Percheron vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "gold-group",
+    "winner": "Thea Khelif",
+    "loser": "Enora Percheron",
+    "match": "Enora Percheron vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Christelle Philippe",
+    "loser": "Florine Bourit",
+    "match": "Christelle Philippe vs Florine Bourit",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Charlotte Yven",
+    "loser": "Christelle Philippe",
+    "match": "Christelle Philippe vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Christelle Philippe",
+    "loser": "Lila Lenoel",
+    "match": "Christelle Philippe vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Christelle Philippe",
+    "loser": "Camille Le Nagard",
+    "match": "Christelle Philippe vs Camille Le Nagard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Charlotte Yven",
+    "loser": "Florine Bourit",
+    "match": "Florine Bourit vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Lila Lenoel",
+    "loser": "Florine Bourit",
+    "match": "Florine Bourit vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Florine Bourit",
+    "loser": "Camille Le Nagard",
+    "match": "Florine Bourit vs Camille Le Nagard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Lila Lenoel",
+    "loser": "Charlotte Yven",
+    "match": "Charlotte Yven vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Charlotte Yven",
+    "loser": "Camille Le Nagard",
+    "match": "Charlotte Yven vs Camille Le Nagard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Lila Lenoel",
+    "loser": "Camille Le Nagard",
+    "match": "Lila Lenoel vs Camille Le Nagard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Christelle Philippe",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Christelle Philippe",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Florine Bourit",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Florine Bourit",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Charlotte Yven",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Lila Lenoel",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "silver-group",
+    "winner": "Camille Le Nagard",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Camille Le Nagard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Christelle Philippe",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Christelle Philippe",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Lucie Gout",
+    "loser": "Kenza Coutard",
+    "match": "Kenza Coutard vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Kenza Coutard",
+    "loser": "Thea Khelif",
+    "match": "Kenza Coutard vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Kenza Coutard",
+    "loser": "Lila Lenoel",
+    "match": "Kenza Coutard vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Christelle Philippe",
+    "loser": "Lucie Gout",
+    "match": "Christelle Philippe vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Thea Khelif",
+    "loser": "Christelle Philippe",
+    "match": "Christelle Philippe vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Christelle Philippe",
+    "loser": "Lila Lenoel",
+    "match": "Christelle Philippe vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Lucie Gout",
+    "loser": "Thea Khelif",
+    "match": "Lucie Gout vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Lila Lenoel",
+    "loser": "Lucie Gout",
+    "match": "Lucie Gout vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Thea Khelif",
+    "loser": "Lila Lenoel",
+    "match": "Thea Khelif vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Kenza Coutard",
+    "loser": "Camille Le Nagard",
+    "match": "Camille Le Nagard vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Christelle Philippe",
+    "loser": "Camille Le Nagard",
+    "match": "Camille Le Nagard vs Christelle Philippe",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Camille Le Nagard",
+    "loser": "Lucie Gout",
+    "match": "Camille Le Nagard vs Lucie Gout",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Thea Khelif",
+    "loser": "Camille Le Nagard",
+    "match": "Camille Le Nagard vs Thea Khelif",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-a",
+    "winner": "Lila Lenoel",
+    "loser": "Camille Le Nagard",
+    "match": "Camille Le Nagard vs Lila Lenoel",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Pauline Courtois",
+    "loser": "Julia D’Amodio",
+    "match": "Pauline Courtois vs Julia D’Amodio",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Pauline Courtois",
+    "loser": "Florine Bourit",
+    "match": "Pauline Courtois vs Florine Bourit",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Pauline Courtois",
+    "loser": "Charlotte Yven",
+    "match": "Pauline Courtois vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Pauline Courtois",
+    "loser": "Enora Percheron",
+    "match": "Pauline Courtois vs Enora Percheron",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Julia D’Amodio",
+    "loser": "Florine Bourit",
+    "match": "Julia D’Amodio vs Florine Bourit",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Charlotte Yven",
+    "loser": "Julia D’Amodio",
+    "match": "Julia D’Amodio vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Julia D’Amodio",
+    "loser": "Enora Percheron",
+    "match": "Julia D’Amodio vs Enora Percheron",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Charlotte Yven",
+    "loser": "Florine Bourit",
+    "match": "Florine Bourit vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Florine Bourit",
+    "loser": "Enora Percheron",
+    "match": "Florine Bourit vs Enora Percheron",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Charlotte Yven",
+    "loser": "Enora Percheron",
+    "match": "Charlotte Yven vs Enora Percheron",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Pauline Courtois",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Julia D’Amodio",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Julia D’Amodio",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Florine Bourit",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Florine Bourit",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Charlotte Yven",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Charlotte Yven",
+    "race": 0
+  },
+  {
+    "regatta": "French National Women's Match Racing Championships",
+    "phase": "group-b",
+    "winner": "Enora Percheron",
+    "loser": "Jennifer Pochon",
+    "match": "Jennifer Pochon vs Enora Percheron",
+    "race": 0
+  }
+]

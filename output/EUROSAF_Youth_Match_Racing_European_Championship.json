@@ -1,0 +1,522 @@
+[
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "final",
+    "winner": "ben tylecote",
+    "loser": "ange delerce",
+    "match": "ben tylecote vs ange delerce",
+    "race": 1
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "final",
+    "winner": "ange delerce",
+    "loser": "ben tylecote",
+    "match": "ben tylecote vs ange delerce",
+    "race": 2
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "petit-final",
+    "winner": "ian garreta",
+    "loser": "noe ackermann",
+    "match": "noe ackermann vs ian garreta",
+    "race": 1
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "petit-final",
+    "winner": "ian garreta",
+    "loser": "noe ackermann",
+    "match": "noe ackermann vs ian garreta",
+    "race": 2
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-1",
+    "winner": "ben tylecote",
+    "loser": "ian garreta",
+    "match": "ian garreta vs ben tylecote",
+    "race": 1
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "ben tylecote",
+    "match": "ian garreta vs ben tylecote",
+    "race": 2
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-1",
+    "winner": "ian garreta",
+    "loser": "ben tylecote",
+    "match": "ian garreta vs ben tylecote",
+    "race": 3
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-1",
+    "winner": "ben tylecote",
+    "loser": "ian garreta",
+    "match": "ian garreta vs ben tylecote",
+    "race": 4
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-1",
+    "winner": "ben tylecote",
+    "loser": "ian garreta",
+    "match": "ian garreta vs ben tylecote",
+    "race": 5
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-2",
+    "winner": "ange delerce",
+    "loser": "noe ackermann",
+    "match": "ange delerce vs noe ackermann",
+    "race": 1
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-2",
+    "winner": "ange delerce",
+    "loser": "noe ackermann",
+    "match": "ange delerce vs noe ackermann",
+    "race": 2
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-2",
+    "winner": "noe ackermann",
+    "loser": "ange delerce",
+    "match": "ange delerce vs noe ackermann",
+    "race": 3
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-2",
+    "winner": "noe ackermann",
+    "loser": "ange delerce",
+    "match": "ange delerce vs noe ackermann",
+    "race": 4
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "semi-final-2",
+    "winner": "ange delerce",
+    "loser": "noe ackermann",
+    "match": "ange delerce vs noe ackermann",
+    "race": 5
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "ben tylecote",
+    "loser": "noe ackermann",
+    "match": "noe ackermann vs ben tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "noe ackermann",
+    "loser": "ian garreta",
+    "match": "noe ackermann vs ian garreta",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "marius westerlind",
+    "loser": "ange delerce",
+    "match": "ange delerce vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "ange delerce",
+    "loser": "tom foucher",
+    "match": "ange delerce vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "ben tylecote",
+    "loser": "marius westerlind",
+    "match": "ben tylecote vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "gold-group",
+    "winner": "ian garreta",
+    "loser": "tom foucher",
+    "match": "ian garreta vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "ange delerce",
+    "match": "ian garreta vs ange delerce",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "ian garreta",
+    "match": "ian garreta vs noe ackermann",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "tom foucher",
+    "match": "ian garreta vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "ian garreta",
+    "match": "ian garreta vs ben tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "marius westerlind",
+    "match": "ian garreta vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "theo westerlind",
+    "match": "ian garreta vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "giulio tamburini",
+    "match": "ian garreta vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "oli hale",
+    "match": "ian garreta vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ian garreta",
+    "loser": "bertram radich",
+    "match": "ian garreta vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "noe ackermann",
+    "match": "ange delerce vs noe ackermann",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "tom foucher",
+    "match": "ange delerce vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "ben tylecote",
+    "match": "ange delerce vs ben tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "ange delerce",
+    "match": "ange delerce vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "theo westerlind",
+    "match": "ange delerce vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "giulio tamburini",
+    "match": "ange delerce vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "oli hale",
+    "match": "ange delerce vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ange delerce",
+    "loser": "bertram radich",
+    "match": "ange delerce vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "tom foucher",
+    "match": "noe ackermann vs tom foucher",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "ben tylecote",
+    "match": "noe ackermann vs ben tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "marius westerlind",
+    "match": "noe ackermann vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "theo westerlind",
+    "match": "noe ackermann vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "giulio tamburini",
+    "match": "noe ackermann vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "oli hale",
+    "match": "noe ackermann vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "noe ackermann",
+    "loser": "bertram radich",
+    "match": "noe ackermann vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "tom foucher",
+    "match": "tom foucher vs ben tylecote",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "tom foucher",
+    "loser": "marius westerlind",
+    "match": "tom foucher vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "theo westerlind",
+    "loser": "tom foucher",
+    "match": "tom foucher vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "tom foucher",
+    "loser": "giulio tamburini",
+    "match": "tom foucher vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "tom foucher",
+    "loser": "oli hale",
+    "match": "tom foucher vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "tom foucher",
+    "loser": "bertram radich",
+    "match": "tom foucher vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "marius westerlind",
+    "match": "ben tylecote vs marius westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "theo westerlind",
+    "match": "ben tylecote vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "giulio tamburini",
+    "match": "ben tylecote vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "oli hale",
+    "match": "ben tylecote vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "ben tylecote",
+    "loser": "bertram radich",
+    "match": "ben tylecote vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "theo westerlind",
+    "match": "marius westerlind vs theo westerlind",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "giulio tamburini",
+    "match": "marius westerlind vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "oli hale",
+    "match": "marius westerlind vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "marius westerlind",
+    "loser": "bertram radich",
+    "match": "marius westerlind vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "giulio tamburini",
+    "loser": "theo westerlind",
+    "match": "theo westerlind vs giulio tamburini",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "theo westerlind",
+    "loser": "oli hale",
+    "match": "theo westerlind vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "theo westerlind",
+    "loser": "bertram radich",
+    "match": "theo westerlind vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "giulio tamburini",
+    "loser": "oli hale",
+    "match": "giulio tamburini vs oli hale",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "bertram radich",
+    "loser": "giulio tamburini",
+    "match": "giulio tamburini vs bertram radich",
+    "race": 0
+  },
+  {
+    "regatta": "EUROSAF Youth Match Racing European Championship",
+    "phase": "round-robin-1",
+    "winner": "bertram radich",
+    "loser": "oli hale",
+    "match": "oli hale vs bertram radich",
+    "race": 0
+  }
+]

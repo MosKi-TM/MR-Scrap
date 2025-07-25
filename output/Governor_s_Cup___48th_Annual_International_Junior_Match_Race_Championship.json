@@ -1,0 +1,186 @@
+[
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "sdyc - nevin snow",
+    "match": "rfbyc - sam gilmour vs sdyc - nevin snow",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "sdyc - nevin snow",
+    "loser": "rfbyc - sam gilmour",
+    "match": "rfbyc - sam gilmour vs sdyc - nevin snow",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "sdyc - nevin snow",
+    "loser": "rfbyc - sam gilmour",
+    "match": "rfbyc - sam gilmour vs sdyc - nevin snow",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "sdyc - nevin snow",
+    "match": "rfbyc - sam gilmour vs sdyc - nevin snow",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "final",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "sdyc - nevin snow",
+    "match": "rfbyc - sam gilmour vs sdyc - nevin snow",
+    "race": 5
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "cyc - will holz",
+    "match": "byc - christophe killian vs cyc - will holz",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "cyc - will holz",
+    "loser": "byc - christophe killian",
+    "match": "byc - christophe killian vs cyc - will holz",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "petit-final",
+    "winner": "byc - christophe killian",
+    "loser": "cyc - will holz",
+    "match": "byc - christophe killian vs cyc - will holz",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "cyc - will holz",
+    "match": "rfbyc - sam gilmour vs cyc - will holz",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "cyc - will holz",
+    "match": "rfbyc - sam gilmour vs cyc - will holz",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-1",
+    "winner": "rfbyc - sam gilmour",
+    "loser": "cyc - will holz",
+    "match": "rfbyc - sam gilmour vs cyc - will holz",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "sdyc - nevin snow",
+    "loser": "byc - christophe killian",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "byc - christophe killian",
+    "loser": "sdyc - nevin snow",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "sdyc - nevin snow",
+    "loser": "byc - christophe killian",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "semi-final-2",
+    "winner": "sdyc - nevin snow",
+    "loser": "byc - christophe killian",
+    "match": "sdyc - nevin snow vs byc - christophe killian",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "stfyc - antoine screve",
+    "loser": "byc - ryan davidson",
+    "match": "byc - ryan davidson vs stfyc - antoine screve",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "byc - ryan davidson",
+    "loser": "stfyc - antoine screve",
+    "match": "byc - ryan davidson vs stfyc - antoine screve",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "stfyc - antoine screve",
+    "loser": "byc - ryan davidson",
+    "match": "byc - ryan davidson vs stfyc - antoine screve",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "5th/6th",
+    "winner": "stfyc - antoine screve",
+    "loser": "byc - ryan davidson",
+    "match": "byc - ryan davidson vs stfyc - antoine screve",
+    "race": 4
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "cyca - murray jones",
+    "loser": "rpnyc - adam middleton",
+    "match": "cyca - murray jones vs rpnyc - adam middleton",
+    "race": 1
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpnyc - adam middleton",
+    "loser": "cyca - murray jones",
+    "match": "cyca - murray jones vs rpnyc - adam middleton",
+    "race": 2
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpnyc - adam middleton",
+    "loser": "cyca - murray jones",
+    "match": "cyca - murray jones vs rpnyc - adam middleton",
+    "race": 3
+  },
+  {
+    "regatta": "Governor's Cup – 48th Annual International Junior Match Race Championship",
+    "phase": "7th/8th",
+    "winner": "rpnyc - adam middleton",
+    "loser": "cyca - murray jones",
+    "match": "cyca - murray jones vs rpnyc - adam middleton",
+    "race": 4
+  }
+]

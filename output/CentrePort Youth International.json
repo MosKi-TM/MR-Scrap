@@ -1,0 +1,402 @@
+[
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "Jack Frewin",
+    "loser": "Albert Stanley",
+    "match": "Jack Frewin vs Albert Stanley",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "Jack Frewin",
+    "loser": "Albert Stanley",
+    "match": "Jack Frewin vs Albert Stanley",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "final",
+    "winner": "Jack Frewin",
+    "loser": "Albert Stanley",
+    "match": "Jack Frewin vs Albert Stanley",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "petit-final",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Ethan Fong vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "petit-final",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Ethan Fong vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "petit-final",
+    "winner": "Ethan Fong",
+    "loser": "Hayden Smith",
+    "match": "Ethan Fong vs Hayden Smith",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "semi-final-1",
+    "winner": "Albert Stanley",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Albert Stanley",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "semi-final-1",
+    "winner": "Ethan Fong",
+    "loser": "Albert Stanley",
+    "match": "Ethan Fong vs Albert Stanley",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "semi-final-1",
+    "winner": "Albert Stanley",
+    "loser": "Ethan Fong",
+    "match": "Ethan Fong vs Albert Stanley",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "semi-final-2",
+    "winner": "Jack Frewin",
+    "loser": "Hayden Smith",
+    "match": "Jack Frewin vs Hayden Smith",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "semi-final-2",
+    "winner": "Jack Frewin",
+    "loser": "Hayden Smith",
+    "match": "Jack Frewin vs Hayden Smith",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "5th-/-6th",
+    "winner": "Rory Sims",
+    "loser": "Craig Wright",
+    "match": "Rory Sims vs Craig Wright",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "5th-/-6th",
+    "winner": "Craig Wright",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Craig Wright",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "5th-/-6th",
+    "winner": "Craig Wright",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Craig Wright",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "5th-/-6th",
+    "winner": "Craig Wright",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Craig Wright",
+    "race": 4
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "7th-/-8th",
+    "winner": "Emily Overend",
+    "loser": "Sam Streeter",
+    "match": "Emily Overend vs Sam Streeter",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "7th-/-8th",
+    "winner": "Emily Overend",
+    "loser": "Sam Streeter",
+    "match": "Emily Overend vs Sam Streeter",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "7th-/-8th",
+    "winner": "Emily Overend",
+    "loser": "Sam Streeter",
+    "match": "Emily Overend vs Sam Streeter",
+    "race": 3
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "58A",
+    "winner": "Rory Sims",
+    "loser": "Sam Streeter",
+    "match": "Rory Sims vs Sam Streeter",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "58A",
+    "winner": "Rory Sims",
+    "loser": "Sam Streeter",
+    "match": "Rory Sims vs Sam Streeter",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "58B",
+    "winner": "Craig Wright",
+    "loser": "Emily Overend",
+    "match": "Craig Wright vs Emily Overend",
+    "race": 1
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "58B",
+    "winner": "Craig Wright",
+    "loser": "Emily Overend",
+    "match": "Craig Wright vs Emily Overend",
+    "race": 2
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Ethan Fong",
+    "match": "Rory Sims vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Craig Wright",
+    "match": "Rory Sims vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Albert Stanley",
+    "loser": "Rory Sims",
+    "match": "Rory Sims vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Emily Overend",
+    "match": "Rory Sims vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Jack Frewin",
+    "match": "Jack Frewin vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Ethan Fong",
+    "match": "Jack Frewin vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Craig Wright",
+    "match": "Jack Frewin vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Albert Stanley",
+    "match": "Jack Frewin vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Emily Overend",
+    "match": "Jack Frewin vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Ethan Fong",
+    "match": "Hayden Smith vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Craig Wright",
+    "loser": "Hayden Smith",
+    "match": "Hayden Smith vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Albert Stanley",
+    "match": "Hayden Smith vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Emily Overend",
+    "match": "Hayden Smith vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Craig Wright",
+    "match": "Ethan Fong vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Albert Stanley",
+    "match": "Ethan Fong vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Emily Overend",
+    "match": "Ethan Fong vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Craig Wright",
+    "loser": "Albert Stanley",
+    "match": "Craig Wright vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Craig Wright",
+    "loser": "Emily Overend",
+    "match": "Craig Wright vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Albert Stanley",
+    "loser": "Emily Overend",
+    "match": "Albert Stanley vs Emily Overend",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Rory Sims",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Rory Sims",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Jack Frewin",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Jack Frewin",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Hayden Smith",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Hayden Smith",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Ethan Fong",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Ethan Fong",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Craig Wright",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Craig Wright",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Albert Stanley",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Albert Stanley",
+    "race": 0
+  },
+  {
+    "regatta": "CentrePort Youth International",
+    "phase": "round-robin-1",
+    "winner": "Emily Overend",
+    "loser": "Sam Streeter",
+    "match": "Sam Streeter vs Emily Overend",
+    "race": 0
+  }
+]

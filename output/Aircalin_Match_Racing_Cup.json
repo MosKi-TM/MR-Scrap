@@ -1,0 +1,170 @@
+[
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "final",
+    "winner": "cyril fortin",
+    "loser": "tugdual piriou",
+    "match": "cyril fortin vs tugdual piriou",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "final",
+    "winner": "tugdual piriou",
+    "loser": "cyril fortin",
+    "match": "cyril fortin vs tugdual piriou",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "final",
+    "winner": "cyril fortin",
+    "loser": "tugdual piriou",
+    "match": "cyril fortin vs tugdual piriou",
+    "race": 3
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "final",
+    "winner": "cyril fortin",
+    "loser": "tugdual piriou",
+    "match": "cyril fortin vs tugdual piriou",
+    "race": 4
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "james wilson",
+    "loser": "tom picot",
+    "match": "tom picot vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "petit-final",
+    "winner": "james wilson",
+    "loser": "tom picot",
+    "match": "tom picot vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "cyril fortin",
+    "loser": "tom picot",
+    "match": "cyril fortin vs tom picot",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "cyril fortin",
+    "loser": "tom picot",
+    "match": "cyril fortin vs tom picot",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-1",
+    "winner": "cyril fortin",
+    "loser": "tom picot",
+    "match": "cyril fortin vs tom picot",
+    "race": 3
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "tugdual piriou",
+    "loser": "james wilson",
+    "match": "tugdual piriou vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "tugdual piriou",
+    "loser": "james wilson",
+    "match": "tugdual piriou vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "semi-final-2",
+    "winner": "tugdual piriou",
+    "loser": "james wilson",
+    "match": "tugdual piriou vs james wilson",
+    "race": 3
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-1",
+    "winner": "cyril fortin",
+    "loser": "tiphaine leroux",
+    "match": "cyril fortin vs tiphaine leroux",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-1",
+    "winner": "cyril fortin",
+    "loser": "tiphaine leroux",
+    "match": "cyril fortin vs tiphaine leroux",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-2",
+    "winner": "tugdual piriou",
+    "loser": "james farquharson",
+    "match": "tugdual piriou vs james farquharson",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-2",
+    "winner": "tugdual piriou",
+    "loser": "james farquharson",
+    "match": "tugdual piriou vs james farquharson",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "will eastman",
+    "loser": "james wilson",
+    "match": "will eastman vs james wilson",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "james wilson",
+    "loser": "will eastman",
+    "match": "will eastman vs james wilson",
+    "race": 2
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-3",
+    "winner": "james wilson",
+    "loser": "will eastman",
+    "match": "will eastman vs james wilson",
+    "race": 3
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-4",
+    "winner": "tom picot",
+    "loser": "harry milne",
+    "match": "tom picot vs harry milne",
+    "race": 1
+  },
+  {
+    "regatta": "Aircalin Match Racing Cup",
+    "phase": "quarter-final-4",
+    "winner": "tom picot",
+    "loser": "harry milne",
+    "match": "tom picot vs harry milne",
+    "race": 2
+  }
+]

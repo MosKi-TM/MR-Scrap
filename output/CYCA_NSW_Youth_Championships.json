@@ -1,0 +1,498 @@
+[
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "final",
+    "winner": "tom grimes",
+    "loser": "john cooley",
+    "match": "tom grimes vs john cooley",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "final",
+    "winner": "tom grimes",
+    "loser": "john cooley",
+    "match": "tom grimes vs john cooley",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "petit-final",
+    "winner": "hugo stoner",
+    "loser": "alistair read",
+    "match": "hugo stoner vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "petit-final",
+    "winner": "alistair read",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "petit-final",
+    "winner": "hugo stoner",
+    "loser": "alistair read",
+    "match": "hugo stoner vs alistair read",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "semi-final-1",
+    "winner": "tom grimes",
+    "loser": "alistair read",
+    "match": "tom grimes vs alistair read",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "semi-final-1",
+    "winner": "tom grimes",
+    "loser": "alistair read",
+    "match": "tom grimes vs alistair read",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "semi-final-2",
+    "winner": "john cooley",
+    "loser": "hugo stoner",
+    "match": "john cooley vs hugo stoner",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "semi-final-2",
+    "winner": "john cooley",
+    "loser": "hugo stoner",
+    "match": "john cooley vs hugo stoner",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "5th-/-6th",
+    "winner": "jack littlechild",
+    "loser": "juliet costanzo",
+    "match": "jack littlechild vs juliet costanzo",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "5th-/-6th",
+    "winner": "juliet costanzo",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs juliet costanzo",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "5th-/-6th",
+    "winner": "jack littlechild",
+    "loser": "juliet costanzo",
+    "match": "jack littlechild vs juliet costanzo",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "7th-/-8th",
+    "winner": "jess tavener",
+    "loser": "fletcher walters",
+    "match": "fletcher walters vs jess tavener",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "7th-/-8th",
+    "winner": "jess tavener",
+    "loser": "fletcher walters",
+    "match": "fletcher walters vs jess tavener",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "9th-/-10th",
+    "winner": "darby jones",
+    "loser": "harrison miller",
+    "match": "darby jones vs harrison miller",
+    "race": 1
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "9th-/-10th",
+    "winner": "harrison miller",
+    "loser": "darby jones",
+    "match": "darby jones vs harrison miller",
+    "race": 2
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "9th-/-10th",
+    "winner": "darby jones",
+    "loser": "harrison miller",
+    "match": "darby jones vs harrison miller",
+    "race": 3
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "juliet costanzo",
+    "match": "tom grimes vs juliet costanzo",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "hugo stoner",
+    "match": "tom grimes vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "tom grimes",
+    "match": "tom grimes vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "jack littlechild",
+    "match": "tom grimes vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "jess tavener",
+    "match": "tom grimes vs jess tavener",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "john cooley",
+    "match": "tom grimes vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "fletcher walters",
+    "match": "tom grimes vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "harrison miller",
+    "match": "tom grimes vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "tom grimes",
+    "loser": "darby jones",
+    "match": "tom grimes vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs hugo stoner",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jack littlechild",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "jess tavener",
+    "match": "juliet costanzo vs jess tavener",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "juliet costanzo",
+    "match": "juliet costanzo vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "fletcher walters",
+    "match": "juliet costanzo vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "harrison miller",
+    "match": "juliet costanzo vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "juliet costanzo",
+    "loser": "darby jones",
+    "match": "juliet costanzo vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "alistair read",
+    "match": "hugo stoner vs alistair read",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "jack littlechild",
+    "match": "hugo stoner vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "jess tavener",
+    "match": "hugo stoner vs jess tavener",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "hugo stoner",
+    "match": "hugo stoner vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "fletcher walters",
+    "match": "hugo stoner vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "harrison miller",
+    "match": "hugo stoner vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "hugo stoner",
+    "loser": "darby jones",
+    "match": "hugo stoner vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "jack littlechild",
+    "match": "alistair read vs jack littlechild",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "jess tavener",
+    "match": "alistair read vs jess tavener",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "alistair read",
+    "match": "alistair read vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "fletcher walters",
+    "loser": "alistair read",
+    "match": "alistair read vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "harrison miller",
+    "match": "alistair read vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "alistair read",
+    "loser": "darby jones",
+    "match": "alistair read vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jess tavener",
+    "loser": "jack littlechild",
+    "match": "jack littlechild vs jess tavener",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jack littlechild",
+    "loser": "john cooley",
+    "match": "jack littlechild vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jack littlechild",
+    "loser": "fletcher walters",
+    "match": "jack littlechild vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jack littlechild",
+    "loser": "harrison miller",
+    "match": "jack littlechild vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jack littlechild",
+    "loser": "darby jones",
+    "match": "jack littlechild vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "jess tavener",
+    "match": "jess tavener vs john cooley",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "fletcher walters",
+    "loser": "jess tavener",
+    "match": "jess tavener vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jess tavener",
+    "loser": "harrison miller",
+    "match": "jess tavener vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "jess tavener",
+    "loser": "darby jones",
+    "match": "jess tavener vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "fletcher walters",
+    "match": "john cooley vs fletcher walters",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "harrison miller",
+    "match": "john cooley vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "john cooley",
+    "loser": "darby jones",
+    "match": "john cooley vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "fletcher walters",
+    "loser": "harrison miller",
+    "match": "fletcher walters vs harrison miller",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "fletcher walters",
+    "loser": "darby jones",
+    "match": "fletcher walters vs darby jones",
+    "race": 0
+  },
+  {
+    "regatta": "CYCA NSW Youth Championships",
+    "phase": "round-robin",
+    "winner": "darby jones",
+    "loser": "harrison miller",
+    "match": "harrison miller vs darby jones",
+    "race": 0
+  }
+]

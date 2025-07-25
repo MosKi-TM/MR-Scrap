@@ -1,0 +1,202 @@
+[
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "final",
+    "winner": "conor nicholas",
+    "loser": "jelmer van beek",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "final",
+    "winner": "jelmer van beek",
+    "loser": "conor nicholas",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "final",
+    "winner": "jelmer van beek",
+    "loser": "conor nicholas",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 3
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "johanna bergqvist",
+    "match": "aurelien pierroz vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "johanna bergqvist",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "petit-final",
+    "winner": "aurelien pierroz",
+    "loser": "johanna bergqvist",
+    "match": "aurelien pierroz vs johanna bergqvist",
+    "race": 3
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "conor nicholas",
+    "loser": "johanna bergqvist",
+    "match": "conor nicholas vs johanna bergqvist",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "conor nicholas",
+    "loser": "johanna bergqvist",
+    "match": "conor nicholas vs johanna bergqvist",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "jelmer van beek",
+    "loser": "aurelien pierroz",
+    "match": "jelmer van beek vs aurelien pierroz",
+    "race": 1
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "jelmer van beek",
+    "loser": "aurelien pierroz",
+    "match": "jelmer van beek vs aurelien pierroz",
+    "race": 2
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "jelmer van beek",
+    "loser": "aurelien pierroz",
+    "match": "jelmer van beek vs aurelien pierroz",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "jelmer van beek",
+    "loser": "johanna bergqvist",
+    "match": "jelmer van beek vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "jelmer van beek",
+    "loser": "conor nicholas",
+    "match": "jelmer van beek vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "jelmer van beek",
+    "loser": "harmon mcaullay",
+    "match": "jelmer van beek vs harmon mcaullay",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "jelmer van beek",
+    "loser": "ethan prieto-low",
+    "match": "jelmer van beek vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "johanna bergqvist",
+    "match": "aurelien pierroz vs johanna bergqvist",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "aurelien pierroz",
+    "match": "aurelien pierroz vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "harmon mcaullay",
+    "match": "aurelien pierroz vs harmon mcaullay",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "aurelien pierroz",
+    "loser": "ethan prieto-low",
+    "match": "aurelien pierroz vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "johanna bergqvist",
+    "match": "johanna bergqvist vs conor nicholas",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "harmon mcaullay",
+    "match": "johanna bergqvist vs harmon mcaullay",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "johanna bergqvist",
+    "loser": "ethan prieto-low",
+    "match": "johanna bergqvist vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "harmon mcaullay",
+    "match": "conor nicholas vs harmon mcaullay",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "conor nicholas",
+    "loser": "ethan prieto-low",
+    "match": "conor nicholas vs ethan prieto-low",
+    "race": 0
+  },
+  {
+    "regatta": "Colin Mullins International Youth Regatta",
+    "phase": "round-robin",
+    "winner": "ethan prieto-low",
+    "loser": "harmon mcaullay",
+    "match": "harmon mcaullay vs ethan prieto-low",
+    "race": 0
+  }
+]

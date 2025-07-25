@@ -1,0 +1,466 @@
+[
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "final",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Anna Östling vs Martina Carlsson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "petit-final",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Anna Östling vs Martina Carlsson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Megan Thomson",
+    "race": 1
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Megan Thomson",
+    "match": "Anna Östling vs Megan Thomson",
+    "race": 2
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Anna Östling",
+    "loser": "Megan Thomson",
+    "match": "Anna Östling vs Megan Thomson",
+    "race": 3
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Megan Thomson",
+    "race": 4
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "semi-final-2",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Megan Thomson",
+    "race": 5
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Megan Thomson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Megan Thomson vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Megan Thomson",
+    "loser": "Martina Carlsson",
+    "match": "Megan Thomson vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Kenza Coutard",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Anna Östling vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Kenza Coutard",
+    "loser": "Martina Carlsson",
+    "match": "Kenza Coutard vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Pauline Courtois",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Megan Thomson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Anna Östling",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Kenza Coutard",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-3",
+    "winner": "Martina Carlsson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Megan Thomson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Megan Thomson",
+    "match": "Megan Thomson vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Martina Carlsson",
+    "match": "Megan Thomson vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Anna Östling",
+    "match": "Anna Östling vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Anna Östling vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Martina Carlsson",
+    "match": "Kenza Coutard vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Pauline Courtois",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Megan Thomson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Anna Östling",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Kenza Coutard",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-2",
+    "winner": "Martina Carlsson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Megan Thomson",
+    "match": "Pauline Courtois vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Anna Östling",
+    "match": "Pauline Courtois vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Kenza Coutard",
+    "match": "Pauline Courtois vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Martina Carlsson",
+    "match": "Pauline Courtois vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Anna Östling",
+    "match": "Megan Thomson vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Kenza Coutard",
+    "match": "Megan Thomson vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Martina Carlsson",
+    "match": "Megan Thomson vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Kenza Coutard",
+    "match": "Anna Östling vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Martina Carlsson",
+    "match": "Anna Östling vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Martina Carlsson",
+    "match": "Kenza Coutard vs Martina Carlsson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Pauline Courtois",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Pauline Courtois",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Megan Thomson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Megan Thomson",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Anna Östling",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Anna Östling",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Kenza Coutard",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Kenza Coutard",
+    "race": 0
+  },
+  {
+    "regatta": "Women's Match Racing World Championships",
+    "phase": "round-robin-1",
+    "winner": "Martina Carlsson",
+    "loser": "Sumaya Bamakhrama",
+    "match": "Sumaya Bamakhrama vs Martina Carlsson",
+    "race": 0
+  }
+]

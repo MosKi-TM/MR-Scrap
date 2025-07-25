@@ -1,0 +1,330 @@
+[
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "finals",
+    "winner": "ekaterina skudina",
+    "loser": "silja lehtinen",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "finals",
+    "winner": "ekaterina skudina",
+    "loser": "silja lehtinen",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 4
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "finals",
+    "winner": "silja lehtinen",
+    "loser": "ekaterina skudina",
+    "match": "silja lehtinen vs ekaterina skudina",
+    "race": 5
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "petit-final",
+    "winner": "sally barkow",
+    "loser": "claire leroy",
+    "match": "claire leroy vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "petit-final",
+    "winner": "sally barkow",
+    "loser": "claire leroy",
+    "match": "claire leroy vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "petit-final",
+    "winner": "sally barkow",
+    "loser": "claire leroy",
+    "match": "claire leroy vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(a)",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(a)",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(a)",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(a)",
+    "winner": "claire leroy",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 4
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(a)",
+    "winner": "ekaterina skudina",
+    "loser": "claire leroy",
+    "match": "ekaterina skudina vs claire leroy",
+    "race": 5
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(b)",
+    "winner": "silja lehtinen",
+    "loser": "sally barkow",
+    "match": "sally barkow vs silja lehtinen",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(b)",
+    "winner": "silja lehtinen",
+    "loser": "sally barkow",
+    "match": "sally barkow vs silja lehtinen",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "semi-final-(b)",
+    "winner": "silja lehtinen",
+    "loser": "sally barkow",
+    "match": "sally barkow vs silja lehtinen",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th/6th",
+    "winner": "olivia price",
+    "loser": "mandy mulder",
+    "match": "olivia price vs mandy mulder",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "7th/8th",
+    "winner": "lucy macgregor",
+    "loser": "anna kjellberg",
+    "match": "anna kjellberg vs lucy macgregor",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "lucy macgregor vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "lucy macgregor",
+    "loser": "olivia price",
+    "match": "lucy macgregor vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(a)",
+    "winner": "olivia price",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs olivia price",
+    "race": 5
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(b)",
+    "winner": "mandy mulder",
+    "loser": "anna kjellberg",
+    "match": "mandy mulder vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(b)",
+    "winner": "mandy mulder",
+    "loser": "anna kjellberg",
+    "match": "mandy mulder vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "5th-to-8th-(b)",
+    "winner": "mandy mulder",
+    "loser": "anna kjellberg",
+    "match": "mandy mulder vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-1",
+    "winner": "olivia price",
+    "loser": "ekaterina skudina",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-1",
+    "winner": "ekaterina skudina",
+    "loser": "olivia price",
+    "match": "ekaterina skudina vs olivia price",
+    "race": 4
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna kjellberg",
+    "match": "silja lehtinen vs anna kjellberg",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna kjellberg",
+    "match": "silja lehtinen vs anna kjellberg",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-2",
+    "winner": "silja lehtinen",
+    "loser": "anna kjellberg",
+    "match": "silja lehtinen vs anna kjellberg",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs sally barkow",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs sally barkow",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-3",
+    "winner": "mandy mulder",
+    "loser": "sally barkow",
+    "match": "mandy mulder vs sally barkow",
+    "race": 3
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-3",
+    "winner": "mandy mulder",
+    "loser": "sally barkow",
+    "match": "mandy mulder vs sally barkow",
+    "race": 4
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-3",
+    "winner": "sally barkow",
+    "loser": "mandy mulder",
+    "match": "mandy mulder vs sally barkow",
+    "race": 5
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-4",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-4",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "Weymouth and Portland International Regatta",
+    "phase": "quarter-final-4",
+    "winner": "claire leroy",
+    "loser": "lucy macgregor",
+    "match": "lucy macgregor vs claire leroy",
+    "race": 3
+  }
+]

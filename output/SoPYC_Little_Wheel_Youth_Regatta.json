@@ -1,0 +1,114 @@
+[
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "final",
+    "winner": "lachy gilmour",
+    "loser": "matt jerwood",
+    "match": "matt jerwood vs lachy gilmour",
+    "race": 1
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "final",
+    "winner": "matt jerwood",
+    "loser": "lachy gilmour",
+    "match": "matt jerwood vs lachy gilmour",
+    "race": 2
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "final",
+    "winner": "lachy gilmour",
+    "loser": "matt jerwood",
+    "match": "matt jerwood vs lachy gilmour",
+    "race": 3
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "final",
+    "winner": "lachy gilmour",
+    "loser": "matt jerwood",
+    "match": "matt jerwood vs lachy gilmour",
+    "race": 4
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "petit-final",
+    "winner": "mark spearman",
+    "loser": "will boulden",
+    "match": "will boulden vs mark spearman",
+    "race": 1
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "petit-final",
+    "winner": "mark spearman",
+    "loser": "will boulden",
+    "match": "will boulden vs mark spearman",
+    "race": 2
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "matt jerwood",
+    "loser": "mark spearman",
+    "match": "matt jerwood vs mark spearman",
+    "race": 1
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "matt jerwood",
+    "loser": "mark spearman",
+    "match": "matt jerwood vs mark spearman",
+    "race": 2
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-1",
+    "winner": "matt jerwood",
+    "loser": "mark spearman",
+    "match": "matt jerwood vs mark spearman",
+    "race": 3
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "will boulden",
+    "loser": "lachy gilmour",
+    "match": "lachy gilmour vs will boulden",
+    "race": 1
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "lachy gilmour",
+    "loser": "will boulden",
+    "match": "lachy gilmour vs will boulden",
+    "race": 2
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "will boulden",
+    "loser": "lachy gilmour",
+    "match": "lachy gilmour vs will boulden",
+    "race": 3
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "lachy gilmour",
+    "loser": "will boulden",
+    "match": "lachy gilmour vs will boulden",
+    "race": 4
+  },
+  {
+    "regatta": "SoPYC Little Wheel Youth Regatta",
+    "phase": "semi-final-2",
+    "winner": "lachy gilmour",
+    "loser": "will boulden",
+    "match": "lachy gilmour vs will boulden",
+    "race": 5
+  }
+]

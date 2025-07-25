@@ -1,0 +1,458 @@
+[
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 1
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 2
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 3
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 4
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 5
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 6
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 7
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 8
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 9
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 10
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "final",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 11
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 1
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 2
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 3
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 4
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "alinghi red bull racing team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 5
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "alinghi red bull racing team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 6
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 7
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 1
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 2
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 3
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 4
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "nyyc american magic",
+    "loser": "luna rossa prada pirelli team",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 5
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "nyyc american magic",
+    "loser": "luna rossa prada pirelli team",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 6
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "nyyc american magic",
+    "loser": "luna rossa prada pirelli team",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 7
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "semi-final-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 8
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "challenger-sail-off",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 1
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "emirates team new zealand",
+    "loser": "ineos britania",
+    "match": "emirates team new zealand vs ineos britania",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "emirates team new zealand",
+    "loser": "alinghi red bull racing team",
+    "match": "emirates team new zealand vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "emirates team new zealand",
+    "loser": "nyyc american magic",
+    "match": "emirates team new zealand vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "emirates team new zealand",
+    "loser": "orient express racing team",
+    "match": "emirates team new zealand vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "ineos britania",
+    "loser": "luna rossa prada pirelli team",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "nyyc american magic",
+    "loser": "ineos britania",
+    "match": "ineos britania vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "ineos britania",
+    "loser": "orient express racing team",
+    "match": "ineos britania vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "alinghi red bull racing team",
+    "loser": "luna rossa prada pirelli team",
+    "match": "alinghi red bull racing team vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "alinghi red bull racing team",
+    "loser": "nyyc american magic",
+    "match": "alinghi red bull racing team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "alinghi red bull racing team",
+    "loser": "orient express racing team",
+    "match": "alinghi red bull racing team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "orient express racing team",
+    "match": "luna rossa prada pirelli team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-2",
+    "winner": "nyyc american magic",
+    "loser": "orient express racing team",
+    "match": "nyyc american magic vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "ineos britania",
+    "loser": "emirates team new zealand",
+    "match": "emirates team new zealand vs ineos britania",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "emirates team new zealand",
+    "loser": "alinghi red bull racing team",
+    "match": "emirates team new zealand vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "emirates team new zealand",
+    "loser": "luna rossa prada pirelli team",
+    "match": "emirates team new zealand vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "emirates team new zealand",
+    "loser": "nyyc american magic",
+    "match": "emirates team new zealand vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "emirates team new zealand",
+    "loser": "orient express racing team",
+    "match": "emirates team new zealand vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "ineos britania",
+    "loser": "alinghi red bull racing team",
+    "match": "ineos britania vs alinghi red bull racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "ineos britania",
+    "match": "ineos britania vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "ineos britania",
+    "loser": "nyyc american magic",
+    "match": "ineos britania vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "ineos britania",
+    "loser": "orient express racing team",
+    "match": "ineos britania vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "alinghi red bull racing team",
+    "match": "alinghi red bull racing team vs luna rossa prada pirelli team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "nyyc american magic",
+    "loser": "alinghi red bull racing team",
+    "match": "alinghi red bull racing team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "orient express racing team",
+    "loser": "alinghi red bull racing team",
+    "match": "alinghi red bull racing team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "nyyc american magic",
+    "match": "luna rossa prada pirelli team vs nyyc american magic",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "luna rossa prada pirelli team",
+    "loser": "orient express racing team",
+    "match": "luna rossa prada pirelli team vs orient express racing team",
+    "race": 0
+  },
+  {
+    "regatta": "AC37: Louis Vuitton Cup",
+    "phase": "round-robin-1",
+    "winner": "nyyc american magic",
+    "loser": "orient express racing team",
+    "match": "nyyc american magic vs orient express racing team",
+    "race": 0
+  }
+]

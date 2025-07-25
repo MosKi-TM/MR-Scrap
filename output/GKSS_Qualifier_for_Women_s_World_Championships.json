@@ -1,0 +1,106 @@
+[
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "lotte meldgaard",
+    "match": "lotte meldgaard vs claire leroy",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "lotte meldgaard",
+    "match": "lotte meldgaard vs claire leroy",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "final",
+    "winner": "claire leroy",
+    "loser": "lotte meldgaard",
+    "match": "lotte meldgaard vs claire leroy",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "petit-final",
+    "winner": "margot riou",
+    "loser": "marie bjorling duell",
+    "match": "marie bjorling duell vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "petit-final",
+    "winner": "marie bjorling duell",
+    "loser": "margot riou",
+    "match": "marie bjorling duell vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "petit-final",
+    "winner": "marie bjorling duell",
+    "loser": "margot riou",
+    "match": "marie bjorling duell vs margot riou",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "lotte meldgaard",
+    "loser": "marie bjorling duell",
+    "match": "marie bjorling duell vs lotte meldgaard",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "marie bjorling duell",
+    "loser": "lotte meldgaard",
+    "match": "marie bjorling duell vs lotte meldgaard",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "lotte meldgaard",
+    "loser": "marie bjorling duell",
+    "match": "marie bjorling duell vs lotte meldgaard",
+    "race": 3
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-1",
+    "winner": "lotte meldgaard",
+    "loser": "marie bjorling duell",
+    "match": "marie bjorling duell vs lotte meldgaard",
+    "race": 4
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "margot riou",
+    "match": "claire leroy vs margot riou",
+    "race": 1
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "margot riou",
+    "match": "claire leroy vs margot riou",
+    "race": 2
+  },
+  {
+    "regatta": "GKSS Qualifier for Women's World Championships",
+    "phase": "semi-final-2",
+    "winner": "claire leroy",
+    "loser": "margot riou",
+    "match": "claire leroy vs margot riou",
+    "race": 3
+  }
+]

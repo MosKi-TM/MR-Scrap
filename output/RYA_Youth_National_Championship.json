@@ -1,0 +1,346 @@
+[
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "william craiger",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs william craiger",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "final",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 4
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "petit-final",
+    "winner": "alex whitfield",
+    "loser": "josh davies",
+    "match": "josh davies vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "petit-final",
+    "winner": "josh davies",
+    "loser": "alex whitfield",
+    "match": "josh davies vs alex whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "petit-final",
+    "winner": "alex whitfield",
+    "loser": "josh davies",
+    "match": "josh davies vs alex whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex colquitt vs alex whitfield",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "alex whitfield",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs alex whitfield",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-1",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex colquitt vs alex whitfield",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "josh davies",
+    "loser": "william craiger",
+    "match": "william craiger vs josh davies",
+    "race": 1
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "william craiger",
+    "loser": "josh davies",
+    "match": "william craiger vs josh davies",
+    "race": 2
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "semi-final-2",
+    "winner": "william craiger",
+    "loser": "josh davies",
+    "match": "william craiger vs josh davies",
+    "race": 3
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "william craiger",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "josh davies",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "oliver hale",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "josh davies",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "oliver hale",
+    "loser": "alex colquitt",
+    "match": "alex colquitt vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "william craiger",
+    "loser": "josh davies",
+    "match": "william craiger vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "william craiger",
+    "loser": "oliver hale",
+    "match": "william craiger vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-3",
+    "winner": "josh davies",
+    "loser": "oliver hale",
+    "match": "josh davies vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex whitfield",
+    "loser": "alex colquitt",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex whitfield",
+    "loser": "william craiger",
+    "match": "alex whitfield vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "josh davies",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex whitfield",
+    "loser": "oliver hale",
+    "match": "alex whitfield vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex colquitt",
+    "loser": "josh davies",
+    "match": "alex colquitt vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "alex colquitt",
+    "loser": "oliver hale",
+    "match": "alex colquitt vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "william craiger",
+    "loser": "josh davies",
+    "match": "william craiger vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "oliver hale",
+    "loser": "william craiger",
+    "match": "william craiger vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-2",
+    "winner": "josh davies",
+    "loser": "oliver hale",
+    "match": "josh davies vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex colquitt",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs alex colquitt",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "william craiger",
+    "loser": "alex whitfield",
+    "match": "alex whitfield vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex whitfield",
+    "loser": "josh davies",
+    "match": "alex whitfield vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex whitfield",
+    "loser": "oliver hale",
+    "match": "alex whitfield vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex colquitt",
+    "loser": "william craiger",
+    "match": "alex colquitt vs william craiger",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex colquitt",
+    "loser": "josh davies",
+    "match": "alex colquitt vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "alex colquitt",
+    "loser": "oliver hale",
+    "match": "alex colquitt vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "william craiger",
+    "loser": "josh davies",
+    "match": "william craiger vs josh davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "william craiger",
+    "loser": "oliver hale",
+    "match": "william craiger vs oliver hale",
+    "race": 0
+  },
+  {
+    "regatta": "RYA Youth National Championship",
+    "phase": "round-robin-1",
+    "winner": "oliver hale",
+    "loser": "josh davies",
+    "match": "josh davies vs oliver hale",
+    "race": 0
+  }
+]

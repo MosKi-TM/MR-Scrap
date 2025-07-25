@@ -1,0 +1,850 @@
+[
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "ted blowers",
+    "loser": "robbie king",
+    "match": "robbie king vs ted blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "joe burns",
+    "loser": "robbie king",
+    "match": "robbie king vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "robbie king",
+    "loser": "murray hampshire",
+    "match": "robbie king vs murray hampshire",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "robbie king",
+    "loser": "christian hamilton",
+    "match": "robbie king vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "robbie king",
+    "match": "robbie king vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "robbie king",
+    "loser": "nick cherry",
+    "match": "robbie king vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "robbie king",
+    "loser": "miles jones",
+    "match": "robbie king vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "joe burns",
+    "loser": "ted blowers",
+    "match": "ted blowers vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "ted blowers",
+    "loser": "christian hamilton",
+    "match": "ted blowers vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "ted blowers",
+    "match": "ted blowers vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "nick cherry",
+    "loser": "ted blowers",
+    "match": "ted blowers vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "miles jones",
+    "loser": "ted blowers",
+    "match": "ted blowers vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "murray hampshire",
+    "loser": "joe burns",
+    "match": "joe burns vs murray hampshire",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "christian hamilton",
+    "loser": "joe burns",
+    "match": "joe burns vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "joe burns",
+    "match": "joe burns vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "joe burns",
+    "loser": "nick cherry",
+    "match": "joe burns vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "joe burns",
+    "loser": "miles jones",
+    "match": "joe burns vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "christian hamilton",
+    "loser": "murray hampshire",
+    "match": "murray hampshire vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "murray hampshire",
+    "match": "murray hampshire vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "nick cherry",
+    "loser": "murray hampshire",
+    "match": "murray hampshire vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "murray hampshire",
+    "loser": "miles jones",
+    "match": "murray hampshire vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "christian hamilton",
+    "loser": "andy cornah",
+    "match": "christian hamilton vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "nick cherry",
+    "loser": "christian hamilton",
+    "match": "christian hamilton vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "christian hamilton",
+    "loser": "miles jones",
+    "match": "christian hamilton vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "nick cherry",
+    "match": "andy cornah vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "andy cornah",
+    "loser": "miles jones",
+    "match": "andy cornah vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "gold",
+    "winner": "nick cherry",
+    "loser": "miles jones",
+    "match": "nick cherry vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "alaric bates",
+    "loser": "ali morrish",
+    "match": "alaric bates vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "alaric bates",
+    "loser": "sophie taylor",
+    "match": "alaric bates vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "alaric bates",
+    "loser": "matt whitfield",
+    "match": "alaric bates vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "alaric bates",
+    "loser": "matt lloyd",
+    "match": "alaric bates vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "mark lees",
+    "loser": "alaric bates",
+    "match": "alaric bates vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie otter",
+    "loser": "alaric bates",
+    "match": "alaric bates vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "ali morrish",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie taylor",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "matt whitfield",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "ellie cumpsty",
+    "loser": "matt lloyd",
+    "match": "ellie cumpsty vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "mark lees",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "ellie cumpsty vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "matt whitfield",
+    "loser": "ali morrish",
+    "match": "ali morrish vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "ali morrish",
+    "loser": "matt lloyd",
+    "match": "ali morrish vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "mark lees",
+    "loser": "ali morrish",
+    "match": "ali morrish vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie otter",
+    "loser": "ali morrish",
+    "match": "ali morrish vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "matt whitfield",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs matt whitfield",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie taylor",
+    "loser": "matt lloyd",
+    "match": "sophie taylor vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "mark lees",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie otter",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "mark lees",
+    "loser": "matt lloyd",
+    "match": "matt lloyd vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "silver",
+    "winner": "sophie otter",
+    "loser": "matt lloyd",
+    "match": "matt lloyd vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "miles jones",
+    "match": "ted blowers vs miles jones",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "sophie taylor",
+    "match": "ted blowers vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "murray hampshire",
+    "match": "ted blowers vs murray hampshire",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "sophie otter",
+    "match": "ted blowers vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "ellie cumpsty",
+    "match": "ted blowers vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "matt lloyd",
+    "match": "ted blowers vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ted blowers",
+    "loser": "andy cornah",
+    "match": "ted blowers vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "miles jones",
+    "loser": "sophie taylor",
+    "match": "miles jones vs sophie taylor",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "miles jones",
+    "match": "miles jones vs murray hampshire",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "miles jones",
+    "loser": "sophie otter",
+    "match": "miles jones vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "miles jones",
+    "loser": "ellie cumpsty",
+    "match": "miles jones vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "miles jones",
+    "loser": "matt lloyd",
+    "match": "miles jones vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "andy cornah",
+    "loser": "miles jones",
+    "match": "miles jones vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs murray hampshire",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "sophie taylor",
+    "loser": "sophie otter",
+    "match": "sophie taylor vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ellie cumpsty",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "sophie taylor",
+    "loser": "matt lloyd",
+    "match": "sophie taylor vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "andy cornah",
+    "loser": "sophie taylor",
+    "match": "sophie taylor vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "sophie otter",
+    "match": "murray hampshire vs sophie otter",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "ellie cumpsty",
+    "match": "murray hampshire vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "matt lloyd",
+    "match": "murray hampshire vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "murray hampshire",
+    "loser": "andy cornah",
+    "match": "murray hampshire vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ellie cumpsty",
+    "loser": "sophie otter",
+    "match": "sophie otter vs ellie cumpsty",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "matt lloyd",
+    "loser": "sophie otter",
+    "match": "sophie otter vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "andy cornah",
+    "loser": "sophie otter",
+    "match": "sophie otter vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "ellie cumpsty",
+    "loser": "matt lloyd",
+    "match": "ellie cumpsty vs matt lloyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "andy cornah",
+    "loser": "ellie cumpsty",
+    "match": "ellie cumpsty vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-2",
+    "winner": "andy cornah",
+    "loser": "matt lloyd",
+    "match": "matt lloyd vs andy cornah",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "robbie king",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs robbie king",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "ali morrish",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "christian hamilton",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "matt whitfield",
+    "loser": "joe burns",
+    "match": "matt whitfield vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "matt whitfield",
+    "loser": "mark lees",
+    "match": "matt whitfield vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "alaric bates",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "nick cherry",
+    "loser": "matt whitfield",
+    "match": "matt whitfield vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "robbie king",
+    "loser": "ali morrish",
+    "match": "robbie king vs ali morrish",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "robbie king",
+    "loser": "christian hamilton",
+    "match": "robbie king vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "robbie king",
+    "loser": "joe burns",
+    "match": "robbie king vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "mark lees",
+    "loser": "robbie king",
+    "match": "robbie king vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "alaric bates",
+    "loser": "robbie king",
+    "match": "robbie king vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "robbie king",
+    "loser": "nick cherry",
+    "match": "robbie king vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "christian hamilton",
+    "loser": "ali morrish",
+    "match": "ali morrish vs christian hamilton",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "ali morrish",
+    "loser": "joe burns",
+    "match": "ali morrish vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "ali morrish",
+    "loser": "mark lees",
+    "match": "ali morrish vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "alaric bates",
+    "loser": "ali morrish",
+    "match": "ali morrish vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "nick cherry",
+    "loser": "ali morrish",
+    "match": "ali morrish vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "joe burns",
+    "loser": "christian hamilton",
+    "match": "christian hamilton vs joe burns",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "mark lees",
+    "loser": "christian hamilton",
+    "match": "christian hamilton vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "christian hamilton",
+    "loser": "alaric bates",
+    "match": "christian hamilton vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "christian hamilton",
+    "loser": "nick cherry",
+    "match": "christian hamilton vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "joe burns",
+    "loser": "mark lees",
+    "match": "joe burns vs mark lees",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "joe burns",
+    "loser": "alaric bates",
+    "match": "joe burns vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "joe burns",
+    "loser": "nick cherry",
+    "match": "joe burns vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "alaric bates",
+    "loser": "mark lees",
+    "match": "mark lees vs alaric bates",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "nick cherry",
+    "loser": "mark lees",
+    "match": "mark lees vs nick cherry",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Championships - Grand Final",
+    "phase": "group-1",
+    "winner": "nick cherry",
+    "loser": "alaric bates",
+    "match": "alaric bates vs nick cherry",
+    "race": 0
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Mo Abbasi",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Jan Ølholm Mortensen vs Mo Abbasi",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Jan Ølholm Mortensen vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Simon Nordbjærg",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Jan Ølholm Mortensen vs Simon Nordbjærg",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jon Eriksson",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Jan Ølholm Mortensen vs Jon Eriksson",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jan Ølholm Mortensen",
+    "loser": "Morten Munch",
+    "match": "Jan Ølholm Mortensen vs Morten Munch",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jan Ølholm Mortensen",
+    "loser": "Lea Vogelius",
+    "match": "Jan Ølholm Mortensen vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Matias William Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Simon Nordbjærg",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Simon Nordbjærg",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Morten Munch",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Morten Munch",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Victor Melchior",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Mo Abbasi",
+    "match": "Mo Abbasi vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Lennard Bal vs Jan Ølholm Mortensen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Lennard Bal",
+    "match": "Lennard Bal vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Matias William Rossing",
+    "match": "Lennard Bal vs Matias William Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Jon Eriksson",
+    "match": "Lennard Bal vs Jon Eriksson",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Morten Munch",
+    "match": "Lennard Bal vs Morten Munch",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Lennard Bal",
+    "match": "Lennard Bal vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Mo Abbasi",
+    "match": "Kristine Mauritzen vs Mo Abbasi",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Matias William Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Simon Nordbjærg",
+    "loser": "Kristine Mauritzen",
+    "match": "Kristine Mauritzen vs Simon Nordbjærg",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Victor Melchior",
+    "match": "Kristine Mauritzen vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Jan Ølholm Mortensen",
+    "match": "Matias William Rossing vs Jan Ølholm Mortensen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Jon Eriksson",
+    "match": "Matias William Rossing vs Jon Eriksson",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Lea Vogelius",
+    "match": "Matias William Rossing vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Simon Nordbjærg",
+    "match": "Simon Nordbjærg vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Victor Melchior",
+    "loser": "Simon Nordbjærg",
+    "match": "Simon Nordbjærg vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Simon Nordbjærg",
+    "match": "Simon Nordbjærg vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jon Eriksson",
+    "loser": "Mo Abbasi",
+    "match": "Jon Eriksson vs Mo Abbasi",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jon Eriksson",
+    "loser": "Kristine Mauritzen",
+    "match": "Jon Eriksson vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jon Eriksson",
+    "loser": "Simon Nordbjærg",
+    "match": "Jon Eriksson vs Simon Nordbjærg",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jon Eriksson",
+    "loser": "Morten Munch",
+    "match": "Jon Eriksson vs Morten Munch",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Victor Melchior",
+    "loser": "Jon Eriksson",
+    "match": "Jon Eriksson vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Morten Munch",
+    "match": "Morten Munch vs Matias William Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Victor Melchior",
+    "loser": "Morten Munch",
+    "match": "Morten Munch vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Morten Munch",
+    "match": "Morten Munch vs Lea Vogelius",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jan Ølholm Mortensen",
+    "loser": "Victor Melchior",
+    "match": "Victor Melchior vs Jan Ølholm Mortensen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lennard Bal",
+    "loser": "Victor Melchior",
+    "match": "Victor Melchior vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Kristine Mauritzen",
+    "loser": "Lea Vogelius",
+    "match": "Lea Vogelius vs Kristine Mauritzen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Jon Eriksson",
+    "match": "Lea Vogelius vs Jon Eriksson",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Lea Vogelius",
+    "loser": "Victor Melchior",
+    "match": "Lea Vogelius vs Victor Melchior",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Jan Ølholm Mortensen",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Jan Ølholm Mortensen",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Patryk Zbroja",
+    "loser": "Mo Abbasi",
+    "match": "Patryk Zbroja vs Mo Abbasi",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Patryk Zbroja",
+    "loser": "Lennard Bal",
+    "match": "Patryk Zbroja vs Lennard Bal",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Matias William Rossing",
+    "loser": "Patryk Zbroja",
+    "match": "Patryk Zbroja vs Matias William Rossing",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Patryk Zbroja",
+    "loser": "Simon Nordbjærg",
+    "match": "Patryk Zbroja vs Simon Nordbjærg",
+    "race": 0
+  },
+  {
+    "regatta": "KDY March Madness",
+    "phase": "round-robin",
+    "winner": "Patryk Zbroja",
+    "loser": "Morten Munch",
+    "match": "Patryk Zbroja vs Morten Munch",
+    "race": 0
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "final",
+    "winner": "Robby Boyd",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Robby Boyd",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "final",
+    "winner": "Nick Devereux",
+    "loser": "Robby Boyd",
+    "match": "Nick Devereux vs Robby Boyd",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "final",
+    "winner": "Robby Boyd",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Robby Boyd",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "petit-final",
+    "winner": "Ted Blowers",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Ted Blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "semi-final-1",
+    "winner": "Robby Boyd",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Robby Boyd",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "semi-final-1",
+    "winner": "Robby Boyd",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Robby Boyd",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Nick Devereux",
+    "loser": "Ted Blowers",
+    "match": "Nick Devereux vs Ted Blowers",
+    "race": 1
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Ted Blowers",
+    "loser": "Nick Devereux",
+    "match": "Nick Devereux vs Ted Blowers",
+    "race": 2
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "semi-final-2",
+    "winner": "Nick Devereux",
+    "loser": "Ted Blowers",
+    "match": "Nick Devereux vs Ted Blowers",
+    "race": 3
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Robby Boyd",
+    "match": "Ted Blowers vs Robby Boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Niamh Davies",
+    "match": "Ted Blowers vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Nick Devereux",
+    "match": "Ted Blowers vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Robby Boyd",
+    "loser": "Niamh Davies",
+    "match": "Robby Boyd vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Robby Boyd",
+    "loser": "Nick Devereux",
+    "match": "Robby Boyd vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Niamh Davies",
+    "loser": "Nick Devereux",
+    "match": "Niamh Davies vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Ted Blowers",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Robby Boyd",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Robby Boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Niamh Davies",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-2",
+    "winner": "Nick Devereux",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Ted Blowers",
+    "loser": "Robby Boyd",
+    "match": "Ted Blowers vs Robby Boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Niamh Davies",
+    "loser": "Ted Blowers",
+    "match": "Ted Blowers vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Ted Blowers",
+    "loser": "Nick Devereux",
+    "match": "Ted Blowers vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Robby Boyd",
+    "loser": "Niamh Davies",
+    "match": "Robby Boyd vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Robby Boyd",
+    "loser": "Nick Devereux",
+    "match": "Robby Boyd vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Nick Devereux",
+    "loser": "Niamh Davies",
+    "match": "Niamh Davies vs Nick Devereux",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Ted Blowers",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Ted Blowers",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Robby Boyd",
+    "loser": "Theo Phillips",
+    "match": "Theo Phillips vs Robby Boyd",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Theo Phillips",
+    "loser": "Niamh Davies",
+    "match": "Theo Phillips vs Niamh Davies",
+    "race": 0
+  },
+  {
+    "regatta": "RYA National Match Racing - Qualifier 2",
+    "phase": "round-robin-1",
+    "winner": "Theo Phillips",
+    "loser": "Nick Devereux",
+    "match": "Theo Phillips vs Nick Devereux",
+    "race": 0
+  }
+]
