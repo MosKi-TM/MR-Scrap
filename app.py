@@ -12,7 +12,13 @@ st.title("🏆 Skipper Stats & Leaderboard")
 menu = st.sidebar.selectbox("Menu", ["🔍 Rechercher un skipper", "📊 Leaderboard"])
 
 if menu == "🔍 Rechercher un skipper":
-    skipper = st.text_input("Nom du skipper", "Simon Bertheau").lower().strip()
+    # Extraire tous les noms de skippers uniques
+    all_skippers = pd.unique(df[['winner', 'loser']].values.ravel())
+    all_skippers = sorted(set(all_skippers))  # tri et suppression des doublons
+
+    # Sélecteur avec recherche
+    skipper = st.selectbox("Choisir un skipper", all_skippers)
+    skipper = skipper.lower().strip()
 
     if skipper:
         matches = df[(df['winner'].str.lower() == skipper) | (df['loser'].str.lower() == skipper)]
