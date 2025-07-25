@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from collections import defaultdict
-import plotly.graph_objects as go
 st.set_page_config(page_title="Matchracing Result Tracker",layout="wide")
 # Chargement des données
 df = pd.read_json('all_match_results.json')
