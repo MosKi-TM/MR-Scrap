@@ -12,7 +12,7 @@ st.title("🏆 Skipper Stats & Leaderboard")
 menu = st.sidebar.selectbox("Menu", ["🔍 Rechercher un skipper", "📊 Leaderboard"])
 
 if menu == "🔍 Rechercher un skipper":
-    skipper = st.text_input("Nom du skipper", "Simon Bertheau").lower()
+    skipper = st.text_input("Nom du skipper", "Simon Bertheau").lower().strip()
 
     if skipper:
         matches = df[(df['winner'].str.lower() == skipper) | (df['loser'].str.lower() == skipper)]
