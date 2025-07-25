@@ -56,7 +56,7 @@ if menu == "🔍 Rechercher un skipper":
 
             with col3:
                 st.metric("👑 Phase Finale Winrate", f"{final_winrate:.2%}", delta=None)
-
+                st.metric("⌛ Temps passé en prédépart", f"entre {round(global_total*7/60)}h et {round(global_total*12/60)}h", delta=None)
             
 
 
